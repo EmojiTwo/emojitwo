@@ -1,49 +1,31 @@
 ![EmojiOne Logo](http://git.emojione.com/assets/logo.png)
 
-#### \*PLEASE NOTE\*
-The following is related to an older, unsupported version of the EmojiOne emoji artwork (v2.x). They are still available under their old terms, which can be found below.
+Version 2.x is no longer supported by EmojiOne. Some people prefer the flat cartoon design and the FOSS license with actual access to the SVG sources.
 
-# EmojiOne [![Build Status](https://travis-ci.org/Ranks/emojione.svg?branch=master)](https://travis-ci.org/Ranks/emojione)
-_bringing you [emojione.com](http://emojione.com/) & [emoji.codes](http://emoji.codes/)_
+# EmojiTwo 
 
-The web's first and only complete open source emoji set. It is 100% free and super easy to integrate.
+The artwork of the second generation of the web's first complete open source emoji set. It is and will stay 100% free.
 
+## Differences between EmojiTwo and EmojiOne 2.x
 
+* EmojiTwo is restricted to the artwork, i.e. image files.
+* EmojiOne shall eventually include graphics for new emojis:
+  - Characters defined in the Unicode Standard 10.0 (June 2017) and later.
+  - Sequences documented in Unicode Emoji 5.0 (March 2017) and later (UTS#51), e.g. flags.
+  - Characters extended in Unicode Emoji 6.0 and later (UTS#51).
+  - Existing Unicode characters without the `Emoji` property.
+  - Custom sequences or alternatives.
 
-## The Idea
+As of April 2017, EmojiTwo does not yet contain any additional artwork.
 
-To standardize emoji on the web through the use of common :shortnames:.
-
-When storing user inputted text in your database, say from a guestbook or through a CMS admin, it is recommended that you store text containing only :shortnames: and not Unicode emoji characters or emoji images. Then, when you are displaying that content to the user, you can convert it server-side with the PHP toolkit provided, or client-side using the Javascript toolkit which is also provided. Demos of this process using Javascript, jQuery, and PHP are included in the repo, and we have example code snippets below.
-
-
-#### _What are Shortnames?_
-
- Shortnames are semi-standardized human-readable identifiers for each emoji icon. Many online web applications will accept these shortnames as alternatives for the actual unicode character. We've compiled the full list over at [emoji.codes](http://emoji.codes/) with quick copy & search functions.
-
-
-## Licenses
-
-### EmojiOne Artwork
+## EmojiOne 2.x Artwork License
 
 *  Applies to all PNG and SVG files as well as any adaptations made.
-*  The following applies to artwork included in EmojiOne GitHub libraries versions < 2.0.0.
-    *  License: Creative Commons Attribution-ShareAlike 4.0 International
-    *  Human Readable License: http://creativecommons.org/licenses/by-sa/4.0/
-    *  Complete Legal Terms: http://creativecommons.org/licenses/by-sa/4.0/legalcode
-*  The following applies to artwork included in EmojiOne GitHub libraries versions >= 2.0.0 and < 3.0.0.
     *  License: Creative Commons Attribution 4.0 International
     *  Human Readable License: http://creativecommons.org/licenses/by/4.0/
     *  Complete Legal Terms: http://creativecommons.org/licenses/by/4.0/legalcode
   
-### EmojiOne Non-Artwork
-
-*  Applies to: Javascript, JSON, PHP, CSS, HTML files, and everything else not covered under the artwork license above.
-*  License: MIT
-*  Complete Legal Terms: http://opensource.org/licenses/MIT
-
-
-## EmojiOne Artwork Attribution
+### EmojiOne Artwork Attribution
 
 In general, proper attribution/credit must be given on every web page, app, or video description where our emojis are displayed. More specific information for each category can be found below.
 
@@ -67,7 +49,7 @@ Must contain:
 - Our name (EmojiOne)
 - A link to our website
     - https://www.emojione.com
-- The title and a link to our Creative Commons license
+- The title and a link to the Creative Commons license
     - Creative Commons Attribution International 4.0 (CC-BY 4.0)
     - https://creativecommons.org/licenses/by/4.0/legalcode
 
@@ -77,7 +59,9 @@ Also helpful:
 
 ### Ideal Attribution
 
-> Emoji artwork is provided by [EmojiOne](https://www.emojione.com) and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+> Emoji artwork is provided by [EmojiOne](https://www.emojione.com)
+> with contributions from the EmojiTwo community
+> and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Attribution Location
 
@@ -101,182 +85,15 @@ Also helpful:
     - On-screen in credits
     - Social media
 
-
-## Installation
-
-We've teamed up with [JSDelivr](http://www.jsdelivr.com/#!emojione) to provide a simple way to install these emoji on any javascript-enabled website. Add the following script and stylesheet links to the head of your webpage:
-
-```
-<script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/emojione/2.2.7/assets/css/emojione.min.css"/>
-```
-
-Alternatively, CDNjs is also available as a [CDN Host for EmojiOne](https://cdnjs.com/libraries/emojione).
-
-Quick installs can also be done using NPM and Bower (for the Javascript toolkit) or Composer (for the PHP toolkit).
-
-#### NPM
-```
-> npm install emojione
-```
-
-#### Bower
-```
-> bower install emojione
-```
-
-
-#### Composer
-```
-$ composer require emojione/emojione
-```
-
-#### Meteor
-```
-meteor add emojione:emojione
-```
-
-
-## Usage Examples
-
-Below there are some examples of how you will actually use the libraries to convert Unicode emoji characters to :shortnames: and :shortnames: to emoji images.
-
-
-### Javascript Conversion
-
-
-**[.toShort\(str\)](http://git.emojione.com/demos/latest/jstoshort.html)** - _native unicode -> shortnames_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it to their corresponding shortnames. (we recommend this for database storage)
-
-**[.shortnameToImage\(str\)](http://git.emojione.com/demos/latest/jsshortnametoimage.html)** - _shortname -> images_
-
-This demo shows you how to take input containing only shortnames and translate it directly to EmojiOne images. (when displaying the unified input to clients)
-
-**[.unicodeToImage\(str\)](http://git.emojione.com/demos/latest/jsunicodetoimage.html)** - _native unicode -> images_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it directly to EmojiOne images. (would be great for a live editor preview)
-
-**[.toImage\(str\)](http://git.emojione.com/demos/latest/jstoimage.html)** - _native unicode + shortnames -> images (mixed input)_
-
-This demo shows you how to take input containing both native unicode emoji and shortnames, and translate it into EmojiOne images for display.
-
-
-### PHP Conversion
-
-##### As of version 1.4.1 this library syntax has changed.
-
-**[toShort\($str\)](http://git.emojione.com/demos/latest/phptoshort.php)** - _native unicode -> shortnames_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it to their corresponding shortnames. (we recommend this for database storage)
-
-**[shortnameToImage\($str\)](http://git.emojione.com/demos/latest/phpshortnametoimage.php)** - _shortname -> images_
-
-This demo shows you how to take input containing only shortnames and translate it directly to EmojiOne images. (when displaying the unified input to clients)
-
-**[unicodeToImage\($str\)](http://git.emojione.com/demos/latest/phpunicodetoimage.php)** - _native unicode -> images_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it directly to EmojiOne images. (would be great for a live editor preview)
-
-**[toImage\($str\)](http://git.emojione.com/demos/latest/phptoimage.php)** - _native unicode + shortnames -> images (mixed input)_
-
-This demo shows you how to take input containing both native unicode emoji and shortnames, and translate it into EmojiOne images for display.
-
-
-##### Note: As of version 1.4.1 the following implementation has been deprecated. It's included in the library for backwards compatibility but will be removed at a later date.
-
-**[::toShort\($str\)](http://git.emojione.com/demos/1.4.0/phptoshort.php)** - _native unicode -> shortnames_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it to their corresponding shortnames. (we recommend this for database storage)
-
-**[::shortnameToImage\($str\)](http://git.emojione.com/demos/1.4.0/phpshortnametoimage.php)** - _shortname -> images_
-
-This demo shows you how to take input containing only shortnames and translate it directly to EmojiOne images. (when displaying the unified input to clients)
-
-**[::unicodeToImage\($str\)](http://git.emojione.com/demos/1.4.0/phpunicodetoimage.php)** - _native unicode -> images_
-
-This demo shows you how to take native unicode emoji input, such as that from your mobile device, and translate it directly to EmojiOne images. (would be great for a live editor preview)
-
-**[::toImage\($str\)](http://git.emojione.com/demos/1.4.0/phptoimage.php)** - _native unicode + shortnames -> images (mixed input)_
-
-This demo shows you how to take input containing both native unicode emoji and shortnames, and translate it into EmojiOne images for display.
-
-### Meteor Conversion
-
-#### Template helpers
-
-```handlebars
-My emoji {{> emojione ':beers:'}} text.
-```
-
-Or
-
-```handlebars
-{{#emojione}}My emoji :beers: text.{{/emojione}}
-```
-
-### Swift Conversion
-
-```swift
-Emojione.transform(string: "Rocket.Chat: :rocket:")
-```
-
-### Extras
-
-**[shortnameToUnicode(str)](http://git.emojione.com/demos/latest/shortnametounicode.html)**
-
-Change from shortnames to native unicode emoji.
-
-**[Shortname Autocomplete](http://git.emojione.com/demos/latest/autocomplete.html)**
-
-Easily add shortname autocomplete functionality to any text input on your page.
-
-**[ASCII Smiley Conversion](http://git.emojione.com/demos/latest/ascii-smileys.html)**
-
-With one quick step you can start converting common ASCII smileys to their corresponding images.
-
-**[Alternate Alt Tags](http://git.emojione.com/demos/latest/alternate-alt-tags.html)**
-
-Change from the native unicode emoji in the resulting alt tags to their shortnames instead.
-
-**[Live Preview Box](http://git.emojione.com/demos/latest/live-preview.html)**
-
-Display converted Emoji in a preview box as the user is typing.
-
-**[Conversion HTML Class](http://git.emojione.com/demos/latest/class-convert.html)**
-
-Stick a class of .emojione-convert on any HTML element and automatically convert native unicode emoji and/or shortnames to images after page load.
-
-**[Convert on Form Submission](http://git.emojione.com/demos/latest/convert-on-submit.html)**
-
-Converts unicode input to shortnames once the user submits the form.
-
-**[Sprites (PNG)](http://git.emojione.com/demos/latest/sprites-png.html)**
-
-With an additional CSS file you can use EmojiOne as resizable PNG sprites (up to 64x64).
-
-**[Sprites (SVG)](http://git.emojione.com/demos/latest/sprites-svg.html)**
-
-This sprite method requires no extra CSS, and is infinitely resizable.
-
-
-## Other Considerations
-### Character Encoding &mdash; UTF-8
-
-If you're getting serious about implementing emoji into your website, you will want to consider your web stack's character encoding. You should make sure that all connection points are using the same encoding. There are a lot of options and configuration possibilities here, so you'll have to figure what works best for your own situation. 
-
-A quick Google search will bring up a lot of information on how to get your entire web stack to use UTF-8, which is needed to properly handle Unicode emoji.
-
-To get you started, here's a nice guide: [UTF-8: The Secret of Character Encoding](http://htmlpurifier.org/docs/enduser-utf8.html).
-
 ## Information
 
 ### Bug reports
 
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.
 
+ *  https://github.com/Crissov/emojitwo/issues
+ *  https://github.com/Ranks/emojione-assets/issues
  *  https://github.com/Ranks/emojione/issues
-
 
 ### Contact
 
@@ -291,11 +108,6 @@ If you have any questions, comments, or concerns you are welcome to contact us.
 ### Alternatives
 We sincerely hope that you choose to use EmojiOne and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
 
-* https://github.com/hassankhan/emojify.js
-* https://github.com/Genshin/PhantomOpenEmoji
-* https://github.com/iamcal/php-emoji
-* https://github.com/node-modules/emoji
-* https://github.com/steveklabnik/emoji
-* https://github.com/rockerhieu/emojicon
-* https://github.com/HenrikJoreteg/emoji-images
-* https://github.com/frissdiegurke/emoji-parser
+* [Twitter Twemoji](https://github.com/twitter/twemoji/) (CC-BY-4.0)
+* [Google Noto Emoji](https://github.com/googlei18n/noto-emoji/) (Apache License 2.0)
+* [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors) ([(PNG)](https://github.com/emojidex/emojidex-rasters))
