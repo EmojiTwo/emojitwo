@@ -1,4 +1,7 @@
+# Emojione
+
 Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.com). 
+Version 3 has a slightly different design and new, more restrictive licensing terms.
 Some people prefer the flat cartoon design and the FOSS license with actual access to the SVG sources.
 
 # EmojiTwo 
