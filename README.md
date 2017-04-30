@@ -7,28 +7,51 @@ The artwork of the second generation of the web's first complete open source emo
 
 ## Differences between Emojitwo and Emojione 2.x
 
-* Emojitwo is restricted to the artwork, i.e. image files.
-  SVG is its native format, everything else is derived from that.
-* Emojitwo shall eventually include graphics for new emojis:
-  - Characters defined in the Unicode Standard 10.0 (June 2017) and later.
-  - Sequences documented in Unicode Emoji 5.0 (March 2017) and later (UTS#51), e.g. flags.
-  - Characters extended in Unicode Emoji 6.0 and later (UTS#51).
-  - Existing Unicode characters without the `Emoji` property.
-  - Custom sequences or alternatives.
+Emojitwo is restricted to the artwork, i.e. image files.
+SVG is its native format. Everything else is derived from that.
 
-As of its initial release in April 2017, Emojitwo does not yet contain any additional artwork.
+As of its initial release in April 2017, Emojitwo did not contain any additional artwork.
+
+### Additions
+
++ Unicode 9 beta emojis Rifle and Modern Penthatlon have been resurrected.
+
+### Changes
+
+* Documentation has been updated to
+  1. encourage contributions to the artwork,
+  2. use _Emoji Two_ instead of _Emoji One_ where appropriate.
+
+### Removals
+
+- All programming libraries have been removed. Reusable meta data files will remain.
+
+### Plans
+
+Emojitwo shall eventually include graphics for new emojis:
+
+  - Characters defined in the [Unicode Standard 10.0]() (June 2017) and later.
+  - Sequences documented in [Unicode Emoji 5.0](http://www.unicode.org/reports/tr51/tr51-11.html) (March 2017) and later (UTR#51), e.g. flags.
+  - Characters extended in [Unicode Emoji 6.0](http://www.unicode.org/reports/tr51/proposed.html) and later (UTS#51).
+  - Existing Unicode characters without the `Emoji` property, especially to match other vendors (especially Microsoft and Samsung).
+  - Custom sequences and alternatives, especially those supported by other vendors.
+
+Emojitwo shall adopt a more restricted color palette. Actual changes will be subtle and barely noticable. This will affect flags.
 
 ## Emojione 2.x Artwork License
 
 *  Applies to all PNG and SVG files as well as any adaptations made.
-    *  License: Creative Commons Attribution 4.0 International
+    *  [License](LICENSE.md): Creative Commons Attribution 4.0 International
     *  Human Readable License: http://creativecommons.org/licenses/by/4.0/
     *  Complete Legal Terms: http://creativecommons.org/licenses/by/4.0/legalcode
   
-### EmojiOne Artwork Attribution
+### Emojione Artwork Attribution
 
-In general, proper attribution/credit must be given on every web page, app, or video description where our emojis are displayed. 
-More specific information for each category can be found below.
+With the release of version 3.0, the Emojione project also made changes to 2.2.7’s licensing. 
+[Previously](https://web-beta.archive.org/web/20170327003706/http://emojione.com/licensing/#attribution), Emojione did not require attribution for non-commercial and personal use. Considering that the Emojione project only changed the documentation in that branch to mandate attribution in any case, Emojitwo forked a state before those changes for greater flexibility.
+
+For **non-commercial** and **personal use**, you *should* credit the creators. 
+For **commercial use**, proper attribution *must* be given on every web page, app, or video description where our emojis are displayed. 
 
 ### Creative Commons Requirements
 
@@ -47,7 +70,7 @@ In section 3(a)(1) of the CC-BY 4.0 legal terms, it lists the following as the g
 ### Proper Attribution Examples
 
 Must contain:
-- The original name _Emojione_ and the forked name _Emojitwo_.
+- The original name _Emojione_ (or _Emoji One_) and the forked name _Emojitwo_ (or _Emoji Two_).
 - Links to the repository and Ranks.com's website
     - https://github.com/Crissov/emojitwo/ or https://crissov.github.io/emojitwo/
     - https://www.emojione.com
@@ -69,25 +92,25 @@ Also helpful:
 
 ### Attribution Location
 
-#### Apps:
-- A note/link in the app store description is required.
-- Other links/praise are much appreciated:
-    - App settings
-    - Official app website
-    - Social media
+#### Apps
+- A note with link in the *app store description* is required.
+- Other links and praise are much appreciated:
+    - app settings
+    - official app website
+    - social media
     
-#### Websites:
-- A note/link on every web page where our emojis are displayed is required.
-- Other links/praise are much appreciated:
-    - Main homepage
-    - Social media
+#### Websites
+- A note with link on *every web page* where our emojis are displayed is required.
+- Other links and praise are much appreciated:
+    - main homepage
+    - social media
     
-#### Web Videos:
-- A note/link in the video description is required.
-- Other links/praise are much appreciated:
-    - On-screen when emojis are displayed
-    - On-screen in credits
-    - Social media
+#### Web Videos
+- A note with link in the *video description* is required.
+- Other links and praise are much appreciated:
+    - on-screen when emojis are displayed
+    - on-screen in credits
+    - social media
 
 ## Information
 
