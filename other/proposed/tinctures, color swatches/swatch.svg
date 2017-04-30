@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--	width="64" height="64" viewBox="0 0 64 64">
+-->
+  <defs>
+	<pattern id="Triangle" width="10" height="10" patternUnits="userSpaceOnUse">
+		<polygon points="5,0 10,10 0,10"/>
+	</pattern>
+	<pattern id="LargeCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+		<circle cx="5" cy="5" r="5"/>
+	</pattern>
+	<pattern id="MediumCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+		<circle cx="5" cy="5" r="4"/>
+	</pattern>
+	<pattern id="SmallCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+		<circle cx="5" cy="5" r="3"/>
+	</pattern>
+	<pattern id="TinyCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+		<circle cx="5" cy="5" r="2" fill="#F5CE3E"/>
+	</pattern>
+	<pattern id="Dot" width="10" height="10" patternUnits="userSpaceOnUse" fill="yellow">
+		<circle cx="5" cy="5" r="1"/>
+	</pattern>
+	<pattern id="Dots" width="10" height="10" patternUnits="userSpaceOnUse" fill="yellow">
+		<circle cx="2.5" cy="1" r="1"/>
+		<circle cx="2.5" cy="6" r="1"/>
+		<circle cx="7.5" cy="3.5" r="1"/>
+		<circle cx="7.5" cy="8.5" r="1"/>
+	</pattern>
+	<pattern id="VerticalLine" width="7" height="10" patternUnits="userSpaceOnUse" stroke="red">
+		<line x1="1" y1="0" x2="1" y2="10" stroke-width="1"/>
+	</pattern>
+	<pattern id="HorizontalLine" width="10" height="7" patternUnits="userSpaceOnUse" stroke="blue">
+		<line x1="0" y1="1" x2="10" y2="1" stroke-width="1"/>
+	</pattern>
+	<pattern id="SquarePattern" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+		<line x1="1" y1="0" x2="1" y2="10" stroke-width="1"/>
+		<line x1="0" y1="1" x2="10" y2="1" stroke-width="1"/>
+		<line x1="6" y1="0" x2="6" y2="10" stroke-width="1"/>
+		<line x1="0" y1="6" x2="10" y2="6" stroke-width="1"/>
+	</pattern>
+	<pattern id="ForwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="purple">
+		<line x1="-1" y1="10" x2="10" y2="-1" stroke-width="1"/>
+		<line x1="8" y1="11" x2="11" y2="8" stroke-width="1"/>
+	</pattern>
+	<pattern id="BackwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="green">
+		<line x1="-1" y1="0" x2="10" y2="11" stroke-width="1"/>
+		<line x1="8" y1="-1" x2="11" y2="2" stroke-width="1"/>
+	</pattern>
+	<pattern id="DiamondPattern" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+		<line x1="0" y1="0" x2="10" y2="10" stroke-width="1"/>
+		<line x1="0" y1="10" x2="10" y2="0" stroke-width="1"/>
+	</pattern>
+	<pattern id="PolyLine" width="10" height="10" patternUnits="userSpaceOnUse">
+		<polyline
+			points="0,0 0,2 2,2 2,4 4,4 4,6 6,6 6,8"
+			fill="white" stroke="currentColor" stroke-width="1" />
+	</pattern>
+
+	<pattern id="Or"      xlink:href="#Dots"           stroke="#F5CE3E"/><!--yellow Wikicommons: #FFD200, Emojione: #F5CE3E-->
+	<pattern id="Vert"    xlink:href="#BackwardLine"   stroke="#85E845"/><!--green  Wikicommons: #009A3D, Emojione: #85E845-->
+	<pattern id="Argent"  xlink:href="#Empty"          stroke="#F5F5F5"/><!--white  Wikicommons: #FFFFFF, Emojione: #D0D0D0/#F5F5F5-->
+	<pattern id="Azure"   xlink:href="#HorizontalLine" stroke="#0071BC"/><!--blue   Wikicommons: #0039A6, Emojione: #66CAF2/#0071BC-->
+	<pattern id="Gules"   xlink:href="#VerticalLine"   stroke="#FF5A79"/><!--red    Wikicommons: #dc281e, Emojione: #FF5A79/#ED4C5C-->
+	<pattern id="Sable"   xlink:href="#SquarePattern"  stroke="#3E4347"/><!--black  Wikicommons: #000000, Emojione: #3E4347/#333333-->
+	<pattern id="Purpure" xlink:href="#ForwardLine"    stroke="#C28FEF"/><!--purple Wikicommons: #B60A9B, Emojione: #C28FEF-->
+	
+    <line id="Dashed"          stroke-dasharray="5, 5"          x1="10" y1="10" x2="190" y2="10" />
+    <line id="LooselyDashed"   stroke-dasharray="5, 10"         x1="10" y1="30" x2="190" y2="30" />
+    <line id="LonglyDashed"    stroke-dasharray="10, 5"         x1="10" y1="50" x2="190" y2="50" />
+    <line id="CloselyDashed"   stroke-dasharray="5, 1"          x1="10" y1="70" x2="190" y2="70" />
+    <line id="Dotted"          stroke-dasharray="1, 5"          x1="10" y1="90" x2="190" y2="90" />
+    <line id="LongShortDashed" stroke-dasharray="15, 10, 5, 10" x1="10" y1="150" x2="190" y2="150" />
+    <line id="DashDotted"      stroke-dasharray="5, 5, 1, 5"    x1="10" y1="190" x2="190" y2="190" />
+	
+	<rect id="Box" x="2" y="2" width="60" height="60" stroke="inherit"/>
+	<circle id="Disc" cx="32" cy="32" r="30" stroke="inherit"/>
+	<polygon id="Diamond" points="2,32 32,2 62,32 32,62"/>
+  </defs>
+
+<!--
+  <circle cx="32" cy="32" r="30" fill="url(#Triangle)"/>
+  <circle cx="32" cy="32" r="30" fill="url(#LargeCircle)"/>
+  <circle cx="32" cy="32" r="30" fill="url(#MediumCircle)"/>
+  <circle cx="32" cy="32" r="30" fill="url(#SmallCircle)"/>
+  <circle cx="32" cy="32" r="30" fill="url(#TinyCircle)"/>
+  <circle cx="32" cy="32" r="30" fill="url(#Dot)"/>
+  <use xlink:href="#Circle" fill="url(#Dot)"/>
+-->
+<g transform="scale(2)">
+	<rect width="128" height="128" fill="#F5F5F5"/>
+	<use x="0"  y="0"  xlink:href="#Disc" fill="url(#Purpure)" stroke="purple"/>
+	<use x="64" y="0"  xlink:href="#Box" fill="url(#Vert)" stroke="green"/>
+	<use x="64" y="64" xlink:href="#Disc" fill="url(#Gules)" stroke="red"/>
+	<use x="0"  y="64" xlink:href="#Diamond" fill="url(#Azure)" stroke="blue"/>
+	<use x="32" y="32" xlink:href="#Disc" fill="url(#Or)" stroke="yellow"/>
+</g>
+</svg>
