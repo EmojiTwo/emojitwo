@@ -136,6 +136,8 @@ If you have any questions, comments, or concerns you are welcome to contact the 
 ### Alternatives
 We sincerely hope that you choose to use Emojitwo and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
 
-* [Twitter Twemoji](https://github.com/twitter/twemoji/) (CC-BY-4.0)
-* [Google Noto Emoji](https://github.com/googlei18n/noto-emoji/) (Apache License 2.0)
-* [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors) [(PNG)](https://github.com/emojidex/emojidex-rasters)
+* [Emojione 1.5.2 (SVG/PNG)](/Ranks/emojione-legacy/) (CC-BY-4.0)
+* [Emojione 3.0 (PNG)](/Ranks/emojione-legacy/) (CC-BY-4.0)
+* [Twitter Twemoji (SVG/PNG)](/twitter/twemoji/) (CC-BY-4.0)
+* [Google Noto Emoji (SVG/PNG)](/googlei18n/noto-emoji/) (Apache License 2.0)
+* [Emojidex (SVG)](/emojidex/emojidex-vectors)/[(PNG)](https://github.com/emojidex/emojidex-rasters) (custom license)
