@@ -122,6 +122,7 @@ Also helpful:
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.
 
  *  https://github.com/Crissov/emojitwo/issues
+ *  https://github.com/EmojiTwo/emojitwo/issues
  *  https://github.com/Ranks/emojione-assets/issues
  *  https://github.com/Ranks/emojione/issues
 
@@ -133,8 +134,8 @@ If you have any questions, comments, or concerns you are welcome to contact the 
 * https://twitter.com/informoji
 
 ### Alternatives
-We sincerely hope that you choose to use EmojiOne and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
+We sincerely hope that you choose to use Emojitwo and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
 
 * [Twitter Twemoji](https://github.com/twitter/twemoji/) (CC-BY-4.0)
 * [Google Noto Emoji](https://github.com/googlei18n/noto-emoji/) (Apache License 2.0)
-* [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors) ([(PNG)](https://github.com/emojidex/emojidex-rasters))
+* [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors) [(PNG)](https://github.com/emojidex/emojidex-rasters)
