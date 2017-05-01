@@ -75,7 +75,7 @@ In section 3(a)(1) of the CC-BY 4.0 legal terms, it lists the following as the g
 Must contain:
 - The original name _Emojione_ (or _Emoji One_) and the forked name _Emojitwo_ (or _Emoji Two_).
 - Links to the repository and Ranks.com's website
-    - https://github.com/Crissov/emojitwo/ or https://crissov.github.io/emojitwo/
+    - https://github.com/EmojiTwo/emojitwo/ or https://emojitwo.github.io/emojitwo/
     - https://www.emojione.com
 - The title and a link to the Creative Commons license
     - Creative Commons Attribution International 4.0 (CC-BY 4.0)
@@ -88,7 +88,7 @@ Also helpful:
 
 ### Ideal Attribution
 
-> Emoji artwork is provided by [Emojitwo](https://crissov.github.io/emojitwo/), 
+> Emoji artwork is provided by [Emojitwo](https://emojitwo.github.io/), 
 > originally released as [Emojione 2.2](https://www.emojione.com) by [Ranks.com](http://www.ranks.com)
 > with contributions from the Emojitwo community
 > and is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
@@ -121,7 +121,6 @@ Also helpful:
 
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.
 
- *  https://github.com/Crissov/emojitwo/issues
  *  https://github.com/EmojiTwo/emojitwo/issues
  *  https://github.com/Ranks/emojione-assets/issues
  *  https://github.com/Ranks/emojione/issues
