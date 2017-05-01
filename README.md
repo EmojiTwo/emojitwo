@@ -130,8 +130,8 @@ If you discover any bugs, feel free to create an issue on GitHub. We also welcom
 
 If you have any questions, comments, or concerns you are welcome to contact the major contributors directly.
 
-* [Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Ranks/emojione?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 * https://twitter.com/informoji
+* [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Ranks/emojione?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### Alternatives
 We sincerely hope that you choose to use Emojitwo and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
