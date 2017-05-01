@@ -15,7 +15,7 @@
 	"emojitwo",
 	"EmojiTwo"
   ],
-  "homepage": "https://crissov.github.io/emojitwo/",
+  "homepage": "https://emojitwo.github.io/",
   "license": "CC-BY-4.0",
   "suggest": {
     "emojione/assets": "More up-to-date emoji set with a more restrictive license and without SVGs.",

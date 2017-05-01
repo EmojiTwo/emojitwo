@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crissov/emojitwo.git"
+    "url": "git+https://github.com/EmojiTwo/emojitwo.git"
   },
   "license": "CC-BY-4.0, see LICENSE.md",
   "bugs": {
-    "url": "https://github.com/Crissov/emojitwo/issues"
+    "url": "https://github.com/EmojiTwo/emojitwo/issues"
   },
-  "homepage": "https//crissov.github.io/emojitwo/"
+  "homepage": "https//emojitwo.github.io/"
 }
