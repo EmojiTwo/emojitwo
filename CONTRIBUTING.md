@@ -1,5 +1,13 @@
 ## How to contribute to the Emoji Two library
 
+### Help wanted!
+1. If you want to contribute your creative skills, but have no idea which emoji you should be drawing, check the issues for missing characters to complete milestones, e.g. [Unicode 10.0](/EmojiTwo/emojitwo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Unicode+10.0%22) or [Emoji 5.0](/EmojiTwo/emojitwo/issues?q=is%3Aopen+is%3Aissue+milestone%3A%22Emoji+5.0%22).
+2. Assign yourself to any emoji you are planning to create.
+3. Fork the project.
+4. Create the SVG graphics in the respective branch (e.g. `unicode10` or `emoji5`) or a dedicated local branch (e.g. `u1f9ff`).
+5. When you are finished or want feedback, open a pull request. Please select the correct remote branch and mention the issue number(s) of the emoji(s) affected.
+6. Get praised. 🎉 💛
+
 ### Bugs
 * Check the [current issues](/EmojiTwo/emojitwo/issues/) to be sure the bug has not already been reported.
 * If you have written a patch for the bug submit a [pull request](/EmojiTwo/emojitwo/pulls) including your patch.
