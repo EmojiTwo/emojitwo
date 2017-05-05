@@ -21,9 +21,7 @@
   },
   "suggest": {
     "emojione/assets": "More up-to-date emoji set with a more restrictive license and without SVGs.",
-    "emojione/emojione": "A set of libraries to make using emoji on your websites easier.",
-    "twemoji": "Alternate set of AI/SVG/PNG emoji graphics, including a JS library A Unicode standard based way to implement emoji across all platforms.",
-    "google/noto-emoji": "Alternate set of AI/SVG/PNG emoji graphics, including a JS library.",
-    "twitter/twemoji": "Alternate set of AI/SVG/PNG emoji graphics, including a JS library.",
+    "emojione/emojione": "A set of libraries to make using emoji on your websites easier.", 
+    "iamcal/php-emoji": "Uses iamcal/emoji-data to display emojis from most major vendors."
   }
 }
