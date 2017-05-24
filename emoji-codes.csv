@@ -1,0 +1,723 @@
+,hexcode,decimal,Unicode name,CLDR English name,major shortname,localsrc, char
+0023-20e3,35,hash key, , ,sharp,#⃣
+0030-20e3,48,keycap 0, , ,0square,0⃣
+0031-20e3,49,keycap 1, , ,1square,1⃣
+0032-20e3,50,keycap 2, , ,2square,2⃣
+0033-20e3,51,keycap 3, , ,3square,3⃣
+0034-20e3,52,keycap 4, , ,4square,4⃣
+0035-20e3,53,keycap 5, , ,5square,5⃣
+0036-20e3,54,keycap 6, , ,6square,6⃣
+0037-20e3,55,keycap 7, , ,7square,7⃣
+0038-20e3,56,keycap 8, , ,8square,8⃣
+0039-20e3,57,keycap 9, , ,9square,9⃣
+00a9,169,copyright sign, , ,copyright,©
+00ae,174,registered sign, , ,registered,®
+1f004,126980,mahjong tile red dragon, , ,mahjongg,🀄
+1f0cf,127183,playing card black joker, , ,joker,🃏
+1f170,127344,negative squared latin capital letter a, , ,blooda,🅰
+1f171,127345,negative squared latin capital letter b, , ,bloodb,🅱
+1f17e,127358,negative squared latin capital letter o, , ,bloodo,🅾
+1f17f,127359,negative squared latin capital letter p, , ,parking,🅿
+1f18e,127374,negative squared ab, , ,bloodab,🆎
+1f191,127377,squared cl, , ,clear,🆑
+1f192,127378,squared cool, , ,cool,🆒
+1f193,127379,squared free, , ,freesign,🆓
+1f194,127380,squared id, , ,mark3,🆔
+1f195,127381,squared new, , ,new,🆕
+1f196,127382,squared ng, , ,,🆖
+1f197,127383,squared ok, , ,okay,🆗
+1f198,127384,squared sos, , ,sos,🆘
+1f199,127385,squared up with exclamation mark, , ,up,🆙
+1f19a,127386,squared vs, , ,vs,🆚
+1f1e8-1f1f3,127464,regional indicator symbol letters cn, , ,china,🇨🇳
+1f1e9-1f1ea,127465,regional indicator symbol letters de, , ,germany,🇩🇪
+1f1ea-1f1f8,127466,regional indicator symbol letters es, , ,spain,🇪🇸
+1f1eb-1f1f7,127467,regional indicator symbol letters fr, , ,france,🇫🇷
+1f1ec-1f1e7,127468,regional indicator symbol letters gb, , ,england,🇬🇧
+1f1ee-1f1f9,127470,regional indicator symbol letters it, , ,italy,🇮🇹
+1f1ef-1f1f5,127471,regional indicator symbol letters jp, , ,flag,🇯🇵
+1f1f0-1f1f7,127472,regional indicator symbol letters kr, , ,korea,🇰🇷
+1f1f7-1f1fa,127479,regional indicator symbol letters ru, , ,russia,🇷🇺
+1f1fa-1f1f8,127482,regional indicator symbol letters us, , ,usa,🇺🇸
+1f201,127489,squared katakana koko, , ,,🈁
+1f202,127490,squared katakana sa, , ,mark2,🈂
+1f21a,127514,squared cjk unified ideograph7121, , ,,🈚
+1f22f,127535,squared cjk unified ideograph6307, , ,mark6,🈯
+1f232,127538,squared cjk unified ideograph7981, , ,,🈲
+1f233,127539,squared cjk unified ideograph7a7a, , ,mark5,🈳
+1f234,127540,squared cjk unified ideograph5408, , ,,🈴
+1f235,127541,squared cjk unified ideograph6e80, , ,mark4,🈵
+1f236,127542,squared cjk unified ideograph6709, , ,,🈶
+1f237,127543,squared cjk unified ideograph6708, , ,,🈷
+1f238,127544,squared cjk unified ideograph7533, , ,,🈸
+1f239,127545,squared cjk unified ideograph5272, , ,mark1,🈹
+1f23a,127546,squared cjk unified ideograph55b6, , ,mark7,🈺
+1f250,127568,circled ideograph advantage, , ,profitsign,🉐
+1f251,127569,circled ideograph accept, , ,accept,🉑
+1f300,127744,cyclone, , ,typhoon,🌀
+1f301,127745,foggy, , ,mist,🌁
+1f302,127746,closed umbrella, , ,umbrella,🌂
+1f303,127747,night with stars, , ,night,🌃
+1f304,127748,sunrise over mountains, , ,,🌄
+1f305,127749,sunrise, , ,daybreak,🌅
+1f306,127750,cityscape at dusk, , ,town,🌆
+1f307,127751,sunset over buildings, , ,,🌇
+1f308,127752,rainbow, , ,rainbow,🌈
+1f309,127753,bridge at night, , ,nightbridge,🌉
+1f30a,127754,water wave, , ,wave,🌊
+1f30b,127755,volcano, , ,volcano,🌋
+1f30c,127756,milky way, , ,milkyway,🌌
+1f30f,127759,earth globe asiaaustralia, , ,earth,🌏
+1f311,127761,new moon symbol, , ,moon3,🌑
+1f313,127763,first quarter moon symbol, , ,moon5,🌓
+1f314,127764,waxing gibbous moon symbol, , ,moon4,🌔
+1f315,127765,full moon symbol, , ,,🌕
+1f319,127769,crescent moon, , ,moon1,🌙
+1f31b,127771,first quarter moon with face, , ,moon2,🌛
+1f31f,127775,glowing star, , ,,🌟
+1f320,127776,shooting star, , ,star3,🌠
+1f330,127792,chestnut, , ,chestnut,🌰
+1f331,127793,seedling, , ,bud2,🌱
+1f334,127796,palm tree, , ,coconut,🌴
+1f335,127797,cactus, , ,cactus,🌵
+1f337,127799,tulip, , ,flower,🌷
+1f338,127800,cherry blossom, , ,cherryblossom,🌸
+1f339,127801,rose, , ,rose,🌹
+1f33a,127802,hibiscus, , ,hibiscus,🌺
+1f33b,127803,sunflower, , ,sunflower,🌻
+1f33c,127804,blossom, , ,flower2,🌼
+1f33d,127805,ear of maize, , ,corn,🌽
+1f33e,127806,ear of rice, , ,,🌾
+1f33f,127807,herb, , ,herb,🌿
+1f340,127808,four leaf clover, , ,bud,🍀
+1f341,127809,maple leaf, , ,leaf,🍁
+1f342,127810,fallen leaf, , ,deadleaf,🍂
+1f343,127811,leaf fluttering in wind, , ,,🍃
+1f344,127812,mushroom, , ,mushroom,🍄
+1f345,127813,tomato, , ,tomato,🍅
+1f346,127814,aubergine, , ,eggplant,🍆
+1f347,127815,grapes, , ,grapes,🍇
+1f348,127816,melon, , ,melon,🍈
+1f349,127817,watermelon, , ,watermelon,🍉
+1f34a,127818,tangerine, , ,orange,🍊
+1f34c,127820,banana, , ,banana,🍌
+1f34d,127821,pineapple, , ,pineapple,🍍
+1f34e,127822,red apple, , ,apple,🍎
+1f34f,127823,green apple, , ,greenapple,🍏
+1f351,127825,peach, , ,peach,🍑
+1f352,127826,cherries, , ,cherry,🍒
+1f353,127827,strawberry, , ,strawberry,🍓
+1f354,127828,hamburger, , ,hamburger,🍔
+1f355,127829,slice of pizza, , ,pizza,🍕
+1f356,127830,meat on bone, , ,meal2,🍖
+1f357,127831,poultry leg, , ,turkey,🍗
+1f358,127832,rice cracker, , ,ricecracker,🍘
+1f359,127833,rice ball, , ,riceball,🍙
+1f35a,127834,cooked rice, , ,rice,🍚
+1f35b,127835,curry and rice, , ,curry,🍛
+1f35c,127836,steaming bowl, , ,noodle,🍜
+1f35d,127837,spaghetti, , ,spaghetti,🍝
+1f35e,127838,bread, , ,bread,🍞
+1f35f,127839,french fries, , ,potato,🍟
+1f360,127840,roasted sweet potato, , ,sweetpotato,🍠
+1f361,127841,dango, , ,dumpling,🍡
+1f362,127842,oden, , ,oden,🍢
+1f363,127843,sushi, , ,sushi,🍣
+1f364,127844,fried shrimp, , ,lobster,🍤
+1f365,127845,fish cake with swirl design, , ,fishcake,🍥
+1f366,127846,soft ice cream, , ,softcream,🍦
+1f367,127847,shaved ice, , ,shavedice,🍧
+1f368,127848,ice cream, , ,icecream,🍨
+1f369,127849,doughnut, , ,doughnut,🍩
+1f36a,127850,cookie, , ,cookie,🍪
+1f36b,127851,chocolate bar, , ,chocolate,🍫
+1f36c,127852,candy, , ,candy,🍬
+1f36d,127853,lollipop, , ,candy2,🍭
+1f36e,127854,custard, , ,pudding,🍮
+1f36f,127855,honey pot, , ,pot2,🍯
+1f370,127856,shortcake, , ,cake,🍰
+1f371,127857,bento box, , ,boxlunch,🍱
+1f372,127858,pot of food, , ,pot,🍲
+1f373,127859,cooking, , ,pan,🍳
+1f374,127860,fork and knife, , ,meal1,🍴
+1f375,127861,teacup without handle, , ,japanesetea,🍵
+1f376,127862,sake bottle and cup, , ,sakebottle,🍶
+1f377,127863,wine glass, , ,wineglass,🍷
+1f378,127864,cocktail glass, , ,martini,🍸
+1f379,127865,tropical drink, , ,drink,🍹
+1f37a,127866,beer mug, , ,mug,🍺
+1f37b,127867,clinking beer mugs, , ,toast,🍻
+1f380,127872,ribbon, , ,ribbon,🎀
+1f381,127873,wrapped present, , ,present,🎁
+1f382,127874,birthday cake, , ,birthday,🎂
+1f383,127875,jackolantern, , ,halloween,🎃
+1f384,127876,christmas tree, , ,christmastree,🎄
+1f385,127877,father christmas, , ,santaclaus,🎅
+1f386,127878,fireworks, , ,fireworks,🎆
+1f387,127879,firework sparkler, , ,toyfireworks,🎇
+1f388,127880,balloon, , ,balloon,🎈
+1f389,127881,party popper, , ,cracker,🎉
+1f38a,127882,confetti ball, , ,decoratedball,🎊
+1f38b,127883,tanabata tree, , ,starfestival,🎋
+1f38c,127884,crossed flags, , ,flag2,🎌
+1f38d,127885,pine decoration, , ,pinedecoration,🎍
+1f38e,127886,japanese dolls, , ,dollsfestival,🎎
+1f38f,127887,carp streamer, , ,carpstreamer,🎏
+1f390,127888,wind chime, , ,windbell,🎐
+1f391,127889,moon viewing ceremony, , ,moonlight,🎑
+1f392,127890,school satchel, , ,entranceceremony,🎒
+1f393,127891,graduation cap, , ,commencement,🎓
+1f3a0,127904,carousel horse, , ,,🎠
+1f3a1,127905,ferris wheel, , ,amusementpark,🎡
+1f3a2,127906,roller coaster, , ,rollercoaster,🎢
+1f3a3,127907,fishing pole and fish, , ,fishing,🎣
+1f3a4,127908,microphone, , ,microphone,🎤
+1f3a5,127909,movie camera, , ,videocam,🎥
+1f3a6,127910,cinema, , ,,🎦
+1f3a7,127911,headphone, , ,headphone,🎧
+1f3a8,127912,artist palette, , ,art,🎨
+1f3a9,127913,top hat, , ,silkhat,🎩
+1f3aa,127914,circus tent, , ,event,🎪
+1f3ab,127915,ticket, , ,ticket,🎫
+1f3ac,127916,clapper board, , ,movie,🎬
+1f3ad,127917,performing arts, , ,drama,🎭
+1f3ae,127918,video game, , ,controller,🎮
+1f3af,127919,direct hit, , ,dart,🎯
+1f3b0,127920,slot machine, , ,slot,🎰
+1f3b1,127921,billiards, , ,billiards,🎱
+1f3b2,127922,game die, , ,dice,🎲
+1f3b3,127923,bowling, , ,bowling,🎳
+1f3b4,127924,flower playing cards, , ,japaneseplayingcards,🎴
+1f3b5,127925,musical note, , ,melody2,🎵
+1f3b6,127926,multiple musical notes, , ,melody,🎶
+1f3b7,127927,saxophone, , ,,🎷
+1f3b8,127928,guitar, , ,guitar,🎸
+1f3b9,127929,musical keyboard, , ,piano,🎹
+1f3ba,127930,trumpet, , ,trumpet,🎺
+1f3bb,127931,violin, , ,violin,🎻
+1f3bc,127932,musical score, , ,melody3,🎼
+1f3bd,127933,running shirt with sash, , ,,🎽
+1f3be,127934,tennis racquet and ball, , ,tennis,🎾
+1f3bf,127935,ski and ski boot, , ,skis,🎿
+1f3c0,127936,basketball and hoop, , ,basketball,🏀
+1f3c1,127937,chequered flag, , ,checkerflag,🏁
+1f3c2,127938,snowboarder, , ,snowboard,🏂
+1f3c3,127939,runner, , ,marathon,🏃
+1f3c4,127940,surfer, , ,surfing,🏄
+1f3c6,127942,trophy, , ,trophy,🏆
+1f3c8,127944,american football, , ,football,🏈
+1f3ca,127946,swimmer, , ,swimming,🏊
+1f3e0,127968,house building, , ,house,🏠
+1f3e1,127969,house with garden, , ,home,🏡
+1f3e2,127970,office building, , ,factory,🏢
+1f3e3,127971,japanese post office, , ,postoffice,🏣
+1f3e5,127973,hospital, , ,hospital,🏥
+1f3e6,127974,bank, , ,bank,🏦
+1f3e7,127975,automated teller machine, , ,atm,🏧
+1f3e8,127976,hotel, , ,hotel,🏨
+1f3e9,127977,love hotel, , ,hotel2,🏩
+1f3ea,127978,convenience store, , ,24hours,🏪
+1f3eb,127979,school, , ,school,🏫
+1f3ec,127980,department store, , ,departmentstore,🏬
+1f3ed,127981,factory, , ,factory2,🏭
+1f3ee,127982,izakaya lantern, , ,bistro,🏮
+1f3ef,127983,japanese castle, , ,castle,🏯
+1f3f0,127984,european castle, , ,castle2,🏰
+1f40c,128012,snail, , ,snail,🐌
+1f40d,128013,snake, , ,snake,🐍
+1f40e,128014,horse, , ,,🐎
+1f411,128017,sheep, , ,,🐑
+1f412,128018,monkey, , ,,🐒
+1f414,128020,chicken, , ,fowl,🐔
+1f417,128023,boar, , ,wildboar,🐗
+1f418,128024,elephant, , ,elephant,🐘
+1f419,128025,octopus, , ,octopus,🐙
+1f41a,128026,spiral shell, , ,shell,🐚
+1f41b,128027,bug, , ,millipede,🐛
+1f41c,128028,ant, , ,ant,🐜
+1f41d,128029,honeybee, , ,bee,🐝
+1f41e,128030,lady beetle, , ,ladybug,🐞
+1f41f,128031,fish, , ,,🐟
+1f420,128032,tropical fish, , ,tropicalfish,🐠
+1f421,128033,blowfish, , ,globefish,🐡
+1f422,128034,turtle, , ,turtle,🐢
+1f423,128035,hatching chick, , ,egg,🐣
+1f424,128036,baby chick, , ,bird,🐤
+1f425,128037,frontfacing baby chick, , ,chick,🐥
+1f426,128038,bird, , ,,🐦
+1f427,128039,penguin, , ,penguin,🐧
+1f428,128040,koala, , ,koala,🐨
+1f429,128041,poodle, , ,dog,🐩
+1f42b,128043,bactrian camel, , ,camel,🐫
+1f42c,128044,dolphin, , ,dolphin,🐬
+1f42d,128045,mouse face, , ,rat,🐭
+1f42e,128046,cow face, , ,cow,🐮
+1f42f,128047,tiger face, , ,tiger,🐯
+1f430,128048,rabbit face, , ,rabbit,🐰
+1f431,128049,cat face, , ,cat,🐱
+1f432,128050,dragon face, , ,dragon,🐲
+1f433,128051,spouting whale, , ,whale,🐳
+1f434,128052,horse face, , ,horse,🐴
+1f435,128053,monkey face, , ,monkey,🐵
+1f436,128054,dog face, , ,hound,🐶
+1f437,128055,pig face, , ,pig,🐷
+1f438,128056,frog face, , ,frog,🐸
+1f439,128057,hamster face, , ,,🐹
+1f43a,128058,wolf face, , ,,🐺
+1f43b,128059,bear face, , ,bear,🐻
+1f43c,128060,panda face, , ,panda,🐼
+1f43d,128061,pig nose, , ,pig2,🐽
+1f43e,128062,paw prints, , ,footmark,🐾
+1f440,128064,eyes, , ,eye,👀
+1f442,128066,ear, , ,ear,👂
+1f443,128067,nose, , ,nose,👃
+1f444,128068,mouth, , ,mouth,👄
+1f445,128069,tongue, , ,face25,👅
+1f446,128070,white up pointing backhand index, , ,uphand,👆
+1f447,128071,white down pointing backhand index, , ,underhand,👇
+1f448,128072,white left pointing backhand index, , ,lefthand,👈
+1f449,128073,white right pointing backhand index, , ,righthand,👉
+1f44a,128074,fisted hand sign, , ,punch,👊
+1f44b,128075,waving hand sign, , ,bye,👋
+1f44c,128076,ok hand sign, , ,ok,👌
+1f44d,128077,thumbs up sign, , ,thumbsign,👍
+1f44e,128078,thumbs down sign, , ,booing,👎
+1f44f,128079,clapping hands sign, , ,clapping,👏
+1f450,128080,open hands sign, , ,,👐
+1f451,128081,crown, , ,crown,👑
+1f452,128082,womans hat, , ,hat,👒
+1f453,128083,eyeglasses, , ,glasses,👓
+1f454,128084,necktie, , ,tie,👔
+1f455,128085,tshirt, , ,mensfashion,👕
+1f456,128086,jeans, , ,jeans,👖
+1f457,128087,dress, , ,dress,👗
+1f458,128088,kimono, , ,kimono,👘
+1f459,128089,bikini, , ,bikini,👙
+1f45a,128090,womans clothes, , ,ladiesfashion,👚
+1f45b,128091,purse, , ,wallet,👛
+1f45c,128092,handbag, , ,briefcase,👜
+1f45d,128093,pouch, , ,,👝
+1f45e,128094,mans shoe, , ,mensshoe,👞
+1f45f,128095,athletic shoe, , ,sneakers,👟
+1f460,128096,highheeled shoe, , ,shoe,👠
+1f461,128097,womans sandal, , ,,👡
+1f462,128098,womans boots, , ,boots,👢
+1f463,128099,footprints, , ,footprint,👣
+1f464,128100,bust in silhouette, , ,,👤
+1f466,128102,boy, , ,,👦
+1f467,128103,girl, , ,,👧
+1f468,128104,man, , ,head1,👨
+1f469,128105,woman, , ,smallface,👩
+1f46a,128106,family, , ,family,👪
+1f46b,128107,man and woman holding hands, , ,,👫
+1f46e,128110,police officer, , ,policeman,👮
+1f46f,128111,woman with bunny ears, , ,bunnygirl,👯
+1f470,128112,bride with veil, , ,bride,👰
+1f471,128113,person with blond hair, , ,whiterace,👱
+1f472,128114,man with gua pi mao, , ,chinese,👲
+1f473,128115,man with turban, , ,indian,👳
+1f474,128116,older man, , ,grandfather,👴
+1f475,128117,older woman, , ,grandmother,👵
+1f476,128118,baby, , ,baby,👶
+1f477,128119,construction worker, , ,contractor,👷
+1f478,128120,princess, , ,princess,👸
+1f479,128121,japanese ogre, , ,namahage,👹
+1f47a,128122,japanese goblin, , ,tengu,👺
+1f47b,128123,ghost, , ,ghost,👻
+1f47c,128124,baby angel, , ,angel,👼
+1f47d,128125,extraterrestrial alien, , ,ufo,👽
+1f47e,128126,alien monster, , ,alien,👾
+1f47f,128127,imp, , ,devil,👿
+1f480,128128,skull, , ,skeelton,💀
+1f481,128129,information desk person, , ,,💁
+1f482,128130,guardsman, , ,,💂
+1f483,128131,dancer, , ,dance,💃
+1f484,128132,lipstick, , ,rouge,💄
+1f485,128133,nail polish, , ,nail,💅
+1f486,128134,face massage, , ,estheticsalon,💆
+1f487,128135,haircut, , ,beautyparlor,💇
+1f488,128136,barber pole, , ,barbershop,💈
+1f489,128137,syringe, , ,syringe,💉
+1f48a,128138,pill, , ,medicine,💊
+1f48b,128139,kiss mark, , ,kissmark,💋
+1f48c,128140,love letter, , ,envelope3,💌
+1f48d,128141,ring, , ,gem,💍
+1f48e,128142,gem stone, , ,,💎
+1f48f,128143,kiss, , ,kiss,💏
+1f490,128144,bouquet, , ,flowers,💐
+1f491,128145,couple with heart, , ,couple,💑
+1f492,128146,wedding, , ,,💒
+1f493,128147,beating heart, , ,heart8,💓
+1f494,128148,broken heart, , ,heart2,💔
+1f495,128149,two hearts, , ,heart3,💕
+1f496,128150,sparkling heart, , ,heart7,💖
+1f497,128151,growing heart, , ,,💗
+1f498,128152,heart with arrow, , ,heart5,💘
+1f499,128153,blue heart, , ,blueheart,💙
+1f49a,128154,green heart, , ,greenheart,💚
+1f49b,128155,yellow heart, , ,yellowheart,💛
+1f49c,128156,purple heart, , ,purpleheart,💜
+1f49d,128157,heart with ribbon, , ,heart4,💝
+1f49e,128158,revolving hearts, , ,lovely,💞
+1f49f,128159,heart decoration, , ,,💟
+1f4a0,128160,diamond shape with a dot inside, , ,,💠
+1f4a1,128161,electric light bulb, , ,lightbulb,💡
+1f4a2,128162,anger symbol, , ,anger,💢
+1f4a3,128163,bomb, , ,bomb,💣
+1f4a4,128164,sleeping symbol, , ,sleepy,💤
+1f4a5,128165,collision symbol, , ,impact,💥
+1f4a6,128166,splashing sweat symbol, , ,sweat,💦
+1f4a7,128167,droplet, , ,drip,💧
+1f4a8,128168,dash symbol, , ,dash,💨
+1f4a9,128169,pile of poo, , ,bigjob,💩
+1f4aa,128170,flexed biceps, , ,power,💪
+1f4ab,128171,dizzy symbol, , ,sign5,💫
+1f4ac,128172,speech balloon, , ,voiceballoon,💬
+1f4ae,128174,white flower, , ,flowercircle,💮
+1f4af,128175,hundred points symbol, , ,fullmarks,💯
+1f4b0,128176,money bag, , ,win,💰
+1f4b1,128177,currency exchange, , ,,💱
+1f4b2,128178,heavy dollar sign, , ,dollarsign,💲
+1f4b3,128179,credit card, , ,creditcard,💳
+1f4b4,128180,banknote with yen sign, , ,check,💴
+1f4b5,128181,banknote with dollar sign, , ,dollar,💵
+1f4b8,128184,money with wings, , ,bill,💸
+1f4b9,128185,chart with upwards trend and yen sign, , ,stock,💹
+1f4ba,128186,seat, , ,,💺
+1f4bb,128187,personal computer, , ,pc,💻
+1f4bc,128188,briefcase, , ,bag,💼
+1f4bd,128189,minidisc, , ,floppy2,💽
+1f4be,128190,floppy disk, , ,floppy1,💾
+1f4bf,128191,optical disc, , ,cd,💿
+1f4c0,128192,dvd, , ,,📀
+1f4c1,128193,file folder, , ,folder1,📁
+1f4c2,128194,open file folder, , ,folder2,📂
+1f4c3,128195,page with curl, , ,document1,📃
+1f4c4,128196,page facing up, , ,document2,📄
+1f4c5,128197,calendar, , ,calendar,📅
+1f4c6,128198,tearoff calendar, , ,day,📆
+1f4c7,128199,card index, , ,rolocard,📇
+1f4c8,128200,chart with upwards trend, , ,graph1,📈
+1f4c9,128201,chart with downwards trend, , ,graph2,📉
+1f4ca,128202,bar chart, , ,chart,📊
+1f4cb,128203,clipboard, , ,clipboard,📋
+1f4cc,128204,pushpin, , ,thumbtack,📌
+1f4cd,128205,round pushpin, , ,pushpin,📍
+1f4ce,128206,paperclip, , ,paperclip,📎
+1f4cf,128207,straight ruler, , ,ruler1,📏
+1f4d0,128208,triangular ruler, , ,ruler2,📐
+1f4d1,128209,bookmark tabs, , ,mark,📑
+1f4d2,128210,ledger, , ,tablet,📒
+1f4d3,128211,notebook, , ,note1,📓
+1f4d4,128212,notebook with decorative cover, , ,note3,📔
+1f4d5,128213,closed book, , ,book4,📕
+1f4d6,128214,open book, , ,note2,📖
+1f4d7,128215,green book, , ,book1,📗
+1f4d8,128216,blue book, , ,book2,📘
+1f4d9,128217,orange book, , ,book3,📙
+1f4da,128218,books, , ,books,📚
+1f4db,128219,name badge, , ,tag,📛
+1f4dc,128220,scroll, , ,scroll,📜
+1f4dd,128221,memo, , ,memo,📝
+1f4de,128222,telephone receiver, , ,phone2,📞
+1f4df,128223,pager, , ,pager,📟
+1f4e0,128224,fax machine, , ,fax,📠
+1f4e1,128225,satellite antenna, , ,antenna,📡
+1f4e2,128226,public address loudspeaker, , ,,📢
+1f4e3,128227,cheering megaphone, , ,,📣
+1f4e4,128228,outbox tray, , ,outbox,📤
+1f4e5,128229,inbox tray, , ,inbox,📥
+1f4e6,128230,package, , ,package,📦
+1f4e7,128231,email symbol, , ,icon,📧
+1f4e8,128232,incoming envelope, , ,envelope2,📨
+1f4e9,128233,envelope with downwards arrow above, , ,envelope4,📩
+1f4ea,128234,closed mailbox with lowered flag, , ,mailbox,📪
+1f4eb,128235,closed mailbox with raised flag, , ,inbox1,📫
+1f4ee,128238,postbox, , ,,📮
+1f4f0,128240,newspaper, , ,newspaper,📰
+1f4f1,128241,mobile phone, , ,phone3,📱
+1f4f2,128242,mobile phone with rightwards arrow at left, , ,exit,📲
+1f4f3,128243,vibration mode, , ,manners,📳
+1f4f4,128244,mobile phone off, , ,off,📴
+1f4f6,128246,antenna with bars, , ,within,📶
+1f4f7,128247,camera, , ,camera1,📷
+1f4f9,128249,video camera, , ,camcorder,📹
+1f4fa,128250,television, , ,tv,📺
+1f4fb,128251,radio, , ,radio2,📻
+1f4fc,128252,videocassette, , ,vidtape,📼
+1f503,128259,clockwise downwards and upwards open circle arrows, , ,reload,🔃
+1f50a,128266,speaker with three sound waves, , ,speaker,🔊
+1f50b,128267,battery, , ,battery,🔋
+1f50c,128268,electric plug, , ,plug,🔌
+1f50d,128269,leftpointing magnifying glass, , ,magnifyglass,🔍
+1f50e,128270,rightpointing magnifying glass, , ,view,🔎
+1f50f,128271,lock with ink pen, , ,personal,🔏
+1f510,128272,closed lock with key, , ,lockcertificate,🔐
+1f511,128273,key, , ,key,🔑
+1f512,128274,lock, , ,lockkey,🔒
+1f513,128275,open lock, , ,,🔓
+1f514,128276,bell, , ,bell,🔔
+1f516,128278,bookmark, , ,bookmarks,🔖
+1f517,128279,link symbol, , ,link,🔗
+1f518,128280,radio button, , ,radio,🔘
+1f519,128281,back with leftwards arrow above, , ,back,🔙
+1f51a,128282,end with leftwards arrow above, , ,,🔚
+1f51b,128283,on with exclamation mark with left right arrow, , ,,🔛
+1f51c,128284,soon with rightwards arrow above, , ,,🔜
+1f51d,128285,top with upwards arrow above, , ,,🔝
+1f51e,128286,no one under eighteen symbol, , ,prohibition,🔞
+1f51f,128287,keycap ten, , ,10square,🔟
+1f520,128288,input symbol for latin capital letters, , ,caps,🔠
+1f521,128289,input symbol for latin small letters, , ,lower,🔡
+1f522,128290,input symbol for numbers, , ,numbers,🔢
+1f523,128291,input symbol for symbols, , ,symbols,🔣
+1f524,128292,input symbol for latin letters, , ,abc,🔤
+1f525,128293,fire, , ,fire,🔥
+1f526,128294,electric torch, , ,flashlight,🔦
+1f527,128295,wrench, , ,wrench,🔧
+1f528,128296,hammer, , ,hammer,🔨
+1f529,128297,nut and bolt, , ,boltnut,🔩
+1f52a,128298,hocho, , ,knife,🔪
+1f52b,128299,pistol, , ,action,🔫
+1f52e,128302,crystal ball, , ,fortunetelling,🔮
+1f52f,128303,six pointed star with middle dot, , ,,🔯
+1f530,128304,japanese symbol for beginner, , ,youngleaf,🔰
+1f531,128305,trident emblem, , ,,🔱
+1f532,128306,black square button, , ,,🔲
+1f533,128307,white square button, , ,,🔳
+1f534,128308,large red circle, , ,bigcircle1,🔴
+1f535,128309,large blue circle, , ,bigcircle2,🔵
+1f536,128310,large orange diamond, , ,bigdiamond1,🔶
+1f537,128311,large blue diamond, , ,bigdiamond2,🔷
+1f538,128312,small orange diamond, , ,littlediamond1,🔸
+1f539,128313,small blue diamond, , ,littlediamond2,🔹
+1f53a,128314,uppointing red triangle, , ,uptri3,🔺
+1f53b,128315,downpointing red triangle, , ,downtri3,🔻
+1f53c,128316,uppointing small red triangle, , ,uptri1,🔼
+1f53d,128317,downpointing small red triangle, , ,downtri1,🔽
+1f550,128336,clock face one oclock, , ,,🕐
+1f551,128337,clock face two oclock, , ,,🕑
+1f552,128338,clock face three oclock, , ,,🕒
+1f553,128339,clock face four oclock, , ,,🕓
+1f554,128340,clock face five oclock, , ,,🕔
+1f555,128341,clock face six oclock, , ,,🕕
+1f556,128342,clock face seven oclock, , ,,🕖
+1f557,128343,clock face eight oclock, , ,,🕗
+1f558,128344,clock face nine oclock, , ,,🕘
+1f559,128345,clock face ten oclock, , ,,🕙
+1f55a,128346,clock face eleven oclock, , ,,🕚
+1f55b,128347,clock face twelve oclock, , ,,🕛
+1f5fb,128507,mount fuji, , ,fuji,🗻
+1f5fc,128508,tokyo tower, , ,tower,🗼
+1f5fd,128509,statue of liberty, , ,,🗽
+1f5fe,128510,silhouette of japan, , ,map,🗾
+1f5ff,128511,moyai, , ,figure,🗿
+1f601,128513,grinning face with smiling eyes, , ,face31,😁
+1f602,128514,face with tears of joy, , ,face27,😂
+1f603,128515,smiling face with open mouth, , ,face1,😃
+1f604,128516,smiling face with open mouth and smiling eyes, , ,,😄
+1f605,128517,smiling face with open mouth and cold sweat, , ,,😅
+1f606,128518,smiling face with open mouth and tightlyclosed eyes, , ,,😆
+1f609,128521,winking face, , ,wink,😉
+1f60a,128522,smiling face with smiling eyes, , ,face21,😊
+1f60b,128523,face savouring delicious food, , ,,😋
+1f60c,128524,relieved face, , ,face14,😌
+1f60d,128525,smiling face with heartshaped eyes, , ,face6,😍
+1f60f,128527,smirking face, , ,face8,😏
+1f612,128530,unamused face, , ,face18,😒
+1f613,128531,face with cold sweat, , ,face7,😓
+1f614,128532,pensive face, , ,face9,😔
+1f616,128534,confounded face, , ,face12,😖
+1f618,128536,face throwing a kiss, , ,face23,😘
+1f61a,128538,kissing face with closed eyes, , ,face22,😚
+1f61c,128540,face with stuckout tongue and winking eye, , ,kidding,😜
+1f61d,128541,face with stuckout tongue and tightlyclosed, , ,,😝
+1f61e,128542,disappointed face, , ,,😞
+1f620,128544,angry face, , ,face2,😠
+1f621,128545,pouting face, , ,face26,😡
+1f622,128546,crying face, , ,face29,😢
+1f623,128547,persevering face, , ,face11,😣
+1f624,128548,face with look of triumph, , ,face10,😤
+1f625,128549,disappointed but relieved face, , ,,😥
+1f628,128552,fearful face, , ,face15,😨
+1f629,128553,weary face, , ,face28,😩
+1f62a,128554,sleepy face, , ,face13,😪
+1f62b,128555,tired face, , ,face4,😫
+1f62d,128557,loudly crying face, , ,face3,😭
+1f630,128560,face with open mouth and cold sweat, , ,face20,😰
+1f631,128561,face screaming in fear, , ,shock,😱
+1f632,128562,astonished face, , ,face19,😲
+1f633,128563,flushed face, , ,face17,😳
+1f635,128565,dizzy face, , ,face5,😵
+1f637,128567,face with medical mask, , ,face16,😷
+1f638,128568,grinning cat face with smiling eyes, , ,catface8,😸
+1f639,128569,cat face with tears of joy, , ,catface4,😹
+1f63a,128570,smiling cat face with open mouth, , ,catface3,😺
+1f63b,128571,smiling cat face with heartshaped eyes, , ,catface5,😻
+1f63c,128572,cat face with wry smile, , ,catface9,😼
+1f63d,128573,kissing cat face with closed eyes, , ,catface2,😽
+1f63e,128574,pouting cat face, , ,catface,😾
+1f63f,128575,crying cat face, , ,catface7,😿
+1f640,128576,weary cat face, , ,catface6,🙀
+1f645,128581,face with no good gesture, , ,ng,🙅
+1f646,128582,face with ok gesture, , ,ok2,🙆
+1f647,128583,person bowing deeply, , ,apologize,🙇
+1f648,128584,seenoevil monkey, , ,see,🙈
+1f649,128585,hearnoevil monkey, , ,hear,🙉
+1f64a,128586,speaknoevil monkey, , ,say,🙊
+1f64b,128587,happy person raising one hand, , ,raisehand,🙋
+1f64c,128588,person raising both hands in celebration, , ,character,🙌
+1f64d,128589,person frowning, , ,character2,🙍
+1f64e,128590,person with pouting face, , ,character3,🙎
+1f64f,128591,person with folded hands, , ,face24,🙏
+1f680,128640,rocket, , ,rocket,🚀
+1f683,128643,railway car, , ,train,🚃
+1f684,128644,highspeed train, , ,,🚄
+1f685,128645,highspeed train with bullet nose, , ,superexpress,🚅
+1f687,128647,metro, , ,subway,🚇
+1f689,128649,station, , ,station,🚉
+1f68c,128652,bus, , ,bus,🚌
+1f68f,128655,bus stop, , ,busstop,🚏
+1f691,128657,ambulance, , ,ambulance,🚑
+1f692,128658,fire engine, , ,fireengine,🚒
+1f693,128659,police car, , ,policecar,🚓
+1f695,128661,taxi, , ,,🚕
+1f697,128663,automobile, , ,car,🚗
+1f699,128665,recreational vehicle, , ,,🚙
+1f69a,128666,delivery truck, , ,truck,🚚
+1f6a2,128674,ship, , ,ship,🚢
+1f6a4,128676,speedboat, , ,,🚤
+1f6a5,128677,horizontal traffic light, , ,trafficlight,🚥
+1f6a7,128679,construction sign, , ,construction,🚧
+1f6a8,128680,police cars revolving light, , ,policecar2,🚨
+1f6a9,128681,triangular flag on post, , ,flag3,🚩
+1f6aa,128682,door, , ,,🚪
+1f6ab,128683,no entry sign, , ,circleslash,🚫
+1f6ac,128684,smoking symbol, , ,smoking,🚬
+1f6ad,128685,no smoking symbol, , ,nosmoking,🚭
+1f6b2,128690,bicycle, , ,bicycle,🚲
+1f6b6,128694,pedestrian, , ,walk,🚶
+1f6b9,128697,mens symbol, , ,,🚹
+1f6ba,128698,womens symbol, , ,,🚺
+1f6bb,128699,restroom, , ,toilet,🚻
+1f6bc,128700,baby symbol, , ,,🚼
+1f6bd,128701,toilet, , ,,🚽
+1f6be,128702,water closet, , ,,🚾
+1f6c0,128704,bath, , ,bath,🛀
+23e9,9193,black rightpointing double triangle, , ,righttri2,⏩
+2002,8194,en space, , ,blankhalf, 
+2003,8195,em space, , ,blankfull, 
+2005,8197,fourperem space, , ,blankquarter, 
+203c,8252,double exclamation mark, , ,sign3,‼
+2049,8265,exclamation question mark, , ,sign2,⁉
+2122,8482,trade mark sign, , ,trademark,™
+2139,8505,information source, , ,isymbol,ℹ
+2194,8596,left right arrow, , ,doubleheadedarrow,↔
+2195,8597,up down arrow, , ,doubleheadedarrow2,↕
+2196,8598,north west arrow, , ,uparrow2,↖
+2197,8599,north east arrow, , ,rightarrow2,↗
+2198,8600,south east arrow, , ,downarrow2,↘
+2199,8601,south west arrow, , ,leftarrow2,↙
+21a9,8617,leftwards arrow with hook, , ,roundarrow2,↩
+21aa,8618,rightwards arrow with hook, , ,roundarrow1,↪
+231a,8986,watch, , ,wristwatch,⌚
+231b,8987,hourglass, , ,hourglass1,⌛
+23ea,9194,black leftpointing double triangle, , ,lefttri2,⏪
+23eb,9195,black uppointing double triangle, , ,uptri2,⏫
+23ec,9196,black downpointing double triangle, , ,downtri2,⏬
+23f0,9200,alarm clock, , ,clock,⏰
+23f3,9203,hourglass with flowing sand, , ,hourglass2,⏳
+24c2,9410,circled latin capital letter m, , ,,Ⓜ
+25aa,9642,black small square, , ,littlesquare2,▪
+25ab,9643,white small square, , ,littlesquare1,▫
+25b6,9654,black rightpointing triangle, , ,righttri1,▶
+25c0,9664,black leftpointing triangle, , ,lefttri1,◀
+25fb,9723,white medium square, , ,bigsquare1,◻
+25fc,9724,black medium square, , ,bigsquare2,◼
+25fd,9725,white medium small square, , ,medsquare1,◽
+25fe,9726,black medium small square, , ,medsquare2,◾
+2600,9728,black sun with rays, , ,sun,☀
+2601,9729,cloud, , ,cloud,☁
+260e,9742,black telephone, , ,phone1,☎
+2611,9745,ballot box with check, , ,checkbox,☑
+2614,9748,umbrella with rain drops, , ,rain,☔
+2615,9749,hot beverage, , ,cup,☕
+261d,9757,white up pointing index, , ,firstfingersign,☝
+263a,9786,white smiling face, , ,smileyface,☺
+2648,9800,aries, , ,aries,♈
+2649,9801,taurus, , ,taurus,♉
+264a,9802,gemini, , ,gemini,♊
+264b,9803,cancer, , ,cancer,♋
+264c,9804,leo, , ,leo,♌
+264d,9805,virgo, , ,virgo,♍
+264e,9806,libra, , ,libra,♎
+264f,9807,scorpius, , ,scorpio,♏
+2650,9808,sagittarius, , ,sagittarius,♐
+2651,9809,capricorn, , ,capricorn,♑
+2652,9810,aquarius, , ,aquarius,♒
+2653,9811,pisces, , ,pisces,♓
+2660,9824,black spade suit, , ,spade,♠
+2663,9827,black club suit, , ,clover,♣
+2665,9829,black heart suit, , ,heart6,♥
+2666,9830,black diamond suit, , ,diamond,♦
+2668,9832,hot springs, , ,hotspring,♨
+267b,9851,black universal recycling symbol, , ,arrow,♻
+267f,9855,wheelchair symbol, , ,wheelchair,♿
+2693,9875,anchor, , ,harbor,⚓
+26a0,9888,warning sign, , ,exclamation1,⚠
+26a1,9889,high voltage sign, , ,bolt,⚡
+26aa,9898,medium white circle, , ,littlecircle1,⚪
+26ab,9899,medium black circle, , ,littlecircle2,⚫
+26bd,9917,soccer ball, , ,soccer,⚽
+26be,9918,baseball, , ,baseball,⚾
+26c4,9924,snowman without snow, , ,snowman,⛄
+26c5,9925,sun behind cloud, , ,partcloudy,⛅
+26ce,9934,ophiuchus, , ,ophiuchus,⛎
+26d4,9940,no entry, , ,stopsign,⛔
+26ea,9962,church, , ,chapel,⛪
+26f2,9970,fountain, , ,fountain,⛲
+26f3,9971,flag in hole, , ,golf,⛳
+26f5,9973,sailboat, , ,boat,⛵
+26fa,9978,tent, , ,camp,⛺
+26fd,9981,fuel pump, , ,gasstation,⛽
+2702,9986,black scissors, , ,scissors,✂
+2705,9989,white heavy check mark, , ,check2,✅
+2708,9992,airplane, , ,plane,✈
+2709,9993,envelope, , ,envelope1,✉
+270a,9994,raised fist, , ,closefinger,✊
+270b,9995,raised hand, , ,openfinger,✋
+270c,9996,victory hand, , ,peacesign,✌
+270f,9999,pencil, , ,pencil,✏
+2712,10002,black nib, , ,edit,✒
+2714,10004,heavy check mark, , ,checkmark1,✔
+2716,10006,heavy multiplication x, , ,multiply,✖
+2728,10024,sparkles, , ,shine,✨
+2733,10035,eight spoked asterisk, , ,star1,✳
+2734,10036,eight pointed black star, , ,sparkle2,✴
+2744,10052,snowflake, , ,snowflake,❄
+2747,10055,sparkle, , ,sparkle,❇
+274c,10060,cross mark, , ,cross1,❌
+274e,10062,negative squared cross mark, , ,cross2,❎
+2753,10067,black question mark ornament, , ,question1,❓
+2754,10068,white question mark ornament, , ,,❔
+2755,10069,white exclamation mark ornament, , ,,❕
+2757,10071,heavy exclamation mark symbol, , ,exclamation2,❗
+2764,10084,heavy black heart, , ,heart,❤
+2795,10133,heavy plus sign, , ,plus,➕
+2796,10134,heavy minus sign, , ,minus,➖
+2797,10135,heavy division sign, , ,divide,➗
+27a1,10145,black rightwards arrow, , ,rightarrow1,➡
+27b0,10160,curly loop, , ,sign4,➰
+2934,10548,arrow pointing rightwards then curving upwards, , ,uparrow3,⤴
+2935,10549,arrow pointing rightwards then curving downwards, , ,downarrow3,⤵
+2b05,11013,leftwards black arrow, , ,leftarrow1,⬅
+2b06,11014,upwards black arrow, , ,uparrow1,⬆
+2b07,11015,downwards black arrow, , ,downarrow1,⬇
+2b1b,11035,black large square, , ,biggestsquare2,⬛
+2b1c,11036,white large square, , ,biggestsquare1,⬜
+2b50,11088,white medium star, , ,star2,⭐
+2b55,11093,heavy large circle, , ,circle,⭕
+3030,12336,wavy dash, , ,,〰
+303d,12349,part alternation mark, , ,,〽
+3297,12951,circled ideograph congratulation, , ,mark8,㊗
+3299,12953,circled ideograph secret, , ,secretsign,㊙
