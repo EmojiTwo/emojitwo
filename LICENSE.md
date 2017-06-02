@@ -4,3 +4,9 @@
 *  License: Creative Commons Attribution 4.0 International
 *  Human Readable License: http://creativecommons.org/licenses/by/4.0/
 *  Complete Legal Terms: http://creativecommons.org/licenses/by/4.0/legalcode
+
+#### EmojiOne Non-Artwork
+
+*  Applies to the JSON and CSV files, the documentation and everything else not covered under the artwork license above.
+*  License: MIT
+*  Complete Legal Terms: http://opensource.org/licenses/MIT

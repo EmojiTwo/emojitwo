@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SwatchLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Emojione Hearts" xmlns="http://schemas.microsoft.com/expression/design/2007">
+	<SolidColorSwatch Color="#FFFF5A79" />
+	<SolidColorSwatch Color="#FFF5CE3E" />
+	<SolidColorSwatch Color="#FF85E845" />
+	<SolidColorSwatch Color="#FF66CAF2" />
+	<SolidColorSwatch Color="#FFC28FEF" />
+</SwatchLibrary>
