@@ -10,8 +10,8 @@
     "composer.json",
     "package.json"
   ],
-  "emojitwo": "git://github.com/Crissov/emojitwo.git#master",
-  "homepage": "https://crissov.github.com/emojitwo",
+  "emojitwo": "git://github.com/EmojiTwo/emojitwo.git#master",
+  "homepage": "https://emojitwo.github.com",
   "authors": [
     "Ranks.com",
 	"Christoph Päper"
