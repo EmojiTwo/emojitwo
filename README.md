@@ -4,9 +4,9 @@ Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.c
 Version 3 has a slightly different design and new, more restrictive licensing terms.
 Some people prefer the flat cartoon design and the FOSS license with actual access to the SVG sources.
 
-# EmojiTwo 
+# Emojitwo 
 
-The artwork of the second generation of the web's first complete open source emoji set. It is and will stay 100% free.
+The artwork of the second generation of the web's first complete open source emoji set. It is and will stay 100% free and open source.
 
 ## Differences between Emojitwo and Emojione 2.x
 
@@ -17,13 +17,17 @@ As of its initial release in April 2017, Emojitwo did not contain any additional
 
 ### Additions
 
-+ Unicode 9 beta emojis Rifle and Modern Penthatlon have been resurrected.
++ Unicode 9 beta emojis Rifle and Modern Pentathlon have been resurrected: [U+1F946 &#x1f946;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f946.svg), [U+1F93B &#x1f93b;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b.svg).
++ Flag for deprecated region code `SU`: [U+1F1F8+1F1FA &#x1f1f8;&#x1f1fa](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg).
 
 ### Changes
 
 * Documentation has been updated to
   1. encourage contributions to the artwork,
-  2. use _Emoji Two_ instead of _Emoji One_ where appropriate.
+  2. use _Emojitwo_ or _Emoji Two_ instead of _Emojione_ or _Emoji One_ where appropriate.
+* Bed looks more similar to Sleeping Accomodation: [U+1F6CF &#x1f6cf;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cf.svg) vs. [U+1F6CC &#x1f6cf;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cc.svg)
+* Some minor color optimizations.
+* SVG source code prettified.
 
 ### Removals
 
@@ -34,9 +38,9 @@ As of its initial release in April 2017, Emojitwo did not contain any additional
 Emojitwo shall eventually include graphics for new emojis:
 
   - Characters defined in the [Unicode Standard 10.0]() (June 2017) and later.
-  - Sequences documented in [Unicode Emoji 5.0](http://www.unicode.org/reports/tr51/tr51-11.html) (March 2017) and later (UTR#51), e.g. flags.
+  - Sequences documented in [Unicode Emoji 4.0](http://www.unicode.org/reports/tr51/tr51-9.html), [5.0](http://www.unicode.org/reports/tr51/tr51-11.html) (March 2017) and later (UTR#51), e.g. flags.
   - Characters extended in [Unicode Emoji 6.0](http://www.unicode.org/reports/tr51/proposed.html) and later (UTS#51).
-  - Existing Unicode characters without the `Emoji` property, especially to match other vendors (especially Microsoft and Samsung).
+  - Existing Unicode characters without the `Emoji` property, especially to match other vendors (like Microsoft and Samsung).
   - Custom sequences and alternatives, especially those supported by other vendors.
 
 Emojitwo shall adopt a more restricted color palette. Actual changes will be subtle and barely noticable. This will affect flags.
@@ -127,10 +131,9 @@ If you discover any bugs, feel free to create an issue on GitHub. We also welcom
 
 ### Contact
 
-If you have any questions, comments, or concerns you are welcome to contact the major contributors directly.
+If you have any questions, comments, or concerns you are also welcome to contact the maintainers and major contributors directly.
 
 * https://twitter.com/informoji
-* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Ranks/emojione?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### Alternatives
 We sincerely hope that you choose to use Emojitwo and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
