@@ -15,7 +15,20 @@ var svg2png = require('svg-to-png'); // https://github.com/filamentgroup/svg-to-
 
 function updatePNGs(
 	var vector-source = "./svg",
-	var bitmap-targets = {72: "./png", 128: "./png_128x128", 512: "./png_512x512"},
+	var bitmap-targets = {
+		16: "./png_16x16", // Text
+	//	18: "./png_16x16", // Text
+	//	20: "./png_16x16", // Text
+		24: "./png_24x24", // Large Text
+	//	28: "./png_16x16", // Text
+	//	30: "./png_16x16", // Text
+		32: "./png_32x32", // HiDPI Text
+		48: "./png_48x48", // HiDPI Large Text
+		64: "./png", // Traditional Default Size
+		72: "./png_72x72", // Default Unicode Size
+		128: "./png_128x128", // XL
+		512: "./png_512x512" // XXXL
+	},
 	var optiPNG = 5 // compression level
 	) {
 	for (var resolution in bitmap-targets) {
