@@ -1,27 +1,26 @@
 {
-  "name": "emojitwo/emojitwo",
-  "version": "2.3.0",
-  "type": "library",
-  "description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of Unicode 9.0, Emoji 4.0) designed for the web.",
-  "keywords": [
-    "emojione",
-    "EmojiOne",
-    "emoji",
-    "emojis",
-    "emoticons",
-    "smileys",
-    "smilies",
-    "unicode",
-	"emojitwo",
-	"EmojiTwo"
-  ],
-  "homepage": "https://emojitwo.github.io/",
-  "license": "CC-BY-4.0",
-  "require": {
-  },
-  "suggest": {
-    "emojione/assets": "More up-to-date emoji set with a more restrictive license and without SVGs.",
-    "emojione/emojione": "A set of libraries to make using emoji on your websites easier.", 
-    "iamcal/php-emoji": "Uses iamcal/emoji-data to display emojis from most major vendors."
-  }
+	"name": "emojitwo/emojitwo",
+	"version": "2.3.0",
+	"homepage": "https://emojitwo.github.io/",
+	"license": "CC-BY-4.0",
+	"description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of mid-2016: Unicode 9.0, Emoji 3.0) designed for the web.",
+	"keywords": [
+		"emojione",
+		"Emoji One",
+		"emojitwo",
+		"Emoji Two",
+		"emoji",
+		"emojis",
+		"emoticons",
+		"smileys",
+		"smilies",
+		"unicode"
+	],
+	"type": "library",
+	"require": {},
+	"suggest": {
+		"emojione/assets": "More up-to-date emoji set with a more restrictive license and without SVGs.",
+		"emojione/emojione": "A set of libraries to make using emoji on your websites easier.",
+		"iamcal/php-emoji": "Uses iamcal/emoji-data to display emojis from most major vendors."
+	}
 }

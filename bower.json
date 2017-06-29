@@ -1,38 +1,35 @@
 {
-  "name": "emojitwo",
-  "version": "2.3.0",
-  "description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of Unicode 9.0, Emoji 4.0) designed for the web.",
-  "main": "index.js",
-  "ignore": [
-    ".*",
-    "bower.json",
-    "component.json",
-    "composer.json",
-    "package.json"
-  ],
-  "emojitwo": "git://github.com/EmojiTwo/emojitwo.git#master",
-  "homepage": "https://emojitwo.github.com",
-  "authors": [
-    "Ranks.com",
-	"Christoph Päper"
-  ],
-  "moduleType": [
-    "amd"
-  ],
-  "license": [
-	"CC-BY-4.0"
-  ],
-  "keywords": [
-    "emojione",
-    "Emoji One",
-    "emojitwo",
-    "Emoji Two",
-    "emoji",
-    "emojis",
-    "emoticons",
-    "smileys",
-    "smilies",
-    "unicode",
-    "emoji set"
-  ]
+	"name": "emojitwo",
+	"version": "2.3.0",
+	"homepage": "https://emojitwo.github.io/",
+	"license": ["CC-BY-4.0"],
+	"description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of Unicode 9.0, Emoji 4.0) designed for the web.",
+	"keywords": [
+		"emojione",
+		"Emoji One",
+		"emojitwo",
+		"Emoji Two",
+		"emoji",
+		"emojis",
+		"emoticons",
+		"smileys",
+		"smilies",
+		"unicode"
+	],
+	"main": "index.js",
+	"authors": [
+		"Ranks.com",
+		"Christoph Päper"
+	],
+	"emojitwo": "git://github.com/EmojiTwo/emojitwo.git#master",
+	"ignore": [
+		".*",
+		"bower.json",
+		"component.json",
+		"composer.json",
+		"package.json"
+	],
+	"moduleType": [
+		"amd"
+	]
 }
