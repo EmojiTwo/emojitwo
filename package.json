@@ -1,27 +1,40 @@
 {
-	"name": "emojitwo",
-	"version": "2.3.0",
-	"homepage": "https://emojitwo.github.io/",
-	"license": "CC-BY-4.0",
-	"description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of Unicode 9.0, Emoji 4.0) designed for the web.",
-	"keywords": [
-		"emojione",
-		"Emoji One",
-		"emojitwo",
-		"Emoji Two",
-		"emoji",
-		"emojis",
-		"emoticons",
-		"smileys",
-		"smilies",
-		"unicode"
-	],
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": "EmojiTwo/emojitwo",
-	"bugs": {
-		"url": "https://github.com/EmojiTwo/emojitwo/issues"
-	}
+  "name": "emojitwo",
+  "version": "2.3.0",
+  "homepage": "https://emojitwo.github.io/",
+  "license": "CC-BY-4.0",
+  "description": "Emojis in SVG and PNG format based upon Emojione. Emojitwo is a complete set of emojis (as of Unicode 9.0, Emoji 4.0) designed for the web.",
+  "keywords": [
+    "emojione",
+    "Emoji One",
+    "emojitwo",
+    "Emoji Two",
+    "emoji",
+    "emojis",
+    "emoticons",
+    "smileys",
+    "smilies",
+    "unicode"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "EmojiTwo/emojitwo",
+  "bugs": {
+    "url": "https://github.com/EmojiTwo/emojitwo/issues"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-convert-svg-to-png": "^1.1.0",
+    "grunt-imageoptim": "^1.4.3",
+    "grunt-jsonlint": "^1.1.0",
+    "grunt-spritesmith": "^6.4.0",
+    "grunt-svgmin": "^4.0.0",
+    "grunt-svgstore": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
 }
