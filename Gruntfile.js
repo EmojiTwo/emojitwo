@@ -70,11 +70,12 @@ module.exports = function (grunt) {
 				]
 			},
 			default: {
+				pretty: true,
 				files:  [{
 					expand: true,
-					cwd: 'svg/',
-					src: ['*.svg'],
-					dest: './'
+					cwd: 'svg',
+					src: '*.svg',
+					dest: 'svg'
 				}]
 			}
 		},
