@@ -126,8 +126,8 @@ Also helpful:
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.
 
  *  https://github.com/EmojiTwo/emojitwo/issues
- *  https://github.com/Ranks/emojione-assets/issues
- *  https://github.com/Ranks/emojione/issues
+ *  https://github.com/emojione/emojione-assets/issues
+ *  https://github.com/emojione/emojione/issues
 
 ### Contact
 
@@ -138,8 +138,8 @@ If you have any questions, comments, or concerns you are also welcome to contact
 ### Alternatives
 We sincerely hope that you choose to use Emojitwo and support our project, but if you feel like it's not for you, please have a look at these possible alternatives:
 
-* [Emojione 1.5.2 (SVG/PNG)](/Ranks/emojione-legacy/) (CC-BY-4.0)
-* [Emojione 3.0 (PNG)](/Ranks/emojione-legacy/) (CC-BY-4.0)
-* [Twitter Twemoji (SVG/PNG)](/twitter/twemoji/) (CC-BY-4.0)
-* [Google Noto Emoji (SVG/PNG)](/googlei18n/noto-emoji/) (Apache License 2.0)
-* [Emojidex (SVG)](/emojidex/emojidex-vectors)/[(PNG)](https://github.com/emojidex/emojidex-rasters) (custom license)
+* [Emojione 1.5.2 (SVG/PNG)](https://github.com/emojione/emojione-legacy/) (CC-BY-4.0)
+* [Emojione 3.0 (PNG)](https://github.com/emojione/emojione-legacy/) (CC-BY-4.0)
+* [Twitter Twemoji (SVG/PNG)](https://github.com/twitter/twemoji/) (CC-BY-4.0)
+* [Google Noto Emoji (SVG/PNG)](https://github.com/googlei18n/noto-emoji/) (Apache License 2.0)
+* [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors)/[(PNG)](https://github.com/emojidex/emojidex-rasters) (custom license)
