@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<pattern id="Triangle" width="10" height="10" patternUnits="userSpaceOnUse">
+			<polygon points="5,0 10,10 0,10"/>
+		</pattern>
+		<pattern id="LargeCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+			<circle cx="5" cy="5" r="5"/>
+		</pattern>
+		<pattern id="MediumCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+			<circle cx="5" cy="5" r="4"/>
+		</pattern>
+		<pattern id="SmallCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+			<circle cx="5" cy="5" r="3"/>
+		</pattern>
+		<pattern id="TinyCircle" width="10" height="10" patternUnits="userSpaceOnUse">
+			<circle cx="5" cy="5" r="2" fill="#F5CE3E"/>
+		</pattern>
+		<pattern id="Dot" width="10" height="10" patternUnits="userSpaceOnUse" fill="yellow">
+			<circle cx="5" cy="5" r="1"/>
+		</pattern>
+		<pattern id="Dots" width="10" height="10" patternUnits="userSpaceOnUse" fill="yellow">
+			<circle cx="2.5" cy="1.25" r="1"/>
+			<circle cx="2.5" cy="6.25" r="1"/>
+			<circle cx="7.5" cy="3.75" r="1"/>
+			<circle cx="7.5" cy="8.75" r="1"/>
+		</pattern>
+		<pattern id="VerticalLine" width="7" height="10" patternUnits="userSpaceOnUse" stroke="red">
+			<line x1="2.5" y1="0" x2="2.5" y2="10" stroke-width="1"/>
+		</pattern>
+		<pattern id="HorizontalLine" width="10" height="7" patternUnits="userSpaceOnUse" stroke="blue">
+			<line x1="0" y1="2.5" x2="10" y2="2.5" stroke-width="1"/>
+		</pattern>
+		<pattern id="SquarePattern" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="2.5" y1="0" x2="2.5" y2="10" stroke-width="1"/>
+			<line x1="0" y1="2.5" x2="10" y2="2.5" stroke-width="1"/>
+			<line x1="7.5" y1="0" x2="7.5" y2="10" stroke-width="1"/>
+			<line x1="0" y1="7.5" x2="10" y2="7.5" stroke-width="1"/>
+		</pattern>
+		<pattern id="ForwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="purple">
+			<line x1="-2.5" y1="10" x2="10" y2="-2.5" stroke-width="1"/>
+			<line x1="5" y1="12.5" x2="12.5" y2="5" stroke-width="1"/>
+		</pattern>
+		<pattern id="BackwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="green">
+			<line x1="-2.5" y1="0" x2="10" y2="12.5" stroke-width="1"/>
+			<line x1="5" y1="-2.5" x2="12.5" y2="5" stroke-width="1"/>
+		</pattern>
+		<pattern id="DiamondPattern" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="0" y1="0" x2="10" y2="10" stroke-width="1"/>
+			<line x1="0" y1="10" x2="10" y2="0" stroke-width="1"/>
+		</pattern>
+		<pattern id="Dash" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="2.5" y1="1" x2="7.5" y2="1" stroke-width="1"/>
+		</pattern>
+		<pattern id="Dashes" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="0" y1="1" x2="5" y2="1" stroke-width="1"/>
+			<line x1="5" y1="6" x2="10" y2="6" stroke-width="1"/>
+		</pattern>
+		<pattern id="DashDot" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="0" y1="2.5" x2="5" y2="2.5" stroke-width="1"/>
+			<circle cx="7.5" cy="2.5" r="1"/>
+			<line x1="5" y1="7.5" x2="10" y2="7.5" stroke-width="1"/>
+			<circle cx="2.5" cy="7.5" r="1"/>
+		</pattern>
+		<pattern id="AlternateDashes" width="10" height="10" patternUnits="userSpaceOnUse" stroke="black">
+			<line x1="0" y1="2.5" x2="5" y2="2.5" stroke-width="1"/>
+			<line x1="7.5" y1="0" x2="7.5" y2="5" stroke-width="1"/>
+			<line x1="5" y1="7.5" x2="10" y2="7.5" stroke-width="1"/>
+			<line x1="2.5" y1="5" x2="2.5" y2="10" stroke-width="1"/>
+		</pattern>
+		<pattern id="HorizontalAndForwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="violet">
+			<line x1="0" y1="2.5" x2="10" y2="2.5" stroke-width="1"/>
+			<line x1="-2.5" y1="10" x2="10" y2="-2.5" stroke-width="1"/>
+			<line x1="5" y1="12.5" x2="12.5" y2="5" stroke-width="1"/>
+		</pattern>
+		<pattern id="VerticalAndForwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="brown">
+			<line x1="2.5" y1="0" x2="2.5" y2="10" stroke-width="1"/>
+			<line x1="-2.5" y1="10" x2="10" y2="-2.5" stroke-width="1"/>
+			<line x1="5" y1="12.5" x2="12.5" y2="5" stroke-width="1"/>
+		</pattern>
+		<pattern id="BackwardLine" width="10" height="10" patternUnits="userSpaceOnUse" stroke="">
+			<line x1="-2.5" y1="0" x2="10" y2="12.5" stroke-width="1"/>
+			<line x1="5" y1="-2.5" x2="12.5" y2="5" stroke-width="1"/>
+		</pattern>
+		<pattern id="PolyLine" width="10" height="10" patternUnits="userSpaceOnUse">
+			<polyline
+			points="0,0 0,2 2,2 2,4 4,4 4,6 6,6 6,8"
+			fill="white" stroke="currentColor" stroke-width="1" />
+			<!-- example, not used -->
+		</pattern>
+
+		<!-- Heraldic Hatching Patterns -->
+		<pattern id="Or"       xlink:href="#Dots"           stroke="#F5CE3E"/>
+		<!--yellow Wikicommons: #FFD200, Emojione: #F5CE3E-->
+		<pattern id="Vert"     xlink:href="#BackwardLine"   stroke="#85E845"/>
+		<!--green  Wikicommons: #009A3D, Emojione: #85E845-->
+		<pattern id="Argent"   xlink:href="#Empty"          stroke="#F5F5F5"/>
+		<!--white  Wikicommons: #FFFFFF, Emojione: #D0D0D0/#F5F5F5-->
+		<pattern id="Azure"    xlink:href="#HorizontalLine" stroke="#0071BC"/>
+		<!--blue   Wikicommons: #0039A6, Emojione: #66CAF2/#0071BC-->
+		<pattern id="Gules"    xlink:href="#VerticalLine"   stroke="#FF5A79"/>
+		<!--red    Wikicommons: #dc281e, Emojione: #FF5A79/#ED4C5C-->
+		<pattern id="Sable"    xlink:href="#SquarePattern"  stroke="#3E4347"/>
+		<!--black  Wikicommons: #000000, Emojione: #3E4347/#333333-->
+		<pattern id="Purpure"  xlink:href="#ForwardLine"    stroke="#C28FEF"/>
+		<!--purple Wikicommons: #B60A9B, Emojione: #C28FEF-->
+		<pattern id="Cendree"  xlink:href="#AlternateDashes"/>
+		<pattern id="Sanguine" xlink:href="#HorizontalAndForwardLine"/>
+		<pattern id="Brunatre" xlink:href="#VerticalAndForwardLine"/>
+		<pattern id="Celeste"  xlink:href="#DashDot"/>
+		<pattern id="Murrey"   xlink:href="#DiamondPattern"/>
+
+		<line id="Dashed"          stroke-dasharray="5, 5"          x1="10" y1="10" x2="190" y2="10" />
+		<line id="LooselyDashed"   stroke-dasharray="5, 10"         x1="10" y1="30" x2="190" y2="30" />
+		<line id="LonglyDashed"    stroke-dasharray="10, 5"         x1="10" y1="50" x2="190" y2="50" />
+		<line id="CloselyDashed"   stroke-dasharray="5, 1"          x1="10" y1="70" x2="190" y2="70" />
+		<line id="Dotted"          stroke-dasharray="1, 5"          x1="10" y1="90" x2="190" y2="90" />
+		<line id="LongShortDashed" stroke-dasharray="15, 10, 5, 10" x1="10" y1="150" x2="190" y2="150" />
+		<line id="DashDotted"      stroke-dasharray="5, 5, 1, 5"    x1="10" y1="190" x2="190" y2="190" />
+
+	</defs>
+</svg>

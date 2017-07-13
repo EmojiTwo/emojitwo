@@ -56,26 +56,33 @@
 			fill="white" stroke="currentColor" stroke-width="1" />
 	</pattern>
 
-	<pattern id="Or"      xlink:href="#Dots"           stroke="#F5CE3E"/><!--yellow Wikicommons: #FFD200, Emojione: #F5CE3E-->
-	<pattern id="Vert"    xlink:href="#BackwardLine"   stroke="#85E845"/><!--green  Wikicommons: #009A3D, Emojione: #85E845-->
-	<pattern id="Argent"  xlink:href="#Empty"          stroke="#F5F5F5"/><!--white  Wikicommons: #FFFFFF, Emojione: #D0D0D0/#F5F5F5-->
-	<pattern id="Azure"   xlink:href="#HorizontalLine" stroke="#0071BC"/><!--blue   Wikicommons: #0039A6, Emojione: #66CAF2/#0071BC-->
-	<pattern id="Gules"   xlink:href="#VerticalLine"   stroke="#FF5A79"/><!--red    Wikicommons: #dc281e, Emojione: #FF5A79/#ED4C5C-->
-	<pattern id="Sable"   xlink:href="#SquarePattern"  stroke="#3E4347"/><!--black  Wikicommons: #000000, Emojione: #3E4347/#333333-->
-	<pattern id="Purpure" xlink:href="#ForwardLine"    stroke="#C28FEF"/><!--purple Wikicommons: #B60A9B, Emojione: #C28FEF-->
-	
-    <line id="Dashed"          stroke-dasharray="5, 5"          x1="10" y1="10" x2="190" y2="10" />
-    <line id="LooselyDashed"   stroke-dasharray="5, 10"         x1="10" y1="30" x2="190" y2="30" />
-    <line id="LonglyDashed"    stroke-dasharray="10, 5"         x1="10" y1="50" x2="190" y2="50" />
-    <line id="CloselyDashed"   stroke-dasharray="5, 1"          x1="10" y1="70" x2="190" y2="70" />
-    <line id="Dotted"          stroke-dasharray="1, 5"          x1="10" y1="90" x2="190" y2="90" />
-    <line id="LongShortDashed" stroke-dasharray="15, 10, 5, 10" x1="10" y1="150" x2="190" y2="150" />
-    <line id="DashDotted"      stroke-dasharray="5, 5, 1, 5"    x1="10" y1="190" x2="190" y2="190" />
-	
+	<pattern id="Or"      xlink:href="#Dots"           stroke="#F5CE3E"/>
+	<!--yellow Wikicommons: #FFD200, Emojione: #F5CE3E-->
+	<pattern id="Vert"    xlink:href="#BackwardLine"   stroke="#85E845"/>
+	<!--green  Wikicommons: #009A3D, Emojione: #85E845-->
+	<pattern id="Argent"  xlink:href="#Empty"          stroke="#F5F5F5"/>
+	<!--white  Wikicommons: #FFFFFF, Emojione: #D0D0D0/#F5F5F5-->
+	<pattern id="Azure"   xlink:href="#HorizontalLine" stroke="#0071BC"/>
+	<!--blue   Wikicommons: #0039A6, Emojione: #66CAF2/#0071BC-->
+	<pattern id="Gules"   xlink:href="#VerticalLine"   stroke="#FF5A79"/>
+	<!--red    Wikicommons: #dc281e, Emojione: #FF5A79/#ED4C5C-->
+	<pattern id="Sable"   xlink:href="#SquarePattern"  stroke="#3E4347"/>
+	<!--black  Wikicommons: #000000, Emojione: #3E4347/#333333-->
+	<pattern id="Purpure" xlink:href="#ForwardLine"    stroke="#C28FEF"/>
+	<!--purple Wikicommons: #B60A9B, Emojione: #C28FEF-->
+
+	<line id="Dashed"          stroke-dasharray="5, 5"          x1="10" y1="10" x2="190" y2="10" />
+	<line id="LooselyDashed"   stroke-dasharray="5, 10"         x1="10" y1="30" x2="190" y2="30" />
+	<line id="LonglyDashed"    stroke-dasharray="10, 5"         x1="10" y1="50" x2="190" y2="50" />
+	<line id="CloselyDashed"   stroke-dasharray="5, 1"          x1="10" y1="70" x2="190" y2="70" />
+	<line id="Dotted"          stroke-dasharray="1, 5"          x1="10" y1="90" x2="190" y2="90" />
+	<line id="LongShortDashed" stroke-dasharray="15, 10, 5, 10" x1="10" y1="150" x2="190" y2="150" />
+	<line id="DashDotted"      stroke-dasharray="5, 5, 1, 5"    x1="10" y1="190" x2="190" y2="190" />
+
 	<rect id="Box" x="2" y="2" width="60" height="60" stroke="inherit"/>
 	<circle id="Disc" cx="32" cy="32" r="30" stroke="inherit"/>
 	<polygon id="Diamond" points="2,32 32,2 62,32 32,62"/>
-  </defs>
+</defs>
 
 <!--
   <circle cx="32" cy="32" r="30" fill="url(#Triangle)"/>
@@ -88,10 +95,10 @@
 -->
 <g transform="scale(2)">
 	<rect width="128" height="128" fill="#F5F5F5"/>
-	<use x="0"  y="0"  xlink:href="#Disc" fill="url(#Purpure)" stroke="purple"/>
-	<use x="64" y="0"  xlink:href="#Box" fill="url(#Vert)" stroke="green"/>
-	<use x="64" y="64" xlink:href="#Disc" fill="url(#Gules)" stroke="red"/>
-	<use x="0"  y="64" xlink:href="#Diamond" fill="url(#Azure)" stroke="blue"/>
-	<use x="32" y="32" xlink:href="#Disc" fill="url(#Or)" stroke="yellow"/>
+	<use x="0"  y="0"  xlink:href="#Disc"    fill="url(#Purpure)" stroke="purple"/>
+	<use x="64" y="0"  xlink:href="#Box"     fill="url(#Vert)"    stroke="green"/>
+	<use x="64" y="64" xlink:href="#Disc"    fill="url(#Gules)"   stroke="red"/>
+	<use x="0"  y="64" xlink:href="#Diamond" fill="url(#Azure)"   stroke="blue"/>
+	<use x="32" y="32" xlink:href="#Disc"    fill="url(#Or)"      stroke="yellow"/>
 </g>
 </svg>
