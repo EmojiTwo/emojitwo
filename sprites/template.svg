@@ -1,4 +1,4 @@
 <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<title>Emojione 2.0 U+{{hex}}</title>
-	<use href="emojione.sprites.svg#{{id}}" x="0" y="0" width="{{size}}" height="{{size}}"/>>
+	<title>Emojitwo U+{{hex}}: {{name}}</title>
+	<use href="sprites.svg#{{id}}" x="0" y="0" width="{{size}}" height="{{size}}"/>>
 </svg>
