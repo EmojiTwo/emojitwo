@@ -77,6 +77,9 @@ module.exports = function (grunt) {
 					src: '*.svg',
 					dest: 'svg'
 				}]
+			},
+			sprite: {
+				files: 'sprites/sprites.svg'
 			}
 		},
 		// BUILD SVG SPRITES
@@ -407,8 +410,10 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
 	grunt.loadNpmTasks('grunt-imageoptim');
 	grunt.loadNpmTasks('grunt-convert-svg-to-png');
-	grunt.registerTask('bitmaps', ['convert-svg-to-png'/*, 'sprite', 'imageoptim'*/]);
-	grunt.registerTask('rebuild', ['jshint', 'jsonlint', 'svgmin', 'convert-svg-to-png:default', 'sprite', 'svgstore', 'cssmin', 'imageoptim']);
-	grunt.registerTask('default', ['jshint', 'jsonlint', 'svgstore', 'cssmin']);
+	grunt.registerTask('bitmaps', ['convert-svg-to-png', 'sprite']);
+	grunt.registerTask('minify', ['imageoptim', 'svgmin', 'cssmin']);
+	grunt.registerTask('check', ['jshint', 'jsonlint']);
+	grunt.registerTask('rebuild', ['jshint', 'jsonlint', 'convert-svg-to-png:default', 'sprite', 'svgstore', 'imageoptim', 'svgmin', 'cssmin']);
+	grunt.registerTask('default', ['jshint', 'jsonlint', 'svgstore', 'svgmin:sprite', 'sprite', 'imageoptim:sprite']);
 	grunt.registerTask('travis', []);
 };
