@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<title>Flag for Catalonia</title><desc>ISO 3166-2: ES-CT</desc>
+<title>Flag for South Vietnam</title>
 <defs>
 	<clipPath id="circle">
 		<circle cx="32" cy="32" r="30"/>
@@ -8,10 +8,9 @@
 <g clip-path="url(#circle)">
 	<rect width="100%" height="100%" fill="#ffe62e"/>
 	<g fill="#f42f4c">
-		<rect width="64" height="7" x="0" y="7"/>
-		<rect width="64" height="7" x="0" y="21"/>
-		<rect width="64" height="7" x="0" y="35"/>
-		<rect width="64" height="7" x="0" y="49"/>
+		<rect width="64" height="4" x="0" y="22"/>
+		<rect width="64" height="4" x="0" y="30"/>
+		<rect width="64" height="4" x="0" y="38"/>
 	</g>
 </g>
 </svg>
