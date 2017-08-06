@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Pride Flag for Lipstick Lesbian</title><desc>dark, medium, light pink; white; light, medium, dark salmon; stripes</desc>
+<defs>
+	<clipPath id="circle">
+		<circle cx="32" cy="32" r="30"/>
+	</clipPath>
+</defs>
+<g clip-path="url(#circle)">
+	<rect fill="#9028e0" width="64" height="9" x="0" y="0"/>
+	<rect fill="#785aa0" width="64" height="9" x="0" y="9"/>
+	<rect fill="#c28fef" width="64" height="9" x="0" y="18"/>
+	<rect fill="#F0F0F0" width="64" height="9" x="0" y="27"/>
+	<rect fill="#FC97B2" width="64" height="9" x="0" y="36"/>
+	<rect fill="#e26a3b" width="64" height="9" x="0" y="45"/>
+	<rect fill="#d8544a" width="64" height="10" x="0" y="54"/>
+</g>
+</svg>

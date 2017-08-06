@@ -1,3 +1,31 @@
+; Rainbow Flag
+
+#FC97B2	light-pink / rose	++
+#FF5A79	pink	++
+#d8544a	dark-red	++
+#e26a3b	dark-orange	++
+#ed4c5c	red
+#ff8736	orange
+#E9841A	orange	++
+#f2b200	dark-yellow	++
+#ffce31	yellow
+#F5CE3E	yellow	++
+#85E845	lime green	++
+#83bf4f	green
+#699635	dark green	++
+#66CAF2	cyan	++
+#24bac5	petrol	++
+#42ADE2	light-blue	++
+#275fd9	blue / indigo
+#428bc1	blue / indigo	++
+#44618b	dark-blue	++
+#9028e0	purple
+#785aa0	purple	++
+#c28fef	violet
+#3e4347	black
+#B6C4A7	gray	++
+#F5F5F5	white	++
+
 ; Skin tones
 #FFDD67	default skin	U+1F60x ...
 #FFE1BD	Fitzpatrick 1-2	U+1F3FB

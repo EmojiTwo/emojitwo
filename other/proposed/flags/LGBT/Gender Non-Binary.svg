@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Pride Flag for Gender Non-Binary</title><desc>purple, cyan, yellow, pink, orange stripes</desc>
+<defs>
+	<clipPath id="circle">
+		<circle cx="32" cy="32" r="30"/>
+	</clipPath>
+</defs>
+<g clip-path="url(#circle)">
+	<rect fill="#9028e0" width="64" height="13" x="0" y="0"/>
+	<rect fill="#66CAF2" width="64" height="13" x="0" y="13"/>
+	<rect fill="#ffce31" width="64" height="12" x="0" y="26"/>
+	<rect fill="#FF5A79" width="64" height="13" x="0" y="38"/>
+	<rect fill="#ff8736" width="64" height="13" x="0" y="51"/>
+</g>
+</svg>

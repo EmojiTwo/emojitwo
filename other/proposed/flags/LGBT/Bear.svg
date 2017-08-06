@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Pride Flag for </title><desc></desc>
+<defs>
+	<clipPath id="circle">
+		<circle cx="32" cy="32" r="30"/>
+	</clipPath>
+</defs>
+<g clip-path="url(#circle)">
+	<rect fill="gray" width="100%" height="100%"/>
+	<rect fill="#e26a3b" width="64" height="9" x="0" y="0"/>
+	<rect fill="#ff8736" width="64" height="9" x="0" y="9"/>
+	<rect fill="#f2b200" width="64" height="9" x="0" y="18"/>
+	<rect fill="#ffce31" width="64" height="9" x="0" y="27"/>
+	<rect fill="#F0F0F0" width="64" height="9" x="0" y="36"/>
+	<rect fill="#B6C4A7" width="64" height="9" x="0" y="45"/>
+	<rect fill="#3e4347" width="64" height="10" x="0" y="54"/>
+</g>
+</svg>

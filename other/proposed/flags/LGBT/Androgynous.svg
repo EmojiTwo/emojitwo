@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Pride Flag for Androgynous</title><desc>gray, pink, gray, blue, gray stripes</desc>
+<defs>
+	<clipPath id="circle">
+		<circle cx="32" cy="32" r="30"/>
+	</clipPath>
+</defs>
+<g clip-path="url(#circle)">
+	<rect fill="#B6C4A7" width="100%" height="100%"/>
+	<rect fill="#ed4c5c" width="64" height="13" x="0" y="13"/>
+	<rect fill="#42ADE2" width="64" height="13" x="0" y="38"/>
+</g>
+</svg>

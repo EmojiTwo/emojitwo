@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<title>Pride Flag for Asexual</title><desc>black, gray, white, purple stripes</desc>
+<defs>
+	<clipPath id="circle">
+		<circle cx="32" cy="32" r="30"/>
+	</clipPath>
+</defs>
+<g clip-path="url(#circle)">
+	<rect fill="#3e4347" width="64" height="16" x="0" y="0"/>
+	<rect fill="#B6C4A7" width="64" height="16" x="0" y="16"/>
+	<rect fill="#F5F5F5" width="64" height="16" x="0" y="32"/>
+	<rect fill="#9028e0" width="64" height="16" x="0" y="48"/>
+</g>
+</svg>
