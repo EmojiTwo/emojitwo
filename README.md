@@ -19,6 +19,7 @@ As of its initial release in April 2017, Emojitwo did not contain any additional
 
 + Unicode 9 beta emojis Rifle and Modern Pentathlon have been resurrected: [U+1F946 &#x1f946;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f946.svg), [U+1F93B &#x1f93b;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b.svg).
 + Flag for deprecated region code `SU`: [U+1F1F8+1F1FA &#x1f1f8;&#x1f1fa](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg).
++ More ist listed in the [full changelog](CHANGELOG.md).
 
 ### Changes
 

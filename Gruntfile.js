@@ -103,8 +103,8 @@ module.exports = function (grunt) {
 			default: {
 				options: {
 					size: {
-						w: 64,
-						h: 64
+						w: 72,
+						h: 72
 					},
 				},
 				files: [{
@@ -127,7 +127,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_16x16/"
+						dest: "../png/16/"
 					}
 				]
 			},
@@ -142,7 +142,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_18x18/"
+						dest: "../png/18/"
 					}
 				]
 			},
@@ -157,7 +157,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_20x20/"
+						dest: "../png/20/"
 					}
 				]
 			},
@@ -172,7 +172,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_24x24/"
+						dest: "../png/24/"
 					}
 				]
 			},
@@ -187,7 +187,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_28x28/"
+						dest: "../png/28/"
 					}
 				]
 			},
@@ -202,7 +202,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_30x30/"
+						dest: "../png/30/"
 					}
 				]
 			},
@@ -217,7 +217,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_32x32/"
+						dest: "../png/32/"
 					}
 				]
 			},
@@ -232,22 +232,22 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_48x48/"
+						dest: "../png/48/"
 					}
 				]
 			},
 			standard: {
 				options: {
 					size: {
-						w: 72,
-						h: 72
+						w: 64,
+						h: 64
 					},
 				},
 				files: [{
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_72x72/"
+						dest: "../png/64/"
 					}
 				]
 			},
@@ -262,7 +262,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_96x96/"
+						dest: "../png/96/"
 					}
 				]
 			},
@@ -277,7 +277,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_128x128/"
+						dest: "../png/128/"
 					}
 				]
 			},
@@ -292,7 +292,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_160x160/"
+						dest: "../png/160/"
 					}
 				]
 			},
@@ -307,7 +307,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_180x180/"
+						dest: "../png/180/"
 					}
 				]
 			},
@@ -322,7 +322,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_300x300/"
+						dest: "../png/300/"
 					}
 				]
 			},
@@ -337,7 +337,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_400x400/"
+						dest: "../png/400/"
 					}
 				]
 			},
@@ -352,7 +352,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_512x512/"
+						dest: "../png/512/"
 					}
 				]
 			},
@@ -367,7 +367,7 @@ module.exports = function (grunt) {
 						expand: true,
 						cwd: "svg",
 						src: ["*.svg"],
-						dest: "../png_1080x1080/"
+						dest: "../png/1080/"
 					}
 				]
 			}*/
@@ -380,7 +380,7 @@ module.exports = function (grunt) {
 				quitAfter: false
 			},
 			pngs: {
-				src: ['png', 'png_*']
+				src: ['png', 'png/*']
 			},
 			sprite: {
 				src: ['sprites']

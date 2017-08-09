@@ -68,17 +68,18 @@ for %%i in (%~1) do (
 	call :convert %%~n1 72
 	call :convert %%~n1 96
 	call :convert %%~n1 128
+	call :convert %%~n1 300
 	call :convert %%~n1 512
 goto :eof
 
 :convert
 	echo U+%1 SVG to %2 x %2 PNG
-	if "%2" == "64" (
+	if "%2" == "72" (
 		@inkscape --without-gui --file=svg\%1.svg --export-png=png\%1.png --export-width=%2 --export-height=%2
 		@optipng -o7 -clobber -preserve -quiet png\%1.png
 	) else (
-		@inkscape --without-gui --file=svg\%1.svg --export-png=png_%2x%2\%1.png --export-width=%2 --export-height=%2
-		@optipng -o5 -clobber -preserve -quiet png_%2x%2\%1.png
+		@inkscape --without-gui --file=svg\%1.svg --export-png=png\%2\%1.png --export-width=%2 --export-height=%2
+		@optipng -o5 -clobber -preserve -quiet png\%2\%1.png
 	)
 	echo.
 goto :eof
