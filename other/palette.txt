@@ -67,7 +67,7 @@
 #f27a52	orange	U+1F536, U+1F538
 #0071bc	blue	U+1F535, U+1F537, U+1F539
 #ed4c5c	red	U+1F534
-#333333	black	U+1F533
+#333333f61e	black	U+1F533
 #d0d0d0	white	U+1F532
 #4fd1d9	cyan	most symbols
 ;
