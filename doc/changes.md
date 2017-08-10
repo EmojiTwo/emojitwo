@@ -142,12 +142,6 @@
   + [U+1f93b-1f3fd ![&#x1f93b-1f3fd;][1f93b-1f3fd.png]][1f93b-1f3fd.svg] ![][1f93b-1f3fd.e1]
   + [U+1f93b-1f3fe ![&#x1f93b-1f3fe;][1f93b-1f3fe.png]][1f93b-1f3fe.svg] ![][1f93b-1f3fe.e1]
   + [U+1f93b-1f3ff ![&#x1f93b-1f3ff;][1f93b-1f3ff.png]][1f93b-1f3ff.svg] ![][1f93b-1f3ff.e1]
-*
-  + [U+1f93c-1f3fb ![&#x1f93c-1f3fb;][1f93c-1f3fb.png]][1f93c-1f3fb.svg] ![][1f93c-1f3fb.e1]
-  + [U+1f93c-1f3fc ![&#x1f93c-1f3fc;][1f93c-1f3fc.png]][1f93c-1f3fc.svg] ![][1f93c-1f3fc.e1]
-  + [U+1f93c-1f3fd ![&#x1f93c-1f3fd;][1f93c-1f3fd.png]][1f93c-1f3fd.svg] ![][1f93c-1f3fd.e1]
-  + [U+1f93c-1f3fe ![&#x1f93c-1f3fe;][1f93c-1f3fe.png]][1f93c-1f3fe.svg] ![][1f93c-1f3fe.e1]
-  + [U+1f93c-1f3ff ![&#x1f93c-1f3ff;][1f93c-1f3ff.png]][1f93c-1f3ff.svg] ![][1f93c-1f3ff.e1]
 * [U+1f943 ![&#x1f943;][1f943.png]][1f943.svg] ![][1f943.e1]
 + [U+1f946 ![&#x1f946;][1f946.png]][1f946.svg] ![][1f946.e1]
 + [U+1f986-2640 ![&#x1f986-2640;][1f986-2640.png]][1f986-2640.svg] ![][1f986-2640.e1]
