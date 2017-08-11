@@ -13,7 +13,7 @@ if "%1" == "" (
 )
 
 for %%i in (%~1) do (
-	echo.* [U+%%i ![&#x%%i;][%%i.png]][%%i.svg] ![][%%i.e1] >> changes.md
+	echo. * [U+%%i ![^&#x%%i;][%%i.png]][%%i.svg] ![][%%i.e1] >> changes.md
 	echo.[%%i.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/%%i.png >> changes.md
 	echo.[%%i.png]: https://rawgit.com/emojitwo/emojitwo/master/png/%%i.png >> changes.md
 	echo.[%%i.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/%%i.svg >> changes.md
@@ -72,7 +72,6 @@ for %%i in (%~1) do (
 	call :convert %%~n1 72
 	call :convert %%~n1 96
 	call :convert %%~n1 128
-	call :convert %%~n1 300
 	call :convert %%~n1 512
 goto :eof
 
