@@ -26773,6 +26773,21 @@
 		"ascii": [],
 		"keywords": []
 	},
+	"1f6ea": {
+		"code_points": {
+			"base": "1f6ea",
+			"non_fully_qualified": "1f6ea",
+			"fully_qualified": "1f6ea-fe0f",
+			"decimal": "&#128746;"
+		},
+		"name": "North-East facing airplane",
+		"shortname": ":airplane_ne:",
+		"category": "travel",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["transportation", "plane", "travel", "vacation", "fly"]
+	},
 	"1f93b": {
 		"code_points": {
 			"base": "1f93b",
@@ -28243,6 +28258,21 @@
 		"ascii": [],
 		"keywords": []
 	},
+	"2765": {
+		"code_points": {
+			"base": "2765",
+			"non_fully_qualified": "2765",
+			"fully_qualified": "2765-fe0f",
+			"decimal": "&#10085;"
+		},
+		"name": "heart bullet",
+		"shortname": ":heart_bullet:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["love", "symbol"]
+	},
 	"2b95": {
 		"code_points": {
 			"base": "2b95",
@@ -28256,5 +28286,185 @@
 		"shortname_alternates": [],
 		"ascii": [],
 		"keywords": []
+	},
+	"0023": {
+		"code_points": {
+			"base": "0023",
+			"non_fully_qualified": "0023",
+			"fully_qualified": "0023-fe0f",
+			"decimal": "#"
+		},
+		"name": "number sign",
+		"shortname": ":number_sign:",
+		"category": "symbols",
+		"emoji_order": "2106",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "symbol"]
+	},
+	"002a": {
+		"code_points": {
+			"base": "002a",
+			"non_fully_qualified": "002a",
+			"fully_qualified": "002a-fe0f",
+			"decimal": "*"
+		},
+		"name": "asterisk",
+		"shortname": ":text_asterisk:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["symbol"]
+	},
+	"0030": {
+		"code_points": {
+			"base": "0030",
+			"non_fully_qualified": "0030",
+			"fully_qualified": "0030-fe0f",
+			"decimal": "0"
+		},
+		"name": "digit zero",
+		"shortname": ":0:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0031": {
+		"code_points": {
+			"base": "0031",
+			"non_fully_qualified": "0031",
+			"fully_qualified": "0031-fe0f",
+			"decimal": "1"
+		},
+		"name": "digit one",
+		"shortname": ":1:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0032": {
+		"code_points": {
+			"base": "0032",
+			"non_fully_qualified": "0032",
+			"fully_qualified": "0032-fe0f",
+			"decimal": "2"
+		},
+		"name": "digit two",
+		"shortname": ":2:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0033": {
+		"code_points": {
+			"base": "0033",
+			"non_fully_qualified": "0033",
+			"fully_qualified": "0033-fe0f",
+			"decimal": "3"
+		},
+		"name": "digit three",
+		"shortname": ":3:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0034": {
+		"code_points": {
+			"base": "0034",
+			"non_fully_qualified": "0034",
+			"fully_qualified": "0034-fe0f",
+			"decimal": "4"
+		},
+		"name": "digit four",
+		"shortname": ":4:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0035": {
+		"code_points": {
+			"base": "0035",
+			"non_fully_qualified": "0035",
+			"fully_qualified": "0035-fe0f",
+			"decimal": "5"
+		},
+		"name": "digit five",
+		"shortname": ":5:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0036": {
+		"code_points": {
+			"base": "0036",
+			"non_fully_qualified": "0036",
+			"fully_qualified": "0036-fe0f",
+			"decimal": "6"
+		},
+		"name": "digit six",
+		"shortname": ":6:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0037": {
+		"code_points": {
+			"base": "0037",
+			"non_fully_qualified": "0037",
+			"fully_qualified": "0037-fe0f",
+			"decimal": "7"
+		},
+		"name": "digit seven",
+		"shortname": ":7:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0038": {
+		"code_points": {
+			"base": "0038",
+			"non_fully_qualified": "0038",
+			"fully_qualified": "0038-fe0f",
+			"decimal": "8"
+		},
+		"name": "digit eight",
+		"shortname": ":8:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
+	},
+	"0039": {
+		"code_points": {
+			"base": "0039",
+			"non_fully_qualified": "0039",
+			"fully_qualified": "0039-fe0f",
+			"decimal": "9"
+		},
+		"name": "digit nine",
+		"shortname": ":9:",
+		"category": "symbols",
+		"emoji_order": "",
+		"shortname_alternates": [],
+		"ascii": [],
+		"keywords": ["number", "math", "symbol"]
 	}
 }
