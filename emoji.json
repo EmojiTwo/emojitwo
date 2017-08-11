@@ -240,7 +240,8 @@
 	"263a": {
 		"code_points": {
 			"base": "263a",
-			"alt": "263a-fe0f",
+			"non_fully_qualified": "263a",
+			"fully_qualified": "263a-fe0f",
 			"decimal": "&#9786;"
 		},
 		"name": "white smiling face",
@@ -660,7 +661,8 @@
 	"2639": {
 		"code_points": {
 			"base": "2639",
-			"alt": "2639-fe0f",
+			"non_fully_qualified": "2639",
+			"fully_qualified": "2639-fe0f",
 			"decimal": "&#9785;"
 		},
 		"name": "white frowning face",
@@ -1122,7 +1124,8 @@
 	"2620": {
 		"code_points": {
 			"base": "2620",
-			"alt": "2620-fe0f",
+			"non_fully_qualified": "2620",
+			"fully_qualified": "2620-fe0f",
 			"decimal": "&#9760;"
 		},
 		"name": "skull and crossbones",
@@ -2130,7 +2133,8 @@
 	"1f575": {
 		"code_points": {
 			"base": "1f575",
-			"alt": "1f575-fe0f",
+			"non_fully_qualified": "1f575",
+			"fully_qualified": "1f575-fe0f",
 			"decimal": "&#128373;"
 		},
 		"name": "sleuth or spy",
@@ -4496,7 +4500,8 @@
 	"1f574": {
 		"code_points": {
 			"base": "1f574",
-			"alt": "1f574-fe0f",
+			"non_fully_qualified": "1f574",
+			"fully_qualified": "1f574-fe0f",
 			"decimal": "&#128372;"
 		},
 		"name": "man in business suit levitating",
@@ -4510,7 +4515,8 @@
 	"1f5e3": {
 		"code_points": {
 			"base": "1f5e3",
-			"alt": "1f5e3-fe0f",
+			"non_fully_qualified": "1f5e3",
+			"fully_qualified": "1f5e3-fe0f",
 			"decimal": "&#128483;"
 		},
 		"name": "speaking head in silhouette",
@@ -4650,7 +4656,8 @@
 	"26f7": {
 		"code_points": {
 			"base": "26f7",
-			"alt": "26f7-fe0f",
+			"non_fully_qualified": "26f7",
+			"fully_qualified": "26f7-fe0f",
 			"decimal": "&#9975;"
 		},
 		"name": "skier",
@@ -4678,7 +4685,8 @@
 	"1f3cc": {
 		"code_points": {
 			"base": "1f3cc",
-			"alt": "1f3cc-fe0f",
+			"non_fully_qualified": "1f3cc",
+			"fully_qualified": "1f3cc-fe0f",
 			"decimal": "&#127948;"
 		},
 		"name": "golfer",
@@ -4944,7 +4952,8 @@
 	"26f9": {
 		"code_points": {
 			"base": "26f9",
-			"alt": "26f9-fe0f",
+			"non_fully_qualified": "26f9",
+			"fully_qualified": "26f9-fe0f",
 			"decimal": "&#9977;"
 		},
 		"name": "person with ball",
@@ -5028,7 +5037,8 @@
 	"1f3cb": {
 		"code_points": {
 			"base": "1f3cb",
-			"alt": "1f3cb-fe0f",
+			"non_fully_qualified": "1f3cb",
+			"fully_qualified": "1f3cb-fe0f",
 			"decimal": "&#127947;"
 		},
 		"name": "weight lifter",
@@ -5280,7 +5290,8 @@
 	"1f3ce": {
 		"code_points": {
 			"base": "1f3ce",
-			"alt": "1f3ce-fe0f",
+			"non_fully_qualified": "1f3ce",
+			"fully_qualified": "1f3ce-fe0f",
 			"decimal": "&#127950;"
 		},
 		"name": "racing car",
@@ -5294,7 +5305,8 @@
 	"1f3cd": {
 		"code_points": {
 			"base": "1f3cd",
-			"alt": "1f3cd-fe0f",
+			"non_fully_qualified": "1f3cd",
+			"fully_qualified": "1f3cd-fe0f",
 			"decimal": "&#127949;"
 		},
 		"name": "racing motorcycle",
@@ -5784,7 +5796,8 @@
 	"1f468-2764-1f48b-1f468": {
 		"code_points": {
 			"base": "1f468-2764-1f48b-1f468",
-			"alt": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
+			"non_fully_qualified": "1f468-2764-1f48b-1f468",
+			"fully_qualified": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
 			"decimal": "&#128104;&#10084;&#128139;&#128104;"
 		},
 		"name": "kiss (man,man)",
@@ -5798,7 +5811,8 @@
 	"1f469-2764-1f48b-1f469": {
 		"code_points": {
 			"base": "1f469-2764-1f48b-1f469",
-			"alt": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
+			"non_fully_qualified": "1f469-2764-1f48b-1f469",
+			"fully_qualified": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
 			"decimal": "&#128105;&#10084;&#128139;&#128105;"
 		},
 		"name": "kiss (woman,woman)",
@@ -5826,7 +5840,8 @@
 	"1f468-2764-1f468": {
 		"code_points": {
 			"base": "1f468-2764-1f468",
-			"alt": "1f468-200d-2764-fe0f-200d-1f468",
+			"non_fully_qualified": "1f468-2764-1f468",
+			"fully_qualified": "1f468-200d-2764-fe0f-200d-1f468",
 			"decimal": "&#128104;&#10084;&#128104;"
 		},
 		"name": "couple (man,man)",
@@ -5840,7 +5855,8 @@
 	"1f469-2764-1f469": {
 		"code_points": {
 			"base": "1f469-2764-1f469",
-			"alt": "1f469-200d-2764-fe0f-200d-1f469",
+			"non_fully_qualified": "1f469-2764-1f469",
+			"fully_qualified": "1f469-200d-2764-fe0f-200d-1f469",
 			"decimal": "&#128105;&#10084;&#128105;"
 		},
 		"name": "couple (woman,woman)",
@@ -5868,7 +5884,8 @@
 	"1f468-1f469-1f467": {
 		"code_points": {
 			"base": "1f468-1f469-1f467",
-			"alt": "1f468-200d-1f469-200d-1f467",
+			"non_fully_qualified": "1f468-1f469-1f467",
+			"fully_qualified": "1f468-200d-1f469-200d-1f467",
 			"decimal": "&#128104;&#128105;&#128103;"
 		},
 		"name": "family (man,woman,girl)",
@@ -5882,7 +5899,8 @@
 	"1f468-1f469-1f467-1f466": {
 		"code_points": {
 			"base": "1f468-1f469-1f467-1f466",
-			"alt": "1f468-200d-1f469-200d-1f467-200d-1f466",
+			"non_fully_qualified": "1f468-1f469-1f467-1f466",
+			"fully_qualified": "1f468-200d-1f469-200d-1f467-200d-1f466",
 			"decimal": "&#128104;&#128105;&#128103;&#128102;"
 		},
 		"name": "family (man,woman,girl,boy)",
@@ -5896,7 +5914,8 @@
 	"1f468-1f469-1f466-1f466": {
 		"code_points": {
 			"base": "1f468-1f469-1f466-1f466",
-			"alt": "1f468-200d-1f469-200d-1f466-200d-1f466",
+			"non_fully_qualified": "1f468-1f469-1f466-1f466",
+			"fully_qualified": "1f468-200d-1f469-200d-1f466-200d-1f466",
 			"decimal": "&#128104;&#128105;&#128102;&#128102;"
 		},
 		"name": "family (man,woman,boy,boy)",
@@ -5910,7 +5929,8 @@
 	"1f468-1f469-1f467-1f467": {
 		"code_points": {
 			"base": "1f468-1f469-1f467-1f467",
-			"alt": "1f468-200d-1f469-200d-1f467-200d-1f467",
+			"non_fully_qualified": "1f468-1f469-1f467-1f467",
+			"fully_qualified": "1f468-200d-1f469-200d-1f467-200d-1f467",
 			"decimal": "&#128104;&#128105;&#128103;&#128103;"
 		},
 		"name": "family (man,woman,girl,girl)",
@@ -5924,7 +5944,8 @@
 	"1f468-1f468-1f466": {
 		"code_points": {
 			"base": "1f468-1f468-1f466",
-			"alt": "1f468-200d-1f468-200d-1f466",
+			"non_fully_qualified": "1f468-1f468-1f466",
+			"fully_qualified": "1f468-200d-1f468-200d-1f466",
 			"decimal": "&#128104;&#128104;&#128102;"
 		},
 		"name": "family (man,man,boy)",
@@ -5938,7 +5959,8 @@
 	"1f468-1f468-1f467": {
 		"code_points": {
 			"base": "1f468-1f468-1f467",
-			"alt": "1f468-200d-1f468-200d-1f467",
+			"non_fully_qualified": "1f468-1f468-1f467",
+			"fully_qualified": "1f468-200d-1f468-200d-1f467",
 			"decimal": "&#128104;&#128104;&#128103;"
 		},
 		"name": "family (man,man,girl)",
@@ -5952,7 +5974,8 @@
 	"1f468-1f468-1f467-1f466": {
 		"code_points": {
 			"base": "1f468-1f468-1f467-1f466",
-			"alt": "1f468-200d-1f468-200d-1f467-200d-1f466",
+			"non_fully_qualified": "1f468-1f468-1f467-1f466",
+			"fully_qualified": "1f468-200d-1f468-200d-1f467-200d-1f466",
 			"decimal": "&#128104;&#128104;&#128103;&#128102;"
 		},
 		"name": "family (man,man,girl,boy)",
@@ -5966,7 +5989,8 @@
 	"1f468-1f468-1f466-1f466": {
 		"code_points": {
 			"base": "1f468-1f468-1f466-1f466",
-			"alt": "1f468-200d-1f468-200d-1f466-200d-1f466",
+			"non_fully_qualified": "1f468-1f468-1f466-1f466",
+			"fully_qualified": "1f468-200d-1f468-200d-1f466-200d-1f466",
 			"decimal": "&#128104;&#128104;&#128102;&#128102;"
 		},
 		"name": "family (man,man,boy,boy)",
@@ -5980,7 +6004,8 @@
 	"1f468-1f468-1f467-1f467": {
 		"code_points": {
 			"base": "1f468-1f468-1f467-1f467",
-			"alt": "1f468-200d-1f468-200d-1f467-200d-1f467",
+			"non_fully_qualified": "1f468-1f468-1f467-1f467",
+			"fully_qualified": "1f468-200d-1f468-200d-1f467-200d-1f467",
 			"decimal": "&#128104;&#128104;&#128103;&#128103;"
 		},
 		"name": "family (man,man,girl,girl)",
@@ -5994,7 +6019,8 @@
 	"1f469-1f469-1f466": {
 		"code_points": {
 			"base": "1f469-1f469-1f466",
-			"alt": "1f469-200d-1f469-200d-1f466",
+			"non_fully_qualified": "1f469-1f469-1f466",
+			"fully_qualified": "1f469-200d-1f469-200d-1f466",
 			"decimal": "&#128105;&#128105;&#128102;"
 		},
 		"name": "family (woman,woman,boy)",
@@ -6008,7 +6034,8 @@
 	"1f469-1f469-1f467": {
 		"code_points": {
 			"base": "1f469-1f469-1f467",
-			"alt": "1f469-200d-1f469-200d-1f467",
+			"non_fully_qualified": "1f469-1f469-1f467",
+			"fully_qualified": "1f469-200d-1f469-200d-1f467",
 			"decimal": "&#128105;&#128105;&#128103;"
 		},
 		"name": "family (woman,woman,girl)",
@@ -6022,7 +6049,8 @@
 	"1f469-1f469-1f467-1f466": {
 		"code_points": {
 			"base": "1f469-1f469-1f467-1f466",
-			"alt": "1f469-200d-1f469-200d-1f467-200d-1f466",
+			"non_fully_qualified": "1f469-1f469-1f467-1f466",
+			"fully_qualified": "1f469-200d-1f469-200d-1f467-200d-1f466",
 			"decimal": "&#128105;&#128105;&#128103;&#128102;"
 		},
 		"name": "family (woman,woman,girl,boy)",
@@ -6036,7 +6064,8 @@
 	"1f469-1f469-1f466-1f466": {
 		"code_points": {
 			"base": "1f469-1f469-1f466-1f466",
-			"alt": "1f469-200d-1f469-200d-1f466-200d-1f466",
+			"non_fully_qualified": "1f469-1f469-1f466-1f466",
+			"fully_qualified": "1f469-200d-1f469-200d-1f466-200d-1f466",
 			"decimal": "&#128105;&#128105;&#128102;&#128102;"
 		},
 		"name": "family (woman,woman,boy,boy)",
@@ -6050,7 +6079,8 @@
 	"1f469-1f469-1f467-1f467": {
 		"code_points": {
 			"base": "1f469-1f469-1f467-1f467",
-			"alt": "1f469-200d-1f469-200d-1f467-200d-1f467",
+			"non_fully_qualified": "1f469-1f469-1f467-1f467",
+			"fully_qualified": "1f469-200d-1f469-200d-1f467-200d-1f467",
 			"decimal": "&#128105;&#128105;&#128103;&#128103;"
 		},
 		"name": "family (woman,woman,girl,girl)",
@@ -6470,7 +6500,8 @@
 	"261d": {
 		"code_points": {
 			"base": "261d",
-			"alt": "261d-fe0f",
+			"non_fully_qualified": "261d",
+			"fully_qualified": "261d-fe0f",
 			"decimal": "&#9757;"
 		},
 		"name": "white up pointing index",
@@ -6806,7 +6837,8 @@
 	"270c": {
 		"code_points": {
 			"base": "270c",
-			"alt": "270c-fe0f",
+			"non_fully_qualified": "270c",
+			"fully_qualified": "270c-fe0f",
 			"decimal": "&#9996;"
 		},
 		"name": "victory hand",
@@ -7226,7 +7258,8 @@
 	"1f590": {
 		"code_points": {
 			"base": "1f590",
-			"alt": "1f590-fe0f",
+			"non_fully_qualified": "1f590",
+			"fully_qualified": "1f590-fe0f",
 			"decimal": "&#128400;"
 		},
 		"name": "raised hand with fingers splayed",
@@ -8234,7 +8267,8 @@
 	"270d": {
 		"code_points": {
 			"base": "270d",
-			"alt": "270d-fe0f",
+			"non_fully_qualified": "270d",
+			"fully_qualified": "270d-fe0f",
 			"decimal": "&#9997;"
 		},
 		"name": "writing hand",
@@ -8934,7 +8968,8 @@
 	"1f441": {
 		"code_points": {
 			"base": "1f441",
-			"alt": "1f441-fe0f",
+			"non_fully_qualified": "1f441",
+			"fully_qualified": "1f441-fe0f",
 			"decimal": "&#128065;"
 		},
 		"name": "eye",
@@ -8948,7 +8983,8 @@
 	"1f441-1f5e8": {
 		"code_points": {
 			"base": "1f441-1f5e8",
-			"alt": "1f441-200d-1f5e8",
+			"non_fully_qualified": "1f441-1f5e8",
+			"fully_qualified": "1f441-200d-1f5e8",
 			"decimal": "&#128065;&#128488;"
 		},
 		"name": "eye in speech bubble",
@@ -9018,7 +9054,8 @@
 	"2764": {
 		"code_points": {
 			"base": "2764",
-			"alt": "2764-fe0f",
+			"non_fully_qualified": "2764",
+			"fully_qualified": "2764-fe0f",
 			"decimal": "&#10084;"
 		},
 		"name": "heavy black heart",
@@ -9214,7 +9251,8 @@
 	"2763": {
 		"code_points": {
 			"base": "2763",
-			"alt": "2763-fe0f",
+			"non_fully_qualified": "2763",
+			"fully_qualified": "2763-fe0f",
 			"decimal": "&#10083;"
 		},
 		"name": "heavy heart exclamation mark ornament",
@@ -9354,7 +9392,8 @@
 	"1f5e8": {
 		"code_points": {
 			"base": "1f5e8",
-			"alt": "1f5e8-fe0f",
+			"non_fully_qualified": "1f5e8",
+			"fully_qualified": "1f5e8-fe0f",
 			"decimal": "&#128488;"
 		},
 		"name": "left speech bubble",
@@ -9368,7 +9407,8 @@
 	"1f5ef": {
 		"code_points": {
 			"base": "1f5ef",
-			"alt": "1f5ef-fe0f",
+			"non_fully_qualified": "1f5ef",
+			"fully_qualified": "1f5ef-fe0f",
 			"decimal": "&#128495;"
 		},
 		"name": "right anger bubble",
@@ -9396,7 +9436,8 @@
 	"1f573": {
 		"code_points": {
 			"base": "1f573",
-			"alt": "1f573-fe0f",
+			"non_fully_qualified": "1f573",
+			"fully_qualified": "1f573-fe0f",
 			"decimal": "&#128371;"
 		},
 		"name": "hole",
@@ -9424,7 +9465,8 @@
 	"1f576": {
 		"code_points": {
 			"base": "1f576",
-			"alt": "1f576-fe0f",
+			"non_fully_qualified": "1f576",
+			"fully_qualified": "1f576-fe0f",
 			"decimal": "&#128374;"
 		},
 		"name": "dark sunglasses",
@@ -9578,7 +9620,8 @@
 	"1f6cd": {
 		"code_points": {
 			"base": "1f6cd",
-			"alt": "1f6cd-fe0f",
+			"non_fully_qualified": "1f6cd",
+			"fully_qualified": "1f6cd-fe0f",
 			"decimal": "&#128717;"
 		},
 		"name": "shopping bags",
@@ -9732,7 +9775,8 @@
 	"26d1": {
 		"code_points": {
 			"base": "26d1",
-			"alt": "26d1-fe0f",
+			"non_fully_qualified": "26d1",
+			"fully_qualified": "26d1-fe0f",
 			"decimal": "&#9937;"
 		},
 		"name": "helmet with white cross",
@@ -10348,7 +10392,8 @@
 	"1f43f": {
 		"code_points": {
 			"base": "1f43f",
-			"alt": "1f43f-fe0f",
+			"non_fully_qualified": "1f43f",
+			"fully_qualified": "1f43f-fe0f",
 			"decimal": "&#128063;"
 		},
 		"name": "chipmunk",
@@ -10544,7 +10589,8 @@
 	"1f54a": {
 		"code_points": {
 			"base": "1f54a",
-			"alt": "1f54a-fe0f",
+			"non_fully_qualified": "1f54a",
+			"fully_qualified": "1f54a-fe0f",
 			"decimal": "&#128330;"
 		},
 		"name": "dove of peace",
@@ -10950,7 +10996,8 @@
 	"1f577": {
 		"code_points": {
 			"base": "1f577",
-			"alt": "1f577-fe0f",
+			"non_fully_qualified": "1f577",
+			"fully_qualified": "1f577-fe0f",
 			"decimal": "&#128375;"
 		},
 		"name": "spider",
@@ -10964,7 +11011,8 @@
 	"1f578": {
 		"code_points": {
 			"base": "1f578",
-			"alt": "1f578-fe0f",
+			"non_fully_qualified": "1f578",
+			"fully_qualified": "1f578-fe0f",
 			"decimal": "&#128376;"
 		},
 		"name": "spider web",
@@ -11034,7 +11082,8 @@
 	"1f3f5": {
 		"code_points": {
 			"base": "1f3f5",
-			"alt": "1f3f5-fe0f",
+			"non_fully_qualified": "1f3f5",
+			"fully_qualified": "1f3f5-fe0f",
 			"decimal": "&#127989;"
 		},
 		"name": "rosette",
@@ -11230,7 +11279,8 @@
 	"2618": {
 		"code_points": {
 			"base": "2618",
-			"alt": "2618-fe0f",
+			"non_fully_qualified": "2618",
+			"fully_qualified": "2618-fe0f",
 			"decimal": "&#9752;"
 		},
 		"name": "shamrock",
@@ -11580,7 +11630,8 @@
 	"1f336": {
 		"code_points": {
 			"base": "1f336",
-			"alt": "1f336-fe0f",
+			"non_fully_qualified": "1f336",
+			"fully_qualified": "1f336-fe0f",
 			"decimal": "&#127798;"
 		},
 		"name": "hot pepper",
@@ -12322,7 +12373,8 @@
 	"2615": {
 		"code_points": {
 			"base": "2615",
-			"alt": "2615-fe0f",
+			"non_fully_qualified": "2615",
+			"fully_qualified": "2615-fe0f",
 			"decimal": "&#9749;"
 		},
 		"name": "hot beverage",
@@ -12476,7 +12528,8 @@
 	"1f37d": {
 		"code_points": {
 			"base": "1f37d",
-			"alt": "1f37d-fe0f",
+			"non_fully_qualified": "1f37d",
+			"fully_qualified": "1f37d-fe0f",
 			"decimal": "&#127869;"
 		},
 		"name": "fork and knife with plate",
@@ -12602,7 +12655,8 @@
 	"1f5fa": {
 		"code_points": {
 			"base": "1f5fa",
-			"alt": "1f5fa-fe0f",
+			"non_fully_qualified": "1f5fa",
+			"fully_qualified": "1f5fa-fe0f",
 			"decimal": "&#128506;"
 		},
 		"name": "world map",
@@ -12630,7 +12684,8 @@
 	"1f3d4": {
 		"code_points": {
 			"base": "1f3d4",
-			"alt": "1f3d4-fe0f",
+			"non_fully_qualified": "1f3d4",
+			"fully_qualified": "1f3d4-fe0f",
 			"decimal": "&#127956;"
 		},
 		"name": "snow capped mountain",
@@ -12644,7 +12699,8 @@
 	"26f0": {
 		"code_points": {
 			"base": "26f0",
-			"alt": "26f0-fe0f",
+			"non_fully_qualified": "26f0",
+			"fully_qualified": "26f0-fe0f",
 			"decimal": "&#9968;"
 		},
 		"name": "mountain",
@@ -12686,7 +12742,8 @@
 	"1f3d5": {
 		"code_points": {
 			"base": "1f3d5",
-			"alt": "1f3d5-fe0f",
+			"non_fully_qualified": "1f3d5",
+			"fully_qualified": "1f3d5-fe0f",
 			"decimal": "&#127957;"
 		},
 		"name": "camping",
@@ -12700,7 +12757,8 @@
 	"1f3d6": {
 		"code_points": {
 			"base": "1f3d6",
-			"alt": "1f3d6-fe0f",
+			"non_fully_qualified": "1f3d6",
+			"fully_qualified": "1f3d6-fe0f",
 			"decimal": "&#127958;"
 		},
 		"name": "beach with umbrella",
@@ -12714,7 +12772,8 @@
 	"1f3dc": {
 		"code_points": {
 			"base": "1f3dc",
-			"alt": "1f3dc-fe0f",
+			"non_fully_qualified": "1f3dc",
+			"fully_qualified": "1f3dc-fe0f",
 			"decimal": "&#127964;"
 		},
 		"name": "desert",
@@ -12728,7 +12787,8 @@
 	"1f3dd": {
 		"code_points": {
 			"base": "1f3dd",
-			"alt": "1f3dd-fe0f",
+			"non_fully_qualified": "1f3dd",
+			"fully_qualified": "1f3dd-fe0f",
 			"decimal": "&#127965;"
 		},
 		"name": "desert island",
@@ -12742,7 +12802,8 @@
 	"1f3de": {
 		"code_points": {
 			"base": "1f3de",
-			"alt": "1f3de-fe0f",
+			"non_fully_qualified": "1f3de",
+			"fully_qualified": "1f3de-fe0f",
 			"decimal": "&#127966;"
 		},
 		"name": "national park",
@@ -12756,7 +12817,8 @@
 	"1f3df": {
 		"code_points": {
 			"base": "1f3df",
-			"alt": "1f3df-fe0f",
+			"non_fully_qualified": "1f3df",
+			"fully_qualified": "1f3df-fe0f",
 			"decimal": "&#127967;"
 		},
 		"name": "stadium",
@@ -12770,7 +12832,8 @@
 	"1f3db": {
 		"code_points": {
 			"base": "1f3db",
-			"alt": "1f3db-fe0f",
+			"non_fully_qualified": "1f3db",
+			"fully_qualified": "1f3db-fe0f",
 			"decimal": "&#127963;"
 		},
 		"name": "classical building",
@@ -12784,7 +12847,8 @@
 	"1f3d7": {
 		"code_points": {
 			"base": "1f3d7",
-			"alt": "1f3d7-fe0f",
+			"non_fully_qualified": "1f3d7",
+			"fully_qualified": "1f3d7-fe0f",
 			"decimal": "&#127959;"
 		},
 		"name": "building construction",
@@ -12798,7 +12862,8 @@
 	"1f3d8": {
 		"code_points": {
 			"base": "1f3d8",
-			"alt": "1f3d8-fe0f",
+			"non_fully_qualified": "1f3d8",
+			"fully_qualified": "1f3d8-fe0f",
 			"decimal": "&#127960;"
 		},
 		"name": "house buildings",
@@ -12812,7 +12877,8 @@
 	"1f3d9": {
 		"code_points": {
 			"base": "1f3d9",
-			"alt": "1f3d9-fe0f",
+			"non_fully_qualified": "1f3d9",
+			"fully_qualified": "1f3d9-fe0f",
 			"decimal": "&#127961;"
 		},
 		"name": "cityscape",
@@ -12826,7 +12892,8 @@
 	"1f3da": {
 		"code_points": {
 			"base": "1f3da",
-			"alt": "1f3da-fe0f",
+			"non_fully_qualified": "1f3da",
+			"fully_qualified": "1f3da-fe0f",
 			"decimal": "&#127962;"
 		},
 		"name": "derelict house building",
@@ -13092,7 +13159,8 @@
 	"26ea": {
 		"code_points": {
 			"base": "26ea",
-			"alt": "26ea-fe0f",
+			"non_fully_qualified": "26ea",
+			"fully_qualified": "26ea-fe0f",
 			"decimal": "&#9962;"
 		},
 		"name": "church",
@@ -13134,7 +13202,8 @@
 	"26e9": {
 		"code_points": {
 			"base": "26e9",
-			"alt": "26e9-fe0f",
+			"non_fully_qualified": "26e9",
+			"fully_qualified": "26e9-fe0f",
 			"decimal": "&#9961;"
 		},
 		"name": "shinto shrine",
@@ -13162,7 +13231,8 @@
 	"26f2": {
 		"code_points": {
 			"base": "26f2",
-			"alt": "26f2-fe0f",
+			"non_fully_qualified": "26f2",
+			"fully_qualified": "26f2-fe0f",
 			"decimal": "&#9970;"
 		},
 		"name": "fountain",
@@ -13176,7 +13246,8 @@
 	"26fa": {
 		"code_points": {
 			"base": "26fa",
-			"alt": "26fa-fe0f",
+			"non_fully_qualified": "26fa",
+			"fully_qualified": "26fa-fe0f",
 			"decimal": "&#9978;"
 		},
 		"name": "tent",
@@ -13288,7 +13359,8 @@
 	"2668": {
 		"code_points": {
 			"base": "2668",
-			"alt": "2668-fe0f",
+			"non_fully_qualified": "2668",
+			"fully_qualified": "2668-fe0f",
 			"decimal": "&#9832;"
 		},
 		"name": "hot springs",
@@ -13400,7 +13472,8 @@
 	"1f5bc": {
 		"code_points": {
 			"base": "1f5bc",
-			"alt": "1f5bc-fe0f",
+			"non_fully_qualified": "1f5bc",
+			"fully_qualified": "1f5bc-fe0f",
 			"decimal": "&#128444;"
 		},
 		"name": "frame with picture",
@@ -13890,7 +13963,8 @@
 	"1f6e3": {
 		"code_points": {
 			"base": "1f6e3",
-			"alt": "1f6e3-fe0f",
+			"non_fully_qualified": "1f6e3",
+			"fully_qualified": "1f6e3-fe0f",
 			"decimal": "&#128739;"
 		},
 		"name": "motorway",
@@ -13904,7 +13978,8 @@
 	"1f6e4": {
 		"code_points": {
 			"base": "1f6e4",
-			"alt": "1f6e4-fe0f",
+			"non_fully_qualified": "1f6e4",
+			"fully_qualified": "1f6e4-fe0f",
 			"decimal": "&#128740;"
 		},
 		"name": "railway track",
@@ -13918,7 +13993,8 @@
 	"26fd": {
 		"code_points": {
 			"base": "26fd",
-			"alt": "26fd-fe0f",
+			"non_fully_qualified": "26fd",
+			"fully_qualified": "26fd-fe0f",
 			"decimal": "&#9981;"
 		},
 		"name": "fuel pump",
@@ -14002,7 +14078,8 @@
 	"2693": {
 		"code_points": {
 			"base": "2693",
-			"alt": "2693-fe0f",
+			"non_fully_qualified": "2693",
+			"fully_qualified": "2693-fe0f",
 			"decimal": "&#9875;"
 		},
 		"name": "anchor",
@@ -14016,7 +14093,8 @@
 	"26f5": {
 		"code_points": {
 			"base": "26f5",
-			"alt": "26f5-fe0f",
+			"non_fully_qualified": "26f5",
+			"fully_qualified": "26f5-fe0f",
 			"decimal": "&#9973;"
 		},
 		"name": "sailboat",
@@ -14058,7 +14136,8 @@
 	"1f6f3": {
 		"code_points": {
 			"base": "1f6f3",
-			"alt": "1f6f3-fe0f",
+			"non_fully_qualified": "1f6f3",
+			"fully_qualified": "1f6f3-fe0f",
 			"decimal": "&#128755;"
 		},
 		"name": "passenger ship",
@@ -14072,7 +14151,8 @@
 	"26f4": {
 		"code_points": {
 			"base": "26f4",
-			"alt": "26f4-fe0f",
+			"non_fully_qualified": "26f4",
+			"fully_qualified": "26f4-fe0f",
 			"decimal": "&#9972;"
 		},
 		"name": "ferry",
@@ -14086,7 +14166,8 @@
 	"1f6e5": {
 		"code_points": {
 			"base": "1f6e5",
-			"alt": "1f6e5-fe0f",
+			"non_fully_qualified": "1f6e5",
+			"fully_qualified": "1f6e5-fe0f",
 			"decimal": "&#128741;"
 		},
 		"name": "motorboat",
@@ -14114,7 +14195,8 @@
 	"2708": {
 		"code_points": {
 			"base": "2708",
-			"alt": "2708-fe0f",
+			"non_fully_qualified": "2708",
+			"fully_qualified": "2708-fe0f",
 			"decimal": "&#9992;"
 		},
 		"name": "airplane",
@@ -14128,7 +14210,8 @@
 	"1f6e9": {
 		"code_points": {
 			"base": "1f6e9",
-			"alt": "1f6e9-fe0f",
+			"non_fully_qualified": "1f6e9",
+			"fully_qualified": "1f6e9-fe0f",
 			"decimal": "&#128745;"
 		},
 		"name": "small airplane",
@@ -14254,7 +14337,8 @@
 	"1f6f0": {
 		"code_points": {
 			"base": "1f6f0",
-			"alt": "1f6f0-fe0f",
+			"non_fully_qualified": "1f6f0",
+			"fully_qualified": "1f6f0-fe0f",
 			"decimal": "&#128752;"
 		},
 		"name": "satellite",
@@ -14268,7 +14352,8 @@
 	"1f6ce": {
 		"code_points": {
 			"base": "1f6ce",
-			"alt": "1f6ce-fe0f",
+			"non_fully_qualified": "1f6ce",
+			"fully_qualified": "1f6ce-fe0f",
 			"decimal": "&#128718;"
 		},
 		"name": "bellhop bell",
@@ -14310,7 +14395,8 @@
 	"1f6cf": {
 		"code_points": {
 			"base": "1f6cf",
-			"alt": "1f6cf-fe0f",
+			"non_fully_qualified": "1f6cf",
+			"fully_qualified": "1f6cf-fe0f",
 			"decimal": "&#128719;"
 		},
 		"name": "bed",
@@ -14324,7 +14410,8 @@
 	"1f6cb": {
 		"code_points": {
 			"base": "1f6cb",
-			"alt": "1f6cb-fe0f",
+			"non_fully_qualified": "1f6cb",
+			"fully_qualified": "1f6cb-fe0f",
 			"decimal": "&#128715;"
 		},
 		"name": "couch and lamp",
@@ -14464,7 +14551,8 @@
 	"231b": {
 		"code_points": {
 			"base": "231b",
-			"alt": "231b-fe0f",
+			"non_fully_qualified": "231b",
+			"fully_qualified": "231b-fe0f",
 			"decimal": "&#8987;"
 		},
 		"name": "hourglass",
@@ -14492,7 +14580,8 @@
 	"231a": {
 		"code_points": {
 			"base": "231a",
-			"alt": "231a-fe0f",
+			"non_fully_qualified": "231a",
+			"fully_qualified": "231a-fe0f",
 			"decimal": "&#8986;"
 		},
 		"name": "watch",
@@ -14520,7 +14609,8 @@
 	"23f1": {
 		"code_points": {
 			"base": "23f1",
-			"alt": "23f1-fe0f",
+			"non_fully_qualified": "23f1",
+			"fully_qualified": "23f1-fe0f",
 			"decimal": "&#9201;"
 		},
 		"name": "stopwatch",
@@ -14534,7 +14624,8 @@
 	"23f2": {
 		"code_points": {
 			"base": "23f2",
-			"alt": "23f2-fe0f",
+			"non_fully_qualified": "23f2",
+			"fully_qualified": "23f2-fe0f",
 			"decimal": "&#9202;"
 		},
 		"name": "timer clock",
@@ -14548,7 +14639,8 @@
 	"1f570": {
 		"code_points": {
 			"base": "1f570",
-			"alt": "1f570-fe0f",
+			"non_fully_qualified": "1f570",
+			"fully_qualified": "1f570-fe0f",
 			"decimal": "&#128368;"
 		},
 		"name": "mantlepiece clock",
@@ -15066,7 +15158,8 @@
 	"1f321": {
 		"code_points": {
 			"base": "1f321",
-			"alt": "1f321-fe0f",
+			"non_fully_qualified": "1f321",
+			"fully_qualified": "1f321-fe0f",
 			"decimal": "&#127777;"
 		},
 		"name": "thermometer",
@@ -15080,7 +15173,8 @@
 	"2600": {
 		"code_points": {
 			"base": "2600",
-			"alt": "2600-fe0f",
+			"non_fully_qualified": "2600",
+			"fully_qualified": "2600-fe0f",
 			"decimal": "&#9728;"
 		},
 		"name": "black sun with rays",
@@ -15122,7 +15216,8 @@
 	"2b50": {
 		"code_points": {
 			"base": "2b50",
-			"alt": "2b50-fe0f",
+			"non_fully_qualified": "2b50",
+			"fully_qualified": "2b50-fe0f",
 			"decimal": "&#11088;"
 		},
 		"name": "white medium star",
@@ -15164,7 +15259,8 @@
 	"2601": {
 		"code_points": {
 			"base": "2601",
-			"alt": "2601-fe0f",
+			"non_fully_qualified": "2601",
+			"fully_qualified": "2601-fe0f",
 			"decimal": "&#9729;"
 		},
 		"name": "cloud",
@@ -15178,7 +15274,8 @@
 	"26c5": {
 		"code_points": {
 			"base": "26c5",
-			"alt": "26c5-fe0f",
+			"non_fully_qualified": "26c5",
+			"fully_qualified": "26c5-fe0f",
 			"decimal": "&#9925;"
 		},
 		"name": "sun behind cloud",
@@ -15192,7 +15289,8 @@
 	"26c8": {
 		"code_points": {
 			"base": "26c8",
-			"alt": "26c8-fe0f",
+			"non_fully_qualified": "26c8",
+			"fully_qualified": "26c8-fe0f",
 			"decimal": "&#9928;"
 		},
 		"name": "thunder cloud and rain",
@@ -15206,7 +15304,8 @@
 	"1f324": {
 		"code_points": {
 			"base": "1f324",
-			"alt": "1f324-fe0f",
+			"non_fully_qualified": "1f324",
+			"fully_qualified": "1f324-fe0f",
 			"decimal": "&#127780;"
 		},
 		"name": "white sun with small cloud",
@@ -15220,7 +15319,8 @@
 	"1f325": {
 		"code_points": {
 			"base": "1f325",
-			"alt": "1f325-fe0f",
+			"non_fully_qualified": "1f325",
+			"fully_qualified": "1f325-fe0f",
 			"decimal": "&#127781;"
 		},
 		"name": "white sun behind cloud",
@@ -15234,7 +15334,8 @@
 	"1f326": {
 		"code_points": {
 			"base": "1f326",
-			"alt": "1f326-fe0f",
+			"non_fully_qualified": "1f326",
+			"fully_qualified": "1f326-fe0f",
 			"decimal": "&#127782;"
 		},
 		"name": "white sun behind cloud with rain",
@@ -15248,7 +15349,8 @@
 	"1f327": {
 		"code_points": {
 			"base": "1f327",
-			"alt": "1f327-fe0f",
+			"non_fully_qualified": "1f327",
+			"fully_qualified": "1f327-fe0f",
 			"decimal": "&#127783;"
 		},
 		"name": "cloud with rain",
@@ -15262,7 +15364,8 @@
 	"1f328": {
 		"code_points": {
 			"base": "1f328",
-			"alt": "1f328-fe0f",
+			"non_fully_qualified": "1f328",
+			"fully_qualified": "1f328-fe0f",
 			"decimal": "&#127784;"
 		},
 		"name": "cloud with snow",
@@ -15276,7 +15379,8 @@
 	"1f329": {
 		"code_points": {
 			"base": "1f329",
-			"alt": "1f329-fe0f",
+			"non_fully_qualified": "1f329",
+			"fully_qualified": "1f329-fe0f",
 			"decimal": "&#127785;"
 		},
 		"name": "cloud with lightning",
@@ -15290,7 +15394,8 @@
 	"1f32a": {
 		"code_points": {
 			"base": "1f32a",
-			"alt": "1f32a-fe0f",
+			"non_fully_qualified": "1f32a",
+			"fully_qualified": "1f32a-fe0f",
 			"decimal": "&#127786;"
 		},
 		"name": "cloud with tornado",
@@ -15304,7 +15409,8 @@
 	"1f32b": {
 		"code_points": {
 			"base": "1f32b",
-			"alt": "1f32b-fe0f",
+			"non_fully_qualified": "1f32b",
+			"fully_qualified": "1f32b-fe0f",
 			"decimal": "&#127787;"
 		},
 		"name": "fog",
@@ -15318,7 +15424,8 @@
 	"1f32c": {
 		"code_points": {
 			"base": "1f32c",
-			"alt": "1f32c-fe0f",
+			"non_fully_qualified": "1f32c",
+			"fully_qualified": "1f32c-fe0f",
 			"decimal": "&#127788;"
 		},
 		"name": "wind blowing face",
@@ -15374,7 +15481,8 @@
 	"2602": {
 		"code_points": {
 			"base": "2602",
-			"alt": "2602-fe0f",
+			"non_fully_qualified": "2602",
+			"fully_qualified": "2602-fe0f",
 			"decimal": "&#9730;"
 		},
 		"name": "umbrella",
@@ -15388,7 +15496,8 @@
 	"2614": {
 		"code_points": {
 			"base": "2614",
-			"alt": "2614-fe0f",
+			"non_fully_qualified": "2614",
+			"fully_qualified": "2614-fe0f",
 			"decimal": "&#9748;"
 		},
 		"name": "umbrella with rain drops",
@@ -15402,7 +15511,8 @@
 	"26f1": {
 		"code_points": {
 			"base": "26f1",
-			"alt": "26f1-fe0f",
+			"non_fully_qualified": "26f1",
+			"fully_qualified": "26f1-fe0f",
 			"decimal": "&#9969;"
 		},
 		"name": "umbrella on ground",
@@ -15416,7 +15526,8 @@
 	"26a1": {
 		"code_points": {
 			"base": "26a1",
-			"alt": "26a1-fe0f",
+			"non_fully_qualified": "26a1",
+			"fully_qualified": "26a1-fe0f",
 			"decimal": "&#9889;"
 		},
 		"name": "high voltage sign",
@@ -15430,7 +15541,8 @@
 	"2744": {
 		"code_points": {
 			"base": "2744",
-			"alt": "2744-fe0f",
+			"non_fully_qualified": "2744",
+			"fully_qualified": "2744-fe0f",
 			"decimal": "&#10052;"
 		},
 		"name": "snowflake",
@@ -15444,7 +15556,8 @@
 	"2603": {
 		"code_points": {
 			"base": "2603",
-			"alt": "2603-fe0f",
+			"non_fully_qualified": "2603",
+			"fully_qualified": "2603-fe0f",
 			"decimal": "&#9731;"
 		},
 		"name": "snowman",
@@ -15458,7 +15571,8 @@
 	"26c4": {
 		"code_points": {
 			"base": "26c4",
-			"alt": "26c4-fe0f",
+			"non_fully_qualified": "26c4",
+			"fully_qualified": "26c4-fe0f",
 			"decimal": "&#9924;"
 		},
 		"name": "snowman without snow",
@@ -15472,7 +15586,8 @@
 	"2604": {
 		"code_points": {
 			"base": "2604",
-			"alt": "2604-fe0f",
+			"non_fully_qualified": "2604",
+			"fully_qualified": "2604-fe0f",
 			"decimal": "&#9732;"
 		},
 		"name": "comet",
@@ -15752,7 +15867,8 @@
 	"1f397": {
 		"code_points": {
 			"base": "1f397",
-			"alt": "1f397-fe0f",
+			"non_fully_qualified": "1f397",
+			"fully_qualified": "1f397-fe0f",
 			"decimal": "&#127895;"
 		},
 		"name": "reminder ribbon",
@@ -15766,7 +15882,8 @@
 	"1f39f": {
 		"code_points": {
 			"base": "1f39f",
-			"alt": "1f39f-fe0f",
+			"non_fully_qualified": "1f39f",
+			"fully_qualified": "1f39f-fe0f",
 			"decimal": "&#127903;"
 		},
 		"name": "admission tickets",
@@ -15794,7 +15911,8 @@
 	"1f396": {
 		"code_points": {
 			"base": "1f396",
-			"alt": "1f396-fe0f",
+			"non_fully_qualified": "1f396",
+			"fully_qualified": "1f396-fe0f",
 			"decimal": "&#127894;"
 		},
 		"name": "military medal",
@@ -15878,7 +15996,8 @@
 	"26bd": {
 		"code_points": {
 			"base": "26bd",
-			"alt": "26bd-fe0f",
+			"non_fully_qualified": "26bd",
+			"fully_qualified": "26bd-fe0f",
 			"decimal": "&#9917;"
 		},
 		"name": "soccer ball",
@@ -15892,7 +16011,8 @@
 	"26be": {
 		"code_points": {
 			"base": "26be",
-			"alt": "26be-fe0f",
+			"non_fully_qualified": "26be",
+			"fully_qualified": "26be-fe0f",
 			"decimal": "&#9918;"
 		},
 		"name": "baseball",
@@ -16130,7 +16250,8 @@
 	"26f3": {
 		"code_points": {
 			"base": "26f3",
-			"alt": "26f3-fe0f",
+			"non_fully_qualified": "26f3",
+			"fully_qualified": "26f3-fe0f",
 			"decimal": "&#9971;"
 		},
 		"name": "flag in hole",
@@ -16144,7 +16265,8 @@
 	"26f8": {
 		"code_points": {
 			"base": "26f8",
-			"alt": "26f8-fe0f",
+			"non_fully_qualified": "26f8",
+			"fully_qualified": "26f8-fe0f",
 			"decimal": "&#9976;"
 		},
 		"name": "ice skate",
@@ -16214,7 +16336,8 @@
 	"1f579": {
 		"code_points": {
 			"base": "1f579",
-			"alt": "1f579-fe0f",
+			"non_fully_qualified": "1f579",
+			"fully_qualified": "1f579-fe0f",
 			"decimal": "&#128377;"
 		},
 		"name": "joystick",
@@ -16242,7 +16365,8 @@
 	"2660": {
 		"code_points": {
 			"base": "2660",
-			"alt": "2660-fe0f",
+			"non_fully_qualified": "2660",
+			"fully_qualified": "2660-fe0f",
 			"decimal": "&spades;"
 		},
 		"name": "black spade suit",
@@ -16256,7 +16380,8 @@
 	"2665": {
 		"code_points": {
 			"base": "2665",
-			"alt": "2665-fe0f",
+			"non_fully_qualified": "2665",
+			"fully_qualified": "2665-fe0f",
 			"decimal": "&hearts;"
 		},
 		"name": "black heart suit",
@@ -16270,7 +16395,8 @@
 	"2666": {
 		"code_points": {
 			"base": "2666",
-			"alt": "2666-fe0f",
+			"non_fully_qualified": "2666",
+			"fully_qualified": "2666-fe0f",
 			"decimal": "&diams;"
 		},
 		"name": "black diamond suit",
@@ -16284,7 +16410,8 @@
 	"2663": {
 		"code_points": {
 			"base": "2663",
-			"alt": "2663-fe0f",
+			"non_fully_qualified": "2663",
+			"fully_qualified": "2663-fe0f",
 			"decimal": "&clubs;"
 		},
 		"name": "black club suit",
@@ -16312,7 +16439,8 @@
 	"1f004": {
 		"code_points": {
 			"base": "1f004",
-			"alt": "1f004-fe0f",
+			"non_fully_qualified": "1f004",
+			"fully_qualified": "1f004-fe0f",
 			"decimal": "&#126980;"
 		},
 		"name": "mahjong tile red dragon",
@@ -16508,7 +16636,8 @@
 	"1f399": {
 		"code_points": {
 			"base": "1f399",
-			"alt": "1f399-fe0f",
+			"non_fully_qualified": "1f399",
+			"fully_qualified": "1f399-fe0f",
 			"decimal": "&#127897;"
 		},
 		"name": "studio microphone",
@@ -16522,7 +16651,8 @@
 	"1f39a": {
 		"code_points": {
 			"base": "1f39a",
-			"alt": "1f39a-fe0f",
+			"non_fully_qualified": "1f39a",
+			"fully_qualified": "1f39a-fe0f",
 			"decimal": "&#127898;"
 		},
 		"name": "level slider",
@@ -16536,7 +16666,8 @@
 	"1f39b": {
 		"code_points": {
 			"base": "1f39b",
-			"alt": "1f39b-fe0f",
+			"non_fully_qualified": "1f39b",
+			"fully_qualified": "1f39b-fe0f",
 			"decimal": "&#127899;"
 		},
 		"name": "control knobs",
@@ -16704,7 +16835,8 @@
 	"260e": {
 		"code_points": {
 			"base": "260e",
-			"alt": "260e-fe0f",
+			"non_fully_qualified": "260e",
+			"fully_qualified": "260e-fe0f",
 			"decimal": "&#9742;"
 		},
 		"name": "black telephone",
@@ -16802,7 +16934,8 @@
 	"1f5a5": {
 		"code_points": {
 			"base": "1f5a5",
-			"alt": "1f5a5-fe0f",
+			"non_fully_qualified": "1f5a5",
+			"fully_qualified": "1f5a5-fe0f",
 			"decimal": "&#128421;"
 		},
 		"name": "desktop computer",
@@ -16816,7 +16949,8 @@
 	"1f5a8": {
 		"code_points": {
 			"base": "1f5a8",
-			"alt": "1f5a8-fe0f",
+			"non_fully_qualified": "1f5a8",
+			"fully_qualified": "1f5a8-fe0f",
 			"decimal": "&#128424;"
 		},
 		"name": "printer",
@@ -16830,7 +16964,8 @@
 	"2328": {
 		"code_points": {
 			"base": "2328",
-			"alt": "2328-fe0f",
+			"non_fully_qualified": "2328",
+			"fully_qualified": "2328-fe0f",
 			"decimal": "&#9000;"
 		},
 		"name": "keyboard",
@@ -16844,7 +16979,8 @@
 	"1f5b1": {
 		"code_points": {
 			"base": "1f5b1",
-			"alt": "1f5b1-fe0f",
+			"non_fully_qualified": "1f5b1",
+			"fully_qualified": "1f5b1-fe0f",
 			"decimal": "&#128433;"
 		},
 		"name": "three button mouse",
@@ -16858,7 +16994,8 @@
 	"1f5b2": {
 		"code_points": {
 			"base": "1f5b2",
-			"alt": "1f5b2-fe0f",
+			"non_fully_qualified": "1f5b2",
+			"fully_qualified": "1f5b2-fe0f",
 			"decimal": "&#128434;"
 		},
 		"name": "trackball",
@@ -16942,7 +17079,8 @@
 	"1f39e": {
 		"code_points": {
 			"base": "1f39e",
-			"alt": "1f39e-fe0f",
+			"non_fully_qualified": "1f39e",
+			"fully_qualified": "1f39e-fe0f",
 			"decimal": "&#127902;"
 		},
 		"name": "film frames",
@@ -16956,7 +17094,8 @@
 	"1f4fd": {
 		"code_points": {
 			"base": "1f4fd",
-			"alt": "1f4fd-fe0f",
+			"non_fully_qualified": "1f4fd",
+			"fully_qualified": "1f4fd-fe0f",
 			"decimal": "&#128253;"
 		},
 		"name": "film projector",
@@ -17124,7 +17263,8 @@
 	"1f56f": {
 		"code_points": {
 			"base": "1f56f",
-			"alt": "1f56f-fe0f",
+			"non_fully_qualified": "1f56f",
+			"fully_qualified": "1f56f-fe0f",
 			"decimal": "&#128367;"
 		},
 		"name": "candle",
@@ -17362,7 +17502,8 @@
 	"1f5de": {
 		"code_points": {
 			"base": "1f5de",
-			"alt": "1f5de-fe0f",
+			"non_fully_qualified": "1f5de",
+			"fully_qualified": "1f5de-fe0f",
 			"decimal": "&#128478;"
 		},
 		"name": "rolled-up newspaper",
@@ -17404,7 +17545,8 @@
 	"1f3f7": {
 		"code_points": {
 			"base": "1f3f7",
-			"alt": "1f3f7-fe0f",
+			"non_fully_qualified": "1f3f7",
+			"fully_qualified": "1f3f7-fe0f",
 			"decimal": "&#127991;"
 		},
 		"name": "label",
@@ -17558,7 +17700,8 @@
 	"2709": {
 		"code_points": {
 			"base": "2709",
-			"alt": "2709-fe0f",
+			"non_fully_qualified": "2709",
+			"fully_qualified": "2709-fe0f",
 			"decimal": "&#9993;"
 		},
 		"name": "envelope",
@@ -17726,7 +17869,8 @@
 	"1f5f3": {
 		"code_points": {
 			"base": "1f5f3",
-			"alt": "1f5f3-fe0f",
+			"non_fully_qualified": "1f5f3",
+			"fully_qualified": "1f5f3-fe0f",
 			"decimal": "&#128499;"
 		},
 		"name": "ballot box with ballot",
@@ -17740,7 +17884,8 @@
 	"270f": {
 		"code_points": {
 			"base": "270f",
-			"alt": "270f-fe0f",
+			"non_fully_qualified": "270f",
+			"fully_qualified": "270f-fe0f",
 			"decimal": "&#9999;"
 		},
 		"name": "pencil",
@@ -17754,7 +17899,8 @@
 	"2712": {
 		"code_points": {
 			"base": "2712",
-			"alt": "2712-fe0f",
+			"non_fully_qualified": "2712",
+			"fully_qualified": "2712-fe0f",
 			"decimal": "&#10002;"
 		},
 		"name": "black nib",
@@ -17768,7 +17914,8 @@
 	"1f58b": {
 		"code_points": {
 			"base": "1f58b",
-			"alt": "1f58b-fe0f",
+			"non_fully_qualified": "1f58b",
+			"fully_qualified": "1f58b-fe0f",
 			"decimal": "&#128395;"
 		},
 		"name": "lower left fountain pen",
@@ -17782,7 +17929,8 @@
 	"1f58a": {
 		"code_points": {
 			"base": "1f58a",
-			"alt": "1f58a-fe0f",
+			"non_fully_qualified": "1f58a",
+			"fully_qualified": "1f58a-fe0f",
 			"decimal": "&#128394;"
 		},
 		"name": "lower left ballpoint pen",
@@ -17796,7 +17944,8 @@
 	"1f58c": {
 		"code_points": {
 			"base": "1f58c",
-			"alt": "1f58c-fe0f",
+			"non_fully_qualified": "1f58c",
+			"fully_qualified": "1f58c-fe0f",
 			"decimal": "&#128396;"
 		},
 		"name": "lower left paintbrush",
@@ -17810,7 +17959,8 @@
 	"1f58d": {
 		"code_points": {
 			"base": "1f58d",
-			"alt": "1f58d-fe0f",
+			"non_fully_qualified": "1f58d",
+			"fully_qualified": "1f58d-fe0f",
 			"decimal": "&#128397;"
 		},
 		"name": "lower left crayon",
@@ -17880,7 +18030,8 @@
 	"1f5c2": {
 		"code_points": {
 			"base": "1f5c2",
-			"alt": "1f5c2-fe0f",
+			"non_fully_qualified": "1f5c2",
+			"fully_qualified": "1f5c2-fe0f",
 			"decimal": "&#128450;"
 		},
 		"name": "card index dividers",
@@ -17922,7 +18073,8 @@
 	"1f5d2": {
 		"code_points": {
 			"base": "1f5d2",
-			"alt": "1f5d2-fe0f",
+			"non_fully_qualified": "1f5d2",
+			"fully_qualified": "1f5d2-fe0f",
 			"decimal": "&#128466;"
 		},
 		"name": "spiral note pad",
@@ -17936,7 +18088,8 @@
 	"1f5d3": {
 		"code_points": {
 			"base": "1f5d3",
-			"alt": "1f5d3-fe0f",
+			"non_fully_qualified": "1f5d3",
+			"fully_qualified": "1f5d3-fe0f",
 			"decimal": "&#128467;"
 		},
 		"name": "spiral calendar pad",
@@ -18062,7 +18215,8 @@
 	"1f587": {
 		"code_points": {
 			"base": "1f587",
-			"alt": "1f587-fe0f",
+			"non_fully_qualified": "1f587",
+			"fully_qualified": "1f587-fe0f",
 			"decimal": "&#128391;"
 		},
 		"name": "linked paperclips",
@@ -18104,7 +18258,8 @@
 	"2702": {
 		"code_points": {
 			"base": "2702",
-			"alt": "2702-fe0f",
+			"non_fully_qualified": "2702",
+			"fully_qualified": "2702-fe0f",
 			"decimal": "&#9986;"
 		},
 		"name": "black scissors",
@@ -18118,7 +18273,8 @@
 	"1f5c3": {
 		"code_points": {
 			"base": "1f5c3",
-			"alt": "1f5c3-fe0f",
+			"non_fully_qualified": "1f5c3",
+			"fully_qualified": "1f5c3-fe0f",
 			"decimal": "&#128451;"
 		},
 		"name": "card file box",
@@ -18132,7 +18288,8 @@
 	"1f5c4": {
 		"code_points": {
 			"base": "1f5c4",
-			"alt": "1f5c4-fe0f",
+			"non_fully_qualified": "1f5c4",
+			"fully_qualified": "1f5c4-fe0f",
 			"decimal": "&#128452;"
 		},
 		"name": "file cabinet",
@@ -18146,7 +18303,8 @@
 	"1f5d1": {
 		"code_points": {
 			"base": "1f5d1",
-			"alt": "1f5d1-fe0f",
+			"non_fully_qualified": "1f5d1",
+			"fully_qualified": "1f5d1-fe0f",
 			"decimal": "&#128465;"
 		},
 		"name": "wastebasket",
@@ -18230,7 +18388,8 @@
 	"1f5dd": {
 		"code_points": {
 			"base": "1f5dd",
-			"alt": "1f5dd-fe0f",
+			"non_fully_qualified": "1f5dd",
+			"fully_qualified": "1f5dd-fe0f",
 			"decimal": "&#128477;"
 		},
 		"name": "old key",
@@ -18258,7 +18417,8 @@
 	"26cf": {
 		"code_points": {
 			"base": "26cf",
-			"alt": "26cf-fe0f",
+			"non_fully_qualified": "26cf",
+			"fully_qualified": "26cf-fe0f",
 			"decimal": "&#9935;"
 		},
 		"name": "pick",
@@ -18272,7 +18432,8 @@
 	"2692": {
 		"code_points": {
 			"base": "2692",
-			"alt": "2692-fe0f",
+			"non_fully_qualified": "2692",
+			"fully_qualified": "2692-fe0f",
 			"decimal": "&#9874;"
 		},
 		"name": "hammer and pick",
@@ -18286,7 +18447,8 @@
 	"1f6e0": {
 		"code_points": {
 			"base": "1f6e0",
-			"alt": "1f6e0-fe0f",
+			"non_fully_qualified": "1f6e0",
+			"fully_qualified": "1f6e0-fe0f",
 			"decimal": "&#128736;"
 		},
 		"name": "hammer and wrench",
@@ -18300,7 +18462,8 @@
 	"1f5e1": {
 		"code_points": {
 			"base": "1f5e1",
-			"alt": "1f5e1-fe0f",
+			"non_fully_qualified": "1f5e1",
+			"fully_qualified": "1f5e1-fe0f",
 			"decimal": "&#128481;"
 		},
 		"name": "dagger knife",
@@ -18314,7 +18477,8 @@
 	"2694": {
 		"code_points": {
 			"base": "2694",
-			"alt": "2694-fe0f",
+			"non_fully_qualified": "2694",
+			"fully_qualified": "2694-fe0f",
 			"decimal": "&#9876;"
 		},
 		"name": "crossed swords",
@@ -18356,7 +18520,8 @@
 	"1f6e1": {
 		"code_points": {
 			"base": "1f6e1",
-			"alt": "1f6e1-fe0f",
+			"non_fully_qualified": "1f6e1",
+			"fully_qualified": "1f6e1-fe0f",
 			"decimal": "&#128737;"
 		},
 		"name": "shield",
@@ -18398,7 +18563,8 @@
 	"2699": {
 		"code_points": {
 			"base": "2699",
-			"alt": "2699-fe0f",
+			"non_fully_qualified": "2699",
+			"fully_qualified": "2699-fe0f",
 			"decimal": "&#9881;"
 		},
 		"name": "gear",
@@ -18412,7 +18578,8 @@
 	"1f5dc": {
 		"code_points": {
 			"base": "1f5dc",
-			"alt": "1f5dc-fe0f",
+			"non_fully_qualified": "1f5dc",
+			"fully_qualified": "1f5dc-fe0f",
 			"decimal": "&#128476;"
 		},
 		"name": "compression",
@@ -18426,7 +18593,8 @@
 	"2697": {
 		"code_points": {
 			"base": "2697",
-			"alt": "2697-fe0f",
+			"non_fully_qualified": "2697",
+			"fully_qualified": "2697-fe0f",
 			"decimal": "&#9879;"
 		},
 		"name": "alembic",
@@ -18440,7 +18608,8 @@
 	"2696": {
 		"code_points": {
 			"base": "2696",
-			"alt": "2696-fe0f",
+			"non_fully_qualified": "2696",
+			"fully_qualified": "2696-fe0f",
 			"decimal": "&#9878;"
 		},
 		"name": "scales",
@@ -18468,7 +18637,8 @@
 	"26d3": {
 		"code_points": {
 			"base": "26d3",
-			"alt": "26d3-fe0f",
+			"non_fully_qualified": "26d3",
+			"fully_qualified": "26d3-fe0f",
 			"decimal": "&#9939;"
 		},
 		"name": "chains",
@@ -18524,7 +18694,8 @@
 	"26b0": {
 		"code_points": {
 			"base": "26b0",
-			"alt": "26b0-fe0f",
+			"non_fully_qualified": "26b0",
+			"fully_qualified": "26b0-fe0f",
 			"decimal": "&#9904;"
 		},
 		"name": "coffin",
@@ -18538,7 +18709,8 @@
 	"26b1": {
 		"code_points": {
 			"base": "26b1",
-			"alt": "26b1-fe0f",
+			"non_fully_qualified": "26b1",
+			"fully_qualified": "26b1-fe0f",
 			"decimal": "&#9905;"
 		},
 		"name": "funeral urn",
@@ -18566,7 +18738,8 @@
 	"1f6e2": {
 		"code_points": {
 			"base": "1f6e2",
-			"alt": "1f6e2-fe0f",
+			"non_fully_qualified": "1f6e2",
+			"fully_qualified": "1f6e2-fe0f",
 			"decimal": "&#128738;"
 		},
 		"name": "oil drum",
@@ -18650,7 +18823,8 @@
 	"267f": {
 		"code_points": {
 			"base": "267f",
-			"alt": "267f-fe0f",
+			"non_fully_qualified": "267f",
+			"fully_qualified": "267f-fe0f",
 			"decimal": "&#9855;"
 		},
 		"name": "wheelchair symbol",
@@ -18790,7 +18964,8 @@
 	"26a0": {
 		"code_points": {
 			"base": "26a0",
-			"alt": "26a0-fe0f",
+			"non_fully_qualified": "26a0",
+			"fully_qualified": "26a0-fe0f",
 			"decimal": "&#9888;"
 		},
 		"name": "warning sign",
@@ -18818,7 +18993,8 @@
 	"26d4": {
 		"code_points": {
 			"base": "26d4",
-			"alt": "26d4-fe0f",
+			"non_fully_qualified": "26d4",
+			"fully_qualified": "26d4-fe0f",
 			"decimal": "&#9940;"
 		},
 		"name": "no entry",
@@ -18944,7 +19120,8 @@
 	"2622": {
 		"code_points": {
 			"base": "2622",
-			"alt": "2622-fe0f",
+			"non_fully_qualified": "2622",
+			"fully_qualified": "2622-fe0f",
 			"decimal": "&#9762;"
 		},
 		"name": "radioactive sign",
@@ -18958,7 +19135,8 @@
 	"2623": {
 		"code_points": {
 			"base": "2623",
-			"alt": "2623-fe0f",
+			"non_fully_qualified": "2623",
+			"fully_qualified": "2623-fe0f",
 			"decimal": "&#9763;"
 		},
 		"name": "biohazard sign",
@@ -18972,7 +19150,8 @@
 	"2b06": {
 		"code_points": {
 			"base": "2b06",
-			"alt": "2b06-fe0f",
+			"non_fully_qualified": "2b06",
+			"fully_qualified": "2b06-fe0f",
 			"decimal": "&#11014;"
 		},
 		"name": "upwards black arrow",
@@ -18986,7 +19165,8 @@
 	"2197": {
 		"code_points": {
 			"base": "2197",
-			"alt": "2197-fe0f",
+			"non_fully_qualified": "2197",
+			"fully_qualified": "2197-fe0f",
 			"decimal": "&#8599;"
 		},
 		"name": "north east arrow",
@@ -19000,7 +19180,8 @@
 	"27a1": {
 		"code_points": {
 			"base": "27a1",
-			"alt": "27a1-fe0f",
+			"non_fully_qualified": "27a1",
+			"fully_qualified": "27a1-fe0f",
 			"decimal": "&#10145;"
 		},
 		"name": "black rightwards arrow",
@@ -19014,7 +19195,8 @@
 	"2198": {
 		"code_points": {
 			"base": "2198",
-			"alt": "2198-fe0f",
+			"non_fully_qualified": "2198",
+			"fully_qualified": "2198-fe0f",
 			"decimal": "&#8600;"
 		},
 		"name": "south east arrow",
@@ -19028,7 +19210,8 @@
 	"2b07": {
 		"code_points": {
 			"base": "2b07",
-			"alt": "2b07-fe0f",
+			"non_fully_qualified": "2b07",
+			"fully_qualified": "2b07-fe0f",
 			"decimal": "&#11015;"
 		},
 		"name": "downwards black arrow",
@@ -19042,7 +19225,8 @@
 	"2199": {
 		"code_points": {
 			"base": "2199",
-			"alt": "2199-fe0f",
+			"non_fully_qualified": "2199",
+			"fully_qualified": "2199-fe0f",
 			"decimal": "&#8601;"
 		},
 		"name": "south west arrow",
@@ -19056,7 +19240,8 @@
 	"2b05": {
 		"code_points": {
 			"base": "2b05",
-			"alt": "2b05-fe0f",
+			"non_fully_qualified": "2b05",
+			"fully_qualified": "2b05-fe0f",
 			"decimal": "&#11013;"
 		},
 		"name": "leftwards black arrow",
@@ -19070,7 +19255,8 @@
 	"2196": {
 		"code_points": {
 			"base": "2196",
-			"alt": "2196-fe0f",
+			"non_fully_qualified": "2196",
+			"fully_qualified": "2196-fe0f",
 			"decimal": "&#8598;"
 		},
 		"name": "north west arrow",
@@ -19084,7 +19270,8 @@
 	"2195": {
 		"code_points": {
 			"base": "2195",
-			"alt": "2195-fe0f",
+			"non_fully_qualified": "2195",
+			"fully_qualified": "2195-fe0f",
 			"decimal": "&#8597;"
 		},
 		"name": "up down arrow",
@@ -19098,7 +19285,8 @@
 	"2194": {
 		"code_points": {
 			"base": "2194",
-			"alt": "2194-fe0f",
+			"non_fully_qualified": "2194",
+			"fully_qualified": "2194-fe0f",
 			"decimal": "&harr;"
 		},
 		"name": "left right arrow",
@@ -19112,7 +19300,8 @@
 	"21a9": {
 		"code_points": {
 			"base": "21a9",
-			"alt": "21a9-fe0f",
+			"non_fully_qualified": "21a9",
+			"fully_qualified": "21a9-fe0f",
 			"decimal": "&#8617;"
 		},
 		"name": "leftwards arrow with hook",
@@ -19126,7 +19315,8 @@
 	"21aa": {
 		"code_points": {
 			"base": "21aa",
-			"alt": "21aa-fe0f",
+			"non_fully_qualified": "21aa",
+			"fully_qualified": "21aa-fe0f",
 			"decimal": "&#8618;"
 		},
 		"name": "rightwards arrow with hook",
@@ -19140,7 +19330,8 @@
 	"2934": {
 		"code_points": {
 			"base": "2934",
-			"alt": "2934-fe0f",
+			"non_fully_qualified": "2934",
+			"fully_qualified": "2934-fe0f",
 			"decimal": "&#10548;"
 		},
 		"name": "arrow pointing rightwards then curving upwards",
@@ -19154,7 +19345,8 @@
 	"2935": {
 		"code_points": {
 			"base": "2935",
-			"alt": "2935-fe0f",
+			"non_fully_qualified": "2935",
+			"fully_qualified": "2935-fe0f",
 			"decimal": "&#10549;"
 		},
 		"name": "arrow pointing rightwards then curving downwards",
@@ -19280,7 +19472,8 @@
 	"269b": {
 		"code_points": {
 			"base": "269b",
-			"alt": "269b-fe0f",
+			"non_fully_qualified": "269b",
+			"fully_qualified": "269b-fe0f",
 			"decimal": "&#9883;"
 		},
 		"name": "atom symbol",
@@ -19294,7 +19487,8 @@
 	"1f549": {
 		"code_points": {
 			"base": "1f549",
-			"alt": "1f549-fe0f",
+			"non_fully_qualified": "1f549",
+			"fully_qualified": "1f549-fe0f",
 			"decimal": "&#128329;"
 		},
 		"name": "om symbol",
@@ -19308,7 +19502,8 @@
 	"2721": {
 		"code_points": {
 			"base": "2721",
-			"alt": "2721-fe0f",
+			"non_fully_qualified": "2721",
+			"fully_qualified": "2721-fe0f",
 			"decimal": "&#10017;"
 		},
 		"name": "star of david",
@@ -19322,7 +19517,8 @@
 	"2638": {
 		"code_points": {
 			"base": "2638",
-			"alt": "2638-fe0f",
+			"non_fully_qualified": "2638",
+			"fully_qualified": "2638-fe0f",
 			"decimal": "&#9784;"
 		},
 		"name": "wheel of dharma",
@@ -19336,7 +19532,8 @@
 	"262f": {
 		"code_points": {
 			"base": "262f",
-			"alt": "262f-fe0f",
+			"non_fully_qualified": "262f",
+			"fully_qualified": "262f-fe0f",
 			"decimal": "&#9775;"
 		},
 		"name": "yin yang",
@@ -19350,7 +19547,8 @@
 	"271d": {
 		"code_points": {
 			"base": "271d",
-			"alt": "271d-fe0f",
+			"non_fully_qualified": "271d",
+			"fully_qualified": "271d-fe0f",
 			"decimal": "&#10013;"
 		},
 		"name": "latin cross",
@@ -19364,7 +19562,8 @@
 	"2626": {
 		"code_points": {
 			"base": "2626",
-			"alt": "2626-fe0f",
+			"non_fully_qualified": "2626",
+			"fully_qualified": "2626-fe0f",
 			"decimal": "&#9766;"
 		},
 		"name": "orthodox cross",
@@ -19378,7 +19577,8 @@
 	"262a": {
 		"code_points": {
 			"base": "262a",
-			"alt": "262a-fe0f",
+			"non_fully_qualified": "262a",
+			"fully_qualified": "262a-fe0f",
 			"decimal": "&#9770;"
 		},
 		"name": "star and crescent",
@@ -19392,7 +19592,8 @@
 	"262e": {
 		"code_points": {
 			"base": "262e",
-			"alt": "262e-fe0f",
+			"non_fully_qualified": "262e",
+			"fully_qualified": "262e-fe0f",
 			"decimal": "&#9774;"
 		},
 		"name": "peace symbol",
@@ -19434,7 +19635,8 @@
 	"2648": {
 		"code_points": {
 			"base": "2648",
-			"alt": "2648-fe0f",
+			"non_fully_qualified": "2648",
+			"fully_qualified": "2648-fe0f",
 			"decimal": "&#9800;"
 		},
 		"name": "aries",
@@ -19448,7 +19650,8 @@
 	"2649": {
 		"code_points": {
 			"base": "2649",
-			"alt": "2649-fe0f",
+			"non_fully_qualified": "2649",
+			"fully_qualified": "2649-fe0f",
 			"decimal": "&#9801;"
 		},
 		"name": "taurus",
@@ -19462,7 +19665,8 @@
 	"264a": {
 		"code_points": {
 			"base": "264a",
-			"alt": "264a-fe0f",
+			"non_fully_qualified": "264a",
+			"fully_qualified": "264a-fe0f",
 			"decimal": "&#9802;"
 		},
 		"name": "gemini",
@@ -19476,7 +19680,8 @@
 	"264b": {
 		"code_points": {
 			"base": "264b",
-			"alt": "264b-fe0f",
+			"non_fully_qualified": "264b",
+			"fully_qualified": "264b-fe0f",
 			"decimal": "&#9803;"
 		},
 		"name": "cancer",
@@ -19490,7 +19695,8 @@
 	"264c": {
 		"code_points": {
 			"base": "264c",
-			"alt": "264c-fe0f",
+			"non_fully_qualified": "264c",
+			"fully_qualified": "264c-fe0f",
 			"decimal": "&#9804;"
 		},
 		"name": "leo",
@@ -19504,7 +19710,8 @@
 	"264d": {
 		"code_points": {
 			"base": "264d",
-			"alt": "264d-fe0f",
+			"non_fully_qualified": "264d",
+			"fully_qualified": "264d-fe0f",
 			"decimal": "&#9805;"
 		},
 		"name": "virgo",
@@ -19518,7 +19725,8 @@
 	"264e": {
 		"code_points": {
 			"base": "264e",
-			"alt": "264e-fe0f",
+			"non_fully_qualified": "264e",
+			"fully_qualified": "264e-fe0f",
 			"decimal": "&#9806;"
 		},
 		"name": "libra",
@@ -19532,7 +19740,8 @@
 	"264f": {
 		"code_points": {
 			"base": "264f",
-			"alt": "264f-fe0f",
+			"non_fully_qualified": "264f",
+			"fully_qualified": "264f-fe0f",
 			"decimal": "&#9807;"
 		},
 		"name": "scorpius",
@@ -19546,7 +19755,8 @@
 	"2650": {
 		"code_points": {
 			"base": "2650",
-			"alt": "2650-fe0f",
+			"non_fully_qualified": "2650",
+			"fully_qualified": "2650-fe0f",
 			"decimal": "&#9808;"
 		},
 		"name": "sagittarius",
@@ -19560,7 +19770,8 @@
 	"2651": {
 		"code_points": {
 			"base": "2651",
-			"alt": "2651-fe0f",
+			"non_fully_qualified": "2651",
+			"fully_qualified": "2651-fe0f",
 			"decimal": "&#9809;"
 		},
 		"name": "capricorn",
@@ -19574,7 +19785,8 @@
 	"2652": {
 		"code_points": {
 			"base": "2652",
-			"alt": "2652-fe0f",
+			"non_fully_qualified": "2652",
+			"fully_qualified": "2652-fe0f",
 			"decimal": "&#9810;"
 		},
 		"name": "aquarius",
@@ -19588,7 +19800,8 @@
 	"2653": {
 		"code_points": {
 			"base": "2653",
-			"alt": "2653-fe0f",
+			"non_fully_qualified": "2653",
+			"fully_qualified": "2653-fe0f",
 			"decimal": "&#9811;"
 		},
 		"name": "pisces",
@@ -19658,7 +19871,8 @@
 	"25b6": {
 		"code_points": {
 			"base": "25b6",
-			"alt": "25b6-fe0f",
+			"non_fully_qualified": "25b6",
+			"fully_qualified": "25b6-fe0f",
 			"decimal": "&#9654;"
 		},
 		"name": "black right-pointing triangle",
@@ -19686,7 +19900,8 @@
 	"23ed": {
 		"code_points": {
 			"base": "23ed",
-			"alt": "23ed-fe0f",
+			"non_fully_qualified": "23ed",
+			"fully_qualified": "23ed-fe0f",
 			"decimal": "&#9197;"
 		},
 		"name": "black right-pointing double triangle with vertical bar",
@@ -19700,7 +19915,8 @@
 	"23ef": {
 		"code_points": {
 			"base": "23ef",
-			"alt": "23ef-fe0f",
+			"non_fully_qualified": "23ef",
+			"fully_qualified": "23ef-fe0f",
 			"decimal": "&#9199;"
 		},
 		"name": "black right-pointing double triangle with double vertical bar",
@@ -19714,7 +19930,8 @@
 	"25c0": {
 		"code_points": {
 			"base": "25c0",
-			"alt": "25c0-fe0f",
+			"non_fully_qualified": "25c0",
+			"fully_qualified": "25c0-fe0f",
 			"decimal": "&#9664;"
 		},
 		"name": "black left-pointing triangle",
@@ -19742,7 +19959,8 @@
 	"23ee": {
 		"code_points": {
 			"base": "23ee",
-			"alt": "23ee-fe0f",
+			"non_fully_qualified": "23ee",
+			"fully_qualified": "23ee-fe0f",
 			"decimal": "&#9198;"
 		},
 		"name": "black left-pointing double triangle with vertical bar",
@@ -19812,7 +20030,8 @@
 	"23f8": {
 		"code_points": {
 			"base": "23f8",
-			"alt": "23f8-fe0f",
+			"non_fully_qualified": "23f8",
+			"fully_qualified": "23f8-fe0f",
 			"decimal": "&#9208;"
 		},
 		"name": "double vertical bar",
@@ -19826,7 +20045,8 @@
 	"23f9": {
 		"code_points": {
 			"base": "23f9",
-			"alt": "23f9-fe0f",
+			"non_fully_qualified": "23f9",
+			"fully_qualified": "23f9-fe0f",
 			"decimal": "&#9209;"
 		},
 		"name": "black square for stop",
@@ -19840,7 +20060,8 @@
 	"23fa": {
 		"code_points": {
 			"base": "23fa",
-			"alt": "23fa-fe0f",
+			"non_fully_qualified": "23fa",
+			"fully_qualified": "23fa-fe0f",
 			"decimal": "&#9210;"
 		},
 		"name": "black circle for record",
@@ -19854,7 +20075,8 @@
 	"23cf": {
 		"code_points": {
 			"base": "23cf",
-			"alt": "23cf-fe0f",
+			"non_fully_qualified": "23cf",
+			"fully_qualified": "23cf-fe0f",
 			"decimal": "&#9167;"
 		},
 		"name": "eject symbol",
@@ -19952,7 +20174,8 @@
 	"267b": {
 		"code_points": {
 			"base": "267b",
-			"alt": "267b-fe0f",
+			"non_fully_qualified": "267b",
+			"fully_qualified": "267b-fe0f",
 			"decimal": "&#9851;"
 		},
 		"name": "black universal recycling symbol",
@@ -19980,7 +20203,8 @@
 	"269c": {
 		"code_points": {
 			"base": "269c",
-			"alt": "269c-fe0f",
+			"non_fully_qualified": "269c",
+			"fully_qualified": "269c-fe0f",
 			"decimal": "&#9884;"
 		},
 		"name": "fleur-de-lis",
@@ -20022,7 +20246,8 @@
 	"2b55": {
 		"code_points": {
 			"base": "2b55",
-			"alt": "2b55-fe0f",
+			"non_fully_qualified": "2b55",
+			"fully_qualified": "2b55-fe0f",
 			"decimal": "&#11093;"
 		},
 		"name": "heavy large circle",
@@ -20050,7 +20275,8 @@
 	"2611": {
 		"code_points": {
 			"base": "2611",
-			"alt": "2611-fe0f",
+			"non_fully_qualified": "2611",
+			"fully_qualified": "2611-fe0f",
 			"decimal": "&#9745;"
 		},
 		"name": "ballot box with check",
@@ -20064,7 +20290,8 @@
 	"2714": {
 		"code_points": {
 			"base": "2714",
-			"alt": "2714-fe0f",
+			"non_fully_qualified": "2714",
+			"fully_qualified": "2714-fe0f",
 			"decimal": "&#10004;"
 		},
 		"name": "heavy check mark",
@@ -20078,7 +20305,8 @@
 	"2716": {
 		"code_points": {
 			"base": "2716",
-			"alt": "2716-fe0f",
+			"non_fully_qualified": "2716",
+			"fully_qualified": "2716-fe0f",
 			"decimal": "&#10006;"
 		},
 		"name": "heavy multiplication x",
@@ -20190,7 +20418,8 @@
 	"303d": {
 		"code_points": {
 			"base": "303d",
-			"alt": "303d-fe0f",
+			"non_fully_qualified": "303d",
+			"fully_qualified": "303d-fe0f",
 			"decimal": "&#12349;"
 		},
 		"name": "part alternation mark",
@@ -20204,7 +20433,8 @@
 	"2733": {
 		"code_points": {
 			"base": "2733",
-			"alt": "2733-fe0f",
+			"non_fully_qualified": "2733",
+			"fully_qualified": "2733-fe0f",
 			"decimal": "&#10035;"
 		},
 		"name": "eight spoked asterisk",
@@ -20218,7 +20448,8 @@
 	"2734": {
 		"code_points": {
 			"base": "2734",
-			"alt": "2734-fe0f",
+			"non_fully_qualified": "2734",
+			"fully_qualified": "2734-fe0f",
 			"decimal": "&#10036;"
 		},
 		"name": "eight pointed black star",
@@ -20232,7 +20463,8 @@
 	"2747": {
 		"code_points": {
 			"base": "2747",
-			"alt": "2747-fe0f",
+			"non_fully_qualified": "2747",
+			"fully_qualified": "2747-fe0f",
 			"decimal": "&#10055;"
 		},
 		"name": "sparkle",
@@ -20246,7 +20478,8 @@
 	"203c": {
 		"code_points": {
 			"base": "203c",
-			"alt": "203c-fe0f",
+			"non_fully_qualified": "203c",
+			"fully_qualified": "203c-fe0f",
 			"decimal": "&#8252;"
 		},
 		"name": "double exclamation mark",
@@ -20260,7 +20493,8 @@
 	"2049": {
 		"code_points": {
 			"base": "2049",
-			"alt": "2049-fe0f",
+			"non_fully_qualified": "2049",
+			"fully_qualified": "2049-fe0f",
 			"decimal": "&#8265;"
 		},
 		"name": "exclamation question mark",
@@ -20316,7 +20550,8 @@
 	"2757": {
 		"code_points": {
 			"base": "2757",
-			"alt": "2757-fe0f",
+			"non_fully_qualified": "2757",
+			"fully_qualified": "2757-fe0f",
 			"decimal": "&#10071;"
 		},
 		"name": "heavy exclamation mark symbol",
@@ -20330,7 +20565,8 @@
 	"3030": {
 		"code_points": {
 			"base": "3030",
-			"alt": "3030-fe0f",
+			"non_fully_qualified": "3030",
+			"fully_qualified": "3030-fe0f",
 			"decimal": "&#12336;"
 		},
 		"name": "wavy dash",
@@ -20344,7 +20580,8 @@
 	"00a9": {
 		"code_points": {
 			"base": "00a9",
-			"alt": "00a9-fe0f",
+			"non_fully_qualified": "00a9",
+			"fully_qualified": "00a9-fe0f",
 			"decimal": "&copy;"
 		},
 		"name": "copyright sign",
@@ -20358,7 +20595,8 @@
 	"00ae": {
 		"code_points": {
 			"base": "00ae",
-			"alt": "00ae-fe0f",
+			"non_fully_qualified": "00ae",
+			"fully_qualified": "00ae-fe0f",
 			"decimal": "&reg;"
 		},
 		"name": "registered sign",
@@ -20372,7 +20610,8 @@
 	"2122": {
 		"code_points": {
 			"base": "2122",
-			"alt": "2122-fe0f",
+			"non_fully_qualified": "2122",
+			"fully_qualified": "2122-fe0f",
 			"decimal": "&trade;"
 		},
 		"name": "trade mark sign",
@@ -20386,7 +20625,8 @@
 	"0023-20e3": {
 		"code_points": {
 			"base": "0023-20e3",
-			"alt": "0023-fe0f-20e3",
+			"non_fully_qualified": "0023-20e3",
+			"fully_qualified": "0023-fe0f-20e3",
 			"decimal": "#&#8419;"
 		},
 		"name": "keycap number sign",
@@ -20400,7 +20640,8 @@
 	"002a-20e3": {
 		"code_points": {
 			"base": "002a-20e3",
-			"alt": "002a-fe0f-20e3",
+			"non_fully_qualified": "002a-20e3",
+			"fully_qualified": "002a-fe0f-20e3",
 			"decimal": "*&#8419;"
 		},
 		"name": "keycap asterisk",
@@ -20414,7 +20655,8 @@
 	"0030-20e3": {
 		"code_points": {
 			"base": "0030-20e3",
-			"alt": "0030-fe0f-20e3",
+			"non_fully_qualified": "0030-20e3",
+			"fully_qualified": "0030-fe0f-20e3",
 			"decimal": "0&#8419;"
 		},
 		"name": "keycap digit zero",
@@ -20428,7 +20670,8 @@
 	"0031-20e3": {
 		"code_points": {
 			"base": "0031-20e3",
-			"alt": "0031-fe0f-20e3",
+			"non_fully_qualified": "0031-20e3",
+			"fully_qualified": "0031-fe0f-20e3",
 			"decimal": "1&#8419;"
 		},
 		"name": "keycap digit one",
@@ -20442,7 +20685,8 @@
 	"0032-20e3": {
 		"code_points": {
 			"base": "0032-20e3",
-			"alt": "0032-fe0f-20e3",
+			"non_fully_qualified": "0032-20e3",
+			"fully_qualified": "0032-fe0f-20e3",
 			"decimal": "2&#8419;"
 		},
 		"name": "keycap digit two",
@@ -20456,7 +20700,8 @@
 	"0033-20e3": {
 		"code_points": {
 			"base": "0033-20e3",
-			"alt": "0033-fe0f-20e3",
+			"non_fully_qualified": "0033-20e3",
+			"fully_qualified": "0033-fe0f-20e3",
 			"decimal": "3&#8419;"
 		},
 		"name": "keycap digit three",
@@ -20470,7 +20715,8 @@
 	"0034-20e3": {
 		"code_points": {
 			"base": "0034-20e3",
-			"alt": "0034-fe0f-20e3",
+			"non_fully_qualified": "0034-20e3",
+			"fully_qualified": "0034-fe0f-20e3",
 			"decimal": "4&#8419;"
 		},
 		"name": "keycap digit four",
@@ -20484,7 +20730,8 @@
 	"0035-20e3": {
 		"code_points": {
 			"base": "0035-20e3",
-			"alt": "0035-fe0f-20e3",
+			"non_fully_qualified": "0035-20e3",
+			"fully_qualified": "0035-fe0f-20e3",
 			"decimal": "5&#8419;"
 		},
 		"name": "keycap digit five",
@@ -20498,7 +20745,8 @@
 	"0036-20e3": {
 		"code_points": {
 			"base": "0036-20e3",
-			"alt": "0036-fe0f-20e3",
+			"non_fully_qualified": "0036-20e3",
+			"fully_qualified": "0036-fe0f-20e3",
 			"decimal": "6&#8419;"
 		},
 		"name": "keycap digit six",
@@ -20512,7 +20760,8 @@
 	"0037-20e3": {
 		"code_points": {
 			"base": "0037-20e3",
-			"alt": "0037-fe0f-20e3",
+			"non_fully_qualified": "0037-20e3",
+			"fully_qualified": "0037-fe0f-20e3",
 			"decimal": "7&#8419;"
 		},
 		"name": "keycap digit seven",
@@ -20526,7 +20775,8 @@
 	"0038-20e3": {
 		"code_points": {
 			"base": "0038-20e3",
-			"alt": "0038-fe0f-20e3",
+			"non_fully_qualified": "0038-20e3",
+			"fully_qualified": "0038-fe0f-20e3",
 			"decimal": "8&#8419;"
 		},
 		"name": "keycap digit eight",
@@ -20540,7 +20790,8 @@
 	"0039-20e3": {
 		"code_points": {
 			"base": "0039-20e3",
-			"alt": "0039-fe0f-20e3",
+			"non_fully_qualified": "0039-20e3",
+			"fully_qualified": "0039-fe0f-20e3",
 			"decimal": "9&#8419;"
 		},
 		"name": "keycap digit nine",
@@ -20736,7 +20987,8 @@
 	"2139": {
 		"code_points": {
 			"base": "2139",
-			"alt": "2139-fe0f",
+			"non_fully_qualified": "2139",
+			"fully_qualified": "2139-fe0f",
 			"decimal": "&#8505;"
 		},
 		"name": "information source",
@@ -20764,7 +21016,8 @@
 	"24c2": {
 		"code_points": {
 			"base": "24c2",
-			"alt": "24c2-fe0f",
+			"non_fully_qualified": "24c2",
+			"fully_qualified": "24c2-fe0f",
 			"decimal": "&#9410;"
 		},
 		"name": "circled latin capital letter m",
@@ -20834,7 +21087,8 @@
 	"1f17f": {
 		"code_points": {
 			"base": "1f17f",
-			"alt": "1f17f-fe0f",
+			"non_fully_qualified": "1f17f",
+			"fully_qualified": "1f17f-fe0f",
 			"decimal": "&#127359;"
 		},
 		"name": "negative squared latin capital letter p",
@@ -20904,7 +21158,8 @@
 	"1f202": {
 		"code_points": {
 			"base": "1f202",
-			"alt": "1f202-fe0f",
+			"non_fully_qualified": "1f202",
+			"fully_qualified": "1f202-fe0f",
 			"decimal": "&#127490;"
 		},
 		"name": "squared katakana sa",
@@ -20918,7 +21173,8 @@
 	"1f237": {
 		"code_points": {
 			"base": "1f237",
-			"alt": "1f237-fe0f",
+			"non_fully_qualified": "1f237",
+			"fully_qualified": "1f237-fe0f",
 			"decimal": "&#127543;"
 		},
 		"name": "squared cjk unified ideograph-6708",
@@ -20946,7 +21202,8 @@
 	"1f22f": {
 		"code_points": {
 			"base": "1f22f",
-			"alt": "1f22f-fe0f",
+			"non_fully_qualified": "1f22f",
+			"fully_qualified": "1f22f-fe0f",
 			"decimal": "&#127535;"
 		},
 		"name": "squared cjk unified ideograph-6307",
@@ -20988,7 +21245,8 @@
 	"1f21a": {
 		"code_points": {
 			"base": "1f21a",
-			"alt": "1f21a-fe0f",
+			"non_fully_qualified": "1f21a",
+			"fully_qualified": "1f21a-fe0f",
 			"decimal": "&#127514;"
 		},
 		"name": "squared cjk unified ideograph-7121",
@@ -21072,7 +21330,8 @@
 	"3297": {
 		"code_points": {
 			"base": "3297",
-			"alt": "3297-fe0f",
+			"non_fully_qualified": "3297",
+			"fully_qualified": "3297-fe0f",
 			"decimal": "&#12951;"
 		},
 		"name": "circled ideograph congratulation",
@@ -21086,7 +21345,8 @@
 	"3299": {
 		"code_points": {
 			"base": "3299",
-			"alt": "3299-fe0f",
+			"non_fully_qualified": "3299",
+			"fully_qualified": "3299-fe0f",
 			"decimal": "&#12953;"
 		},
 		"name": "circled ideograph secret",
@@ -21128,7 +21388,8 @@
 	"25aa": {
 		"code_points": {
 			"base": "25aa",
-			"alt": "25aa-fe0f",
+			"non_fully_qualified": "25aa",
+			"fully_qualified": "25aa-fe0f",
 			"decimal": "&#9642;"
 		},
 		"name": "black small square",
@@ -21142,7 +21403,8 @@
 	"25ab": {
 		"code_points": {
 			"base": "25ab",
-			"alt": "25ab-fe0f",
+			"non_fully_qualified": "25ab",
+			"fully_qualified": "25ab-fe0f",
 			"decimal": "&#9643;"
 		},
 		"name": "white small square",
@@ -21156,7 +21418,8 @@
 	"25fb": {
 		"code_points": {
 			"base": "25fb",
-			"alt": "25fb-fe0f",
+			"non_fully_qualified": "25fb",
+			"fully_qualified": "25fb-fe0f",
 			"decimal": "&#9723;"
 		},
 		"name": "white medium square",
@@ -21170,7 +21433,8 @@
 	"25fc": {
 		"code_points": {
 			"base": "25fc",
-			"alt": "25fc-fe0f",
+			"non_fully_qualified": "25fc",
+			"fully_qualified": "25fc-fe0f",
 			"decimal": "&#9724;"
 		},
 		"name": "black medium square",
@@ -21184,7 +21448,8 @@
 	"25fd": {
 		"code_points": {
 			"base": "25fd",
-			"alt": "25fd-fe0f",
+			"non_fully_qualified": "25fd",
+			"fully_qualified": "25fd-fe0f",
 			"decimal": "&#9725;"
 		},
 		"name": "white medium small square",
@@ -21198,7 +21463,8 @@
 	"25fe": {
 		"code_points": {
 			"base": "25fe",
-			"alt": "25fe-fe0f",
+			"non_fully_qualified": "25fe",
+			"fully_qualified": "25fe-fe0f",
 			"decimal": "&#9726;"
 		},
 		"name": "black medium small square",
@@ -21212,7 +21478,8 @@
 	"2b1b": {
 		"code_points": {
 			"base": "2b1b",
-			"alt": "2b1b-fe0f",
+			"non_fully_qualified": "2b1b",
+			"fully_qualified": "2b1b-fe0f",
 			"decimal": "&#11035;"
 		},
 		"name": "black large square",
@@ -21226,7 +21493,8 @@
 	"2b1c": {
 		"code_points": {
 			"base": "2b1c",
-			"alt": "2b1c-fe0f",
+			"non_fully_qualified": "2b1c",
+			"fully_qualified": "2b1c-fe0f",
 			"decimal": "&#11036;"
 		},
 		"name": "white large square",
@@ -21380,7 +21648,8 @@
 	"26aa": {
 		"code_points": {
 			"base": "26aa",
-			"alt": "26aa-fe0f",
+			"non_fully_qualified": "26aa",
+			"fully_qualified": "26aa-fe0f",
 			"decimal": "&#9898;"
 		},
 		"name": "white circle",
@@ -21394,7 +21663,8 @@
 	"26ab": {
 		"code_points": {
 			"base": "26ab",
-			"alt": "26ab-fe0f",
+			"non_fully_qualified": "26ab",
+			"fully_qualified": "26ab-fe0f",
 			"decimal": "&#9899;"
 		},
 		"name": "black circle",
@@ -21492,7 +21762,8 @@
 	"1f3f3": {
 		"code_points": {
 			"base": "1f3f3",
-			"alt": "1f3f3-fe0f",
+			"non_fully_qualified": "1f3f3",
+			"fully_qualified": "1f3f3-fe0f",
 			"decimal": "&#127987;"
 		},
 		"name": "waving white flag",
@@ -25636,7 +25907,8 @@
 	"1f468-1f469-1f466": {
 		"code_points": {
 			"base": "1f468-1f469-1f466",
-			"alt": "1f468-200d-1f469-200d-1f466",
+			"non_fully_qualified": "1f468-1f469-1f466",
+			"fully_qualified": "1f468-200d-1f469-200d-1f466",
 			"decimal": "&#128104;&#128105;&#128102;"
 		},
 		"name": "family (man,woman,boy)",
