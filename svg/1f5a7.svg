@@ -11,7 +11,7 @@
 			</g>
 		</g>
 		<g id="arrows" transform="scale(0.3)">
-		    <path fill="#c28fef" d="M12 32l15.5 16V36.6h9V48L52 32 36.5 16v11.4h-9V16z"/>
+		    <path fill="#f2b200" d="M12 32l15.5 16V36.6h9V48L52 32 36.5 16v11.4h-9V16z"/>
 		</g>
 	</defs>
 	<use xlink:href="#computer" x="20" y="0"/>
