@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 64 64" version="1.1" id="svg22" sodipodi:docname="starstruck2.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+<title id="title2">Star-Struck</title>
+<desc id="desc4"/>
+<desc/>
+<metadata id="metadata28">
+    <rdf:RDF>
+        <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        </cc:Work>
+    </rdf:RDF>
+</metadata>
+<circle cx="32" cy="32" r="30" fill="#ffdd67" id="circle6"/>
+<path id="star-left" fill="#9919f8" sodipodi:type="star" style="opacity:1;fill-opacity:0.98701298;stroke:none;stroke-width:8.36409473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" sodipodi:sides="5" sodipodi:cx="27.932203" sodipodi:cy="26.847458" sodipodi:r1="23.649261" sodipodi:r2="11.824631" sodipodi:arg1="0.85843873" sodipodi:arg2="1.4867573" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" d="M 43.38983,44.745763 28.924764,38.630357 15.686573,47.079415 17.032718,31.432556 4.9063603,21.45319 20.20339,17.898305 25.94708,3.2816595 34.055019,16.731479 49.731173,17.677261 39.445125,29.544592 Z" inkscape:transform-center-x="0.40203354" inkscape:transform-center-y="-1.1611803" transform="matrix(0.65537922,0,0,0.69660236,-1.0390819,1.2484724)"/>
+<path fill="#664e27" d="M49.7 34.4c-.4-.5-1.1-.4-1.9-.4H16.2c-.8 0-1.5-.1-1.9.4C10.4 39.4 15 54 32 54s21.6-14.6 17.7-19.6" id="path8"/>
+<path fill="#4c3526" d="M33.8 41.7c-.6 0-1.5.5-1.1 2 .2.7 1.2 1.6 1.2 2.8 0 2.4-3.8 2.4-3.8 0 0-1.2 1-2 1.2-2.8.3-1.4-.6-2-1.1-2-1.6 0-4.1 1.7-4.1 4.6 0 3.2 2.7 5.8 6 5.8s6-2.6 6-5.8c-.1-2.8-2.7-4.5-4.3-4.6" id="path10"/>
+<path fill="#ff717f" d="M24.3 50.7c2.2 1 4.8 1.5 7.7 1.5 2.9 0 5.5-.6 7.7-1.5C37.6 49.6 35 49 32 49s-5.6.6-7.7 1.7" id="path12"/>
+<path fill="#fff" d="M47 36H17.1c-2.1 0-2.1 4-.1 4h30c2 0 2-4 0-4" id="path14"/>
+<path sodipodi:type="star" style="opacity:1;fill:#9919f8;fill-opacity:0.98701298;stroke:none;stroke-width:8.36409473;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="star-right" sodipodi:sides="5" sodipodi:cx="27.932203" sodipodi:cy="26.847458" sodipodi:r1="23.649261" sodipodi:r2="11.824631" sodipodi:arg1="0.85843873" sodipodi:arg2="1.4867573" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" d="M 43.38983,44.745763 28.924764,38.630357 15.686573,47.079415 17.032718,31.432556 4.9063603,21.45319 20.20339,17.898305 25.94708,3.2816595 34.055019,16.731479 49.731173,17.677261 39.445125,29.544592 Z" inkscape:transform-center-x="-0.39092946" inkscape:transform-center-y="-1.2786055" transform="matrix(0.65324641,0.10227725,-0.10871046,0.6943354,30.680819,-1.835024)"/>
+</svg>
+
