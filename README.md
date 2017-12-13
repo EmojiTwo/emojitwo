@@ -122,6 +122,17 @@ Also helpful:
 
 ## Information
 
+### Generating New Sprites
+
+The sprites are not automatically updated and should be refreshed locally if you plan to use them. To do this, you must have [NPM](https://www.npmjs.com/),  [Grunt](https://gruntjs.com/), and [ImageOptim](https://imageoptim.com/mac) installed on your machine. 
+
+From the root of the project, first install Node modules:
+```$ npm install```
+
+Then generate new sprites and css by executing:
+```grunt```
+*Note:* the ImageOptim process takes a few minutes to optimize the PNG sprite.
+
 ### Bug reports
 
 If you discover any bugs, feel free to create an issue on GitHub. We also welcome the open-source community to contribute to the project by forking it and issuing pull requests.

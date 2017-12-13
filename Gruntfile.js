@@ -89,7 +89,12 @@ module.exports = function (grunt) {
 				svg: {
 					viewBox: '0 0 64 64',
 					xmlns: 'http://www.w3.org/2000/svg',
-					"xmlns:xlink": "http://www.w3.org/1999/xlink"
+					"xmlns:xlink": "http://www.w3.org/1999/xlink",
+					"xmlns:rdf": "http://www.w3.org/2000/01/rdf-schema#",
+					"xmlns:cc": "http://creativecommons.org/ns#",
+					"xmlns:dc": "http://purl.org/dc/elements/1.1/",
+					"xmlns:inkscape": "http://www.inkscape.org/namespaces/inkscape",
+					"xmlns:sodipodi": "http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
 				}
 			},
 			default: {
