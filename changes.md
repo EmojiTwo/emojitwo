@@ -99,3 +99,7 @@
 [1f40e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40e.png 
 [1f40e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40e.png 
 [1f40e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40e.svg 
+ * [U+1f37d ![&#x1f37d;][1f37d.png]][1f37d.svg] ![][1f37d.e1] 
+[1f37d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37d.png 
+[1f37d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37d.png 
+[1f37d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37d.svg 
