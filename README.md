@@ -1,19 +1,23 @@
 # Emojione
 
 Version 2.x of Emojione is no longer supported by [Ranks.com](https://emojione.com). 
-Version 3 has a slightly different design and new, more restrictive licensing terms.
+Versions 3 and 4 have slightly different desigsn and new, more restrictive licensing terms.
 Some people prefer the flat cartoon design and the FOSS license with actual access to the SVG sources.
 
 # Emojitwo 
 
 The artwork of the second generation of the web's first complete open source emoji set. It is and will stay 100% free and open source.
 
+**We need help** from graphic designers to make more glyphs! 
+See the [milestones](https://github.com/EmojiTwo/emojitwo/milestones), [projects](https://github.com/EmojiTwo/emojitwo/projects) and especially the issues tagged [`character artwork`](https://github.com/EmojiTwo/emojitwo/labels/character%20artwork) for details. 
+Do not be afraid to ask for assistance, also boldly send pull requests. 
+Every year Uniucode aims to release a couple dozen new emojis. 
+Some of them come with gender and skin tone variants, but at least the latter can be generated automatically.
+
 ## Differences between Emojitwo and Emojione 2.x
 
 Emojitwo is restricted to the artwork, i.e. image files.
 SVG is its native format. Everything else is derived from that.
-
-As of its initial release in April 2017, Emojitwo did not contain any additional artwork.
 
 ### Additions
 
@@ -26,9 +30,10 @@ As of its initial release in April 2017, Emojitwo did not contain any additional
 * Documentation has been updated to
   1. encourage contributions to the artwork,
   2. use _Emojitwo_ or _Emoji Two_ instead of _Emojione_ or _Emoji One_ where appropriate.
-* Bed looks more similar to Sleeping Accomodation: [U+1F6CF &#x1f6cf;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cf.svg) vs. [U+1F6CC &#x1f6cf;](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cc.svg)
 * Some minor color optimizations.
 * SVG source code prettified.
+
+See the documentation for a more [detailed change log](doc/changes).
 
 ### Removals
 
@@ -37,10 +42,10 @@ As of its initial release in April 2017, Emojitwo did not contain any additional
 ### Plans
 
 Emojitwo shall eventually include graphics for new emojis:
-
-  - Characters defined in the [Unicode Standard 10.0]() (June 2017) and later.
-  - Sequences documented in [Unicode Emoji 4.0](http://www.unicode.org/reports/tr51/tr51-9.html), [5.0](http://www.unicode.org/reports/tr51/tr51-11.html) (March 2017) and later (UTR#51), e.g. flags.
-  - Characters extended in [Unicode Emoji 6.0](http://www.unicode.org/reports/tr51/proposed.html) and later (UTS#51).
+https://github.com/EmojiTwo/emojitwo/milestones
+  - Emoji characters defined in the [Unicode Standard 10.0]() (June 2017),  [Unicode Standard 11.0]() (June 2018) and later.
+  - Sequences documented in [Unicode Emoji 4.0](http://www.unicode.org/reports/tr51/tr51-9.html) (November 2016), [5.0](http://www.unicode.org/reports/tr51/tr51-11.html) (March 2017) and later (UTR#51), e.g. flags.
+  - Characters extended in [Unicode Emoji 11.0](http://www.unicode.org/reports/tr51/proposed.html) and later (UTS#51).
   - Existing Unicode characters without the `Emoji` property, especially to match other vendors (like Microsoft and Samsung).
   - Custom sequences and alternatives, especially those supported by other vendors.
 
