@@ -2015,6041 +2015,6041 @@
 ____
 
   [0023-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0023-20e3.png
-  [0023-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0023-20e3.png
+  [0023-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0023-20e3.png
   [0023-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0023-20e3.svg
   [0023.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0023.png
-  [0023.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0023.png
+  [0023.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0023.png
   [0023.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0023.svg
   [002a-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/002a-20e3.png
-  [002a-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/002a-20e3.png
+  [002a-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/002a-20e3.png
   [002a-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/002a-20e3.svg
   [002a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/002a.png
-  [002a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/002a.png
+  [002a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/002a.png
   [002a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/002a.svg
   [0030-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0030-20e3.png
-  [0030-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0030-20e3.png
+  [0030-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0030-20e3.png
   [0030-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0030-20e3.svg
   [0030.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0030.png
-  [0030.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0030.png
+  [0030.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0030.png
   [0030.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0030.svg
   [0031-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0031-20e3.png
-  [0031-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0031-20e3.png
+  [0031-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0031-20e3.png
   [0031-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0031-20e3.svg
   [0031.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0031.png
-  [0031.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0031.png
+  [0031.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0031.png
   [0031.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0031.svg
   [0032-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0032-20e3.png
-  [0032-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0032-20e3.png
+  [0032-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0032-20e3.png
   [0032-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0032-20e3.svg
   [0032.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0032.png
-  [0032.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0032.png
+  [0032.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0032.png
   [0032.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0032.svg
   [0033-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0033-20e3.png
-  [0033-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0033-20e3.png
+  [0033-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0033-20e3.png
   [0033-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0033-20e3.svg
   [0033.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0033.png
-  [0033.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0033.png
+  [0033.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0033.png
   [0033.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0033.svg
   [0034-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0034-20e3.png
-  [0034-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0034-20e3.png
+  [0034-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0034-20e3.png
   [0034-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0034-20e3.svg
   [0034.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0034.png
-  [0034.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0034.png
+  [0034.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0034.png
   [0034.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0034.svg
   [0035-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0035-20e3.png
-  [0035-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0035-20e3.png
+  [0035-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0035-20e3.png
   [0035-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0035-20e3.svg
   [0035.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0035.png
-  [0035.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0035.png
+  [0035.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0035.png
   [0035.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0035.svg
   [0036-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0036-20e3.png
-  [0036-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0036-20e3.png
+  [0036-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0036-20e3.png
   [0036-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0036-20e3.svg
   [0036.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0036.png
-  [0036.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0036.png
+  [0036.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0036.png
   [0036.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0036.svg
   [0037-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0037-20e3.png
-  [0037-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0037-20e3.png
+  [0037-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0037-20e3.png
   [0037-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0037-20e3.svg
   [0037.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0037.png
-  [0037.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0037.png
+  [0037.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0037.png
   [0037.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0037.svg
   [0038-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0038-20e3.png
-  [0038-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0038-20e3.png
+  [0038-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0038-20e3.png
   [0038-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0038-20e3.svg
   [0038.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0038.png
-  [0038.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0038.png
+  [0038.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0038.png
   [0038.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0038.svg
   [0039-20e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0039-20e3.png
-  [0039-20e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0039-20e3.png
+  [0039-20e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0039-20e3.png
   [0039-20e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0039-20e3.svg
   [0039.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/0039.png
-  [0039.png]: https://rawgit.com/emojitwo/emojitwo/master/png/0039.png
+  [0039.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/0039.png
   [0039.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/0039.svg
   [00a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/00a9.png
-  [00a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/00a9.png
+  [00a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/00a9.png
   [00a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/00a9.svg
   [00ae.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/00ae.png
-  [00ae.png]: https://rawgit.com/emojitwo/emojitwo/master/png/00ae.png
+  [00ae.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/00ae.png
   [00ae.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/00ae.svg
   [1f004.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f004.png
-  [1f004.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f004.png
+  [1f004.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f004.png
   [1f004.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f004.svg
   [1f0cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f0cf.png
-  [1f0cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f0cf.png
+  [1f0cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f0cf.png
   [1f0cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f0cf.svg
   [1f170.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f170.png
-  [1f170.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f170.png
+  [1f170.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f170.png
   [1f170.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f170.svg
   [1f171.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f171.png
-  [1f171.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f171.png
+  [1f171.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f171.png
   [1f171.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f171.svg
   [1f17e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f17e.png
-  [1f17e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f17e.png
+  [1f17e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f17e.png
   [1f17e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f17e.svg
   [1f17f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f17f.png
-  [1f17f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f17f.png
+  [1f17f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f17f.png
   [1f17f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f17f.svg
   [1f18e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f18e.png
-  [1f18e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f18e.png
+  [1f18e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f18e.png
   [1f18e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f18e.svg
   [1f191.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f191.png
-  [1f191.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f191.png
+  [1f191.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f191.png
   [1f191.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f191.svg
   [1f192.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f192.png
-  [1f192.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f192.png
+  [1f192.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f192.png
   [1f192.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f192.svg
   [1f193.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f193.png
-  [1f193.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f193.png
+  [1f193.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f193.png
   [1f193.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f193.svg
   [1f194.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f194.png
-  [1f194.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f194.png
+  [1f194.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f194.png
   [1f194.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f194.svg
   [1f195.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f195.png
-  [1f195.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f195.png
+  [1f195.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f195.png
   [1f195.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f195.svg
   [1f196.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f196.png
-  [1f196.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f196.png
+  [1f196.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f196.png
   [1f196.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f196.svg
   [1f197.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f197.png
-  [1f197.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f197.png
+  [1f197.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f197.png
   [1f197.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f197.svg
   [1f198.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f198.png
-  [1f198.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f198.png
+  [1f198.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f198.png
   [1f198.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f198.svg
   [1f199.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f199.png
-  [1f199.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f199.png
+  [1f199.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f199.png
   [1f199.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f199.svg
   [1f19a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f19a.png
-  [1f19a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f19a.png
+  [1f19a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f19a.png
   [1f19a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f19a.svg
   [1f1e6-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1e8.png
-  [1f1e6-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1e8.png
+  [1f1e6-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1e8.png
   [1f1e6-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1e8.svg
   [1f1e6-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1e9.png
-  [1f1e6-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1e9.png
+  [1f1e6-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1e9.png
   [1f1e6-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1e9.svg
   [1f1e6-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1ea.png
-  [1f1e6-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1ea.png
+  [1f1e6-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1ea.png
   [1f1e6-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1ea.svg
   [1f1e6-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1eb.png
-  [1f1e6-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1eb.png
+  [1f1e6-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1eb.png
   [1f1e6-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1eb.svg
   [1f1e6-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1ec.png
-  [1f1e6-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1ec.png
+  [1f1e6-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1ec.png
   [1f1e6-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1ec.svg
   [1f1e6-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1ee.png
-  [1f1e6-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1ee.png
+  [1f1e6-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1ee.png
   [1f1e6-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1ee.svg
   [1f1e6-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f1.png
-  [1f1e6-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f1.png
+  [1f1e6-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f1.png
   [1f1e6-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f1.svg
   [1f1e6-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f2.png
-  [1f1e6-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f2.png
+  [1f1e6-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f2.png
   [1f1e6-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f2.svg
   [1f1e6-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f4.png
-  [1f1e6-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f4.png
+  [1f1e6-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f4.png
   [1f1e6-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f4.svg
   [1f1e6-1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f6.png
-  [1f1e6-1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f6.png
+  [1f1e6-1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f6.png
   [1f1e6-1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f6.svg
   [1f1e6-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f7.png
-  [1f1e6-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f7.png
+  [1f1e6-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f7.png
   [1f1e6-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f7.svg
   [1f1e6-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f8.png
-  [1f1e6-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f8.png
+  [1f1e6-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f8.png
   [1f1e6-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f8.svg
   [1f1e6-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1f9.png
-  [1f1e6-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1f9.png
+  [1f1e6-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1f9.png
   [1f1e6-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1f9.svg
   [1f1e6-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1fa.png
-  [1f1e6-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1fa.png
+  [1f1e6-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1fa.png
   [1f1e6-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1fa.svg
   [1f1e6-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1fc.png
-  [1f1e6-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1fc.png
+  [1f1e6-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1fc.png
   [1f1e6-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1fc.svg
   [1f1e6-1f1fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1fd.png
-  [1f1e6-1f1fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1fd.png
+  [1f1e6-1f1fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1fd.png
   [1f1e6-1f1fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1fd.svg
   [1f1e6-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6-1f1ff.png
-  [1f1e6-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6-1f1ff.png
+  [1f1e6-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6-1f1ff.png
   [1f1e6-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6-1f1ff.svg
   [1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e6.png
-  [1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e6.png
+  [1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e6.png
   [1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e6.svg
   [1f1e7-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1e6.png
-  [1f1e7-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1e6.png
+  [1f1e7-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1e6.png
   [1f1e7-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1e6.svg
   [1f1e7-1f1e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1e7.png
-  [1f1e7-1f1e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1e7.png
+  [1f1e7-1f1e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1e7.png
   [1f1e7-1f1e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1e7.svg
   [1f1e7-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1e9.png
-  [1f1e7-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1e9.png
+  [1f1e7-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1e9.png
   [1f1e7-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1e9.svg
   [1f1e7-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ea.png
-  [1f1e7-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ea.png
+  [1f1e7-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ea.png
   [1f1e7-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ea.svg
   [1f1e7-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1eb.png
-  [1f1e7-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1eb.png
+  [1f1e7-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1eb.png
   [1f1e7-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1eb.svg
   [1f1e7-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ec.png
-  [1f1e7-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ec.png
+  [1f1e7-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ec.png
   [1f1e7-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ec.svg
   [1f1e7-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ed.png
-  [1f1e7-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ed.png
+  [1f1e7-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ed.png
   [1f1e7-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ed.svg
   [1f1e7-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ee.png
-  [1f1e7-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ee.png
+  [1f1e7-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ee.png
   [1f1e7-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ee.svg
   [1f1e7-1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ef.png
-  [1f1e7-1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ef.png
+  [1f1e7-1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ef.png
   [1f1e7-1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ef.svg
   [1f1e7-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f1.png
-  [1f1e7-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f1.png
+  [1f1e7-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f1.png
   [1f1e7-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f1.svg
   [1f1e7-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f2.png
-  [1f1e7-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f2.png
+  [1f1e7-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f2.png
   [1f1e7-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f2.svg
   [1f1e7-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f3.png
-  [1f1e7-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f3.png
+  [1f1e7-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f3.png
   [1f1e7-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f3.svg
   [1f1e7-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f4.png
-  [1f1e7-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f4.png
+  [1f1e7-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f4.png
   [1f1e7-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f4.svg
   [1f1e7-1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f6.png
-  [1f1e7-1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f6.png
+  [1f1e7-1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f6.png
   [1f1e7-1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f6.svg
   [1f1e7-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f7.png
-  [1f1e7-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f7.png
+  [1f1e7-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f7.png
   [1f1e7-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f7.svg
   [1f1e7-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f8.png
-  [1f1e7-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f8.png
+  [1f1e7-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f8.png
   [1f1e7-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f8.svg
   [1f1e7-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1f9.png
-  [1f1e7-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1f9.png
+  [1f1e7-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1f9.png
   [1f1e7-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1f9.svg
   [1f1e7-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1fb.png
-  [1f1e7-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1fb.png
+  [1f1e7-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1fb.png
   [1f1e7-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1fb.svg
   [1f1e7-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1fc.png
-  [1f1e7-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1fc.png
+  [1f1e7-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1fc.png
   [1f1e7-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1fc.svg
   [1f1e7-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1fe.png
-  [1f1e7-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1fe.png
+  [1f1e7-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1fe.png
   [1f1e7-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1fe.svg
   [1f1e7-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7-1f1ff.png
-  [1f1e7-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7-1f1ff.png
+  [1f1e7-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7-1f1ff.png
   [1f1e7-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7-1f1ff.svg
   [1f1e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e7.png
-  [1f1e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e7.png
+  [1f1e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e7.png
   [1f1e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e7.svg
   [1f1e8-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1e6.png
-  [1f1e8-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1e6.png
+  [1f1e8-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1e6.png
   [1f1e8-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1e6.svg
   [1f1e8-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1e8.png
-  [1f1e8-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1e8.png
+  [1f1e8-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1e8.png
   [1f1e8-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1e8.svg
   [1f1e8-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1e9.png
-  [1f1e8-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1e9.png
+  [1f1e8-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1e9.png
   [1f1e8-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1e9.svg
   [1f1e8-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1eb.png
-  [1f1e8-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1eb.png
+  [1f1e8-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1eb.png
   [1f1e8-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1eb.svg
   [1f1e8-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1ec.png
-  [1f1e8-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1ec.png
+  [1f1e8-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1ec.png
   [1f1e8-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1ec.svg
   [1f1e8-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1ed.png
-  [1f1e8-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1ed.png
+  [1f1e8-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1ed.png
   [1f1e8-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1ed.svg
   [1f1e8-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1ee.png
-  [1f1e8-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1ee.png
+  [1f1e8-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1ee.png
   [1f1e8-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1ee.svg
   [1f1e8-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f0.png
-  [1f1e8-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f0.png
+  [1f1e8-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f0.png
   [1f1e8-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f0.svg
   [1f1e8-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f1.png
-  [1f1e8-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f1.png
+  [1f1e8-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f1.png
   [1f1e8-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f1.svg
   [1f1e8-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f2.png
-  [1f1e8-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f2.png
+  [1f1e8-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f2.png
   [1f1e8-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f2.svg
   [1f1e8-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f3.png
-  [1f1e8-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f3.png
+  [1f1e8-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f3.png
   [1f1e8-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f3.svg
   [1f1e8-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f4.png
-  [1f1e8-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f4.png
+  [1f1e8-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f4.png
   [1f1e8-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f4.svg
   [1f1e8-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f5.png
-  [1f1e8-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f5.png
+  [1f1e8-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f5.png
   [1f1e8-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f5.svg
   [1f1e8-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1f7.png
-  [1f1e8-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1f7.png
+  [1f1e8-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1f7.png
   [1f1e8-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1f7.svg
   [1f1e8-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1fa.png
-  [1f1e8-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1fa.png
+  [1f1e8-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1fa.png
   [1f1e8-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1fa.svg
   [1f1e8-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1fb.png
-  [1f1e8-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1fb.png
+  [1f1e8-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1fb.png
   [1f1e8-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1fb.svg
   [1f1e8-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1fc.png
-  [1f1e8-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1fc.png
+  [1f1e8-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1fc.png
   [1f1e8-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1fc.svg
   [1f1e8-1f1fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1fd.png
-  [1f1e8-1f1fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1fd.png
+  [1f1e8-1f1fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1fd.png
   [1f1e8-1f1fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1fd.svg
   [1f1e8-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1fe.png
-  [1f1e8-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1fe.png
+  [1f1e8-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1fe.png
   [1f1e8-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1fe.svg
   [1f1e8-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8-1f1ff.png
-  [1f1e8-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8-1f1ff.png
+  [1f1e8-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8-1f1ff.png
   [1f1e8-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8-1f1ff.svg
   [1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e8.png
-  [1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e8.png
+  [1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e8.png
   [1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e8.svg
   [1f1e9-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1ea.png
-  [1f1e9-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1ea.png
+  [1f1e9-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1ea.png
   [1f1e9-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1ea.svg
   [1f1e9-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1ec.png
-  [1f1e9-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1ec.png
+  [1f1e9-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1ec.png
   [1f1e9-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1ec.svg
   [1f1e9-1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1ef.png
-  [1f1e9-1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1ef.png
+  [1f1e9-1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1ef.png
   [1f1e9-1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1ef.svg
   [1f1e9-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1f0.png
-  [1f1e9-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1f0.png
+  [1f1e9-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1f0.png
   [1f1e9-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1f0.svg
   [1f1e9-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1f2.png
-  [1f1e9-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1f2.png
+  [1f1e9-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1f2.png
   [1f1e9-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1f2.svg
   [1f1e9-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1f4.png
-  [1f1e9-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1f4.png
+  [1f1e9-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1f4.png
   [1f1e9-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1f4.svg
   [1f1e9-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9-1f1ff.png
-  [1f1e9-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9-1f1ff.png
+  [1f1e9-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9-1f1ff.png
   [1f1e9-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9-1f1ff.svg
   [1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1e9.png
-  [1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1e9.png
+  [1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1e9.png
   [1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1e9.svg
   [1f1ea-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1e6.png
-  [1f1ea-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1e6.png
+  [1f1ea-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1e6.png
   [1f1ea-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1e6.svg
   [1f1ea-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1e8.png
-  [1f1ea-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1e8.png
+  [1f1ea-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1e8.png
   [1f1ea-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1e8.svg
   [1f1ea-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1ea.png
-  [1f1ea-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1ea.png
+  [1f1ea-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1ea.png
   [1f1ea-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1ea.svg
   [1f1ea-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1ec.png
-  [1f1ea-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1ec.png
+  [1f1ea-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1ec.png
   [1f1ea-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1ec.svg
   [1f1ea-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1ed.png
-  [1f1ea-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1ed.png
+  [1f1ea-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1ed.png
   [1f1ea-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1ed.svg
   [1f1ea-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1f7.png
-  [1f1ea-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1f7.png
+  [1f1ea-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1f7.png
   [1f1ea-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1f7.svg
   [1f1ea-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1f8.png
-  [1f1ea-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1f8.png
+  [1f1ea-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1f8.png
   [1f1ea-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1f8.svg
   [1f1ea-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1f9.png
-  [1f1ea-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1f9.png
+  [1f1ea-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1f9.png
   [1f1ea-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1f9.svg
   [1f1ea-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea-1f1fa.png
-  [1f1ea-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea-1f1fa.png
+  [1f1ea-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea-1f1fa.png
   [1f1ea-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea-1f1fa.svg
   [1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ea.png
-  [1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ea.png
+  [1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ea.png
   [1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ea.svg
   [1f1eb-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1ee.png
-  [1f1eb-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1ee.png
+  [1f1eb-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1ee.png
   [1f1eb-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1ee.svg
   [1f1eb-1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1ef.png
-  [1f1eb-1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1ef.png
+  [1f1eb-1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1ef.png
   [1f1eb-1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1ef.svg
   [1f1eb-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1f0.png
-  [1f1eb-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1f0.png
+  [1f1eb-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1f0.png
   [1f1eb-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1f0.svg
   [1f1eb-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1f2.png
-  [1f1eb-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1f2.png
+  [1f1eb-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1f2.png
   [1f1eb-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1f2.svg
   [1f1eb-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1f4.png
-  [1f1eb-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1f4.png
+  [1f1eb-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1f4.png
   [1f1eb-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1f4.svg
   [1f1eb-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb-1f1f7.png
-  [1f1eb-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb-1f1f7.png
+  [1f1eb-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb-1f1f7.png
   [1f1eb-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb-1f1f7.svg
   [1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1eb.png
-  [1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1eb.png
+  [1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1eb.png
   [1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1eb.svg
   [1f1ec-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1e6.png
-  [1f1ec-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1e6.png
+  [1f1ec-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1e6.png
   [1f1ec-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1e6.svg
   [1f1ec-1f1e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1e7.png
-  [1f1ec-1f1e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1e7.png
+  [1f1ec-1f1e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1e7.png
   [1f1ec-1f1e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1e7.svg
   [1f1ec-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1e9.png
-  [1f1ec-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1e9.png
+  [1f1ec-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1e9.png
   [1f1ec-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1e9.svg
   [1f1ec-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1ea.png
-  [1f1ec-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1ea.png
+  [1f1ec-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1ea.png
   [1f1ec-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1ea.svg
   [1f1ec-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1eb.png
-  [1f1ec-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1eb.png
+  [1f1ec-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1eb.png
   [1f1ec-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1eb.svg
   [1f1ec-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1ec.png
-  [1f1ec-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1ec.png
+  [1f1ec-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1ec.png
   [1f1ec-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1ec.svg
   [1f1ec-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1ed.png
-  [1f1ec-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1ed.png
+  [1f1ec-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1ed.png
   [1f1ec-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1ed.svg
   [1f1ec-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1ee.png
-  [1f1ec-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1ee.png
+  [1f1ec-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1ee.png
   [1f1ec-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1ee.svg
   [1f1ec-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f1.png
-  [1f1ec-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f1.png
+  [1f1ec-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f1.png
   [1f1ec-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f1.svg
   [1f1ec-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f2.png
-  [1f1ec-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f2.png
+  [1f1ec-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f2.png
   [1f1ec-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f2.svg
   [1f1ec-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f3.png
-  [1f1ec-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f3.png
+  [1f1ec-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f3.png
   [1f1ec-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f3.svg
   [1f1ec-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f5.png
-  [1f1ec-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f5.png
+  [1f1ec-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f5.png
   [1f1ec-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f5.svg
   [1f1ec-1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f6.png
-  [1f1ec-1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f6.png
+  [1f1ec-1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f6.png
   [1f1ec-1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f6.svg
   [1f1ec-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f7.png
-  [1f1ec-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f7.png
+  [1f1ec-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f7.png
   [1f1ec-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f7.svg
   [1f1ec-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f8.png
-  [1f1ec-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f8.png
+  [1f1ec-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f8.png
   [1f1ec-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f8.svg
   [1f1ec-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1f9.png
-  [1f1ec-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1f9.png
+  [1f1ec-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1f9.png
   [1f1ec-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1f9.svg
   [1f1ec-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1fa.png
-  [1f1ec-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1fa.png
+  [1f1ec-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1fa.png
   [1f1ec-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1fa.svg
   [1f1ec-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1fc.png
-  [1f1ec-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1fc.png
+  [1f1ec-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1fc.png
   [1f1ec-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1fc.svg
   [1f1ec-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec-1f1fe.png
-  [1f1ec-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec-1f1fe.png
+  [1f1ec-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec-1f1fe.png
   [1f1ec-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec-1f1fe.svg
   [1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ec.png
-  [1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ec.png
+  [1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ec.png
   [1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ec.svg
   [1f1ed-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1f0.png
-  [1f1ed-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1f0.png
+  [1f1ed-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1f0.png
   [1f1ed-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1f0.svg
   [1f1ed-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1f2.png
-  [1f1ed-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1f2.png
+  [1f1ed-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1f2.png
   [1f1ed-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1f2.svg
   [1f1ed-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1f3.png
-  [1f1ed-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1f3.png
+  [1f1ed-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1f3.png
   [1f1ed-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1f3.svg
   [1f1ed-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1f7.png
-  [1f1ed-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1f7.png
+  [1f1ed-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1f7.png
   [1f1ed-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1f7.svg
   [1f1ed-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1f9.png
-  [1f1ed-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1f9.png
+  [1f1ed-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1f9.png
   [1f1ed-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1f9.svg
   [1f1ed-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed-1f1fa.png
-  [1f1ed-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed-1f1fa.png
+  [1f1ed-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed-1f1fa.png
   [1f1ed-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed-1f1fa.svg
   [1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ed.png
-  [1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ed.png
+  [1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ed.png
   [1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ed.svg
   [1f1ee-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1e8.png
-  [1f1ee-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1e8.png
+  [1f1ee-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1e8.png
   [1f1ee-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1e8.svg
   [1f1ee-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1e9.png
-  [1f1ee-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1e9.png
+  [1f1ee-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1e9.png
   [1f1ee-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1e9.svg
   [1f1ee-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1ea.png
-  [1f1ee-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1ea.png
+  [1f1ee-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1ea.png
   [1f1ee-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1ea.svg
   [1f1ee-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f1.png
-  [1f1ee-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f1.png
+  [1f1ee-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f1.png
   [1f1ee-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f1.svg
   [1f1ee-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f2.png
-  [1f1ee-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f2.png
+  [1f1ee-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f2.png
   [1f1ee-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f2.svg
   [1f1ee-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f3.png
-  [1f1ee-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f3.png
+  [1f1ee-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f3.png
   [1f1ee-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f3.svg
   [1f1ee-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f4.png
-  [1f1ee-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f4.png
+  [1f1ee-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f4.png
   [1f1ee-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f4.svg
   [1f1ee-1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f6.png
-  [1f1ee-1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f6.png
+  [1f1ee-1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f6.png
   [1f1ee-1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f6.svg
   [1f1ee-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f7.png
-  [1f1ee-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f7.png
+  [1f1ee-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f7.png
   [1f1ee-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f7.svg
   [1f1ee-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f8.png
-  [1f1ee-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f8.png
+  [1f1ee-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f8.png
   [1f1ee-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f8.svg
   [1f1ee-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee-1f1f9.png
-  [1f1ee-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee-1f1f9.png
+  [1f1ee-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee-1f1f9.png
   [1f1ee-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee-1f1f9.svg
   [1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ee.png
-  [1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ee.png
+  [1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ee.png
   [1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ee.svg
   [1f1ef-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ef-1f1ea.png
-  [1f1ef-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ef-1f1ea.png
+  [1f1ef-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ef-1f1ea.png
   [1f1ef-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ef-1f1ea.svg
   [1f1ef-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ef-1f1f2.png
-  [1f1ef-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ef-1f1f2.png
+  [1f1ef-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ef-1f1f2.png
   [1f1ef-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ef-1f1f2.svg
   [1f1ef-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ef-1f1f4.png
-  [1f1ef-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ef-1f1f4.png
+  [1f1ef-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ef-1f1f4.png
   [1f1ef-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ef-1f1f4.svg
   [1f1ef-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ef-1f1f5.png
-  [1f1ef-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ef-1f1f5.png
+  [1f1ef-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ef-1f1f5.png
   [1f1ef-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ef-1f1f5.svg
   [1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ef.png
-  [1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ef.png
+  [1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ef.png
   [1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ef.svg
   [1f1f0-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1ea.png
-  [1f1f0-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1ea.png
+  [1f1f0-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1ea.png
   [1f1f0-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1ea.svg
   [1f1f0-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1ec.png
-  [1f1f0-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1ec.png
+  [1f1f0-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1ec.png
   [1f1f0-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1ec.svg
   [1f1f0-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1ed.png
-  [1f1f0-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1ed.png
+  [1f1f0-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1ed.png
   [1f1f0-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1ed.svg
   [1f1f0-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1ee.png
-  [1f1f0-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1ee.png
+  [1f1f0-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1ee.png
   [1f1f0-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1ee.svg
   [1f1f0-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1f2.png
-  [1f1f0-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1f2.png
+  [1f1f0-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1f2.png
   [1f1f0-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1f2.svg
   [1f1f0-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1f3.png
-  [1f1f0-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1f3.png
+  [1f1f0-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1f3.png
   [1f1f0-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1f3.svg
   [1f1f0-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1f5.png
-  [1f1f0-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1f5.png
+  [1f1f0-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1f5.png
   [1f1f0-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1f5.svg
   [1f1f0-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1f7.png
-  [1f1f0-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1f7.png
+  [1f1f0-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1f7.png
   [1f1f0-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1f7.svg
   [1f1f0-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1fc.png
-  [1f1f0-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1fc.png
+  [1f1f0-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1fc.png
   [1f1f0-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1fc.svg
   [1f1f0-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1fe.png
-  [1f1f0-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1fe.png
+  [1f1f0-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1fe.png
   [1f1f0-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1fe.svg
   [1f1f0-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0-1f1ff.png
-  [1f1f0-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0-1f1ff.png
+  [1f1f0-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0-1f1ff.png
   [1f1f0-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0-1f1ff.svg
   [1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f0.png
-  [1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f0.png
+  [1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f0.png
   [1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f0.svg
   [1f1f1-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1e6.png
-  [1f1f1-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1e6.png
+  [1f1f1-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1e6.png
   [1f1f1-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1e6.svg
   [1f1f1-1f1e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1e7.png
-  [1f1f1-1f1e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1e7.png
+  [1f1f1-1f1e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1e7.png
   [1f1f1-1f1e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1e7.svg
   [1f1f1-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1e8.png
-  [1f1f1-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1e8.png
+  [1f1f1-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1e8.png
   [1f1f1-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1e8.svg
   [1f1f1-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1ee.png
-  [1f1f1-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1ee.png
+  [1f1f1-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1ee.png
   [1f1f1-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1ee.svg
   [1f1f1-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1f0.png
-  [1f1f1-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1f0.png
+  [1f1f1-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1f0.png
   [1f1f1-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1f0.svg
   [1f1f1-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1f7.png
-  [1f1f1-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1f7.png
+  [1f1f1-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1f7.png
   [1f1f1-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1f7.svg
   [1f1f1-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1f8.png
-  [1f1f1-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1f8.png
+  [1f1f1-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1f8.png
   [1f1f1-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1f8.svg
   [1f1f1-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1f9.png
-  [1f1f1-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1f9.png
+  [1f1f1-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1f9.png
   [1f1f1-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1f9.svg
   [1f1f1-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1fa.png
-  [1f1f1-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1fa.png
+  [1f1f1-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1fa.png
   [1f1f1-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1fa.svg
   [1f1f1-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1fb.png
-  [1f1f1-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1fb.png
+  [1f1f1-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1fb.png
   [1f1f1-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1fb.svg
   [1f1f1-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1-1f1fe.png
-  [1f1f1-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1-1f1fe.png
+  [1f1f1-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1-1f1fe.png
   [1f1f1-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1-1f1fe.svg
   [1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f1.png
-  [1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f1.png
+  [1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f1.png
   [1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f1.svg
   [1f1f2-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1e6.png
-  [1f1f2-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1e6.png
+  [1f1f2-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1e6.png
   [1f1f2-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1e6.svg
   [1f1f2-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1e8.png
-  [1f1f2-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1e8.png
+  [1f1f2-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1e8.png
   [1f1f2-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1e8.svg
   [1f1f2-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1e9.png
-  [1f1f2-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1e9.png
+  [1f1f2-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1e9.png
   [1f1f2-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1e9.svg
   [1f1f2-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1ea.png
-  [1f1f2-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1ea.png
+  [1f1f2-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1ea.png
   [1f1f2-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1ea.svg
   [1f1f2-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1eb.png
-  [1f1f2-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1eb.png
+  [1f1f2-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1eb.png
   [1f1f2-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1eb.svg
   [1f1f2-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1ec.png
-  [1f1f2-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1ec.png
+  [1f1f2-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1ec.png
   [1f1f2-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1ec.svg
   [1f1f2-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1ed.png
-  [1f1f2-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1ed.png
+  [1f1f2-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1ed.png
   [1f1f2-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1ed.svg
   [1f1f2-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f0.png
-  [1f1f2-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f0.png
+  [1f1f2-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f0.png
   [1f1f2-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f0.svg
   [1f1f2-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f1.png
-  [1f1f2-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f1.png
+  [1f1f2-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f1.png
   [1f1f2-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f1.svg
   [1f1f2-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f2.png
-  [1f1f2-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f2.png
+  [1f1f2-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f2.png
   [1f1f2-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f2.svg
   [1f1f2-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f3.png
-  [1f1f2-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f3.png
+  [1f1f2-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f3.png
   [1f1f2-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f3.svg
   [1f1f2-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f4.png
-  [1f1f2-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f4.png
+  [1f1f2-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f4.png
   [1f1f2-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f4.svg
   [1f1f2-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f5.png
-  [1f1f2-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f5.png
+  [1f1f2-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f5.png
   [1f1f2-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f5.svg
   [1f1f2-1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f6.png
-  [1f1f2-1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f6.png
+  [1f1f2-1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f6.png
   [1f1f2-1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f6.svg
   [1f1f2-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f7.png
-  [1f1f2-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f7.png
+  [1f1f2-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f7.png
   [1f1f2-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f7.svg
   [1f1f2-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f8.png
-  [1f1f2-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f8.png
+  [1f1f2-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f8.png
   [1f1f2-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f8.svg
   [1f1f2-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1f9.png
-  [1f1f2-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1f9.png
+  [1f1f2-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1f9.png
   [1f1f2-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1f9.svg
   [1f1f2-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1fa.png
-  [1f1f2-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1fa.png
+  [1f1f2-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1fa.png
   [1f1f2-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1fa.svg
   [1f1f2-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1fb.png
-  [1f1f2-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1fb.png
+  [1f1f2-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1fb.png
   [1f1f2-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1fb.svg
   [1f1f2-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1fc.png
-  [1f1f2-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1fc.png
+  [1f1f2-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1fc.png
   [1f1f2-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1fc.svg
   [1f1f2-1f1fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1fd.png
-  [1f1f2-1f1fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1fd.png
+  [1f1f2-1f1fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1fd.png
   [1f1f2-1f1fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1fd.svg
   [1f1f2-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1fe.png
-  [1f1f2-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1fe.png
+  [1f1f2-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1fe.png
   [1f1f2-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1fe.svg
   [1f1f2-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2-1f1ff.png
-  [1f1f2-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2-1f1ff.png
+  [1f1f2-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2-1f1ff.png
   [1f1f2-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2-1f1ff.svg
   [1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f2.png
-  [1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f2.png
+  [1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f2.png
   [1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f2.svg
   [1f1f3-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1e6.png
-  [1f1f3-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1e6.png
+  [1f1f3-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1e6.png
   [1f1f3-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1e6.svg
   [1f1f3-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1e8.png
-  [1f1f3-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1e8.png
+  [1f1f3-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1e8.png
   [1f1f3-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1e8.svg
   [1f1f3-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1ea.png
-  [1f1f3-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1ea.png
+  [1f1f3-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1ea.png
   [1f1f3-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1ea.svg
   [1f1f3-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1eb.png
-  [1f1f3-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1eb.png
+  [1f1f3-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1eb.png
   [1f1f3-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1eb.svg
   [1f1f3-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1ec.png
-  [1f1f3-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1ec.png
+  [1f1f3-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1ec.png
   [1f1f3-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1ec.svg
   [1f1f3-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1ee.png
-  [1f1f3-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1ee.png
+  [1f1f3-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1ee.png
   [1f1f3-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1ee.svg
   [1f1f3-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1f1.png
-  [1f1f3-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1f1.png
+  [1f1f3-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1f1.png
   [1f1f3-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1f1.svg
   [1f1f3-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1f4.png
-  [1f1f3-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1f4.png
+  [1f1f3-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1f4.png
   [1f1f3-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1f4.svg
   [1f1f3-1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1f5.png
-  [1f1f3-1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1f5.png
+  [1f1f3-1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1f5.png
   [1f1f3-1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1f5.svg
   [1f1f3-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1f7.png
-  [1f1f3-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1f7.png
+  [1f1f3-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1f7.png
   [1f1f3-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1f7.svg
   [1f1f3-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1fa.png
-  [1f1f3-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1fa.png
+  [1f1f3-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1fa.png
   [1f1f3-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1fa.svg
   [1f1f3-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3-1f1ff.png
-  [1f1f3-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3-1f1ff.png
+  [1f1f3-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3-1f1ff.png
   [1f1f3-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3-1f1ff.svg
   [1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f3.png
-  [1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f3.png
+  [1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f3.png
   [1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f3.svg
   [1f1f4-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f4-1f1f2.png
-  [1f1f4-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f4-1f1f2.png
+  [1f1f4-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f4-1f1f2.png
   [1f1f4-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f4-1f1f2.svg
   [1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f4.png
-  [1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f4.png
+  [1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f4.png
   [1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f4.svg
   [1f1f5-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1e6.png
-  [1f1f5-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1e6.png
+  [1f1f5-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1e6.png
   [1f1f5-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1e6.svg
   [1f1f5-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1ea.png
-  [1f1f5-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1ea.png
+  [1f1f5-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1ea.png
   [1f1f5-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1ea.svg
   [1f1f5-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1eb.png
-  [1f1f5-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1eb.png
+  [1f1f5-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1eb.png
   [1f1f5-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1eb.svg
   [1f1f5-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1ec.png
-  [1f1f5-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1ec.png
+  [1f1f5-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1ec.png
   [1f1f5-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1ec.svg
   [1f1f5-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1ed.png
-  [1f1f5-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1ed.png
+  [1f1f5-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1ed.png
   [1f1f5-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1ed.svg
   [1f1f5-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f0.png
-  [1f1f5-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f0.png
+  [1f1f5-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f0.png
   [1f1f5-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f0.svg
   [1f1f5-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f1.png
-  [1f1f5-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f1.png
+  [1f1f5-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f1.png
   [1f1f5-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f1.svg
   [1f1f5-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f2.png
-  [1f1f5-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f2.png
+  [1f1f5-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f2.png
   [1f1f5-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f2.svg
   [1f1f5-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f3.png
-  [1f1f5-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f3.png
+  [1f1f5-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f3.png
   [1f1f5-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f3.svg
   [1f1f5-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f7.png
-  [1f1f5-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f7.png
+  [1f1f5-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f7.png
   [1f1f5-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f7.svg
   [1f1f5-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f8.png
-  [1f1f5-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f8.png
+  [1f1f5-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f8.png
   [1f1f5-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f8.svg
   [1f1f5-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1f9.png
-  [1f1f5-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1f9.png
+  [1f1f5-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1f9.png
   [1f1f5-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1f9.svg
   [1f1f5-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1fc.png
-  [1f1f5-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1fc.png
+  [1f1f5-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1fc.png
   [1f1f5-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1fc.svg
   [1f1f5-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5-1f1fe.png
-  [1f1f5-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5-1f1fe.png
+  [1f1f5-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5-1f1fe.png
   [1f1f5-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5-1f1fe.svg
   [1f1f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f5.png
-  [1f1f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f5.png
+  [1f1f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f5.png
   [1f1f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f5.svg
   [1f1f6-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f6-1f1e6.png
-  [1f1f6-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f6-1f1e6.png
+  [1f1f6-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f6-1f1e6.png
   [1f1f6-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f6-1f1e6.svg
   [1f1f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f6.png
-  [1f1f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f6.png
+  [1f1f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f6.png
   [1f1f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f6.svg
   [1f1f7-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7-1f1ea.png
-  [1f1f7-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7-1f1ea.png
+  [1f1f7-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7-1f1ea.png
   [1f1f7-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7-1f1ea.svg
   [1f1f7-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7-1f1f4.png
-  [1f1f7-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7-1f1f4.png
+  [1f1f7-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7-1f1f4.png
   [1f1f7-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7-1f1f4.svg
   [1f1f7-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7-1f1f8.png
-  [1f1f7-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7-1f1f8.png
+  [1f1f7-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7-1f1f8.png
   [1f1f7-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7-1f1f8.svg
   [1f1f7-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7-1f1fa.png
-  [1f1f7-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7-1f1fa.png
+  [1f1f7-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7-1f1fa.png
   [1f1f7-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7-1f1fa.svg
   [1f1f7-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7-1f1fc.png
-  [1f1f7-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7-1f1fc.png
+  [1f1f7-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7-1f1fc.png
   [1f1f7-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7-1f1fc.svg
   [1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f7.png
-  [1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f7.png
+  [1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f7.png
   [1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f7.svg
   [1f1f8-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1e6.png
-  [1f1f8-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1e6.png
+  [1f1f8-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1e6.png
   [1f1f8-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1e6.svg
   [1f1f8-1f1e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1e7.png
-  [1f1f8-1f1e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1e7.png
+  [1f1f8-1f1e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1e7.png
   [1f1f8-1f1e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1e7.svg
   [1f1f8-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1e8.png
-  [1f1f8-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1e8.png
+  [1f1f8-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1e8.png
   [1f1f8-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1e8.svg
   [1f1f8-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1e9.png
-  [1f1f8-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1e9.png
+  [1f1f8-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1e9.png
   [1f1f8-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1e9.svg
   [1f1f8-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ea.png
-  [1f1f8-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ea.png
+  [1f1f8-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ea.png
   [1f1f8-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ea.svg
   [1f1f8-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ec.png
-  [1f1f8-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ec.png
+  [1f1f8-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ec.png
   [1f1f8-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ec.svg
   [1f1f8-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ed.png
-  [1f1f8-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ed.png
+  [1f1f8-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ed.png
   [1f1f8-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ed.svg
   [1f1f8-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ee.png
-  [1f1f8-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ee.png
+  [1f1f8-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ee.png
   [1f1f8-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ee.svg
   [1f1f8-1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ef.png
-  [1f1f8-1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ef.png
+  [1f1f8-1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ef.png
   [1f1f8-1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ef.svg
   [1f1f8-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f0.png
-  [1f1f8-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f0.png
+  [1f1f8-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f0.png
   [1f1f8-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f0.svg
   [1f1f8-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f1.png
-  [1f1f8-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f1.png
+  [1f1f8-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f1.png
   [1f1f8-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f1.svg
   [1f1f8-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f2.png
-  [1f1f8-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f2.png
+  [1f1f8-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f2.png
   [1f1f8-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f2.svg
   [1f1f8-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f3.png
-  [1f1f8-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f3.png
+  [1f1f8-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f3.png
   [1f1f8-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f3.svg
   [1f1f8-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f4.png
-  [1f1f8-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f4.png
+  [1f1f8-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f4.png
   [1f1f8-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f4.svg
   [1f1f8-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f7.png
-  [1f1f8-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f7.png
+  [1f1f8-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f7.png
   [1f1f8-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f7.svg
   [1f1f8-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f8.png
-  [1f1f8-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f8.png
+  [1f1f8-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f8.png
   [1f1f8-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f8.svg
   [1f1f8-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1f9.png
-  [1f1f8-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1f9.png
+  [1f1f8-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1f9.png
   [1f1f8-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1f9.svg
   [1f1f8-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1fa.png
-  [1f1f8-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png
+  [1f1f8-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png
   [1f1f8-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg
   [1f1f8-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1fb.png
-  [1f1f8-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fb.png
+  [1f1f8-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fb.png
   [1f1f8-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fb.svg
   [1f1f8-1f1fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1fd.png
-  [1f1f8-1f1fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fd.png
+  [1f1f8-1f1fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fd.png
   [1f1f8-1f1fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fd.svg
   [1f1f8-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1fe.png
-  [1f1f8-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fe.png
+  [1f1f8-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fe.png
   [1f1f8-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fe.svg
   [1f1f8-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8-1f1ff.png
-  [1f1f8-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1ff.png
+  [1f1f8-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1ff.png
   [1f1f8-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1ff.svg
   [1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f8.png
-  [1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8.png
+  [1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8.png
   [1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8.svg
   [1f1f9-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1e6.png
-  [1f1f9-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1e6.png
+  [1f1f9-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1e6.png
   [1f1f9-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1e6.svg
   [1f1f9-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1e8.png
-  [1f1f9-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1e8.png
+  [1f1f9-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1e8.png
   [1f1f9-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1e8.svg
   [1f1f9-1f1e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1e9.png
-  [1f1f9-1f1e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1e9.png
+  [1f1f9-1f1e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1e9.png
   [1f1f9-1f1e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1e9.svg
   [1f1f9-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1eb.png
-  [1f1f9-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1eb.png
+  [1f1f9-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1eb.png
   [1f1f9-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1eb.svg
   [1f1f9-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1ec.png
-  [1f1f9-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1ec.png
+  [1f1f9-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1ec.png
   [1f1f9-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1ec.svg
   [1f1f9-1f1ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1ed.png
-  [1f1f9-1f1ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1ed.png
+  [1f1f9-1f1ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1ed.png
   [1f1f9-1f1ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1ed.svg
   [1f1f9-1f1ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1ef.png
-  [1f1f9-1f1ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1ef.png
+  [1f1f9-1f1ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1ef.png
   [1f1f9-1f1ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1ef.svg
   [1f1f9-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f0.png
-  [1f1f9-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f0.png
+  [1f1f9-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f0.png
   [1f1f9-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f0.svg
   [1f1f9-1f1f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f1.png
-  [1f1f9-1f1f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f1.png
+  [1f1f9-1f1f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f1.png
   [1f1f9-1f1f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f1.svg
   [1f1f9-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f2.png
-  [1f1f9-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f2.png
+  [1f1f9-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f2.png
   [1f1f9-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f2.svg
   [1f1f9-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f3.png
-  [1f1f9-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f3.png
+  [1f1f9-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f3.png
   [1f1f9-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f3.svg
   [1f1f9-1f1f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f4.png
-  [1f1f9-1f1f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f4.png
+  [1f1f9-1f1f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f4.png
   [1f1f9-1f1f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f4.svg
   [1f1f9-1f1f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f7.png
-  [1f1f9-1f1f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f7.png
+  [1f1f9-1f1f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f7.png
   [1f1f9-1f1f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f7.svg
   [1f1f9-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1f9.png
-  [1f1f9-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1f9.png
+  [1f1f9-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1f9.png
   [1f1f9-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1f9.svg
   [1f1f9-1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1fb.png
-  [1f1f9-1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1fb.png
+  [1f1f9-1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1fb.png
   [1f1f9-1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1fb.svg
   [1f1f9-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1fc.png
-  [1f1f9-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1fc.png
+  [1f1f9-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1fc.png
   [1f1f9-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1fc.svg
   [1f1f9-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9-1f1ff.png
-  [1f1f9-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9-1f1ff.png
+  [1f1f9-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9-1f1ff.png
   [1f1f9-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9-1f1ff.svg
   [1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1f9.png
-  [1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f9.png
+  [1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f9.png
   [1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f9.svg
   [1f1fa-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1e6.png
-  [1f1fa-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1e6.png
+  [1f1fa-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1e6.png
   [1f1fa-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1e6.svg
   [1f1fa-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1ec.png
-  [1f1fa-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1ec.png
+  [1f1fa-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1ec.png
   [1f1fa-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1ec.svg
   [1f1fa-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1f2.png
-  [1f1fa-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1f2.png
+  [1f1fa-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1f2.png
   [1f1fa-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1f2.svg
   [1f1fa-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1f8.png
-  [1f1fa-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1f8.png
+  [1f1fa-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1f8.png
   [1f1fa-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1f8.svg
   [1f1fa-1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1fe.png
-  [1f1fa-1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1fe.png
+  [1f1fa-1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1fe.png
   [1f1fa-1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1fe.svg
   [1f1fa-1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa-1f1ff.png
-  [1f1fa-1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa-1f1ff.png
+  [1f1fa-1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa-1f1ff.png
   [1f1fa-1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa-1f1ff.svg
   [1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fa.png
-  [1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fa.png
+  [1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fa.png
   [1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fa.svg
   [1f1fb-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1e6.png
-  [1f1fb-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1e6.png
+  [1f1fb-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1e6.png
   [1f1fb-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1e6.svg
   [1f1fb-1f1e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1e8.png
-  [1f1fb-1f1e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1e8.png
+  [1f1fb-1f1e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1e8.png
   [1f1fb-1f1e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1e8.svg
   [1f1fb-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1ea.png
-  [1f1fb-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1ea.png
+  [1f1fb-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1ea.png
   [1f1fb-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1ea.svg
   [1f1fb-1f1ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1ec.png
-  [1f1fb-1f1ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1ec.png
+  [1f1fb-1f1ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1ec.png
   [1f1fb-1f1ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1ec.svg
   [1f1fb-1f1ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1ee.png
-  [1f1fb-1f1ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1ee.png
+  [1f1fb-1f1ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1ee.png
   [1f1fb-1f1ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1ee.svg
   [1f1fb-1f1f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1f3.png
-  [1f1fb-1f1f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1f3.png
+  [1f1fb-1f1f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1f3.png
   [1f1fb-1f1f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1f3.svg
   [1f1fb-1f1fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb-1f1fa.png
-  [1f1fb-1f1fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb-1f1fa.png
+  [1f1fb-1f1fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb-1f1fa.png
   [1f1fb-1f1fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb-1f1fa.svg
   [1f1fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fb.png
-  [1f1fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fb.png
+  [1f1fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fb.png
   [1f1fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fb.svg
   [1f1fc-1f1eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fc-1f1eb.png
-  [1f1fc-1f1eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fc-1f1eb.png
+  [1f1fc-1f1eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fc-1f1eb.png
   [1f1fc-1f1eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fc-1f1eb.svg
   [1f1fc-1f1f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fc-1f1f8.png
-  [1f1fc-1f1f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fc-1f1f8.png
+  [1f1fc-1f1f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fc-1f1f8.png
   [1f1fc-1f1f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fc-1f1f8.svg
   [1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fc.png
-  [1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fc.png
+  [1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fc.png
   [1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fc.svg
   [1f1fd-1f1f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fd-1f1f0.png
-  [1f1fd-1f1f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fd-1f1f0.png
+  [1f1fd-1f1f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fd-1f1f0.png
   [1f1fd-1f1f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fd-1f1f0.svg
   [1f1fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fd.png
-  [1f1fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fd.png
+  [1f1fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fd.png
   [1f1fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fd.svg
   [1f1fe-1f1ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fe-1f1ea.png
-  [1f1fe-1f1ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fe-1f1ea.png
+  [1f1fe-1f1ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fe-1f1ea.png
   [1f1fe-1f1ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fe-1f1ea.svg
   [1f1fe-1f1f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fe-1f1f9.png
-  [1f1fe-1f1f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fe-1f1f9.png
+  [1f1fe-1f1f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fe-1f1f9.png
   [1f1fe-1f1f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fe-1f1f9.svg
   [1f1fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1fe.png
-  [1f1fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1fe.png
+  [1f1fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1fe.png
   [1f1fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1fe.svg
   [1f1ff-1f1e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ff-1f1e6.png
-  [1f1ff-1f1e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ff-1f1e6.png
+  [1f1ff-1f1e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ff-1f1e6.png
   [1f1ff-1f1e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ff-1f1e6.svg
   [1f1ff-1f1f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ff-1f1f2.png
-  [1f1ff-1f1f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ff-1f1f2.png
+  [1f1ff-1f1f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ff-1f1f2.png
   [1f1ff-1f1f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ff-1f1f2.svg
   [1f1ff-1f1fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ff-1f1fc.png
-  [1f1ff-1f1fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ff-1f1fc.png
+  [1f1ff-1f1fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ff-1f1fc.png
   [1f1ff-1f1fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ff-1f1fc.svg
   [1f1ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f1ff.png
-  [1f1ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1ff.png
+  [1f1ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1ff.png
   [1f1ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1ff.svg
   [1f201.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f201.png
-  [1f201.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f201.png
+  [1f201.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f201.png
   [1f201.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f201.svg
   [1f202.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f202.png
-  [1f202.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f202.png
+  [1f202.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f202.png
   [1f202.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f202.svg
   [1f21a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f21a.png
-  [1f21a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f21a.png
+  [1f21a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f21a.png
   [1f21a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f21a.svg
   [1f22f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f22f.png
-  [1f22f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f22f.png
+  [1f22f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f22f.png
   [1f22f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f22f.svg
   [1f232.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f232.png
-  [1f232.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f232.png
+  [1f232.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f232.png
   [1f232.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f232.svg
   [1f233.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f233.png
-  [1f233.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f233.png
+  [1f233.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f233.png
   [1f233.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f233.svg
   [1f234.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f234.png
-  [1f234.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f234.png
+  [1f234.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f234.png
   [1f234.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f234.svg
   [1f235.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f235.png
-  [1f235.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f235.png
+  [1f235.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f235.png
   [1f235.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f235.svg
   [1f236.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f236.png
-  [1f236.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f236.png
+  [1f236.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f236.png
   [1f236.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f236.svg
   [1f237.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f237.png
-  [1f237.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f237.png
+  [1f237.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f237.png
   [1f237.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f237.svg
   [1f238.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f238.png
-  [1f238.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f238.png
+  [1f238.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f238.png
   [1f238.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f238.svg
   [1f239.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f239.png
-  [1f239.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f239.png
+  [1f239.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f239.png
   [1f239.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f239.svg
   [1f23a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f23a.png
-  [1f23a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f23a.png
+  [1f23a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f23a.png
   [1f23a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f23a.svg
   [1f250.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f250.png
-  [1f250.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f250.png
+  [1f250.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f250.png
   [1f250.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f250.svg
   [1f251.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f251.png
-  [1f251.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f251.png
+  [1f251.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f251.png
   [1f251.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f251.svg
   [1f300.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f300.png
-  [1f300.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f300.png
+  [1f300.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f300.png
   [1f300.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f300.svg
   [1f301.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f301.png
-  [1f301.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f301.png
+  [1f301.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f301.png
   [1f301.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f301.svg
   [1f302.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f302.png
-  [1f302.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f302.png
+  [1f302.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f302.png
   [1f302.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f302.svg
   [1f303.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f303.png
-  [1f303.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f303.png
+  [1f303.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f303.png
   [1f303.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f303.svg
   [1f304.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f304.png
-  [1f304.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f304.png
+  [1f304.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f304.png
   [1f304.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f304.svg
   [1f305.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f305.png
-  [1f305.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f305.png
+  [1f305.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f305.png
   [1f305.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f305.svg
   [1f306.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f306.png
-  [1f306.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f306.png
+  [1f306.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f306.png
   [1f306.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f306.svg
   [1f307.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f307.png
-  [1f307.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f307.png
+  [1f307.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f307.png
   [1f307.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f307.svg
   [1f308.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f308.png
-  [1f308.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f308.png
+  [1f308.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f308.png
   [1f308.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f308.svg
   [1f309.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f309.png
-  [1f309.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f309.png
+  [1f309.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f309.png
   [1f309.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f309.svg
   [1f30a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30a.png
-  [1f30a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30a.png
+  [1f30a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30a.png
   [1f30a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30a.svg
   [1f30b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30b.png
-  [1f30b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30b.png
+  [1f30b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30b.png
   [1f30b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30b.svg
   [1f30c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30c.png
-  [1f30c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30c.png
+  [1f30c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30c.png
   [1f30c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30c.svg
   [1f30d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30d.png
-  [1f30d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30d.png
+  [1f30d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30d.png
   [1f30d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30d.svg
   [1f30e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30e.png
-  [1f30e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30e.png
+  [1f30e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30e.png
   [1f30e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30e.svg
   [1f30f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f30f.png
-  [1f30f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f30f.png
+  [1f30f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f30f.png
   [1f30f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f30f.svg
   [1f310.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f310.png
-  [1f310.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f310.png
+  [1f310.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f310.png
   [1f310.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f310.svg
   [1f311.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f311.png
-  [1f311.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f311.png
+  [1f311.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f311.png
   [1f311.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f311.svg
   [1f312.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f312.png
-  [1f312.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f312.png
+  [1f312.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f312.png
   [1f312.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f312.svg
   [1f313.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f313.png
-  [1f313.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f313.png
+  [1f313.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f313.png
   [1f313.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f313.svg
   [1f314.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f314.png
-  [1f314.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f314.png
+  [1f314.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f314.png
   [1f314.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f314.svg
   [1f315.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f315.png
-  [1f315.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f315.png
+  [1f315.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f315.png
   [1f315.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f315.svg
   [1f316.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f316.png
-  [1f316.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f316.png
+  [1f316.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f316.png
   [1f316.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f316.svg
   [1f317.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f317.png
-  [1f317.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f317.png
+  [1f317.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f317.png
   [1f317.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f317.svg
   [1f318.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f318.png
-  [1f318.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f318.png
+  [1f318.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f318.png
   [1f318.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f318.svg
   [1f319.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f319.png
-  [1f319.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f319.png
+  [1f319.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f319.png
   [1f319.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f319.svg
   [1f31a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31a.png
-  [1f31a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31a.png
+  [1f31a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31a.png
   [1f31a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31a.svg
   [1f31b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31b.png
-  [1f31b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31b.png
+  [1f31b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31b.png
   [1f31b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31b.svg
   [1f31c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31c.png
-  [1f31c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31c.png
+  [1f31c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31c.png
   [1f31c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31c.svg
   [1f31d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31d.png
-  [1f31d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31d.png
+  [1f31d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31d.png
   [1f31d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31d.svg
   [1f31e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31e.png
-  [1f31e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31e.png
+  [1f31e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31e.png
   [1f31e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31e.svg
   [1f31f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f31f.png
-  [1f31f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f31f.png
+  [1f31f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f31f.png
   [1f31f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f31f.svg
   [1f320.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f320.png
-  [1f320.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f320.png
+  [1f320.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f320.png
   [1f320.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f320.svg
   [1f321.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f321.png
-  [1f321.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f321.png
+  [1f321.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f321.png
   [1f321.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f321.svg
   [1f322.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f322.png
-  [1f322.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f322.png
+  [1f322.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f322.png
   [1f322.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f322.svg
   [1f323.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f323.png
-  [1f323.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f323.png
+  [1f323.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f323.png
   [1f323.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f323.svg
   [1f324.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f324.png
-  [1f324.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f324.png
+  [1f324.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f324.png
   [1f324.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f324.svg
   [1f325.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f325.png
-  [1f325.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f325.png
+  [1f325.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f325.png
   [1f325.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f325.svg
   [1f326.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f326.png
-  [1f326.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f326.png
+  [1f326.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f326.png
   [1f326.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f326.svg
   [1f327.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f327.png
-  [1f327.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f327.png
+  [1f327.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f327.png
   [1f327.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f327.svg
   [1f328.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f328.png
-  [1f328.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f328.png
+  [1f328.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f328.png
   [1f328.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f328.svg
   [1f329.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f329.png
-  [1f329.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f329.png
+  [1f329.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f329.png
   [1f329.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f329.svg
   [1f32a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32a.png
-  [1f32a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32a.png
+  [1f32a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32a.png
   [1f32a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32a.svg
   [1f32b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32b.png
-  [1f32b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32b.png
+  [1f32b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32b.png
   [1f32b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32b.svg
   [1f32c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32c.png
-  [1f32c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32c.png
+  [1f32c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32c.png
   [1f32c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32c.svg
   [1f32d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32d.png
-  [1f32d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32d.png
+  [1f32d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32d.png
   [1f32d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32d.svg
   [1f32e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32e.png
-  [1f32e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32e.png
+  [1f32e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32e.png
   [1f32e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32e.svg
   [1f32f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f32f.png
-  [1f32f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f32f.png
+  [1f32f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f32f.png
   [1f32f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f32f.svg
   [1f330.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f330.png
-  [1f330.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f330.png
+  [1f330.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f330.png
   [1f330.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f330.svg
   [1f331.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f331.png
-  [1f331.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f331.png
+  [1f331.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f331.png
   [1f331.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f331.svg
   [1f332.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f332.png
-  [1f332.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f332.png
+  [1f332.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f332.png
   [1f332.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f332.svg
   [1f333.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f333.png
-  [1f333.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f333.png
+  [1f333.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f333.png
   [1f333.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f333.svg
   [1f334.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f334.png
-  [1f334.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f334.png
+  [1f334.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f334.png
   [1f334.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f334.svg
   [1f335.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f335.png
-  [1f335.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f335.png
+  [1f335.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f335.png
   [1f335.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f335.svg
   [1f336.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f336.png
-  [1f336.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f336.png
+  [1f336.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f336.png
   [1f336.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f336.svg
   [1f337.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f337.png
-  [1f337.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f337.png
+  [1f337.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f337.png
   [1f337.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f337.svg
   [1f338.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f338.png
-  [1f338.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f338.png
+  [1f338.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f338.png
   [1f338.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f338.svg
   [1f339.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f339.png
-  [1f339.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f339.png
+  [1f339.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f339.png
   [1f339.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f339.svg
   [1f33a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33a.png
-  [1f33a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33a.png
+  [1f33a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33a.png
   [1f33a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33a.svg
   [1f33b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33b.png
-  [1f33b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33b.png
+  [1f33b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33b.png
   [1f33b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33b.svg
   [1f33c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33c.png
-  [1f33c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33c.png
+  [1f33c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33c.png
   [1f33c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33c.svg
   [1f33d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33d.png
-  [1f33d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33d.png
+  [1f33d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33d.png
   [1f33d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33d.svg
   [1f33e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33e.png
-  [1f33e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33e.png
+  [1f33e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33e.png
   [1f33e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33e.svg
   [1f33f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f33f.png
-  [1f33f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f33f.png
+  [1f33f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f33f.png
   [1f33f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f33f.svg
   [1f340.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f340.png
-  [1f340.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f340.png
+  [1f340.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f340.png
   [1f340.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f340.svg
   [1f341.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f341.png
-  [1f341.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f341.png
+  [1f341.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f341.png
   [1f341.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f341.svg
   [1f342.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f342.png
-  [1f342.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f342.png
+  [1f342.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f342.png
   [1f342.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f342.svg
   [1f343.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f343.png
-  [1f343.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f343.png
+  [1f343.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f343.png
   [1f343.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f343.svg
   [1f344.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f344.png
-  [1f344.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f344.png
+  [1f344.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f344.png
   [1f344.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f344.svg
   [1f345.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f345.png
-  [1f345.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f345.png
+  [1f345.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f345.png
   [1f345.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f345.svg
   [1f346.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f346.png
-  [1f346.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f346.png
+  [1f346.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f346.png
   [1f346.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f346.svg
   [1f347.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f347.png
-  [1f347.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f347.png
+  [1f347.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f347.png
   [1f347.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f347.svg
   [1f348.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f348.png
-  [1f348.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f348.png
+  [1f348.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f348.png
   [1f348.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f348.svg
   [1f349.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f349.png
-  [1f349.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f349.png
+  [1f349.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f349.png
   [1f349.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f349.svg
   [1f34a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34a.png
-  [1f34a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34a.png
+  [1f34a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34a.png
   [1f34a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34a.svg
   [1f34b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34b.png
-  [1f34b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34b.png
+  [1f34b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34b.png
   [1f34b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34b.svg
   [1f34c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34c.png
-  [1f34c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34c.png
+  [1f34c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34c.png
   [1f34c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34c.svg
   [1f34d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34d.png
-  [1f34d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34d.png
+  [1f34d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34d.png
   [1f34d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34d.svg
   [1f34e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34e.png
-  [1f34e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34e.png
+  [1f34e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34e.png
   [1f34e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34e.svg
   [1f34f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f34f.png
-  [1f34f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f34f.png
+  [1f34f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f34f.png
   [1f34f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f34f.svg
   [1f350.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f350.png
-  [1f350.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f350.png
+  [1f350.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f350.png
   [1f350.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f350.svg
   [1f351.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f351.png
-  [1f351.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f351.png
+  [1f351.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f351.png
   [1f351.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f351.svg
   [1f352.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f352.png
-  [1f352.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f352.png
+  [1f352.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f352.png
   [1f352.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f352.svg
   [1f353.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f353.png
-  [1f353.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f353.png
+  [1f353.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f353.png
   [1f353.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f353.svg
   [1f354.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f354.png
-  [1f354.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f354.png
+  [1f354.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f354.png
   [1f354.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f354.svg
   [1f355.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f355.png
-  [1f355.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f355.png
+  [1f355.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f355.png
   [1f355.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f355.svg
   [1f356.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f356.png
-  [1f356.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f356.png
+  [1f356.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f356.png
   [1f356.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f356.svg
   [1f357.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f357.png
-  [1f357.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f357.png
+  [1f357.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f357.png
   [1f357.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f357.svg
   [1f358.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f358.png
-  [1f358.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f358.png
+  [1f358.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f358.png
   [1f358.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f358.svg
   [1f359.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f359.png
-  [1f359.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f359.png
+  [1f359.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f359.png
   [1f359.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f359.svg
   [1f35a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35a.png
-  [1f35a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35a.png
+  [1f35a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35a.png
   [1f35a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35a.svg
   [1f35b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35b.png
-  [1f35b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35b.png
+  [1f35b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35b.png
   [1f35b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35b.svg
   [1f35c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35c.png
-  [1f35c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35c.png
+  [1f35c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35c.png
   [1f35c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35c.svg
   [1f35d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35d.png
-  [1f35d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35d.png
+  [1f35d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35d.png
   [1f35d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35d.svg
   [1f35e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35e.png
-  [1f35e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35e.png
+  [1f35e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35e.png
   [1f35e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35e.svg
   [1f35f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f35f.png
-  [1f35f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f35f.png
+  [1f35f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f35f.png
   [1f35f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f35f.svg
   [1f360.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f360.png
-  [1f360.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f360.png
+  [1f360.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f360.png
   [1f360.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f360.svg
   [1f361.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f361.png
-  [1f361.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f361.png
+  [1f361.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f361.png
   [1f361.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f361.svg
   [1f362.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f362.png
-  [1f362.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f362.png
+  [1f362.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f362.png
   [1f362.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f362.svg
   [1f363.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f363.png
-  [1f363.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f363.png
+  [1f363.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f363.png
   [1f363.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f363.svg
   [1f364.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f364.png
-  [1f364.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f364.png
+  [1f364.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f364.png
   [1f364.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f364.svg
   [1f365.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f365.png
-  [1f365.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f365.png
+  [1f365.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f365.png
   [1f365.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f365.svg
   [1f366.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f366.png
-  [1f366.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f366.png
+  [1f366.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f366.png
   [1f366.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f366.svg
   [1f367.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f367.png
-  [1f367.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f367.png
+  [1f367.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f367.png
   [1f367.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f367.svg
   [1f368.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f368.png
-  [1f368.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f368.png
+  [1f368.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f368.png
   [1f368.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f368.svg
   [1f369.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f369.png
-  [1f369.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f369.png
+  [1f369.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f369.png
   [1f369.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f369.svg
   [1f36a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36a.png
-  [1f36a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36a.png
+  [1f36a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36a.png
   [1f36a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36a.svg
   [1f36b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36b.png
-  [1f36b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36b.png
+  [1f36b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36b.png
   [1f36b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36b.svg
   [1f36c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36c.png
-  [1f36c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36c.png
+  [1f36c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36c.png
   [1f36c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36c.svg
   [1f36d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36d.png
-  [1f36d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36d.png
+  [1f36d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36d.png
   [1f36d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36d.svg
   [1f36e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36e.png
-  [1f36e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36e.png
+  [1f36e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36e.png
   [1f36e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36e.svg
   [1f36f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f36f.png
-  [1f36f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f36f.png
+  [1f36f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f36f.png
   [1f36f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f36f.svg
   [1f370.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f370.png
-  [1f370.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f370.png
+  [1f370.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f370.png
   [1f370.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f370.svg
   [1f371.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f371.png
-  [1f371.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f371.png
+  [1f371.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f371.png
   [1f371.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f371.svg
   [1f372.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f372.png
-  [1f372.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f372.png
+  [1f372.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f372.png
   [1f372.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f372.svg
   [1f373.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f373.png
-  [1f373.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f373.png
+  [1f373.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f373.png
   [1f373.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f373.svg
   [1f374.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f374.png
-  [1f374.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f374.png
+  [1f374.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f374.png
   [1f374.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f374.svg
   [1f375.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f375.png
-  [1f375.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f375.png
+  [1f375.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f375.png
   [1f375.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f375.svg
   [1f376.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f376.png
-  [1f376.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f376.png
+  [1f376.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f376.png
   [1f376.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f376.svg
   [1f377.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f377.png
-  [1f377.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f377.png
+  [1f377.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f377.png
   [1f377.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f377.svg
   [1f378.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f378.png
-  [1f378.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f378.png
+  [1f378.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f378.png
   [1f378.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f378.svg
   [1f379.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f379.png
-  [1f379.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f379.png
+  [1f379.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f379.png
   [1f379.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f379.svg
   [1f37a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37a.png
-  [1f37a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37a.png
+  [1f37a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37a.png
   [1f37a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37a.svg
   [1f37b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37b.png
-  [1f37b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37b.png
+  [1f37b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37b.png
   [1f37b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37b.svg
   [1f37c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37c.png
-  [1f37c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37c.png
+  [1f37c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37c.png
   [1f37c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37c.svg
   [1f37d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37d.png
-  [1f37d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37d.png
+  [1f37d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37d.png
   [1f37d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37d.svg
   [1f37e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37e.png
-  [1f37e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37e.png
+  [1f37e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37e.png
   [1f37e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37e.svg
   [1f37f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f37f.png
-  [1f37f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f37f.png
+  [1f37f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f37f.png
   [1f37f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f37f.svg
   [1f380.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f380.png
-  [1f380.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f380.png
+  [1f380.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f380.png
   [1f380.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f380.svg
   [1f381.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f381.png
-  [1f381.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f381.png
+  [1f381.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f381.png
   [1f381.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f381.svg
   [1f382.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f382.png
-  [1f382.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f382.png
+  [1f382.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f382.png
   [1f382.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f382.svg
   [1f383.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f383.png
-  [1f383.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f383.png
+  [1f383.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f383.png
   [1f383.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f383.svg
   [1f384.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f384.png
-  [1f384.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f384.png
+  [1f384.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f384.png
   [1f384.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f384.svg
   [1f385-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385-1f3fb.png
-  [1f385-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385-1f3fb.png
+  [1f385-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385-1f3fb.png
   [1f385-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385-1f3fb.svg
   [1f385-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385-1f3fc.png
-  [1f385-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385-1f3fc.png
+  [1f385-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385-1f3fc.png
   [1f385-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385-1f3fc.svg
   [1f385-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385-1f3fd.png
-  [1f385-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385-1f3fd.png
+  [1f385-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385-1f3fd.png
   [1f385-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385-1f3fd.svg
   [1f385-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385-1f3fe.png
-  [1f385-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385-1f3fe.png
+  [1f385-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385-1f3fe.png
   [1f385-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385-1f3fe.svg
   [1f385-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385-1f3ff.png
-  [1f385-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385-1f3ff.png
+  [1f385-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385-1f3ff.png
   [1f385-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385-1f3ff.svg
   [1f385.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f385.png
-  [1f385.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f385.png
+  [1f385.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f385.png
   [1f385.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f385.svg
   [1f386.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f386.png
-  [1f386.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f386.png
+  [1f386.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f386.png
   [1f386.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f386.svg
   [1f387.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f387.png
-  [1f387.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f387.png
+  [1f387.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f387.png
   [1f387.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f387.svg
   [1f388.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f388.png
-  [1f388.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f388.png
+  [1f388.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f388.png
   [1f388.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f388.svg
   [1f389.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f389.png
-  [1f389.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f389.png
+  [1f389.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f389.png
   [1f389.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f389.svg
   [1f38a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38a.png
-  [1f38a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38a.png
+  [1f38a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38a.png
   [1f38a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38a.svg
   [1f38b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38b.png
-  [1f38b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38b.png
+  [1f38b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38b.png
   [1f38b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38b.svg
   [1f38c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38c.png
-  [1f38c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38c.png
+  [1f38c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38c.png
   [1f38c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38c.svg
   [1f38d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38d.png
-  [1f38d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38d.png
+  [1f38d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38d.png
   [1f38d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38d.svg
   [1f38e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38e.png
-  [1f38e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38e.png
+  [1f38e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38e.png
   [1f38e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38e.svg
   [1f38f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f38f.png
-  [1f38f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f38f.png
+  [1f38f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f38f.png
   [1f38f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f38f.svg
   [1f390.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f390.png
-  [1f390.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f390.png
+  [1f390.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f390.png
   [1f390.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f390.svg
   [1f391.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f391.png
-  [1f391.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f391.png
+  [1f391.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f391.png
   [1f391.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f391.svg
   [1f392.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f392.png
-  [1f392.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f392.png
+  [1f392.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f392.png
   [1f392.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f392.svg
   [1f393.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f393.png
-  [1f393.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f393.png
+  [1f393.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f393.png
   [1f393.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f393.svg
   [1f395.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f395.png
-  [1f395.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f395.png
+  [1f395.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f395.png
   [1f395.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f395.svg
   [1f396.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f396.png
-  [1f396.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f396.png
+  [1f396.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f396.png
   [1f396.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f396.svg
   [1f397.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f397.png
-  [1f397.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f397.png
+  [1f397.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f397.png
   [1f397.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f397.svg
   [1f399.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f399.png
-  [1f399.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f399.png
+  [1f399.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f399.png
   [1f399.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f399.svg
   [1f39a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f39a.png
-  [1f39a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f39a.png
+  [1f39a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f39a.png
   [1f39a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f39a.svg
   [1f39b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f39b.png
-  [1f39b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f39b.png
+  [1f39b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f39b.png
   [1f39b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f39b.svg
   [1f39e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f39e.png
-  [1f39e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f39e.png
+  [1f39e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f39e.png
   [1f39e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f39e.svg
   [1f39f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f39f.png
-  [1f39f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f39f.png
+  [1f39f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f39f.png
   [1f39f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f39f.svg
   [1f3a0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a0.png
-  [1f3a0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a0.png
+  [1f3a0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a0.png
   [1f3a0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a0.svg
   [1f3a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a1.png
-  [1f3a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a1.png
+  [1f3a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a1.png
   [1f3a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a1.svg
   [1f3a2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a2.png
-  [1f3a2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a2.png
+  [1f3a2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a2.png
   [1f3a2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a2.svg
   [1f3a3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a3.png
-  [1f3a3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a3.png
+  [1f3a3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a3.png
   [1f3a3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a3.svg
   [1f3a4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a4.png
-  [1f3a4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a4.png
+  [1f3a4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a4.png
   [1f3a4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a4.svg
   [1f3a5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a5.png
-  [1f3a5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a5.png
+  [1f3a5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a5.png
   [1f3a5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a5.svg
   [1f3a6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a6.png
-  [1f3a6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a6.png
+  [1f3a6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a6.png
   [1f3a6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a6.svg
   [1f3a7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a7.png
-  [1f3a7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a7.png
+  [1f3a7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a7.png
   [1f3a7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a7.svg
   [1f3a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a8.png
-  [1f3a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a8.png
+  [1f3a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a8.png
   [1f3a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a8.svg
   [1f3a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3a9.png
-  [1f3a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3a9.png
+  [1f3a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3a9.png
   [1f3a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3a9.svg
   [1f3aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3aa.png
-  [1f3aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3aa.png
+  [1f3aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3aa.png
   [1f3aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3aa.svg
   [1f3ab.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ab.png
-  [1f3ab.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ab.png
+  [1f3ab.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ab.png
   [1f3ab.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ab.svg
   [1f3ac.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ac.png
-  [1f3ac.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ac.png
+  [1f3ac.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ac.png
   [1f3ac.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ac.svg
   [1f3ad.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ad.png
-  [1f3ad.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ad.png
+  [1f3ad.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ad.png
   [1f3ad.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ad.svg
   [1f3ae.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ae.png
-  [1f3ae.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ae.png
+  [1f3ae.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ae.png
   [1f3ae.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ae.svg
   [1f3af.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3af.png
-  [1f3af.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3af.png
+  [1f3af.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3af.png
   [1f3af.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3af.svg
   [1f3b0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b0.png
-  [1f3b0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b0.png
+  [1f3b0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b0.png
   [1f3b0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b0.svg
   [1f3b1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b1.png
-  [1f3b1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b1.png
+  [1f3b1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b1.png
   [1f3b1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b1.svg
   [1f3b2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b2.png
-  [1f3b2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b2.png
+  [1f3b2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b2.png
   [1f3b2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b2.svg
   [1f3b3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b3.png
-  [1f3b3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b3.png
+  [1f3b3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b3.png
   [1f3b3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b3.svg
   [1f3b4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b4.png
-  [1f3b4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b4.png
+  [1f3b4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b4.png
   [1f3b4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b4.svg
   [1f3b5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b5.png
-  [1f3b5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b5.png
+  [1f3b5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b5.png
   [1f3b5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b5.svg
   [1f3b6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b6.png
-  [1f3b6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b6.png
+  [1f3b6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b6.png
   [1f3b6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b6.svg
   [1f3b7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b7.png
-  [1f3b7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b7.png
+  [1f3b7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b7.png
   [1f3b7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b7.svg
   [1f3b8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b8.png
-  [1f3b8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b8.png
+  [1f3b8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b8.png
   [1f3b8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b8.svg
   [1f3b9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3b9.png
-  [1f3b9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3b9.png
+  [1f3b9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3b9.png
   [1f3b9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3b9.svg
   [1f3ba.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ba.png
-  [1f3ba.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ba.png
+  [1f3ba.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ba.png
   [1f3ba.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ba.svg
   [1f3bb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3bb.png
-  [1f3bb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3bb.png
+  [1f3bb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3bb.png
   [1f3bb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3bb.svg
   [1f3bc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3bc.png
-  [1f3bc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3bc.png
+  [1f3bc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3bc.png
   [1f3bc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3bc.svg
   [1f3bd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3bd.png
-  [1f3bd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3bd.png
+  [1f3bd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3bd.png
   [1f3bd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3bd.svg
   [1f3be.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3be.png
-  [1f3be.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3be.png
+  [1f3be.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3be.png
   [1f3be.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3be.svg
   [1f3bf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3bf.png
-  [1f3bf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3bf.png
+  [1f3bf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3bf.png
   [1f3bf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3bf.svg
   [1f3c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c0.png
-  [1f3c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c0.png
+  [1f3c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c0.png
   [1f3c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c0.svg
   [1f3c1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c1.png
-  [1f3c1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c1.png
+  [1f3c1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c1.png
   [1f3c1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c1.svg
   [1f3c2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c2.png
-  [1f3c2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c2.png
+  [1f3c2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c2.png
   [1f3c2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c2.svg
   [1f3c3-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3-1f3fb.png
-  [1f3c3-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3-1f3fb.png
+  [1f3c3-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3-1f3fb.png
   [1f3c3-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3-1f3fb.svg
   [1f3c3-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3-1f3fc.png
-  [1f3c3-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3-1f3fc.png
+  [1f3c3-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3-1f3fc.png
   [1f3c3-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3-1f3fc.svg
   [1f3c3-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3-1f3fd.png
-  [1f3c3-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3-1f3fd.png
+  [1f3c3-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3-1f3fd.png
   [1f3c3-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3-1f3fd.svg
   [1f3c3-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3-1f3fe.png
-  [1f3c3-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3-1f3fe.png
+  [1f3c3-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3-1f3fe.png
   [1f3c3-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3-1f3fe.svg
   [1f3c3-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3-1f3ff.png
-  [1f3c3-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3-1f3ff.png
+  [1f3c3-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3-1f3ff.png
   [1f3c3-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3-1f3ff.svg
   [1f3c3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c3.png
-  [1f3c3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c3.png
+  [1f3c3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c3.png
   [1f3c3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c3.svg
   [1f3c4-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4-1f3fb.png
-  [1f3c4-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4-1f3fb.png
+  [1f3c4-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4-1f3fb.png
   [1f3c4-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4-1f3fb.svg
   [1f3c4-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4-1f3fc.png
-  [1f3c4-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4-1f3fc.png
+  [1f3c4-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4-1f3fc.png
   [1f3c4-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4-1f3fc.svg
   [1f3c4-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4-1f3fd.png
-  [1f3c4-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4-1f3fd.png
+  [1f3c4-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4-1f3fd.png
   [1f3c4-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4-1f3fd.svg
   [1f3c4-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4-1f3fe.png
-  [1f3c4-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4-1f3fe.png
+  [1f3c4-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4-1f3fe.png
   [1f3c4-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4-1f3fe.svg
   [1f3c4-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4-1f3ff.png
-  [1f3c4-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4-1f3ff.png
+  [1f3c4-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4-1f3ff.png
   [1f3c4-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4-1f3ff.svg
   [1f3c4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c4.png
-  [1f3c4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c4.png
+  [1f3c4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c4.png
   [1f3c4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c4.svg
   [1f3c5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c5.png
-  [1f3c5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c5.png
+  [1f3c5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c5.png
   [1f3c5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c5.svg
   [1f3c6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c6.png
-  [1f3c6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c6.png
+  [1f3c6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c6.png
   [1f3c6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c6.svg
   [1f3c7-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7-1f3fb.png
-  [1f3c7-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7-1f3fb.png
+  [1f3c7-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7-1f3fb.png
   [1f3c7-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7-1f3fb.svg
   [1f3c7-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7-1f3fc.png
-  [1f3c7-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7-1f3fc.png
+  [1f3c7-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7-1f3fc.png
   [1f3c7-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7-1f3fc.svg
   [1f3c7-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7-1f3fd.png
-  [1f3c7-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7-1f3fd.png
+  [1f3c7-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7-1f3fd.png
   [1f3c7-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7-1f3fd.svg
   [1f3c7-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7-1f3fe.png
-  [1f3c7-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7-1f3fe.png
+  [1f3c7-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7-1f3fe.png
   [1f3c7-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7-1f3fe.svg
   [1f3c7-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7-1f3ff.png
-  [1f3c7-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7-1f3ff.png
+  [1f3c7-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7-1f3ff.png
   [1f3c7-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7-1f3ff.svg
   [1f3c7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c7.png
-  [1f3c7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c7.png
+  [1f3c7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c7.png
   [1f3c7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c7.svg
   [1f3c8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c8.png
-  [1f3c8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c8.png
+  [1f3c8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c8.png
   [1f3c8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c8.svg
   [1f3c9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3c9.png
-  [1f3c9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3c9.png
+  [1f3c9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3c9.png
   [1f3c9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3c9.svg
   [1f3ca-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca-1f3fb.png
-  [1f3ca-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca-1f3fb.png
+  [1f3ca-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca-1f3fb.png
   [1f3ca-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca-1f3fb.svg
   [1f3ca-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca-1f3fc.png
-  [1f3ca-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca-1f3fc.png
+  [1f3ca-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca-1f3fc.png
   [1f3ca-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca-1f3fc.svg
   [1f3ca-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca-1f3fd.png
-  [1f3ca-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca-1f3fd.png
+  [1f3ca-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca-1f3fd.png
   [1f3ca-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca-1f3fd.svg
   [1f3ca-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca-1f3fe.png
-  [1f3ca-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca-1f3fe.png
+  [1f3ca-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca-1f3fe.png
   [1f3ca-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca-1f3fe.svg
   [1f3ca-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca-1f3ff.png
-  [1f3ca-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca-1f3ff.png
+  [1f3ca-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca-1f3ff.png
   [1f3ca-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca-1f3ff.svg
   [1f3ca.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ca.png
-  [1f3ca.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ca.png
+  [1f3ca.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ca.png
   [1f3ca.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ca.svg
   [1f3cb-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb-1f3fb.png
-  [1f3cb-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb-1f3fb.png
+  [1f3cb-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb-1f3fb.png
   [1f3cb-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb-1f3fb.svg
   [1f3cb-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb-1f3fc.png
-  [1f3cb-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb-1f3fc.png
+  [1f3cb-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb-1f3fc.png
   [1f3cb-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb-1f3fc.svg
   [1f3cb-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb-1f3fd.png
-  [1f3cb-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb-1f3fd.png
+  [1f3cb-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb-1f3fd.png
   [1f3cb-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb-1f3fd.svg
   [1f3cb-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb-1f3fe.png
-  [1f3cb-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb-1f3fe.png
+  [1f3cb-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb-1f3fe.png
   [1f3cb-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb-1f3fe.svg
   [1f3cb-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb-1f3ff.png
-  [1f3cb-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb-1f3ff.png
+  [1f3cb-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb-1f3ff.png
   [1f3cb-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb-1f3ff.svg
   [1f3cb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cb.png
-  [1f3cb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cb.png
+  [1f3cb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cb.png
   [1f3cb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cb.svg
   [1f3cc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cc.png
-  [1f3cc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cc.png
+  [1f3cc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cc.png
   [1f3cc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cc.svg
   [1f3cd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cd.png
-  [1f3cd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cd.png
+  [1f3cd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cd.png
   [1f3cd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cd.svg
   [1f3ce.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ce.png
-  [1f3ce.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ce.png
+  [1f3ce.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ce.png
   [1f3ce.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ce.svg
   [1f3cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3cf.png
-  [1f3cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3cf.png
+  [1f3cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3cf.png
   [1f3cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3cf.svg
   [1f3d0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d0.png
-  [1f3d0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d0.png
+  [1f3d0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d0.png
   [1f3d0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d0.svg
   [1f3d1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d1.png
-  [1f3d1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d1.png
+  [1f3d1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d1.png
   [1f3d1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d1.svg
   [1f3d2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d2.png
-  [1f3d2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d2.png
+  [1f3d2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d2.png
   [1f3d2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d2.svg
   [1f3d3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d3.png
-  [1f3d3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d3.png
+  [1f3d3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d3.png
   [1f3d3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d3.svg
   [1f3d4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d4.png
-  [1f3d4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d4.png
+  [1f3d4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d4.png
   [1f3d4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d4.svg
   [1f3d5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d5.png
-  [1f3d5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d5.png
+  [1f3d5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d5.png
   [1f3d5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d5.svg
   [1f3d6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d6.png
-  [1f3d6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d6.png
+  [1f3d6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d6.png
   [1f3d6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d6.svg
   [1f3d7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d7.png
-  [1f3d7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d7.png
+  [1f3d7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d7.png
   [1f3d7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d7.svg
   [1f3d8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d8.png
-  [1f3d8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d8.png
+  [1f3d8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d8.png
   [1f3d8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d8.svg
   [1f3d9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3d9.png
-  [1f3d9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3d9.png
+  [1f3d9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3d9.png
   [1f3d9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3d9.svg
   [1f3da.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3da.png
-  [1f3da.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3da.png
+  [1f3da.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3da.png
   [1f3da.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3da.svg
   [1f3db.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3db.png
-  [1f3db.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3db.png
+  [1f3db.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3db.png
   [1f3db.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3db.svg
   [1f3dc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3dc.png
-  [1f3dc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3dc.png
+  [1f3dc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3dc.png
   [1f3dc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3dc.svg
   [1f3dd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3dd.png
-  [1f3dd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3dd.png
+  [1f3dd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3dd.png
   [1f3dd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3dd.svg
   [1f3de.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3de.png
-  [1f3de.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3de.png
+  [1f3de.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3de.png
   [1f3de.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3de.svg
   [1f3df.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3df.png
-  [1f3df.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3df.png
+  [1f3df.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3df.png
   [1f3df.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3df.svg
   [1f3e0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e0.png
-  [1f3e0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e0.png
+  [1f3e0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e0.png
   [1f3e0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e0.svg
   [1f3e1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e1.png
-  [1f3e1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e1.png
+  [1f3e1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e1.png
   [1f3e1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e1.svg
   [1f3e2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e2.png
-  [1f3e2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e2.png
+  [1f3e2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e2.png
   [1f3e2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e2.svg
   [1f3e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e3.png
-  [1f3e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e3.png
+  [1f3e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e3.png
   [1f3e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e3.svg
   [1f3e4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e4.png
-  [1f3e4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e4.png
+  [1f3e4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e4.png
   [1f3e4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e4.svg
   [1f3e5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e5.png
-  [1f3e5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e5.png
+  [1f3e5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e5.png
   [1f3e5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e5.svg
   [1f3e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e6.png
-  [1f3e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e6.png
+  [1f3e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e6.png
   [1f3e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e6.svg
   [1f3e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e7.png
-  [1f3e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e7.png
+  [1f3e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e7.png
   [1f3e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e7.svg
   [1f3e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e8.png
-  [1f3e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e8.png
+  [1f3e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e8.png
   [1f3e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e8.svg
   [1f3e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3e9.png
-  [1f3e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3e9.png
+  [1f3e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3e9.png
   [1f3e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3e9.svg
   [1f3ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ea.png
-  [1f3ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ea.png
+  [1f3ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ea.png
   [1f3ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ea.svg
   [1f3eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3eb.png
-  [1f3eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3eb.png
+  [1f3eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3eb.png
   [1f3eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3eb.svg
   [1f3ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ec.png
-  [1f3ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ec.png
+  [1f3ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ec.png
   [1f3ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ec.svg
   [1f3ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ed.png
-  [1f3ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ed.png
+  [1f3ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ed.png
   [1f3ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ed.svg
   [1f3ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ee.png
-  [1f3ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ee.png
+  [1f3ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ee.png
   [1f3ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ee.svg
   [1f3ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ef.png
-  [1f3ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ef.png
+  [1f3ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ef.png
   [1f3ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ef.svg
   [1f3f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f0.png
-  [1f3f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f0.png
+  [1f3f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f0.png
   [1f3f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f0.svg
   [1f3f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f1.png
-  [1f3f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f1.png
+  [1f3f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f1.png
   [1f3f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f1.svg
   [1f3f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f2.png
-  [1f3f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f2.png
+  [1f3f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f2.png
   [1f3f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f2.svg
   [1f3f3-1f308.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f3-1f308.png
-  [1f3f3-1f308.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f3-1f308.png
+  [1f3f3-1f308.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f3-1f308.png
   [1f3f3-1f308.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f3-1f308.svg
   [1f3f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f3.png
-  [1f3f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f3.png
+  [1f3f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f3.png
   [1f3f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f3.svg
   [1f3f4-2620.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4-2620.png
-  [1f3f4-2620.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4-2620.png
+  [1f3f4-2620.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4-2620.png
   [1f3f4-2620.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4-2620.svg
   [1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png
-  [1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png
+  [1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png
   [1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg
   [1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.png
-  [1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.png
+  [1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.png
   [1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4-e0067-e0062-e006e-e0069-e0072-e007f.svg
   [1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png
-  [1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png
+  [1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png
   [1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.svg
   [1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png
-  [1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png
+  [1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png
   [1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.svg
   [1f3f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f4.png
-  [1f3f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f4.png
+  [1f3f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f4.png
   [1f3f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f4.svg
   [1f3f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f5.png
-  [1f3f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f5.png
+  [1f3f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f5.png
   [1f3f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f5.svg
   [1f3f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f7.png
-  [1f3f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f7.png
+  [1f3f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f7.png
   [1f3f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f7.svg
   [1f3f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f8.png
-  [1f3f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f8.png
+  [1f3f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f8.png
   [1f3f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f8.svg
   [1f3f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3f9.png
-  [1f3f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3f9.png
+  [1f3f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3f9.png
   [1f3f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3f9.svg
   [1f3fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3fa.png
-  [1f3fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3fa.png
+  [1f3fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3fa.png
   [1f3fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3fa.svg
   [1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3fb.png
-  [1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3fb.png
+  [1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3fb.png
   [1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3fb.svg
   [1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3fc.png
-  [1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3fc.png
+  [1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3fc.png
   [1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3fc.svg
   [1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3fd.png
-  [1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3fd.png
+  [1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3fd.png
   [1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3fd.svg
   [1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3fe.png
-  [1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3fe.png
+  [1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3fe.png
   [1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3fe.svg
   [1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f3ff.png
-  [1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f3ff.png
+  [1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f3ff.png
   [1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f3ff.svg
   [1f400.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f400.png
-  [1f400.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f400.png
+  [1f400.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f400.png
   [1f400.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f400.svg
   [1f401.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f401.png
-  [1f401.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f401.png
+  [1f401.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f401.png
   [1f401.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f401.svg
   [1f402.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f402.png
-  [1f402.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f402.png
+  [1f402.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f402.png
   [1f402.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f402.svg
   [1f403.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f403.png
-  [1f403.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f403.png
+  [1f403.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f403.png
   [1f403.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f403.svg
   [1f404.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f404.png
-  [1f404.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f404.png
+  [1f404.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f404.png
   [1f404.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f404.svg
   [1f405.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f405.png
-  [1f405.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f405.png
+  [1f405.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f405.png
   [1f405.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f405.svg
   [1f406.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f406.png
-  [1f406.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f406.png
+  [1f406.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f406.png
   [1f406.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f406.svg
   [1f407.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f407.png
-  [1f407.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f407.png
+  [1f407.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f407.png
   [1f407.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f407.svg
   [1f408.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f408.png
-  [1f408.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f408.png
+  [1f408.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f408.png
   [1f408.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f408.svg
   [1f409.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f409.png
-  [1f409.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f409.png
+  [1f409.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f409.png
   [1f409.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f409.svg
   [1f40a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40a.png
-  [1f40a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40a.png
+  [1f40a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40a.png
   [1f40a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40a.svg
   [1f40b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40b.png
-  [1f40b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40b.png
+  [1f40b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40b.png
   [1f40b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40b.svg
   [1f40c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40c.png
-  [1f40c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40c.png
+  [1f40c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40c.png
   [1f40c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40c.svg
   [1f40d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40d.png
-  [1f40d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40d.png
+  [1f40d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40d.png
   [1f40d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40d.svg
   [1f40e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40e.png
-  [1f40e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40e.png
+  [1f40e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40e.png
   [1f40e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40e.svg
   [1f40f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f40f.png
-  [1f40f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f40f.png
+  [1f40f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f40f.png
   [1f40f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f40f.svg
   [1f410.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f410.png
-  [1f410.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f410.png
+  [1f410.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f410.png
   [1f410.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f410.svg
   [1f411.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f411.png
-  [1f411.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f411.png
+  [1f411.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f411.png
   [1f411.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f411.svg
   [1f412.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f412.png
-  [1f412.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f412.png
+  [1f412.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f412.png
   [1f412.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f412.svg
   [1f413.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f413.png
-  [1f413.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f413.png
+  [1f413.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f413.png
   [1f413.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f413.svg
   [1f414.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f414.png
-  [1f414.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f414.png
+  [1f414.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f414.png
   [1f414.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f414.svg
   [1f415.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f415.png
-  [1f415.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f415.png
+  [1f415.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f415.png
   [1f415.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f415.svg
   [1f416.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f416.png
-  [1f416.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f416.png
+  [1f416.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f416.png
   [1f416.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f416.svg
   [1f417.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f417.png
-  [1f417.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f417.png
+  [1f417.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f417.png
   [1f417.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f417.svg
   [1f418.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f418.png
-  [1f418.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f418.png
+  [1f418.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f418.png
   [1f418.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f418.svg
   [1f419.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f419.png
-  [1f419.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f419.png
+  [1f419.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f419.png
   [1f419.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f419.svg
   [1f41a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41a.png
-  [1f41a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41a.png
+  [1f41a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41a.png
   [1f41a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41a.svg
   [1f41b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41b.png
-  [1f41b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41b.png
+  [1f41b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41b.png
   [1f41b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41b.svg
   [1f41c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41c.png
-  [1f41c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41c.png
+  [1f41c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41c.png
   [1f41c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41c.svg
   [1f41d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41d.png
-  [1f41d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41d.png
+  [1f41d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41d.png
   [1f41d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41d.svg
   [1f41e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41e.png
-  [1f41e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41e.png
+  [1f41e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41e.png
   [1f41e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41e.svg
   [1f41f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f41f.png
-  [1f41f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f41f.png
+  [1f41f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f41f.png
   [1f41f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f41f.svg
   [1f420.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f420.png
-  [1f420.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f420.png
+  [1f420.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f420.png
   [1f420.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f420.svg
   [1f421.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f421.png
-  [1f421.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f421.png
+  [1f421.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f421.png
   [1f421.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f421.svg
   [1f422.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f422.png
-  [1f422.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f422.png
+  [1f422.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f422.png
   [1f422.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f422.svg
   [1f423.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f423.png
-  [1f423.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f423.png
+  [1f423.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f423.png
   [1f423.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f423.svg
   [1f424.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f424.png
-  [1f424.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f424.png
+  [1f424.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f424.png
   [1f424.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f424.svg
   [1f425.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f425.png
-  [1f425.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f425.png
+  [1f425.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f425.png
   [1f425.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f425.svg
   [1f426.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f426.png
-  [1f426.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f426.png
+  [1f426.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f426.png
   [1f426.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f426.svg
   [1f427.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f427.png
-  [1f427.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f427.png
+  [1f427.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f427.png
   [1f427.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f427.svg
   [1f428.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f428.png
-  [1f428.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f428.png
+  [1f428.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f428.png
   [1f428.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f428.svg
   [1f429.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f429.png
-  [1f429.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f429.png
+  [1f429.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f429.png
   [1f429.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f429.svg
   [1f42a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42a.png
-  [1f42a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42a.png
+  [1f42a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42a.png
   [1f42a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42a.svg
   [1f42b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42b.png
-  [1f42b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42b.png
+  [1f42b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42b.png
   [1f42b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42b.svg
   [1f42c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42c.png
-  [1f42c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42c.png
+  [1f42c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42c.png
   [1f42c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42c.svg
   [1f42d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42d.png
-  [1f42d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42d.png
+  [1f42d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42d.png
   [1f42d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42d.svg
   [1f42e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42e.png
-  [1f42e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42e.png
+  [1f42e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42e.png
   [1f42e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42e.svg
   [1f42f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f42f.png
-  [1f42f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f42f.png
+  [1f42f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f42f.png
   [1f42f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f42f.svg
   [1f430.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f430.png
-  [1f430.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f430.png
+  [1f430.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f430.png
   [1f430.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f430.svg
   [1f431.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f431.png
-  [1f431.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f431.png
+  [1f431.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f431.png
   [1f431.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f431.svg
   [1f432.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f432.png
-  [1f432.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f432.png
+  [1f432.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f432.png
   [1f432.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f432.svg
   [1f433.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f433.png
-  [1f433.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f433.png
+  [1f433.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f433.png
   [1f433.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f433.svg
   [1f434.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f434.png
-  [1f434.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f434.png
+  [1f434.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f434.png
   [1f434.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f434.svg
   [1f435.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f435.png
-  [1f435.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f435.png
+  [1f435.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f435.png
   [1f435.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f435.svg
   [1f436.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f436.png
-  [1f436.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f436.png
+  [1f436.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f436.png
   [1f436.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f436.svg
   [1f437.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f437.png
-  [1f437.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f437.png
+  [1f437.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f437.png
   [1f437.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f437.svg
   [1f438.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f438.png
-  [1f438.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f438.png
+  [1f438.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f438.png
   [1f438.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f438.svg
   [1f439.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f439.png
-  [1f439.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f439.png
+  [1f439.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f439.png
   [1f439.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f439.svg
   [1f43a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43a.png
-  [1f43a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43a.png
+  [1f43a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43a.png
   [1f43a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43a.svg
   [1f43b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43b.png
-  [1f43b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43b.png
+  [1f43b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43b.png
   [1f43b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43b.svg
   [1f43c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43c.png
-  [1f43c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43c.png
+  [1f43c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43c.png
   [1f43c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43c.svg
   [1f43d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43d.png
-  [1f43d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43d.png
+  [1f43d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43d.png
   [1f43d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43d.svg
   [1f43e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43e.png
-  [1f43e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43e.png
+  [1f43e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43e.png
   [1f43e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43e.svg
   [1f43f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f43f.png
-  [1f43f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f43f.png
+  [1f43f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f43f.png
   [1f43f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f43f.svg
   [1f440.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f440.png
-  [1f440.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f440.png
+  [1f440.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f440.png
   [1f440.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f440.svg
   [1f441-1f5e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f441-1f5e8.png
-  [1f441-1f5e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f441-1f5e8.png
+  [1f441-1f5e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f441-1f5e8.png
   [1f441-1f5e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f441-1f5e8.svg
   [1f441.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f441.png
-  [1f441.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f441.png
+  [1f441.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f441.png
   [1f441.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f441.svg
   [1f442-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442-1f3fb.png
-  [1f442-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442-1f3fb.png
+  [1f442-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442-1f3fb.png
   [1f442-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442-1f3fb.svg
   [1f442-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442-1f3fc.png
-  [1f442-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442-1f3fc.png
+  [1f442-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442-1f3fc.png
   [1f442-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442-1f3fc.svg
   [1f442-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442-1f3fd.png
-  [1f442-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442-1f3fd.png
+  [1f442-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442-1f3fd.png
   [1f442-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442-1f3fd.svg
   [1f442-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442-1f3fe.png
-  [1f442-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442-1f3fe.png
+  [1f442-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442-1f3fe.png
   [1f442-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442-1f3fe.svg
   [1f442-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442-1f3ff.png
-  [1f442-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442-1f3ff.png
+  [1f442-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442-1f3ff.png
   [1f442-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442-1f3ff.svg
   [1f442.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f442.png
-  [1f442.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f442.png
+  [1f442.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f442.png
   [1f442.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f442.svg
   [1f443-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443-1f3fb.png
-  [1f443-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443-1f3fb.png
+  [1f443-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443-1f3fb.png
   [1f443-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443-1f3fb.svg
   [1f443-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443-1f3fc.png
-  [1f443-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443-1f3fc.png
+  [1f443-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443-1f3fc.png
   [1f443-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443-1f3fc.svg
   [1f443-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443-1f3fd.png
-  [1f443-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443-1f3fd.png
+  [1f443-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443-1f3fd.png
   [1f443-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443-1f3fd.svg
   [1f443-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443-1f3fe.png
-  [1f443-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443-1f3fe.png
+  [1f443-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443-1f3fe.png
   [1f443-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443-1f3fe.svg
   [1f443-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443-1f3ff.png
-  [1f443-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443-1f3ff.png
+  [1f443-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443-1f3ff.png
   [1f443-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443-1f3ff.svg
   [1f443.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f443.png
-  [1f443.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f443.png
+  [1f443.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f443.png
   [1f443.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f443.svg
   [1f444.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f444.png
-  [1f444.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f444.png
+  [1f444.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f444.png
   [1f444.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f444.svg
   [1f445.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f445.png
-  [1f445.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f445.png
+  [1f445.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f445.png
   [1f445.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f445.svg
   [1f446-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446-1f3fb.png
-  [1f446-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446-1f3fb.png
+  [1f446-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446-1f3fb.png
   [1f446-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446-1f3fb.svg
   [1f446-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446-1f3fc.png
-  [1f446-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446-1f3fc.png
+  [1f446-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446-1f3fc.png
   [1f446-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446-1f3fc.svg
   [1f446-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446-1f3fd.png
-  [1f446-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446-1f3fd.png
+  [1f446-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446-1f3fd.png
   [1f446-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446-1f3fd.svg
   [1f446-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446-1f3fe.png
-  [1f446-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446-1f3fe.png
+  [1f446-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446-1f3fe.png
   [1f446-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446-1f3fe.svg
   [1f446-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446-1f3ff.png
-  [1f446-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446-1f3ff.png
+  [1f446-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446-1f3ff.png
   [1f446-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446-1f3ff.svg
   [1f446.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f446.png
-  [1f446.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f446.png
+  [1f446.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f446.png
   [1f446.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f446.svg
   [1f447-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447-1f3fb.png
-  [1f447-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447-1f3fb.png
+  [1f447-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447-1f3fb.png
   [1f447-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447-1f3fb.svg
   [1f447-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447-1f3fc.png
-  [1f447-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447-1f3fc.png
+  [1f447-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447-1f3fc.png
   [1f447-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447-1f3fc.svg
   [1f447-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447-1f3fd.png
-  [1f447-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447-1f3fd.png
+  [1f447-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447-1f3fd.png
   [1f447-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447-1f3fd.svg
   [1f447-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447-1f3fe.png
-  [1f447-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447-1f3fe.png
+  [1f447-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447-1f3fe.png
   [1f447-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447-1f3fe.svg
   [1f447-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447-1f3ff.png
-  [1f447-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447-1f3ff.png
+  [1f447-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447-1f3ff.png
   [1f447-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447-1f3ff.svg
   [1f447.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f447.png
-  [1f447.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f447.png
+  [1f447.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f447.png
   [1f447.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f447.svg
   [1f448-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448-1f3fb.png
-  [1f448-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448-1f3fb.png
+  [1f448-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448-1f3fb.png
   [1f448-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448-1f3fb.svg
   [1f448-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448-1f3fc.png
-  [1f448-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448-1f3fc.png
+  [1f448-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448-1f3fc.png
   [1f448-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448-1f3fc.svg
   [1f448-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448-1f3fd.png
-  [1f448-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448-1f3fd.png
+  [1f448-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448-1f3fd.png
   [1f448-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448-1f3fd.svg
   [1f448-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448-1f3fe.png
-  [1f448-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448-1f3fe.png
+  [1f448-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448-1f3fe.png
   [1f448-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448-1f3fe.svg
   [1f448-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448-1f3ff.png
-  [1f448-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448-1f3ff.png
+  [1f448-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448-1f3ff.png
   [1f448-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448-1f3ff.svg
   [1f448.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f448.png
-  [1f448.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f448.png
+  [1f448.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f448.png
   [1f448.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f448.svg
   [1f449-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449-1f3fb.png
-  [1f449-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449-1f3fb.png
+  [1f449-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449-1f3fb.png
   [1f449-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449-1f3fb.svg
   [1f449-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449-1f3fc.png
-  [1f449-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449-1f3fc.png
+  [1f449-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449-1f3fc.png
   [1f449-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449-1f3fc.svg
   [1f449-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449-1f3fd.png
-  [1f449-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449-1f3fd.png
+  [1f449-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449-1f3fd.png
   [1f449-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449-1f3fd.svg
   [1f449-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449-1f3fe.png
-  [1f449-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449-1f3fe.png
+  [1f449-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449-1f3fe.png
   [1f449-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449-1f3fe.svg
   [1f449-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449-1f3ff.png
-  [1f449-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449-1f3ff.png
+  [1f449-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449-1f3ff.png
   [1f449-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449-1f3ff.svg
   [1f449.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f449.png
-  [1f449.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f449.png
+  [1f449.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f449.png
   [1f449.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f449.svg
   [1f44a-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a-1f3fb.png
-  [1f44a-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a-1f3fb.png
+  [1f44a-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a-1f3fb.png
   [1f44a-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a-1f3fb.svg
   [1f44a-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a-1f3fc.png
-  [1f44a-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a-1f3fc.png
+  [1f44a-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a-1f3fc.png
   [1f44a-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a-1f3fc.svg
   [1f44a-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a-1f3fd.png
-  [1f44a-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a-1f3fd.png
+  [1f44a-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a-1f3fd.png
   [1f44a-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a-1f3fd.svg
   [1f44a-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a-1f3fe.png
-  [1f44a-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a-1f3fe.png
+  [1f44a-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a-1f3fe.png
   [1f44a-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a-1f3fe.svg
   [1f44a-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a-1f3ff.png
-  [1f44a-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a-1f3ff.png
+  [1f44a-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a-1f3ff.png
   [1f44a-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a-1f3ff.svg
   [1f44a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44a.png
-  [1f44a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44a.png
+  [1f44a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44a.png
   [1f44a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44a.svg
   [1f44b-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b-1f3fb.png
-  [1f44b-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b-1f3fb.png
+  [1f44b-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b-1f3fb.png
   [1f44b-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b-1f3fb.svg
   [1f44b-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b-1f3fc.png
-  [1f44b-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b-1f3fc.png
+  [1f44b-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b-1f3fc.png
   [1f44b-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b-1f3fc.svg
   [1f44b-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b-1f3fd.png
-  [1f44b-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b-1f3fd.png
+  [1f44b-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b-1f3fd.png
   [1f44b-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b-1f3fd.svg
   [1f44b-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b-1f3fe.png
-  [1f44b-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b-1f3fe.png
+  [1f44b-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b-1f3fe.png
   [1f44b-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b-1f3fe.svg
   [1f44b-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b-1f3ff.png
-  [1f44b-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b-1f3ff.png
+  [1f44b-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b-1f3ff.png
   [1f44b-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b-1f3ff.svg
   [1f44b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44b.png
-  [1f44b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44b.png
+  [1f44b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44b.png
   [1f44b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44b.svg
   [1f44c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c-1f3fb.png
-  [1f44c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c-1f3fb.png
+  [1f44c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c-1f3fb.png
   [1f44c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c-1f3fb.svg
   [1f44c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c-1f3fc.png
-  [1f44c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c-1f3fc.png
+  [1f44c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c-1f3fc.png
   [1f44c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c-1f3fc.svg
   [1f44c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c-1f3fd.png
-  [1f44c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c-1f3fd.png
+  [1f44c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c-1f3fd.png
   [1f44c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c-1f3fd.svg
   [1f44c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c-1f3fe.png
-  [1f44c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c-1f3fe.png
+  [1f44c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c-1f3fe.png
   [1f44c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c-1f3fe.svg
   [1f44c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c-1f3ff.png
-  [1f44c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c-1f3ff.png
+  [1f44c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c-1f3ff.png
   [1f44c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c-1f3ff.svg
   [1f44c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44c.png
-  [1f44c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44c.png
+  [1f44c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44c.png
   [1f44c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44c.svg
   [1f44d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d-1f3fb.png
-  [1f44d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d-1f3fb.png
+  [1f44d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d-1f3fb.png
   [1f44d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d-1f3fb.svg
   [1f44d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d-1f3fc.png
-  [1f44d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d-1f3fc.png
+  [1f44d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d-1f3fc.png
   [1f44d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d-1f3fc.svg
   [1f44d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d-1f3fd.png
-  [1f44d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d-1f3fd.png
+  [1f44d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d-1f3fd.png
   [1f44d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d-1f3fd.svg
   [1f44d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d-1f3fe.png
-  [1f44d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d-1f3fe.png
+  [1f44d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d-1f3fe.png
   [1f44d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d-1f3fe.svg
   [1f44d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d-1f3ff.png
-  [1f44d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d-1f3ff.png
+  [1f44d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d-1f3ff.png
   [1f44d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d-1f3ff.svg
   [1f44d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44d.png
-  [1f44d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44d.png
+  [1f44d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44d.png
   [1f44d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44d.svg
   [1f44e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e-1f3fb.png
-  [1f44e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e-1f3fb.png
+  [1f44e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e-1f3fb.png
   [1f44e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e-1f3fb.svg
   [1f44e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e-1f3fc.png
-  [1f44e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e-1f3fc.png
+  [1f44e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e-1f3fc.png
   [1f44e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e-1f3fc.svg
   [1f44e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e-1f3fd.png
-  [1f44e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e-1f3fd.png
+  [1f44e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e-1f3fd.png
   [1f44e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e-1f3fd.svg
   [1f44e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e-1f3fe.png
-  [1f44e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e-1f3fe.png
+  [1f44e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e-1f3fe.png
   [1f44e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e-1f3fe.svg
   [1f44e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e-1f3ff.png
-  [1f44e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e-1f3ff.png
+  [1f44e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e-1f3ff.png
   [1f44e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e-1f3ff.svg
   [1f44e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44e.png
-  [1f44e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44e.png
+  [1f44e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44e.png
   [1f44e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44e.svg
   [1f44f-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f-1f3fb.png
-  [1f44f-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f-1f3fb.png
+  [1f44f-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f-1f3fb.png
   [1f44f-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f-1f3fb.svg
   [1f44f-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f-1f3fc.png
-  [1f44f-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f-1f3fc.png
+  [1f44f-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f-1f3fc.png
   [1f44f-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f-1f3fc.svg
   [1f44f-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f-1f3fd.png
-  [1f44f-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f-1f3fd.png
+  [1f44f-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f-1f3fd.png
   [1f44f-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f-1f3fd.svg
   [1f44f-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f-1f3fe.png
-  [1f44f-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f-1f3fe.png
+  [1f44f-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f-1f3fe.png
   [1f44f-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f-1f3fe.svg
   [1f44f-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f-1f3ff.png
-  [1f44f-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f-1f3ff.png
+  [1f44f-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f-1f3ff.png
   [1f44f-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f-1f3ff.svg
   [1f44f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f44f.png
-  [1f44f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f44f.png
+  [1f44f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f44f.png
   [1f44f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f44f.svg
   [1f450-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450-1f3fb.png
-  [1f450-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450-1f3fb.png
+  [1f450-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450-1f3fb.png
   [1f450-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450-1f3fb.svg
   [1f450-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450-1f3fc.png
-  [1f450-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450-1f3fc.png
+  [1f450-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450-1f3fc.png
   [1f450-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450-1f3fc.svg
   [1f450-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450-1f3fd.png
-  [1f450-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450-1f3fd.png
+  [1f450-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450-1f3fd.png
   [1f450-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450-1f3fd.svg
   [1f450-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450-1f3fe.png
-  [1f450-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450-1f3fe.png
+  [1f450-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450-1f3fe.png
   [1f450-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450-1f3fe.svg
   [1f450-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450-1f3ff.png
-  [1f450-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450-1f3ff.png
+  [1f450-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450-1f3ff.png
   [1f450-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450-1f3ff.svg
   [1f450.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f450.png
-  [1f450.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f450.png
+  [1f450.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f450.png
   [1f450.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f450.svg
   [1f451.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f451.png
-  [1f451.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f451.png
+  [1f451.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f451.png
   [1f451.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f451.svg
   [1f452.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f452.png
-  [1f452.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f452.png
+  [1f452.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f452.png
   [1f452.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f452.svg
   [1f453.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f453.png
-  [1f453.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f453.png
+  [1f453.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f453.png
   [1f453.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f453.svg
   [1f454.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f454.png
-  [1f454.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f454.png
+  [1f454.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f454.png
   [1f454.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f454.svg
   [1f455.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f455.png
-  [1f455.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f455.png
+  [1f455.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f455.png
   [1f455.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f455.svg
   [1f456.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f456.png
-  [1f456.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f456.png
+  [1f456.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f456.png
   [1f456.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f456.svg
   [1f457.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f457.png
-  [1f457.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f457.png
+  [1f457.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f457.png
   [1f457.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f457.svg
   [1f458.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f458.png
-  [1f458.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f458.png
+  [1f458.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f458.png
   [1f458.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f458.svg
   [1f459.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f459.png
-  [1f459.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f459.png
+  [1f459.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f459.png
   [1f459.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f459.svg
   [1f45a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45a.png
-  [1f45a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45a.png
+  [1f45a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45a.png
   [1f45a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45a.svg
   [1f45b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45b.png
-  [1f45b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45b.png
+  [1f45b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45b.png
   [1f45b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45b.svg
   [1f45c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45c.png
-  [1f45c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45c.png
+  [1f45c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45c.png
   [1f45c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45c.svg
   [1f45d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45d.png
-  [1f45d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45d.png
+  [1f45d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45d.png
   [1f45d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45d.svg
   [1f45e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45e.png
-  [1f45e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45e.png
+  [1f45e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45e.png
   [1f45e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45e.svg
   [1f45f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f45f.png
-  [1f45f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f45f.png
+  [1f45f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f45f.png
   [1f45f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f45f.svg
   [1f460.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f460.png
-  [1f460.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f460.png
+  [1f460.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f460.png
   [1f460.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f460.svg
   [1f461.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f461.png
-  [1f461.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f461.png
+  [1f461.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f461.png
   [1f461.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f461.svg
   [1f462.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f462.png
-  [1f462.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f462.png
+  [1f462.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f462.png
   [1f462.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f462.svg
   [1f463.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f463.png
-  [1f463.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f463.png
+  [1f463.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f463.png
   [1f463.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f463.svg
   [1f464.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f464.png
-  [1f464.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f464.png
+  [1f464.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f464.png
   [1f464.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f464.svg
   [1f465.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f465.png
-  [1f465.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f465.png
+  [1f465.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f465.png
   [1f465.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f465.svg
   [1f466-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466-1f3fb.png
-  [1f466-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466-1f3fb.png
+  [1f466-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466-1f3fb.png
   [1f466-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466-1f3fb.svg
   [1f466-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466-1f3fc.png
-  [1f466-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466-1f3fc.png
+  [1f466-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466-1f3fc.png
   [1f466-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466-1f3fc.svg
   [1f466-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466-1f3fd.png
-  [1f466-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466-1f3fd.png
+  [1f466-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466-1f3fd.png
   [1f466-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466-1f3fd.svg
   [1f466-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466-1f3fe.png
-  [1f466-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466-1f3fe.png
+  [1f466-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466-1f3fe.png
   [1f466-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466-1f3fe.svg
   [1f466-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466-1f3ff.png
-  [1f466-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466-1f3ff.png
+  [1f466-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466-1f3ff.png
   [1f466-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466-1f3ff.svg
   [1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f466.png
-  [1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f466.png
+  [1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f466.png
   [1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f466.svg
   [1f467-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467-1f3fb.png
-  [1f467-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467-1f3fb.png
+  [1f467-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467-1f3fb.png
   [1f467-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467-1f3fb.svg
   [1f467-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467-1f3fc.png
-  [1f467-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467-1f3fc.png
+  [1f467-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467-1f3fc.png
   [1f467-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467-1f3fc.svg
   [1f467-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467-1f3fd.png
-  [1f467-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467-1f3fd.png
+  [1f467-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467-1f3fd.png
   [1f467-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467-1f3fd.svg
   [1f467-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467-1f3fe.png
-  [1f467-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467-1f3fe.png
+  [1f467-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467-1f3fe.png
   [1f467-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467-1f3fe.svg
   [1f467-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467-1f3ff.png
-  [1f467-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467-1f3ff.png
+  [1f467-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467-1f3ff.png
   [1f467-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467-1f3ff.svg
   [1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f467.png
-  [1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f467.png
+  [1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f467.png
   [1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f467.svg
   [1f468-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f3fb.png
-  [1f468-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f3fb.png
+  [1f468-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f3fb.png
   [1f468-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f3fb.svg
   [1f468-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f3fc.png
-  [1f468-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f3fc.png
+  [1f468-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f3fc.png
   [1f468-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f3fc.svg
   [1f468-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f3fd.png
-  [1f468-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f3fd.png
+  [1f468-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f3fd.png
   [1f468-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f3fd.svg
   [1f468-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f3fe.png
-  [1f468-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f3fe.png
+  [1f468-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f3fe.png
   [1f468-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f3fe.svg
   [1f468-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f3ff.png
-  [1f468-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f3ff.png
+  [1f468-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f3ff.png
   [1f468-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f3ff.svg
   [1f468-1f468-1f466-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f468-1f466-1f466.png
-  [1f468-1f468-1f466-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f468-1f466-1f466.png
+  [1f468-1f468-1f466-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f468-1f466-1f466.png
   [1f468-1f468-1f466-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f468-1f466-1f466.svg
   [1f468-1f468-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f468-1f466.png
-  [1f468-1f468-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f468-1f466.png
+  [1f468-1f468-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f468-1f466.png
   [1f468-1f468-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f468-1f466.svg
   [1f468-1f468-1f467-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f468-1f467-1f466.png
-  [1f468-1f468-1f467-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467-1f466.png
+  [1f468-1f468-1f467-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467-1f466.png
   [1f468-1f468-1f467-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f468-1f467-1f466.svg
   [1f468-1f468-1f467-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f468-1f467-1f467.png
-  [1f468-1f468-1f467-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467-1f467.png
+  [1f468-1f468-1f467-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467-1f467.png
   [1f468-1f468-1f467-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f468-1f467-1f467.svg
   [1f468-1f468-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f468-1f467.png
-  [1f468-1f468-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467.png
+  [1f468-1f468-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f468-1f467.png
   [1f468-1f468-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f468-1f467.svg
   [1f468-1f469-1f466-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f469-1f466-1f466.png
-  [1f468-1f469-1f466-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f469-1f466-1f466.png
+  [1f468-1f469-1f466-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f469-1f466-1f466.png
   [1f468-1f469-1f466-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f469-1f466-1f466.svg
   [1f468-1f469-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f469-1f466.png
-  [1f468-1f469-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f469-1f466.png
+  [1f468-1f469-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f469-1f466.png
   [1f468-1f469-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f469-1f466.svg
   [1f468-1f469-1f467-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f469-1f467-1f466.png
-  [1f468-1f469-1f467-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467-1f466.png
+  [1f468-1f469-1f467-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467-1f466.png
   [1f468-1f469-1f467-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f469-1f467-1f466.svg
   [1f468-1f469-1f467-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f469-1f467-1f467.png
-  [1f468-1f469-1f467-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467-1f467.png
+  [1f468-1f469-1f467-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467-1f467.png
   [1f468-1f469-1f467-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f469-1f467-1f467.svg
   [1f468-1f469-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-1f469-1f467.png
-  [1f468-1f469-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467.png
+  [1f468-1f469-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-1f469-1f467.png
   [1f468-1f469-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-1f469-1f467.svg
   [1f468-2764-1f468.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-2764-1f468.png
-  [1f468-2764-1f468.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-2764-1f468.png
+  [1f468-2764-1f468.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-2764-1f468.png
   [1f468-2764-1f468.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-2764-1f468.svg
   [1f468-2764-1f48b-1f468.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468-2764-1f48b-1f468.png
-  [1f468-2764-1f48b-1f468.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468-2764-1f48b-1f468.png
+  [1f468-2764-1f48b-1f468.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468-2764-1f48b-1f468.png
   [1f468-2764-1f48b-1f468.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468-2764-1f48b-1f468.svg
   [1f468.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f468.png
-  [1f468.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f468.png
+  [1f468.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f468.png
   [1f468.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f468.svg
   [1f469-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f3fb.png
-  [1f469-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f3fb.png
+  [1f469-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f3fb.png
   [1f469-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f3fb.svg
   [1f469-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f3fc.png
-  [1f469-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f3fc.png
+  [1f469-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f3fc.png
   [1f469-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f3fc.svg
   [1f469-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f3fd.png
-  [1f469-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f3fd.png
+  [1f469-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f3fd.png
   [1f469-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f3fd.svg
   [1f469-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f3fe.png
-  [1f469-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f3fe.png
+  [1f469-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f3fe.png
   [1f469-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f3fe.svg
   [1f469-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f3ff.png
-  [1f469-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f3ff.png
+  [1f469-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f3ff.png
   [1f469-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f3ff.svg
   [1f469-1f469-1f466-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f469-1f466-1f466.png
-  [1f469-1f469-1f466-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f469-1f466-1f466.png
+  [1f469-1f469-1f466-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f469-1f466-1f466.png
   [1f469-1f469-1f466-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f469-1f466-1f466.svg
   [1f469-1f469-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f469-1f466.png
-  [1f469-1f469-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f469-1f466.png
+  [1f469-1f469-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f469-1f466.png
   [1f469-1f469-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f469-1f466.svg
   [1f469-1f469-1f467-1f466.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f469-1f467-1f466.png
-  [1f469-1f469-1f467-1f466.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467-1f466.png
+  [1f469-1f469-1f467-1f466.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467-1f466.png
   [1f469-1f469-1f467-1f466.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f469-1f467-1f466.svg
   [1f469-1f469-1f467-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f469-1f467-1f467.png
-  [1f469-1f469-1f467-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467-1f467.png
+  [1f469-1f469-1f467-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467-1f467.png
   [1f469-1f469-1f467-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f469-1f467-1f467.svg
   [1f469-1f469-1f467.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-1f469-1f467.png
-  [1f469-1f469-1f467.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467.png
+  [1f469-1f469-1f467.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-1f469-1f467.png
   [1f469-1f469-1f467.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-1f469-1f467.svg
   [1f469-2764-1f469.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-2764-1f469.png
-  [1f469-2764-1f469.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-2764-1f469.png
+  [1f469-2764-1f469.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-2764-1f469.png
   [1f469-2764-1f469.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-2764-1f469.svg
   [1f469-2764-1f48b-1f469.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469-2764-1f48b-1f469.png
-  [1f469-2764-1f48b-1f469.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469-2764-1f48b-1f469.png
+  [1f469-2764-1f48b-1f469.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469-2764-1f48b-1f469.png
   [1f469-2764-1f48b-1f469.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469-2764-1f48b-1f469.svg
   [1f469.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f469.png
-  [1f469.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f469.png
+  [1f469.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f469.png
   [1f469.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f469.svg
   [1f46a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46a.png
-  [1f46a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46a.png
+  [1f46a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46a.png
   [1f46a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46a.svg
   [1f46b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46b.png
-  [1f46b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46b.png
+  [1f46b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46b.png
   [1f46b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46b.svg
   [1f46c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46c.png
-  [1f46c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46c.png
+  [1f46c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46c.png
   [1f46c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46c.svg
   [1f46d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46d.png
-  [1f46d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46d.png
+  [1f46d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46d.png
   [1f46d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46d.svg
   [1f46e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e-1f3fb.png
-  [1f46e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e-1f3fb.png
+  [1f46e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e-1f3fb.png
   [1f46e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e-1f3fb.svg
   [1f46e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e-1f3fc.png
-  [1f46e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e-1f3fc.png
+  [1f46e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e-1f3fc.png
   [1f46e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e-1f3fc.svg
   [1f46e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e-1f3fd.png
-  [1f46e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e-1f3fd.png
+  [1f46e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e-1f3fd.png
   [1f46e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e-1f3fd.svg
   [1f46e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e-1f3fe.png
-  [1f46e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e-1f3fe.png
+  [1f46e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e-1f3fe.png
   [1f46e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e-1f3fe.svg
   [1f46e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e-1f3ff.png
-  [1f46e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e-1f3ff.png
+  [1f46e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e-1f3ff.png
   [1f46e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e-1f3ff.svg
   [1f46e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46e.png
-  [1f46e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46e.png
+  [1f46e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46e.png
   [1f46e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46e.svg
   [1f46f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f46f.png
-  [1f46f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f46f.png
+  [1f46f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f46f.png
   [1f46f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f46f.svg
   [1f470-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470-1f3fb.png
-  [1f470-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470-1f3fb.png
+  [1f470-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470-1f3fb.png
   [1f470-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470-1f3fb.svg
   [1f470-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470-1f3fc.png
-  [1f470-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470-1f3fc.png
+  [1f470-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470-1f3fc.png
   [1f470-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470-1f3fc.svg
   [1f470-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470-1f3fd.png
-  [1f470-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470-1f3fd.png
+  [1f470-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470-1f3fd.png
   [1f470-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470-1f3fd.svg
   [1f470-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470-1f3fe.png
-  [1f470-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470-1f3fe.png
+  [1f470-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470-1f3fe.png
   [1f470-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470-1f3fe.svg
   [1f470-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470-1f3ff.png
-  [1f470-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470-1f3ff.png
+  [1f470-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470-1f3ff.png
   [1f470-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470-1f3ff.svg
   [1f470.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f470.png
-  [1f470.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f470.png
+  [1f470.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f470.png
   [1f470.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f470.svg
   [1f471-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471-1f3fb.png
-  [1f471-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471-1f3fb.png
+  [1f471-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471-1f3fb.png
   [1f471-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471-1f3fb.svg
   [1f471-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471-1f3fc.png
-  [1f471-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471-1f3fc.png
+  [1f471-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471-1f3fc.png
   [1f471-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471-1f3fc.svg
   [1f471-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471-1f3fd.png
-  [1f471-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471-1f3fd.png
+  [1f471-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471-1f3fd.png
   [1f471-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471-1f3fd.svg
   [1f471-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471-1f3fe.png
-  [1f471-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471-1f3fe.png
+  [1f471-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471-1f3fe.png
   [1f471-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471-1f3fe.svg
   [1f471-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471-1f3ff.png
-  [1f471-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471-1f3ff.png
+  [1f471-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471-1f3ff.png
   [1f471-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471-1f3ff.svg
   [1f471.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f471.png
-  [1f471.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f471.png
+  [1f471.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f471.png
   [1f471.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f471.svg
   [1f472-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472-1f3fb.png
-  [1f472-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472-1f3fb.png
+  [1f472-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472-1f3fb.png
   [1f472-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472-1f3fb.svg
   [1f472-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472-1f3fc.png
-  [1f472-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472-1f3fc.png
+  [1f472-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472-1f3fc.png
   [1f472-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472-1f3fc.svg
   [1f472-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472-1f3fd.png
-  [1f472-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472-1f3fd.png
+  [1f472-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472-1f3fd.png
   [1f472-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472-1f3fd.svg
   [1f472-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472-1f3fe.png
-  [1f472-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472-1f3fe.png
+  [1f472-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472-1f3fe.png
   [1f472-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472-1f3fe.svg
   [1f472-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472-1f3ff.png
-  [1f472-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472-1f3ff.png
+  [1f472-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472-1f3ff.png
   [1f472-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472-1f3ff.svg
   [1f472.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f472.png
-  [1f472.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f472.png
+  [1f472.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f472.png
   [1f472.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f472.svg
   [1f473-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473-1f3fb.png
-  [1f473-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473-1f3fb.png
+  [1f473-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473-1f3fb.png
   [1f473-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473-1f3fb.svg
   [1f473-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473-1f3fc.png
-  [1f473-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473-1f3fc.png
+  [1f473-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473-1f3fc.png
   [1f473-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473-1f3fc.svg
   [1f473-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473-1f3fd.png
-  [1f473-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473-1f3fd.png
+  [1f473-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473-1f3fd.png
   [1f473-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473-1f3fd.svg
   [1f473-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473-1f3fe.png
-  [1f473-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473-1f3fe.png
+  [1f473-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473-1f3fe.png
   [1f473-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473-1f3fe.svg
   [1f473-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473-1f3ff.png
-  [1f473-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473-1f3ff.png
+  [1f473-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473-1f3ff.png
   [1f473-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473-1f3ff.svg
   [1f473.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f473.png
-  [1f473.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f473.png
+  [1f473.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f473.png
   [1f473.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f473.svg
   [1f474-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474-1f3fb.png
-  [1f474-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474-1f3fb.png
+  [1f474-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474-1f3fb.png
   [1f474-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474-1f3fb.svg
   [1f474-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474-1f3fc.png
-  [1f474-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474-1f3fc.png
+  [1f474-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474-1f3fc.png
   [1f474-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474-1f3fc.svg
   [1f474-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474-1f3fd.png
-  [1f474-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474-1f3fd.png
+  [1f474-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474-1f3fd.png
   [1f474-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474-1f3fd.svg
   [1f474-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474-1f3fe.png
-  [1f474-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474-1f3fe.png
+  [1f474-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474-1f3fe.png
   [1f474-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474-1f3fe.svg
   [1f474-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474-1f3ff.png
-  [1f474-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474-1f3ff.png
+  [1f474-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474-1f3ff.png
   [1f474-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474-1f3ff.svg
   [1f474.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f474.png
-  [1f474.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f474.png
+  [1f474.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f474.png
   [1f474.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f474.svg
   [1f475-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475-1f3fb.png
-  [1f475-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475-1f3fb.png
+  [1f475-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475-1f3fb.png
   [1f475-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475-1f3fb.svg
   [1f475-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475-1f3fc.png
-  [1f475-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475-1f3fc.png
+  [1f475-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475-1f3fc.png
   [1f475-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475-1f3fc.svg
   [1f475-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475-1f3fd.png
-  [1f475-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475-1f3fd.png
+  [1f475-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475-1f3fd.png
   [1f475-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475-1f3fd.svg
   [1f475-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475-1f3fe.png
-  [1f475-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475-1f3fe.png
+  [1f475-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475-1f3fe.png
   [1f475-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475-1f3fe.svg
   [1f475-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475-1f3ff.png
-  [1f475-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475-1f3ff.png
+  [1f475-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475-1f3ff.png
   [1f475-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475-1f3ff.svg
   [1f475.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f475.png
-  [1f475.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f475.png
+  [1f475.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f475.png
   [1f475.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f475.svg
   [1f476-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476-1f3fb.png
-  [1f476-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476-1f3fb.png
+  [1f476-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476-1f3fb.png
   [1f476-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476-1f3fb.svg
   [1f476-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476-1f3fc.png
-  [1f476-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476-1f3fc.png
+  [1f476-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476-1f3fc.png
   [1f476-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476-1f3fc.svg
   [1f476-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476-1f3fd.png
-  [1f476-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476-1f3fd.png
+  [1f476-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476-1f3fd.png
   [1f476-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476-1f3fd.svg
   [1f476-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476-1f3fe.png
-  [1f476-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476-1f3fe.png
+  [1f476-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476-1f3fe.png
   [1f476-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476-1f3fe.svg
   [1f476-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476-1f3ff.png
-  [1f476-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476-1f3ff.png
+  [1f476-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476-1f3ff.png
   [1f476-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476-1f3ff.svg
   [1f476.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f476.png
-  [1f476.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f476.png
+  [1f476.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f476.png
   [1f476.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f476.svg
   [1f477-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477-1f3fb.png
-  [1f477-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477-1f3fb.png
+  [1f477-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477-1f3fb.png
   [1f477-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477-1f3fb.svg
   [1f477-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477-1f3fc.png
-  [1f477-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477-1f3fc.png
+  [1f477-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477-1f3fc.png
   [1f477-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477-1f3fc.svg
   [1f477-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477-1f3fd.png
-  [1f477-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477-1f3fd.png
+  [1f477-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477-1f3fd.png
   [1f477-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477-1f3fd.svg
   [1f477-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477-1f3fe.png
-  [1f477-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477-1f3fe.png
+  [1f477-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477-1f3fe.png
   [1f477-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477-1f3fe.svg
   [1f477-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477-1f3ff.png
-  [1f477-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477-1f3ff.png
+  [1f477-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477-1f3ff.png
   [1f477-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477-1f3ff.svg
   [1f477.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f477.png
-  [1f477.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f477.png
+  [1f477.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f477.png
   [1f477.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f477.svg
   [1f478-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478-1f3fb.png
-  [1f478-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478-1f3fb.png
+  [1f478-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478-1f3fb.png
   [1f478-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478-1f3fb.svg
   [1f478-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478-1f3fc.png
-  [1f478-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478-1f3fc.png
+  [1f478-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478-1f3fc.png
   [1f478-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478-1f3fc.svg
   [1f478-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478-1f3fd.png
-  [1f478-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478-1f3fd.png
+  [1f478-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478-1f3fd.png
   [1f478-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478-1f3fd.svg
   [1f478-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478-1f3fe.png
-  [1f478-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478-1f3fe.png
+  [1f478-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478-1f3fe.png
   [1f478-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478-1f3fe.svg
   [1f478-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478-1f3ff.png
-  [1f478-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478-1f3ff.png
+  [1f478-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478-1f3ff.png
   [1f478-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478-1f3ff.svg
   [1f478.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f478.png
-  [1f478.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f478.png
+  [1f478.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f478.png
   [1f478.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f478.svg
   [1f479.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f479.png
-  [1f479.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f479.png
+  [1f479.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f479.png
   [1f479.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f479.svg
   [1f47a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47a.png
-  [1f47a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47a.png
+  [1f47a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47a.png
   [1f47a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47a.svg
   [1f47b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47b.png
-  [1f47b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47b.png
+  [1f47b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47b.png
   [1f47b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47b.svg
   [1f47c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c-1f3fb.png
-  [1f47c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c-1f3fb.png
+  [1f47c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c-1f3fb.png
   [1f47c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c-1f3fb.svg
   [1f47c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c-1f3fc.png
-  [1f47c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c-1f3fc.png
+  [1f47c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c-1f3fc.png
   [1f47c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c-1f3fc.svg
   [1f47c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c-1f3fd.png
-  [1f47c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c-1f3fd.png
+  [1f47c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c-1f3fd.png
   [1f47c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c-1f3fd.svg
   [1f47c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c-1f3fe.png
-  [1f47c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c-1f3fe.png
+  [1f47c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c-1f3fe.png
   [1f47c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c-1f3fe.svg
   [1f47c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c-1f3ff.png
-  [1f47c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c-1f3ff.png
+  [1f47c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c-1f3ff.png
   [1f47c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c-1f3ff.svg
   [1f47c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47c.png
-  [1f47c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47c.png
+  [1f47c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47c.png
   [1f47c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47c.svg
   [1f47d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47d.png
-  [1f47d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47d.png
+  [1f47d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47d.png
   [1f47d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47d.svg
   [1f47e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47e.png
-  [1f47e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47e.png
+  [1f47e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47e.png
   [1f47e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47e.svg
   [1f47f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f47f.png
-  [1f47f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f47f.png
+  [1f47f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f47f.png
   [1f47f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f47f.svg
   [1f480.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f480.png
-  [1f480.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f480.png
+  [1f480.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f480.png
   [1f480.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f480.svg
   [1f481-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481-1f3fb.png
-  [1f481-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481-1f3fb.png
+  [1f481-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481-1f3fb.png
   [1f481-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481-1f3fb.svg
   [1f481-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481-1f3fc.png
-  [1f481-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481-1f3fc.png
+  [1f481-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481-1f3fc.png
   [1f481-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481-1f3fc.svg
   [1f481-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481-1f3fd.png
-  [1f481-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481-1f3fd.png
+  [1f481-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481-1f3fd.png
   [1f481-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481-1f3fd.svg
   [1f481-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481-1f3fe.png
-  [1f481-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481-1f3fe.png
+  [1f481-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481-1f3fe.png
   [1f481-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481-1f3fe.svg
   [1f481-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481-1f3ff.png
-  [1f481-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481-1f3ff.png
+  [1f481-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481-1f3ff.png
   [1f481-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481-1f3ff.svg
   [1f481.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f481.png
-  [1f481.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f481.png
+  [1f481.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f481.png
   [1f481.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f481.svg
   [1f482-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482-1f3fb.png
-  [1f482-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482-1f3fb.png
+  [1f482-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482-1f3fb.png
   [1f482-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482-1f3fb.svg
   [1f482-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482-1f3fc.png
-  [1f482-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482-1f3fc.png
+  [1f482-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482-1f3fc.png
   [1f482-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482-1f3fc.svg
   [1f482-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482-1f3fd.png
-  [1f482-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482-1f3fd.png
+  [1f482-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482-1f3fd.png
   [1f482-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482-1f3fd.svg
   [1f482-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482-1f3fe.png
-  [1f482-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482-1f3fe.png
+  [1f482-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482-1f3fe.png
   [1f482-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482-1f3fe.svg
   [1f482-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482-1f3ff.png
-  [1f482-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482-1f3ff.png
+  [1f482-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482-1f3ff.png
   [1f482-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482-1f3ff.svg
   [1f482.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f482.png
-  [1f482.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f482.png
+  [1f482.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f482.png
   [1f482.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f482.svg
   [1f483-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483-1f3fb.png
-  [1f483-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483-1f3fb.png
+  [1f483-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483-1f3fb.png
   [1f483-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483-1f3fb.svg
   [1f483-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483-1f3fc.png
-  [1f483-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483-1f3fc.png
+  [1f483-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483-1f3fc.png
   [1f483-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483-1f3fc.svg
   [1f483-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483-1f3fd.png
-  [1f483-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483-1f3fd.png
+  [1f483-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483-1f3fd.png
   [1f483-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483-1f3fd.svg
   [1f483-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483-1f3fe.png
-  [1f483-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483-1f3fe.png
+  [1f483-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483-1f3fe.png
   [1f483-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483-1f3fe.svg
   [1f483-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483-1f3ff.png
-  [1f483-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483-1f3ff.png
+  [1f483-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483-1f3ff.png
   [1f483-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483-1f3ff.svg
   [1f483.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f483.png
-  [1f483.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f483.png
+  [1f483.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f483.png
   [1f483.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f483.svg
   [1f484.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f484.png
-  [1f484.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f484.png
+  [1f484.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f484.png
   [1f484.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f484.svg
   [1f485-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485-1f3fb.png
-  [1f485-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485-1f3fb.png
+  [1f485-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485-1f3fb.png
   [1f485-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485-1f3fb.svg
   [1f485-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485-1f3fc.png
-  [1f485-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485-1f3fc.png
+  [1f485-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485-1f3fc.png
   [1f485-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485-1f3fc.svg
   [1f485-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485-1f3fd.png
-  [1f485-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485-1f3fd.png
+  [1f485-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485-1f3fd.png
   [1f485-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485-1f3fd.svg
   [1f485-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485-1f3fe.png
-  [1f485-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485-1f3fe.png
+  [1f485-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485-1f3fe.png
   [1f485-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485-1f3fe.svg
   [1f485-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485-1f3ff.png
-  [1f485-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485-1f3ff.png
+  [1f485-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485-1f3ff.png
   [1f485-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485-1f3ff.svg
   [1f485.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f485.png
-  [1f485.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f485.png
+  [1f485.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f485.png
   [1f485.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f485.svg
   [1f486-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486-1f3fb.png
-  [1f486-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486-1f3fb.png
+  [1f486-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486-1f3fb.png
   [1f486-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486-1f3fb.svg
   [1f486-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486-1f3fc.png
-  [1f486-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486-1f3fc.png
+  [1f486-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486-1f3fc.png
   [1f486-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486-1f3fc.svg
   [1f486-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486-1f3fd.png
-  [1f486-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486-1f3fd.png
+  [1f486-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486-1f3fd.png
   [1f486-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486-1f3fd.svg
   [1f486-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486-1f3fe.png
-  [1f486-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486-1f3fe.png
+  [1f486-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486-1f3fe.png
   [1f486-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486-1f3fe.svg
   [1f486-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486-1f3ff.png
-  [1f486-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486-1f3ff.png
+  [1f486-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486-1f3ff.png
   [1f486-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486-1f3ff.svg
   [1f486.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f486.png
-  [1f486.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f486.png
+  [1f486.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f486.png
   [1f486.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f486.svg
   [1f487-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487-1f3fb.png
-  [1f487-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487-1f3fb.png
+  [1f487-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487-1f3fb.png
   [1f487-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487-1f3fb.svg
   [1f487-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487-1f3fc.png
-  [1f487-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487-1f3fc.png
+  [1f487-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487-1f3fc.png
   [1f487-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487-1f3fc.svg
   [1f487-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487-1f3fd.png
-  [1f487-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487-1f3fd.png
+  [1f487-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487-1f3fd.png
   [1f487-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487-1f3fd.svg
   [1f487-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487-1f3fe.png
-  [1f487-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487-1f3fe.png
+  [1f487-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487-1f3fe.png
   [1f487-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487-1f3fe.svg
   [1f487-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487-1f3ff.png
-  [1f487-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487-1f3ff.png
+  [1f487-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487-1f3ff.png
   [1f487-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487-1f3ff.svg
   [1f487.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f487.png
-  [1f487.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f487.png
+  [1f487.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f487.png
   [1f487.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f487.svg
   [1f488.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f488.png
-  [1f488.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f488.png
+  [1f488.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f488.png
   [1f488.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f488.svg
   [1f489.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f489.png
-  [1f489.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f489.png
+  [1f489.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f489.png
   [1f489.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f489.svg
   [1f48a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48a.png
-  [1f48a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48a.png
+  [1f48a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48a.png
   [1f48a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48a.svg
   [1f48b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48b.png
-  [1f48b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48b.png
+  [1f48b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48b.png
   [1f48b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48b.svg
   [1f48c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48c.png
-  [1f48c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48c.png
+  [1f48c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48c.png
   [1f48c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48c.svg
   [1f48d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48d.png
-  [1f48d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48d.png
+  [1f48d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48d.png
   [1f48d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48d.svg
   [1f48e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48e.png
-  [1f48e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48e.png
+  [1f48e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48e.png
   [1f48e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48e.svg
   [1f48f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f48f.png
-  [1f48f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f48f.png
+  [1f48f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f48f.png
   [1f48f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f48f.svg
   [1f490.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f490.png
-  [1f490.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f490.png
+  [1f490.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f490.png
   [1f490.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f490.svg
   [1f491.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f491.png
-  [1f491.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f491.png
+  [1f491.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f491.png
   [1f491.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f491.svg
   [1f492.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f492.png
-  [1f492.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f492.png
+  [1f492.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f492.png
   [1f492.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f492.svg
   [1f493.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f493.png
-  [1f493.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f493.png
+  [1f493.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f493.png
   [1f493.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f493.svg
   [1f494.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f494.png
-  [1f494.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f494.png
+  [1f494.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f494.png
   [1f494.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f494.svg
   [1f495.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f495.png
-  [1f495.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f495.png
+  [1f495.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f495.png
   [1f495.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f495.svg
   [1f496.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f496.png
-  [1f496.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f496.png
+  [1f496.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f496.png
   [1f496.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f496.svg
   [1f497.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f497.png
-  [1f497.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f497.png
+  [1f497.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f497.png
   [1f497.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f497.svg
   [1f498.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f498.png
-  [1f498.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f498.png
+  [1f498.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f498.png
   [1f498.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f498.svg
   [1f499.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f499.png
-  [1f499.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f499.png
+  [1f499.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f499.png
   [1f499.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f499.svg
   [1f49a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49a.png
-  [1f49a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49a.png
+  [1f49a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49a.png
   [1f49a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49a.svg
   [1f49b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49b.png
-  [1f49b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49b.png
+  [1f49b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49b.png
   [1f49b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49b.svg
   [1f49c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49c.png
-  [1f49c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49c.png
+  [1f49c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49c.png
   [1f49c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49c.svg
   [1f49d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49d.png
-  [1f49d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49d.png
+  [1f49d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49d.png
   [1f49d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49d.svg
   [1f49e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49e.png
-  [1f49e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49e.png
+  [1f49e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49e.png
   [1f49e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49e.svg
   [1f49f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f49f.png
-  [1f49f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f49f.png
+  [1f49f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f49f.png
   [1f49f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f49f.svg
   [1f4a0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a0.png
-  [1f4a0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a0.png
+  [1f4a0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a0.png
   [1f4a0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a0.svg
   [1f4a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a1.png
-  [1f4a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a1.png
+  [1f4a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a1.png
   [1f4a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a1.svg
   [1f4a2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a2.png
-  [1f4a2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a2.png
+  [1f4a2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a2.png
   [1f4a2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a2.svg
   [1f4a3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a3.png
-  [1f4a3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a3.png
+  [1f4a3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a3.png
   [1f4a3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a3.svg
   [1f4a4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a4.png
-  [1f4a4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a4.png
+  [1f4a4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a4.png
   [1f4a4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a4.svg
   [1f4a5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a5.png
-  [1f4a5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a5.png
+  [1f4a5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a5.png
   [1f4a5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a5.svg
   [1f4a6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a6.png
-  [1f4a6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a6.png
+  [1f4a6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a6.png
   [1f4a6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a6.svg
   [1f4a7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a7.png
-  [1f4a7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a7.png
+  [1f4a7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a7.png
   [1f4a7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a7.svg
   [1f4a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a8.png
-  [1f4a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a8.png
+  [1f4a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a8.png
   [1f4a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a8.svg
   [1f4a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4a9.png
-  [1f4a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4a9.png
+  [1f4a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4a9.png
   [1f4a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4a9.svg
   [1f4aa-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa-1f3fb.png
-  [1f4aa-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa-1f3fb.png
+  [1f4aa-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa-1f3fb.png
   [1f4aa-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa-1f3fb.svg
   [1f4aa-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa-1f3fc.png
-  [1f4aa-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa-1f3fc.png
+  [1f4aa-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa-1f3fc.png
   [1f4aa-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa-1f3fc.svg
   [1f4aa-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa-1f3fd.png
-  [1f4aa-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa-1f3fd.png
+  [1f4aa-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa-1f3fd.png
   [1f4aa-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa-1f3fd.svg
   [1f4aa-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa-1f3fe.png
-  [1f4aa-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa-1f3fe.png
+  [1f4aa-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa-1f3fe.png
   [1f4aa-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa-1f3fe.svg
   [1f4aa-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa-1f3ff.png
-  [1f4aa-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa-1f3ff.png
+  [1f4aa-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa-1f3ff.png
   [1f4aa-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa-1f3ff.svg
   [1f4aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4aa.png
-  [1f4aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4aa.png
+  [1f4aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4aa.png
   [1f4aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4aa.svg
   [1f4ab.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ab.png
-  [1f4ab.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ab.png
+  [1f4ab.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ab.png
   [1f4ab.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ab.svg
   [1f4ac.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ac.png
-  [1f4ac.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ac.png
+  [1f4ac.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ac.png
   [1f4ac.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ac.svg
   [1f4ad.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ad.png
-  [1f4ad.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ad.png
+  [1f4ad.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ad.png
   [1f4ad.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ad.svg
   [1f4ae.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ae.png
-  [1f4ae.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ae.png
+  [1f4ae.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ae.png
   [1f4ae.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ae.svg
   [1f4af.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4af.png
-  [1f4af.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4af.png
+  [1f4af.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4af.png
   [1f4af.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4af.svg
   [1f4b0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b0.png
-  [1f4b0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b0.png
+  [1f4b0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b0.png
   [1f4b0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b0.svg
   [1f4b1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b1.png
-  [1f4b1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b1.png
+  [1f4b1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b1.png
   [1f4b1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b1.svg
   [1f4b2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b2.png
-  [1f4b2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b2.png
+  [1f4b2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b2.png
   [1f4b2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b2.svg
   [1f4b3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b3.png
-  [1f4b3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b3.png
+  [1f4b3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b3.png
   [1f4b3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b3.svg
   [1f4b4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b4.png
-  [1f4b4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b4.png
+  [1f4b4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b4.png
   [1f4b4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b4.svg
   [1f4b5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b5.png
-  [1f4b5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b5.png
+  [1f4b5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b5.png
   [1f4b5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b5.svg
   [1f4b6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b6.png
-  [1f4b6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b6.png
+  [1f4b6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b6.png
   [1f4b6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b6.svg
   [1f4b7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b7.png
-  [1f4b7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b7.png
+  [1f4b7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b7.png
   [1f4b7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b7.svg
   [1f4b8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b8.png
-  [1f4b8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b8.png
+  [1f4b8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b8.png
   [1f4b8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b8.svg
   [1f4b9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4b9.png
-  [1f4b9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4b9.png
+  [1f4b9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4b9.png
   [1f4b9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4b9.svg
   [1f4ba.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ba.png
-  [1f4ba.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ba.png
+  [1f4ba.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ba.png
   [1f4ba.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ba.svg
   [1f4bb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4bb.png
-  [1f4bb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4bb.png
+  [1f4bb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4bb.png
   [1f4bb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4bb.svg
   [1f4bc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4bc.png
-  [1f4bc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4bc.png
+  [1f4bc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4bc.png
   [1f4bc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4bc.svg
   [1f4bd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4bd.png
-  [1f4bd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4bd.png
+  [1f4bd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4bd.png
   [1f4bd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4bd.svg
   [1f4be.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4be.png
-  [1f4be.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4be.png
+  [1f4be.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4be.png
   [1f4be.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4be.svg
   [1f4bf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4bf.png
-  [1f4bf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4bf.png
+  [1f4bf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4bf.png
   [1f4bf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4bf.svg
   [1f4c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c0.png
-  [1f4c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c0.png
+  [1f4c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c0.png
   [1f4c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c0.svg
   [1f4c1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c1.png
-  [1f4c1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c1.png
+  [1f4c1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c1.png
   [1f4c1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c1.svg
   [1f4c2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c2.png
-  [1f4c2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c2.png
+  [1f4c2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c2.png
   [1f4c2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c2.svg
   [1f4c3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c3.png
-  [1f4c3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c3.png
+  [1f4c3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c3.png
   [1f4c3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c3.svg
   [1f4c4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c4.png
-  [1f4c4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c4.png
+  [1f4c4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c4.png
   [1f4c4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c4.svg
   [1f4c5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c5.png
-  [1f4c5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c5.png
+  [1f4c5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c5.png
   [1f4c5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c5.svg
   [1f4c6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c6.png
-  [1f4c6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c6.png
+  [1f4c6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c6.png
   [1f4c6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c6.svg
   [1f4c7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c7.png
-  [1f4c7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c7.png
+  [1f4c7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c7.png
   [1f4c7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c7.svg
   [1f4c8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c8.png
-  [1f4c8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c8.png
+  [1f4c8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c8.png
   [1f4c8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c8.svg
   [1f4c9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4c9.png
-  [1f4c9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4c9.png
+  [1f4c9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4c9.png
   [1f4c9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4c9.svg
   [1f4ca.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ca.png
-  [1f4ca.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ca.png
+  [1f4ca.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ca.png
   [1f4ca.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ca.svg
   [1f4cb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4cb.png
-  [1f4cb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4cb.png
+  [1f4cb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4cb.png
   [1f4cb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4cb.svg
   [1f4cc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4cc.png
-  [1f4cc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4cc.png
+  [1f4cc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4cc.png
   [1f4cc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4cc.svg
   [1f4cd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4cd.png
-  [1f4cd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4cd.png
+  [1f4cd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4cd.png
   [1f4cd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4cd.svg
   [1f4ce.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ce.png
-  [1f4ce.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ce.png
+  [1f4ce.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ce.png
   [1f4ce.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ce.svg
   [1f4cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4cf.png
-  [1f4cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4cf.png
+  [1f4cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4cf.png
   [1f4cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4cf.svg
   [1f4d0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d0.png
-  [1f4d0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d0.png
+  [1f4d0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d0.png
   [1f4d0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d0.svg
   [1f4d1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d1.png
-  [1f4d1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d1.png
+  [1f4d1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d1.png
   [1f4d1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d1.svg
   [1f4d2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d2.png
-  [1f4d2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d2.png
+  [1f4d2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d2.png
   [1f4d2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d2.svg
   [1f4d3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d3.png
-  [1f4d3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d3.png
+  [1f4d3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d3.png
   [1f4d3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d3.svg
   [1f4d4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d4.png
-  [1f4d4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d4.png
+  [1f4d4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d4.png
   [1f4d4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d4.svg
   [1f4d5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d5.png
-  [1f4d5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d5.png
+  [1f4d5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d5.png
   [1f4d5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d5.svg
   [1f4d6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d6.png
-  [1f4d6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d6.png
+  [1f4d6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d6.png
   [1f4d6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d6.svg
   [1f4d7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d7.png
-  [1f4d7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d7.png
+  [1f4d7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d7.png
   [1f4d7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d7.svg
   [1f4d8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d8.png
-  [1f4d8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d8.png
+  [1f4d8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d8.png
   [1f4d8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d8.svg
   [1f4d9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4d9.png
-  [1f4d9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4d9.png
+  [1f4d9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4d9.png
   [1f4d9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4d9.svg
   [1f4da.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4da.png
-  [1f4da.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4da.png
+  [1f4da.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4da.png
   [1f4da.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4da.svg
   [1f4db.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4db.png
-  [1f4db.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4db.png
+  [1f4db.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4db.png
   [1f4db.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4db.svg
   [1f4dc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4dc.png
-  [1f4dc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4dc.png
+  [1f4dc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4dc.png
   [1f4dc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4dc.svg
   [1f4dd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4dd.png
-  [1f4dd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4dd.png
+  [1f4dd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4dd.png
   [1f4dd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4dd.svg
   [1f4de.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4de.png
-  [1f4de.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4de.png
+  [1f4de.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4de.png
   [1f4de.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4de.svg
   [1f4df.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4df.png
-  [1f4df.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4df.png
+  [1f4df.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4df.png
   [1f4df.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4df.svg
   [1f4e0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e0.png
-  [1f4e0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e0.png
+  [1f4e0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e0.png
   [1f4e0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e0.svg
   [1f4e1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e1.png
-  [1f4e1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e1.png
+  [1f4e1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e1.png
   [1f4e1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e1.svg
   [1f4e2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e2.png
-  [1f4e2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e2.png
+  [1f4e2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e2.png
   [1f4e2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e2.svg
   [1f4e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e3.png
-  [1f4e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e3.png
+  [1f4e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e3.png
   [1f4e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e3.svg
   [1f4e4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e4.png
-  [1f4e4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e4.png
+  [1f4e4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e4.png
   [1f4e4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e4.svg
   [1f4e5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e5.png
-  [1f4e5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e5.png
+  [1f4e5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e5.png
   [1f4e5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e5.svg
   [1f4e6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e6.png
-  [1f4e6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e6.png
+  [1f4e6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e6.png
   [1f4e6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e6.svg
   [1f4e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e7.png
-  [1f4e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e7.png
+  [1f4e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e7.png
   [1f4e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e7.svg
   [1f4e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e8.png
-  [1f4e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e8.png
+  [1f4e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e8.png
   [1f4e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e8.svg
   [1f4e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4e9.png
-  [1f4e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4e9.png
+  [1f4e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4e9.png
   [1f4e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4e9.svg
   [1f4ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ea.png
-  [1f4ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ea.png
+  [1f4ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ea.png
   [1f4ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ea.svg
   [1f4eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4eb.png
-  [1f4eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4eb.png
+  [1f4eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4eb.png
   [1f4eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4eb.svg
   [1f4ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ec.png
-  [1f4ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ec.png
+  [1f4ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ec.png
   [1f4ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ec.svg
   [1f4ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ed.png
-  [1f4ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ed.png
+  [1f4ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ed.png
   [1f4ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ed.svg
   [1f4ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ee.png
-  [1f4ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ee.png
+  [1f4ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ee.png
   [1f4ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ee.svg
   [1f4ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ef.png
-  [1f4ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ef.png
+  [1f4ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ef.png
   [1f4ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ef.svg
   [1f4f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f0.png
-  [1f4f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f0.png
+  [1f4f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f0.png
   [1f4f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f0.svg
   [1f4f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f1.png
-  [1f4f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f1.png
+  [1f4f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f1.png
   [1f4f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f1.svg
   [1f4f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f2.png
-  [1f4f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f2.png
+  [1f4f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f2.png
   [1f4f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f2.svg
   [1f4f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f3.png
-  [1f4f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f3.png
+  [1f4f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f3.png
   [1f4f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f3.svg
   [1f4f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f4.png
-  [1f4f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f4.png
+  [1f4f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f4.png
   [1f4f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f4.svg
   [1f4f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f5.png
-  [1f4f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f5.png
+  [1f4f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f5.png
   [1f4f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f5.svg
   [1f4f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f6.png
-  [1f4f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f6.png
+  [1f4f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f6.png
   [1f4f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f6.svg
   [1f4f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f7.png
-  [1f4f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f7.png
+  [1f4f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f7.png
   [1f4f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f7.svg
   [1f4f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f8.png
-  [1f4f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f8.png
+  [1f4f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f8.png
   [1f4f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f8.svg
   [1f4f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4f9.png
-  [1f4f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4f9.png
+  [1f4f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4f9.png
   [1f4f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4f9.svg
   [1f4fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4fa.png
-  [1f4fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4fa.png
+  [1f4fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4fa.png
   [1f4fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4fa.svg
   [1f4fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4fb.png
-  [1f4fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4fb.png
+  [1f4fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4fb.png
   [1f4fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4fb.svg
   [1f4fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4fc.png
-  [1f4fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4fc.png
+  [1f4fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4fc.png
   [1f4fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4fc.svg
   [1f4fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4fd.png
-  [1f4fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4fd.png
+  [1f4fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4fd.png
   [1f4fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4fd.svg
   [1f4ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f4ff.png
-  [1f4ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f4ff.png
+  [1f4ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f4ff.png
   [1f4ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f4ff.svg
   [1f500.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f500.png
-  [1f500.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f500.png
+  [1f500.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f500.png
   [1f500.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f500.svg
   [1f501.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f501.png
-  [1f501.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f501.png
+  [1f501.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f501.png
   [1f501.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f501.svg
   [1f502.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f502.png
-  [1f502.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f502.png
+  [1f502.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f502.png
   [1f502.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f502.svg
   [1f503.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f503.png
-  [1f503.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f503.png
+  [1f503.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f503.png
   [1f503.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f503.svg
   [1f504.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f504.png
-  [1f504.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f504.png
+  [1f504.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f504.png
   [1f504.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f504.svg
   [1f505.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f505.png
-  [1f505.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f505.png
+  [1f505.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f505.png
   [1f505.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f505.svg
   [1f506.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f506.png
-  [1f506.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f506.png
+  [1f506.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f506.png
   [1f506.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f506.svg
   [1f507.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f507.png
-  [1f507.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f507.png
+  [1f507.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f507.png
   [1f507.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f507.svg
   [1f508.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f508.png
-  [1f508.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f508.png
+  [1f508.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f508.png
   [1f508.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f508.svg
   [1f509.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f509.png
-  [1f509.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f509.png
+  [1f509.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f509.png
   [1f509.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f509.svg
   [1f50a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50a.png
-  [1f50a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50a.png
+  [1f50a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50a.png
   [1f50a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50a.svg
   [1f50b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50b.png
-  [1f50b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50b.png
+  [1f50b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50b.png
   [1f50b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50b.svg
   [1f50c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50c.png
-  [1f50c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50c.png
+  [1f50c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50c.png
   [1f50c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50c.svg
   [1f50d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50d.png
-  [1f50d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50d.png
+  [1f50d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50d.png
   [1f50d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50d.svg
   [1f50e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50e.png
-  [1f50e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50e.png
+  [1f50e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50e.png
   [1f50e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50e.svg
   [1f50f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f50f.png
-  [1f50f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f50f.png
+  [1f50f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f50f.png
   [1f50f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f50f.svg
   [1f510.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f510.png
-  [1f510.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f510.png
+  [1f510.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f510.png
   [1f510.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f510.svg
   [1f511.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f511.png
-  [1f511.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f511.png
+  [1f511.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f511.png
   [1f511.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f511.svg
   [1f512.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f512.png
-  [1f512.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f512.png
+  [1f512.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f512.png
   [1f512.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f512.svg
   [1f513.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f513.png
-  [1f513.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f513.png
+  [1f513.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f513.png
   [1f513.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f513.svg
   [1f514.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f514.png
-  [1f514.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f514.png
+  [1f514.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f514.png
   [1f514.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f514.svg
   [1f515.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f515.png
-  [1f515.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f515.png
+  [1f515.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f515.png
   [1f515.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f515.svg
   [1f516.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f516.png
-  [1f516.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f516.png
+  [1f516.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f516.png
   [1f516.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f516.svg
   [1f517.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f517.png
-  [1f517.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f517.png
+  [1f517.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f517.png
   [1f517.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f517.svg
   [1f518.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f518.png
-  [1f518.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f518.png
+  [1f518.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f518.png
   [1f518.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f518.svg
   [1f519.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f519.png
-  [1f519.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f519.png
+  [1f519.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f519.png
   [1f519.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f519.svg
   [1f51a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51a.png
-  [1f51a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51a.png
+  [1f51a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51a.png
   [1f51a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51a.svg
   [1f51b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51b.png
-  [1f51b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51b.png
+  [1f51b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51b.png
   [1f51b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51b.svg
   [1f51c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51c.png
-  [1f51c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51c.png
+  [1f51c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51c.png
   [1f51c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51c.svg
   [1f51d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51d.png
-  [1f51d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51d.png
+  [1f51d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51d.png
   [1f51d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51d.svg
   [1f51e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51e.png
-  [1f51e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51e.png
+  [1f51e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51e.png
   [1f51e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51e.svg
   [1f51f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f51f.png
-  [1f51f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f51f.png
+  [1f51f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f51f.png
   [1f51f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f51f.svg
   [1f520.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f520.png
-  [1f520.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f520.png
+  [1f520.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f520.png
   [1f520.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f520.svg
   [1f521.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f521.png
-  [1f521.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f521.png
+  [1f521.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f521.png
   [1f521.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f521.svg
   [1f522.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f522.png
-  [1f522.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f522.png
+  [1f522.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f522.png
   [1f522.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f522.svg
   [1f523.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f523.png
-  [1f523.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f523.png
+  [1f523.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f523.png
   [1f523.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f523.svg
   [1f524.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f524.png
-  [1f524.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f524.png
+  [1f524.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f524.png
   [1f524.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f524.svg
   [1f525.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f525.png
-  [1f525.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f525.png
+  [1f525.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f525.png
   [1f525.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f525.svg
   [1f526.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f526.png
-  [1f526.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f526.png
+  [1f526.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f526.png
   [1f526.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f526.svg
   [1f527.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f527.png
-  [1f527.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f527.png
+  [1f527.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f527.png
   [1f527.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f527.svg
   [1f528.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f528.png
-  [1f528.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f528.png
+  [1f528.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f528.png
   [1f528.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f528.svg
   [1f529.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f529.png
-  [1f529.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f529.png
+  [1f529.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f529.png
   [1f529.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f529.svg
   [1f52a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52a.png
-  [1f52a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52a.png
+  [1f52a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52a.png
   [1f52a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52a.svg
   [1f52b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52b.png
-  [1f52b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52b.png
+  [1f52b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52b.png
   [1f52b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52b.svg
   [1f52c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52c.png
-  [1f52c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52c.png
+  [1f52c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52c.png
   [1f52c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52c.svg
   [1f52d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52d.png
-  [1f52d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52d.png
+  [1f52d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52d.png
   [1f52d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52d.svg
   [1f52e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52e.png
-  [1f52e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52e.png
+  [1f52e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52e.png
   [1f52e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52e.svg
   [1f52f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f52f.png
-  [1f52f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f52f.png
+  [1f52f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f52f.png
   [1f52f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f52f.svg
   [1f530.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f530.png
-  [1f530.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f530.png
+  [1f530.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f530.png
   [1f530.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f530.svg
   [1f531.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f531.png
-  [1f531.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f531.png
+  [1f531.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f531.png
   [1f531.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f531.svg
   [1f532.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f532.png
-  [1f532.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f532.png
+  [1f532.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f532.png
   [1f532.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f532.svg
   [1f533.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f533.png
-  [1f533.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f533.png
+  [1f533.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f533.png
   [1f533.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f533.svg
   [1f534.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f534.png
-  [1f534.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f534.png
+  [1f534.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f534.png
   [1f534.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f534.svg
   [1f535.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f535.png
-  [1f535.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f535.png
+  [1f535.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f535.png
   [1f535.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f535.svg
   [1f536.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f536.png
-  [1f536.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f536.png
+  [1f536.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f536.png
   [1f536.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f536.svg
   [1f537.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f537.png
-  [1f537.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f537.png
+  [1f537.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f537.png
   [1f537.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f537.svg
   [1f538.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f538.png
-  [1f538.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f538.png
+  [1f538.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f538.png
   [1f538.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f538.svg
   [1f539.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f539.png
-  [1f539.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f539.png
+  [1f539.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f539.png
   [1f539.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f539.svg
   [1f53a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f53a.png
-  [1f53a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f53a.png
+  [1f53a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f53a.png
   [1f53a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f53a.svg
   [1f53b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f53b.png
-  [1f53b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f53b.png
+  [1f53b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f53b.png
   [1f53b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f53b.svg
   [1f53c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f53c.png
-  [1f53c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f53c.png
+  [1f53c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f53c.png
   [1f53c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f53c.svg
   [1f53d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f53d.png
-  [1f53d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f53d.png
+  [1f53d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f53d.png
   [1f53d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f53d.svg
   [1f540.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f540.png
-  [1f540.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f540.png
+  [1f540.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f540.png
   [1f540.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f540.svg
   [1f541.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f541.png
-  [1f541.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f541.png
+  [1f541.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f541.png
   [1f541.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f541.svg
   [1f542.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f542.png
-  [1f542.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f542.png
+  [1f542.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f542.png
   [1f542.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f542.svg
   [1f546.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f546.png
-  [1f546.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f546.png
+  [1f546.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f546.png
   [1f546.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f546.svg
   [1f547.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f547.png
-  [1f547.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f547.png
+  [1f547.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f547.png
   [1f547.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f547.svg
   [1f548.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f548.png
-  [1f548.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f548.png
+  [1f548.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f548.png
   [1f548.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f548.svg
   [1f549.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f549.png
-  [1f549.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f549.png
+  [1f549.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f549.png
   [1f549.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f549.svg
   [1f54a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f54a.png
-  [1f54a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f54a.png
+  [1f54a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f54a.png
   [1f54a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f54a.svg
   [1f54b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f54b.png
-  [1f54b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f54b.png
+  [1f54b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f54b.png
   [1f54b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f54b.svg
   [1f54c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f54c.png
-  [1f54c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f54c.png
+  [1f54c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f54c.png
   [1f54c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f54c.svg
   [1f54d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f54d.png
-  [1f54d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f54d.png
+  [1f54d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f54d.png
   [1f54d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f54d.svg
   [1f54e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f54e.png
-  [1f54e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f54e.png
+  [1f54e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f54e.png
   [1f54e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f54e.svg
   [1f550.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f550.png
-  [1f550.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f550.png
+  [1f550.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f550.png
   [1f550.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f550.svg
   [1f551.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f551.png
-  [1f551.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f551.png
+  [1f551.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f551.png
   [1f551.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f551.svg
   [1f552.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f552.png
-  [1f552.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f552.png
+  [1f552.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f552.png
   [1f552.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f552.svg
   [1f553.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f553.png
-  [1f553.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f553.png
+  [1f553.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f553.png
   [1f553.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f553.svg
   [1f554.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f554.png
-  [1f554.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f554.png
+  [1f554.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f554.png
   [1f554.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f554.svg
   [1f555.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f555.png
-  [1f555.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f555.png
+  [1f555.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f555.png
   [1f555.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f555.svg
   [1f556.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f556.png
-  [1f556.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f556.png
+  [1f556.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f556.png
   [1f556.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f556.svg
   [1f557.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f557.png
-  [1f557.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f557.png
+  [1f557.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f557.png
   [1f557.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f557.svg
   [1f558.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f558.png
-  [1f558.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f558.png
+  [1f558.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f558.png
   [1f558.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f558.svg
   [1f559.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f559.png
-  [1f559.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f559.png
+  [1f559.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f559.png
   [1f559.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f559.svg
   [1f55a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55a.png
-  [1f55a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55a.png
+  [1f55a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55a.png
   [1f55a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55a.svg
   [1f55b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55b.png
-  [1f55b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55b.png
+  [1f55b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55b.png
   [1f55b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55b.svg
   [1f55c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55c.png
-  [1f55c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55c.png
+  [1f55c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55c.png
   [1f55c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55c.svg
   [1f55d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55d.png
-  [1f55d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55d.png
+  [1f55d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55d.png
   [1f55d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55d.svg
   [1f55e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55e.png
-  [1f55e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55e.png
+  [1f55e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55e.png
   [1f55e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55e.svg
   [1f55f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f55f.png
-  [1f55f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f55f.png
+  [1f55f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f55f.png
   [1f55f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f55f.svg
   [1f560.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f560.png
-  [1f560.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f560.png
+  [1f560.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f560.png
   [1f560.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f560.svg
   [1f561.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f561.png
-  [1f561.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f561.png
+  [1f561.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f561.png
   [1f561.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f561.svg
   [1f562.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f562.png
-  [1f562.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f562.png
+  [1f562.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f562.png
   [1f562.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f562.svg
   [1f563.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f563.png
-  [1f563.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f563.png
+  [1f563.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f563.png
   [1f563.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f563.svg
   [1f564.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f564.png
-  [1f564.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f564.png
+  [1f564.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f564.png
   [1f564.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f564.svg
   [1f565.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f565.png
-  [1f565.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f565.png
+  [1f565.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f565.png
   [1f565.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f565.svg
   [1f566.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f566.png
-  [1f566.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f566.png
+  [1f566.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f566.png
   [1f566.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f566.svg
   [1f567.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f567.png
-  [1f567.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f567.png
+  [1f567.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f567.png
   [1f567.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f567.svg
   [1f568.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f568.png
-  [1f568.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f568.png
+  [1f568.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f568.png
   [1f568.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f568.svg
   [1f569.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f569.png
-  [1f569.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f569.png
+  [1f569.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f569.png
   [1f569.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f569.svg
   [1f56a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f56a.png
-  [1f56a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f56a.png
+  [1f56a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f56a.png
   [1f56a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f56a.svg
   [1f56d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f56d.png
-  [1f56d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f56d.png
+  [1f56d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f56d.png
   [1f56d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f56d.svg
   [1f56e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f56e.png
-  [1f56e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f56e.png
+  [1f56e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f56e.png
   [1f56e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f56e.svg
   [1f56f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f56f.png
-  [1f56f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f56f.png
+  [1f56f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f56f.png
   [1f56f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f56f.svg
   [1f570.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f570.png
-  [1f570.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f570.png
+  [1f570.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f570.png
   [1f570.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f570.svg
   [1f571.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f571.png
-  [1f571.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f571.png
+  [1f571.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f571.png
   [1f571.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f571.svg
   [1f572.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f572.png
-  [1f572.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f572.png
+  [1f572.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f572.png
   [1f572.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f572.svg
   [1f573.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f573.png
-  [1f573.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f573.png
+  [1f573.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f573.png
   [1f573.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f573.svg
   [1f574.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f574.png
-  [1f574.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f574.png
+  [1f574.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f574.png
   [1f574.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f574.svg
   [1f575-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575-1f3fb.png
-  [1f575-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575-1f3fb.png
+  [1f575-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575-1f3fb.png
   [1f575-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575-1f3fb.svg
   [1f575-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575-1f3fc.png
-  [1f575-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575-1f3fc.png
+  [1f575-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575-1f3fc.png
   [1f575-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575-1f3fc.svg
   [1f575-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575-1f3fd.png
-  [1f575-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575-1f3fd.png
+  [1f575-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575-1f3fd.png
   [1f575-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575-1f3fd.svg
   [1f575-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575-1f3fe.png
-  [1f575-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575-1f3fe.png
+  [1f575-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575-1f3fe.png
   [1f575-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575-1f3fe.svg
   [1f575-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575-1f3ff.png
-  [1f575-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575-1f3ff.png
+  [1f575-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575-1f3ff.png
   [1f575-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575-1f3ff.svg
   [1f575.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f575.png
-  [1f575.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f575.png
+  [1f575.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f575.png
   [1f575.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f575.svg
   [1f576-1f534-1f535.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f576-1f534-1f535.png
-  [1f576-1f534-1f535.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f576-1f534-1f535.png
+  [1f576-1f534-1f535.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f576-1f534-1f535.png
   [1f576-1f534-1f535.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f576-1f534-1f535.svg
   [1f576-1f535-1f534.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f576-1f535-1f534.png
-  [1f576-1f535-1f534.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f576-1f535-1f534.png
+  [1f576-1f535-1f534.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f576-1f535-1f534.png
   [1f576-1f535-1f534.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f576-1f535-1f534.svg
   [1f576.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f576.png
-  [1f576.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f576.png
+  [1f576.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f576.png
   [1f576.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f576.svg
   [1f577.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f577.png
-  [1f577.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f577.png
+  [1f577.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f577.png
   [1f577.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f577.svg
   [1f578.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f578.png
-  [1f578.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f578.png
+  [1f578.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f578.png
   [1f578.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f578.svg
   [1f579.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f579.png
-  [1f579.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f579.png
+  [1f579.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f579.png
   [1f579.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f579.svg
   [1f57a-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a-1f3fb.png
-  [1f57a-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a-1f3fb.png
+  [1f57a-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a-1f3fb.png
   [1f57a-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a-1f3fb.svg
   [1f57a-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a-1f3fc.png
-  [1f57a-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a-1f3fc.png
+  [1f57a-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a-1f3fc.png
   [1f57a-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a-1f3fc.svg
   [1f57a-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a-1f3fd.png
-  [1f57a-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a-1f3fd.png
+  [1f57a-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a-1f3fd.png
   [1f57a-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a-1f3fd.svg
   [1f57a-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a-1f3fe.png
-  [1f57a-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a-1f3fe.png
+  [1f57a-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a-1f3fe.png
   [1f57a-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a-1f3fe.svg
   [1f57a-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a-1f3ff.png
-  [1f57a-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a-1f3ff.png
+  [1f57a-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a-1f3ff.png
   [1f57a-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a-1f3ff.svg
   [1f57a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57a.png
-  [1f57a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57a.png
+  [1f57a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57a.png
   [1f57a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57a.svg
   [1f57b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57b.png
-  [1f57b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57b.png
+  [1f57b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57b.png
   [1f57b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57b.svg
   [1f57c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57c.png
-  [1f57c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57c.png
+  [1f57c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57c.png
   [1f57c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57c.svg
   [1f57d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f57d.png
-  [1f57d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f57d.png
+  [1f57d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f57d.png
   [1f57d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f57d.svg
   [1f582.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f582.png
-  [1f582.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f582.png
+  [1f582.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f582.png
   [1f582.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f582.svg
   [1f584.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f584.png
-  [1f584.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f584.png
+  [1f584.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f584.png
   [1f584.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f584.svg
   [1f585.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f585.png
-  [1f585.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f585.png
+  [1f585.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f585.png
   [1f585.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f585.svg
   [1f587.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f587.png
-  [1f587.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f587.png
+  [1f587.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f587.png
   [1f587.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f587.svg
   [1f588.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f588.png
-  [1f588.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f588.png
+  [1f588.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f588.png
   [1f588.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f588.svg
   [1f589.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f589.png
-  [1f589.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f589.png
+  [1f589.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f589.png
   [1f589.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f589.svg
   [1f58a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58a.png
-  [1f58a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58a.png
+  [1f58a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58a.png
   [1f58a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58a.svg
   [1f58b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58b.png
-  [1f58b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58b.png
+  [1f58b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58b.png
   [1f58b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58b.svg
   [1f58c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58c.png
-  [1f58c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58c.png
+  [1f58c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58c.png
   [1f58c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58c.svg
   [1f58d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58d.png
-  [1f58d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58d.png
+  [1f58d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58d.png
   [1f58d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58d.svg
   [1f58e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e-1f3fb.png
-  [1f58e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e-1f3fb.png
+  [1f58e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e-1f3fb.png
   [1f58e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e-1f3fb.svg
   [1f58e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e-1f3fc.png
-  [1f58e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e-1f3fc.png
+  [1f58e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e-1f3fc.png
   [1f58e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e-1f3fc.svg
   [1f58e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e-1f3fd.png
-  [1f58e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e-1f3fd.png
+  [1f58e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e-1f3fd.png
   [1f58e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e-1f3fd.svg
   [1f58e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e-1f3fe.png
-  [1f58e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e-1f3fe.png
+  [1f58e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e-1f3fe.png
   [1f58e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e-1f3fe.svg
   [1f58e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e-1f3ff.png
-  [1f58e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e-1f3ff.png
+  [1f58e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e-1f3ff.png
   [1f58e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e-1f3ff.svg
   [1f58e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f58e.png
-  [1f58e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f58e.png
+  [1f58e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f58e.png
   [1f58e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f58e.svg
   [1f590-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590-1f3fb.png
-  [1f590-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590-1f3fb.png
+  [1f590-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590-1f3fb.png
   [1f590-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590-1f3fb.svg
   [1f590-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590-1f3fc.png
-  [1f590-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590-1f3fc.png
+  [1f590-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590-1f3fc.png
   [1f590-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590-1f3fc.svg
   [1f590-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590-1f3fd.png
-  [1f590-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590-1f3fd.png
+  [1f590-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590-1f3fd.png
   [1f590-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590-1f3fd.svg
   [1f590-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590-1f3fe.png
-  [1f590-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590-1f3fe.png
+  [1f590-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590-1f3fe.png
   [1f590-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590-1f3fe.svg
   [1f590-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590-1f3ff.png
-  [1f590-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590-1f3ff.png
+  [1f590-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590-1f3ff.png
   [1f590-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590-1f3ff.svg
   [1f590.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f590.png
-  [1f590.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f590.png
+  [1f590.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f590.png
   [1f590.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f590.svg
   [1f595-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595-1f3fb.png
-  [1f595-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595-1f3fb.png
+  [1f595-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595-1f3fb.png
   [1f595-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595-1f3fb.svg
   [1f595-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595-1f3fc.png
-  [1f595-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595-1f3fc.png
+  [1f595-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595-1f3fc.png
   [1f595-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595-1f3fc.svg
   [1f595-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595-1f3fd.png
-  [1f595-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595-1f3fd.png
+  [1f595-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595-1f3fd.png
   [1f595-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595-1f3fd.svg
   [1f595-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595-1f3fe.png
-  [1f595-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595-1f3fe.png
+  [1f595-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595-1f3fe.png
   [1f595-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595-1f3fe.svg
   [1f595-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595-1f3ff.png
-  [1f595-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595-1f3ff.png
+  [1f595-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595-1f3ff.png
   [1f595-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595-1f3ff.svg
   [1f595.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f595.png
-  [1f595.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f595.png
+  [1f595.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f595.png
   [1f595.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f595.svg
   [1f596-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596-1f3fb.png
-  [1f596-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596-1f3fb.png
+  [1f596-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596-1f3fb.png
   [1f596-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596-1f3fb.svg
   [1f596-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596-1f3fc.png
-  [1f596-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596-1f3fc.png
+  [1f596-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596-1f3fc.png
   [1f596-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596-1f3fc.svg
   [1f596-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596-1f3fd.png
-  [1f596-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596-1f3fd.png
+  [1f596-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596-1f3fd.png
   [1f596-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596-1f3fd.svg
   [1f596-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596-1f3fe.png
-  [1f596-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596-1f3fe.png
+  [1f596-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596-1f3fe.png
   [1f596-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596-1f3fe.svg
   [1f596-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596-1f3ff.png
-  [1f596-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596-1f3ff.png
+  [1f596-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596-1f3ff.png
   [1f596-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596-1f3ff.svg
   [1f596.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f596.png
-  [1f596.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f596.png
+  [1f596.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f596.png
   [1f596.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f596.svg
   [1f597-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597-1f3fb.png
-  [1f597-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597-1f3fb.png
+  [1f597-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597-1f3fb.png
   [1f597-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597-1f3fb.svg
   [1f597-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597-1f3fc.png
-  [1f597-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597-1f3fc.png
+  [1f597-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597-1f3fc.png
   [1f597-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597-1f3fc.svg
   [1f597-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597-1f3fd.png
-  [1f597-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597-1f3fd.png
+  [1f597-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597-1f3fd.png
   [1f597-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597-1f3fd.svg
   [1f597-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597-1f3fe.png
-  [1f597-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597-1f3fe.png
+  [1f597-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597-1f3fe.png
   [1f597-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597-1f3fe.svg
   [1f597-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597-1f3ff.png
-  [1f597-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597-1f3ff.png
+  [1f597-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597-1f3ff.png
   [1f597-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597-1f3ff.svg
   [1f597.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f597.png
-  [1f597.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f597.png
+  [1f597.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f597.png
   [1f597.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f597.svg
   [1f598.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f598.png
-  [1f598.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f598.png
+  [1f598.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f598.png
   [1f598.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f598.svg
   [1f599.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f599.png
-  [1f599.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f599.png
+  [1f599.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f599.png
   [1f599.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f599.svg
   [1f59c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f59c.png
-  [1f59c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f59c.png
+  [1f59c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f59c.png
   [1f59c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f59c.svg
   [1f59d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f59d.png
-  [1f59d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f59d.png
+  [1f59d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f59d.png
   [1f59d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f59d.svg
   [1f59e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f59e.png
-  [1f59e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f59e.png
+  [1f59e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f59e.png
   [1f59e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f59e.svg
   [1f59f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f59f.png
-  [1f59f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f59f.png
+  [1f59f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f59f.png
   [1f59f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f59f.svg
   [1f5a2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a2.png
-  [1f5a2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a2.png
+  [1f5a2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a2.png
   [1f5a2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a2.svg
   [1f5a3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a3.png
-  [1f5a3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a3.png
+  [1f5a3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a3.png
   [1f5a3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a3.svg
   [1f5a4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a4.png
-  [1f5a4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a4.png
+  [1f5a4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a4.png
   [1f5a4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a4.svg
   [1f5a5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a5.png
-  [1f5a5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a5.png
+  [1f5a5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a5.png
   [1f5a5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a5.svg
   [1f5a6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a6.png
-  [1f5a6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a6.png
+  [1f5a6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a6.png
   [1f5a6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a6.svg
   [1f5a7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a7.png
-  [1f5a7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a7.png
+  [1f5a7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a7.png
   [1f5a7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a7.svg
   [1f5a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5a8.png
-  [1f5a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5a8.png
+  [1f5a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5a8.png
   [1f5a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5a8.svg
   [1f5ae.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ae.png
-  [1f5ae.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ae.png
+  [1f5ae.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ae.png
   [1f5ae.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ae.svg
   [1f5b1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5b1.png
-  [1f5b1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5b1.png
+  [1f5b1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5b1.png
   [1f5b1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5b1.svg
   [1f5b2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5b2.png
-  [1f5b2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5b2.png
+  [1f5b2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5b2.png
   [1f5b2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5b2.svg
   [1f5bc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5bc.png
-  [1f5bc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5bc.png
+  [1f5bc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5bc.png
   [1f5bc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5bc.svg
   [1f5bf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5bf.png
-  [1f5bf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5bf.png
+  [1f5bf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5bf.png
   [1f5bf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5bf.svg
   [1f5c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c0.png
-  [1f5c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c0.png
+  [1f5c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c0.png
   [1f5c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c0.svg
   [1f5c1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c1.png
-  [1f5c1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c1.png
+  [1f5c1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c1.png
   [1f5c1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c1.svg
   [1f5c2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c2.png
-  [1f5c2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c2.png
+  [1f5c2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c2.png
   [1f5c2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c2.svg
   [1f5c3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c3.png
-  [1f5c3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c3.png
+  [1f5c3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c3.png
   [1f5c3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c3.svg
   [1f5c4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c4.png
-  [1f5c4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c4.png
+  [1f5c4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c4.png
   [1f5c4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c4.svg
   [1f5c8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5c8.png
-  [1f5c8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5c8.png
+  [1f5c8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5c8.png
   [1f5c8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5c8.svg
   [1f5d1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5d1.png
-  [1f5d1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5d1.png
+  [1f5d1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5d1.png
   [1f5d1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5d1.svg
   [1f5d2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5d2.png
-  [1f5d2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5d2.png
+  [1f5d2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5d2.png
   [1f5d2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5d2.svg
   [1f5d3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5d3.png
-  [1f5d3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5d3.png
+  [1f5d3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5d3.png
   [1f5d3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5d3.svg
   [1f5d8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5d8.png
-  [1f5d8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5d8.png
+  [1f5d8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5d8.png
   [1f5d8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5d8.svg
   [1f5d9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5d9.png
-  [1f5d9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5d9.png
+  [1f5d9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5d9.png
   [1f5d9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5d9.svg
   [1f5dc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5dc.png
-  [1f5dc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5dc.png
+  [1f5dc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5dc.png
   [1f5dc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5dc.svg
   [1f5dd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5dd.png
-  [1f5dd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5dd.png
+  [1f5dd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5dd.png
   [1f5dd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5dd.svg
   [1f5de.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5de.png
-  [1f5de.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5de.png
+  [1f5de.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5de.png
   [1f5de.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5de.svg
   [1f5e1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5e1.png
-  [1f5e1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5e1.png
+  [1f5e1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5e1.png
   [1f5e1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5e1.svg
   [1f5e2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5e2.png
-  [1f5e2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5e2.png
+  [1f5e2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5e2.png
   [1f5e2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5e2.svg
   [1f5e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5e3.png
-  [1f5e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5e3.png
+  [1f5e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5e3.png
   [1f5e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5e3.svg
   [1f5e8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5e8.png
-  [1f5e8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5e8.png
+  [1f5e8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5e8.png
   [1f5e8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5e8.svg
   [1f5e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5e9.png
-  [1f5e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5e9.png
+  [1f5e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5e9.png
   [1f5e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5e9.svg
   [1f5ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ec.png
-  [1f5ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ec.png
+  [1f5ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ec.png
   [1f5ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ec.svg
   [1f5ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ed.png
-  [1f5ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ed.png
+  [1f5ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ed.png
   [1f5ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ed.svg
   [1f5ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ee.png
-  [1f5ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ee.png
+  [1f5ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ee.png
   [1f5ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ee.svg
   [1f5ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ef.png
-  [1f5ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ef.png
+  [1f5ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ef.png
   [1f5ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ef.svg
   [1f5f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5f3.png
-  [1f5f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5f3.png
+  [1f5f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5f3.png
   [1f5f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5f3.svg
   [1f5fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5fa.png
-  [1f5fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5fa.png
+  [1f5fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5fa.png
   [1f5fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5fa.svg
   [1f5fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5fb.png
-  [1f5fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5fb.png
+  [1f5fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5fb.png
   [1f5fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5fb.svg
   [1f5fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5fc.png
-  [1f5fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5fc.png
+  [1f5fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5fc.png
   [1f5fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5fc.svg
   [1f5fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5fd.png
-  [1f5fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5fd.png
+  [1f5fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5fd.png
   [1f5fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5fd.svg
   [1f5fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5fe.png
-  [1f5fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5fe.png
+  [1f5fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5fe.png
   [1f5fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5fe.svg
   [1f5ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f5ff.png
-  [1f5ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f5ff.png
+  [1f5ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f5ff.png
   [1f5ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f5ff.svg
   [1f600.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f600.png
-  [1f600.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f600.png
+  [1f600.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f600.png
   [1f600.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f600.svg
   [1f601.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f601.png
-  [1f601.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f601.png
+  [1f601.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f601.png
   [1f601.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f601.svg
   [1f602.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f602.png
-  [1f602.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f602.png
+  [1f602.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f602.png
   [1f602.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f602.svg
   [1f603.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f603.png
-  [1f603.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f603.png
+  [1f603.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f603.png
   [1f603.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f603.svg
   [1f604.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f604.png
-  [1f604.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f604.png
+  [1f604.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f604.png
   [1f604.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f604.svg
   [1f605.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f605.png
-  [1f605.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f605.png
+  [1f605.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f605.png
   [1f605.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f605.svg
   [1f606.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f606.png
-  [1f606.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f606.png
+  [1f606.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f606.png
   [1f606.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f606.svg
   [1f607.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f607.png
-  [1f607.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f607.png
+  [1f607.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f607.png
   [1f607.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f607.svg
   [1f608.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f608.png
-  [1f608.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f608.png
+  [1f608.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f608.png
   [1f608.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f608.svg
   [1f609.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f609.png
-  [1f609.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f609.png
+  [1f609.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f609.png
   [1f609.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f609.svg
   [1f60a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60a.png
-  [1f60a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60a.png
+  [1f60a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60a.png
   [1f60a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60a.svg
   [1f60b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60b.png
-  [1f60b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60b.png
+  [1f60b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60b.png
   [1f60b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60b.svg
   [1f60c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60c.png
-  [1f60c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60c.png
+  [1f60c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60c.png
   [1f60c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60c.svg
   [1f60d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60d.png
-  [1f60d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60d.png
+  [1f60d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60d.png
   [1f60d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60d.svg
   [1f60e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60e.png
-  [1f60e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60e.png
+  [1f60e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60e.png
   [1f60e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60e.svg
   [1f60f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f60f.png
-  [1f60f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f60f.png
+  [1f60f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f60f.png
   [1f60f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f60f.svg
   [1f610.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f610.png
-  [1f610.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f610.png
+  [1f610.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f610.png
   [1f610.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f610.svg
   [1f611.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f611.png
-  [1f611.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f611.png
+  [1f611.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f611.png
   [1f611.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f611.svg
   [1f612.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f612.png
-  [1f612.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f612.png
+  [1f612.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f612.png
   [1f612.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f612.svg
   [1f613.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f613.png
-  [1f613.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f613.png
+  [1f613.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f613.png
   [1f613.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f613.svg
   [1f614.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f614.png
-  [1f614.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f614.png
+  [1f614.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f614.png
   [1f614.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f614.svg
   [1f615.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f615.png
-  [1f615.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f615.png
+  [1f615.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f615.png
   [1f615.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f615.svg
   [1f616.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f616.png
-  [1f616.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f616.png
+  [1f616.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f616.png
   [1f616.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f616.svg
   [1f617.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f617.png
-  [1f617.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f617.png
+  [1f617.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f617.png
   [1f617.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f617.svg
   [1f618.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f618.png
-  [1f618.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f618.png
+  [1f618.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f618.png
   [1f618.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f618.svg
   [1f619.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f619.png
-  [1f619.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f619.png
+  [1f619.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f619.png
   [1f619.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f619.svg
   [1f61a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61a.png
-  [1f61a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61a.png
+  [1f61a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61a.png
   [1f61a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61a.svg
   [1f61b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61b.png
-  [1f61b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61b.png
+  [1f61b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61b.png
   [1f61b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61b.svg
   [1f61c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61c.png
-  [1f61c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61c.png
+  [1f61c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61c.png
   [1f61c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61c.svg
   [1f61d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61d.png
-  [1f61d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61d.png
+  [1f61d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61d.png
   [1f61d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61d.svg
   [1f61e-1f494.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61e-1f494.png
-  [1f61e-1f494.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61e-1f494.png
+  [1f61e-1f494.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61e-1f494.png
   [1f61e-1f494.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61e-1f494.svg
   [1f61e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61e.png
-  [1f61e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61e.png
+  [1f61e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61e.png
   [1f61e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61e.svg
   [1f61f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f61f.png
-  [1f61f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f61f.png
+  [1f61f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f61f.png
   [1f61f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f61f.svg
   [1f620.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f620.png
-  [1f620.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f620.png
+  [1f620.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f620.png
   [1f620.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f620.svg
   [1f621.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f621.png
-  [1f621.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f621.png
+  [1f621.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f621.png
   [1f621.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f621.svg
   [1f622.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f622.png
-  [1f622.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f622.png
+  [1f622.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f622.png
   [1f622.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f622.svg
   [1f623.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f623.png
-  [1f623.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f623.png
+  [1f623.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f623.png
   [1f623.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f623.svg
   [1f624.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f624.png
-  [1f624.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f624.png
+  [1f624.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f624.png
   [1f624.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f624.svg
   [1f625.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f625.png
-  [1f625.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f625.png
+  [1f625.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f625.png
   [1f625.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f625.svg
   [1f626.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f626.png
-  [1f626.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f626.png
+  [1f626.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f626.png
   [1f626.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f626.svg
   [1f627.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f627.png
-  [1f627.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f627.png
+  [1f627.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f627.png
   [1f627.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f627.svg
   [1f628.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f628.png
-  [1f628.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f628.png
+  [1f628.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f628.png
   [1f628.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f628.svg
   [1f629.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f629.png
-  [1f629.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f629.png
+  [1f629.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f629.png
   [1f629.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f629.svg
   [1f62a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62a.png
-  [1f62a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62a.png
+  [1f62a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62a.png
   [1f62a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62a.svg
   [1f62b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62b.png
-  [1f62b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62b.png
+  [1f62b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62b.png
   [1f62b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62b.svg
   [1f62c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62c.png
-  [1f62c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62c.png
+  [1f62c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62c.png
   [1f62c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62c.svg
   [1f62d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62d.png
-  [1f62d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62d.png
+  [1f62d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62d.png
   [1f62d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62d.svg
   [1f62e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62e.png
-  [1f62e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62e.png
+  [1f62e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62e.png
   [1f62e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62e.svg
   [1f62f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f62f.png
-  [1f62f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f62f.png
+  [1f62f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f62f.png
   [1f62f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f62f.svg
   [1f630.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f630.png
-  [1f630.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f630.png
+  [1f630.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f630.png
   [1f630.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f630.svg
   [1f631.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f631.png
-  [1f631.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f631.png
+  [1f631.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f631.png
   [1f631.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f631.svg
   [1f632.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f632.png
-  [1f632.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f632.png
+  [1f632.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f632.png
   [1f632.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f632.svg
   [1f633.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f633.png
-  [1f633.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f633.png
+  [1f633.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f633.png
   [1f633.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f633.svg
   [1f634.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f634.png
-  [1f634.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f634.png
+  [1f634.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f634.png
   [1f634.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f634.svg
   [1f635.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f635.png
-  [1f635.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f635.png
+  [1f635.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f635.png
   [1f635.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f635.svg
   [1f636.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f636.png
-  [1f636.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f636.png
+  [1f636.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f636.png
   [1f636.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f636.svg
   [1f637.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f637.png
-  [1f637.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f637.png
+  [1f637.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f637.png
   [1f637.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f637.svg
   [1f638.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f638.png
-  [1f638.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f638.png
+  [1f638.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f638.png
   [1f638.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f638.svg
   [1f639.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f639.png
-  [1f639.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f639.png
+  [1f639.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f639.png
   [1f639.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f639.svg
   [1f63a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63a.png
-  [1f63a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63a.png
+  [1f63a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63a.png
   [1f63a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63a.svg
   [1f63b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63b.png
-  [1f63b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63b.png
+  [1f63b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63b.png
   [1f63b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63b.svg
   [1f63c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63c.png
-  [1f63c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63c.png
+  [1f63c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63c.png
   [1f63c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63c.svg
   [1f63d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63d.png
-  [1f63d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63d.png
+  [1f63d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63d.png
   [1f63d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63d.svg
   [1f63e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63e.png
-  [1f63e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63e.png
+  [1f63e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63e.png
   [1f63e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63e.svg
   [1f63f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f63f.png
-  [1f63f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f63f.png
+  [1f63f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f63f.png
   [1f63f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f63f.svg
   [1f640.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f640.png
-  [1f640.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f640.png
+  [1f640.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f640.png
   [1f640.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f640.svg
   [1f641.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f641.png
-  [1f641.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f641.png
+  [1f641.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f641.png
   [1f641.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f641.svg
   [1f642.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f642.png
-  [1f642.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f642.png
+  [1f642.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f642.png
   [1f642.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f642.svg
   [1f643.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f643.png
-  [1f643.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f643.png
+  [1f643.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f643.png
   [1f643.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f643.svg
   [1f644.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f644.png
-  [1f644.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f644.png
+  [1f644.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f644.png
   [1f644.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f644.svg
   [1f645-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645-1f3fb.png
-  [1f645-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645-1f3fb.png
+  [1f645-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645-1f3fb.png
   [1f645-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645-1f3fb.svg
   [1f645-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645-1f3fc.png
-  [1f645-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645-1f3fc.png
+  [1f645-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645-1f3fc.png
   [1f645-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645-1f3fc.svg
   [1f645-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645-1f3fd.png
-  [1f645-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645-1f3fd.png
+  [1f645-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645-1f3fd.png
   [1f645-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645-1f3fd.svg
   [1f645-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645-1f3fe.png
-  [1f645-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645-1f3fe.png
+  [1f645-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645-1f3fe.png
   [1f645-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645-1f3fe.svg
   [1f645-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645-1f3ff.png
-  [1f645-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645-1f3ff.png
+  [1f645-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645-1f3ff.png
   [1f645-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645-1f3ff.svg
   [1f645.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f645.png
-  [1f645.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f645.png
+  [1f645.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f645.png
   [1f645.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f645.svg
   [1f646-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646-1f3fb.png
-  [1f646-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646-1f3fb.png
+  [1f646-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646-1f3fb.png
   [1f646-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646-1f3fb.svg
   [1f646-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646-1f3fc.png
-  [1f646-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646-1f3fc.png
+  [1f646-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646-1f3fc.png
   [1f646-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646-1f3fc.svg
   [1f646-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646-1f3fd.png
-  [1f646-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646-1f3fd.png
+  [1f646-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646-1f3fd.png
   [1f646-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646-1f3fd.svg
   [1f646-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646-1f3fe.png
-  [1f646-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646-1f3fe.png
+  [1f646-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646-1f3fe.png
   [1f646-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646-1f3fe.svg
   [1f646-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646-1f3ff.png
-  [1f646-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646-1f3ff.png
+  [1f646-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646-1f3ff.png
   [1f646-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646-1f3ff.svg
   [1f646.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f646.png
-  [1f646.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f646.png
+  [1f646.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f646.png
   [1f646.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f646.svg
   [1f647-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647-1f3fb.png
-  [1f647-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647-1f3fb.png
+  [1f647-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647-1f3fb.png
   [1f647-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647-1f3fb.svg
   [1f647-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647-1f3fc.png
-  [1f647-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647-1f3fc.png
+  [1f647-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647-1f3fc.png
   [1f647-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647-1f3fc.svg
   [1f647-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647-1f3fd.png
-  [1f647-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647-1f3fd.png
+  [1f647-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647-1f3fd.png
   [1f647-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647-1f3fd.svg
   [1f647-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647-1f3fe.png
-  [1f647-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647-1f3fe.png
+  [1f647-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647-1f3fe.png
   [1f647-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647-1f3fe.svg
   [1f647-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647-1f3ff.png
-  [1f647-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647-1f3ff.png
+  [1f647-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647-1f3ff.png
   [1f647-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647-1f3ff.svg
   [1f647.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f647.png
-  [1f647.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f647.png
+  [1f647.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f647.png
   [1f647.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f647.svg
   [1f648.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f648.png
-  [1f648.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f648.png
+  [1f648.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f648.png
   [1f648.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f648.svg
   [1f649.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f649.png
-  [1f649.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f649.png
+  [1f649.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f649.png
   [1f649.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f649.svg
   [1f64a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64a.png
-  [1f64a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64a.png
+  [1f64a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64a.png
   [1f64a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64a.svg
   [1f64b-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b-1f3fb.png
-  [1f64b-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b-1f3fb.png
+  [1f64b-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b-1f3fb.png
   [1f64b-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b-1f3fb.svg
   [1f64b-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b-1f3fc.png
-  [1f64b-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b-1f3fc.png
+  [1f64b-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b-1f3fc.png
   [1f64b-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b-1f3fc.svg
   [1f64b-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b-1f3fd.png
-  [1f64b-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b-1f3fd.png
+  [1f64b-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b-1f3fd.png
   [1f64b-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b-1f3fd.svg
   [1f64b-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b-1f3fe.png
-  [1f64b-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b-1f3fe.png
+  [1f64b-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b-1f3fe.png
   [1f64b-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b-1f3fe.svg
   [1f64b-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b-1f3ff.png
-  [1f64b-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b-1f3ff.png
+  [1f64b-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b-1f3ff.png
   [1f64b-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b-1f3ff.svg
   [1f64b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64b.png
-  [1f64b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64b.png
+  [1f64b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64b.png
   [1f64b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64b.svg
   [1f64c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c-1f3fb.png
-  [1f64c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c-1f3fb.png
+  [1f64c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c-1f3fb.png
   [1f64c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c-1f3fb.svg
   [1f64c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c-1f3fc.png
-  [1f64c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c-1f3fc.png
+  [1f64c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c-1f3fc.png
   [1f64c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c-1f3fc.svg
   [1f64c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c-1f3fd.png
-  [1f64c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c-1f3fd.png
+  [1f64c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c-1f3fd.png
   [1f64c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c-1f3fd.svg
   [1f64c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c-1f3fe.png
-  [1f64c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c-1f3fe.png
+  [1f64c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c-1f3fe.png
   [1f64c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c-1f3fe.svg
   [1f64c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c-1f3ff.png
-  [1f64c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c-1f3ff.png
+  [1f64c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c-1f3ff.png
   [1f64c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c-1f3ff.svg
   [1f64c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64c.png
-  [1f64c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64c.png
+  [1f64c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64c.png
   [1f64c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64c.svg
   [1f64d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d-1f3fb.png
-  [1f64d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d-1f3fb.png
+  [1f64d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d-1f3fb.png
   [1f64d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d-1f3fb.svg
   [1f64d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d-1f3fc.png
-  [1f64d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d-1f3fc.png
+  [1f64d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d-1f3fc.png
   [1f64d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d-1f3fc.svg
   [1f64d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d-1f3fd.png
-  [1f64d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d-1f3fd.png
+  [1f64d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d-1f3fd.png
   [1f64d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d-1f3fd.svg
   [1f64d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d-1f3fe.png
-  [1f64d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d-1f3fe.png
+  [1f64d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d-1f3fe.png
   [1f64d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d-1f3fe.svg
   [1f64d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d-1f3ff.png
-  [1f64d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d-1f3ff.png
+  [1f64d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d-1f3ff.png
   [1f64d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d-1f3ff.svg
   [1f64d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64d.png
-  [1f64d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64d.png
+  [1f64d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64d.png
   [1f64d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64d.svg
   [1f64e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e-1f3fb.png
-  [1f64e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e-1f3fb.png
+  [1f64e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e-1f3fb.png
   [1f64e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e-1f3fb.svg
   [1f64e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e-1f3fc.png
-  [1f64e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e-1f3fc.png
+  [1f64e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e-1f3fc.png
   [1f64e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e-1f3fc.svg
   [1f64e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e-1f3fd.png
-  [1f64e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e-1f3fd.png
+  [1f64e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e-1f3fd.png
   [1f64e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e-1f3fd.svg
   [1f64e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e-1f3fe.png
-  [1f64e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e-1f3fe.png
+  [1f64e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e-1f3fe.png
   [1f64e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e-1f3fe.svg
   [1f64e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e-1f3ff.png
-  [1f64e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e-1f3ff.png
+  [1f64e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e-1f3ff.png
   [1f64e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e-1f3ff.svg
   [1f64e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64e.png
-  [1f64e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64e.png
+  [1f64e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64e.png
   [1f64e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64e.svg
   [1f64f-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f-1f3fb.png
-  [1f64f-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f-1f3fb.png
+  [1f64f-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f-1f3fb.png
   [1f64f-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f-1f3fb.svg
   [1f64f-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f-1f3fc.png
-  [1f64f-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f-1f3fc.png
+  [1f64f-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f-1f3fc.png
   [1f64f-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f-1f3fc.svg
   [1f64f-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f-1f3fd.png
-  [1f64f-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f-1f3fd.png
+  [1f64f-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f-1f3fd.png
   [1f64f-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f-1f3fd.svg
   [1f64f-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f-1f3fe.png
-  [1f64f-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f-1f3fe.png
+  [1f64f-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f-1f3fe.png
   [1f64f-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f-1f3fe.svg
   [1f64f-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f-1f3ff.png
-  [1f64f-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f-1f3ff.png
+  [1f64f-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f-1f3ff.png
   [1f64f-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f-1f3ff.svg
   [1f64f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f64f.png
-  [1f64f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f64f.png
+  [1f64f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f64f.png
   [1f64f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f64f.svg
   [1f680.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f680.png
-  [1f680.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f680.png
+  [1f680.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f680.png
   [1f680.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f680.svg
   [1f681.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f681.png
-  [1f681.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f681.png
+  [1f681.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f681.png
   [1f681.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f681.svg
   [1f682.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f682.png
-  [1f682.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f682.png
+  [1f682.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f682.png
   [1f682.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f682.svg
   [1f683.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f683.png
-  [1f683.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f683.png
+  [1f683.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f683.png
   [1f683.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f683.svg
   [1f684.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f684.png
-  [1f684.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f684.png
+  [1f684.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f684.png
   [1f684.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f684.svg
   [1f685.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f685.png
-  [1f685.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f685.png
+  [1f685.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f685.png
   [1f685.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f685.svg
   [1f686.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f686.png
-  [1f686.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f686.png
+  [1f686.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f686.png
   [1f686.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f686.svg
   [1f687.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f687.png
-  [1f687.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f687.png
+  [1f687.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f687.png
   [1f687.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f687.svg
   [1f688.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f688.png
-  [1f688.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f688.png
+  [1f688.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f688.png
   [1f688.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f688.svg
   [1f689.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f689.png
-  [1f689.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f689.png
+  [1f689.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f689.png
   [1f689.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f689.svg
   [1f68a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68a.png
-  [1f68a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68a.png
+  [1f68a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68a.png
   [1f68a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68a.svg
   [1f68b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68b.png
-  [1f68b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68b.png
+  [1f68b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68b.png
   [1f68b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68b.svg
   [1f68c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68c.png
-  [1f68c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68c.png
+  [1f68c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68c.png
   [1f68c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68c.svg
   [1f68d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68d.png
-  [1f68d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68d.png
+  [1f68d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68d.png
   [1f68d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68d.svg
   [1f68e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68e.png
-  [1f68e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68e.png
+  [1f68e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68e.png
   [1f68e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68e.svg
   [1f68f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f68f.png
-  [1f68f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f68f.png
+  [1f68f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f68f.png
   [1f68f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f68f.svg
   [1f690.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f690.png
-  [1f690.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f690.png
+  [1f690.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f690.png
   [1f690.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f690.svg
   [1f691.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f691.png
-  [1f691.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f691.png
+  [1f691.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f691.png
   [1f691.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f691.svg
   [1f692.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f692.png
-  [1f692.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f692.png
+  [1f692.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f692.png
   [1f692.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f692.svg
   [1f693.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f693.png
-  [1f693.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f693.png
+  [1f693.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f693.png
   [1f693.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f693.svg
   [1f694.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f694.png
-  [1f694.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f694.png
+  [1f694.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f694.png
   [1f694.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f694.svg
   [1f695.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f695.png
-  [1f695.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f695.png
+  [1f695.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f695.png
   [1f695.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f695.svg
   [1f696.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f696.png
-  [1f696.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f696.png
+  [1f696.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f696.png
   [1f696.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f696.svg
   [1f697.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f697.png
-  [1f697.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f697.png
+  [1f697.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f697.png
   [1f697.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f697.svg
   [1f698.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f698.png
-  [1f698.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f698.png
+  [1f698.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f698.png
   [1f698.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f698.svg
   [1f699.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f699.png
-  [1f699.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f699.png
+  [1f699.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f699.png
   [1f699.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f699.svg
   [1f69a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69a.png
-  [1f69a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69a.png
+  [1f69a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69a.png
   [1f69a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69a.svg
   [1f69b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69b.png
-  [1f69b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69b.png
+  [1f69b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69b.png
   [1f69b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69b.svg
   [1f69c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69c.png
-  [1f69c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69c.png
+  [1f69c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69c.png
   [1f69c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69c.svg
   [1f69d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69d.png
-  [1f69d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69d.png
+  [1f69d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69d.png
   [1f69d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69d.svg
   [1f69e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69e.png
-  [1f69e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69e.png
+  [1f69e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69e.png
   [1f69e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69e.svg
   [1f69f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f69f.png
-  [1f69f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f69f.png
+  [1f69f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f69f.png
   [1f69f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f69f.svg
   [1f6a0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a0.png
-  [1f6a0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a0.png
+  [1f6a0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a0.png
   [1f6a0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a0.svg
   [1f6a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a1.png
-  [1f6a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a1.png
+  [1f6a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a1.png
   [1f6a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a1.svg
   [1f6a2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a2.png
-  [1f6a2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a2.png
+  [1f6a2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a2.png
   [1f6a2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a2.svg
   [1f6a3-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3-1f3fb.png
-  [1f6a3-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3-1f3fb.png
+  [1f6a3-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3-1f3fb.png
   [1f6a3-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3-1f3fb.svg
   [1f6a3-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3-1f3fc.png
-  [1f6a3-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3-1f3fc.png
+  [1f6a3-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3-1f3fc.png
   [1f6a3-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3-1f3fc.svg
   [1f6a3-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3-1f3fd.png
-  [1f6a3-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3-1f3fd.png
+  [1f6a3-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3-1f3fd.png
   [1f6a3-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3-1f3fd.svg
   [1f6a3-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3-1f3fe.png
-  [1f6a3-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3-1f3fe.png
+  [1f6a3-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3-1f3fe.png
   [1f6a3-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3-1f3fe.svg
   [1f6a3-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3-1f3ff.png
-  [1f6a3-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3-1f3ff.png
+  [1f6a3-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3-1f3ff.png
   [1f6a3-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3-1f3ff.svg
   [1f6a3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a3.png
-  [1f6a3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a3.png
+  [1f6a3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a3.png
   [1f6a3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a3.svg
   [1f6a4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a4.png
-  [1f6a4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a4.png
+  [1f6a4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a4.png
   [1f6a4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a4.svg
   [1f6a5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a5.png
-  [1f6a5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a5.png
+  [1f6a5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a5.png
   [1f6a5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a5.svg
   [1f6a6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a6.png
-  [1f6a6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a6.png
+  [1f6a6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a6.png
   [1f6a6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a6.svg
   [1f6a7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a7.png
-  [1f6a7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a7.png
+  [1f6a7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a7.png
   [1f6a7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a7.svg
   [1f6a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a8.png
-  [1f6a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a8.png
+  [1f6a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a8.png
   [1f6a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a8.svg
   [1f6a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6a9.png
-  [1f6a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6a9.png
+  [1f6a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6a9.png
   [1f6a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6a9.svg
   [1f6aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6aa.png
-  [1f6aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6aa.png
+  [1f6aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6aa.png
   [1f6aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6aa.svg
   [1f6ab.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ab.png
-  [1f6ab.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ab.png
+  [1f6ab.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ab.png
   [1f6ab.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ab.svg
   [1f6ac.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ac.png
-  [1f6ac.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ac.png
+  [1f6ac.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ac.png
   [1f6ac.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ac.svg
   [1f6ad.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ad.png
-  [1f6ad.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ad.png
+  [1f6ad.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ad.png
   [1f6ad.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ad.svg
   [1f6ae.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ae.png
-  [1f6ae.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ae.png
+  [1f6ae.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ae.png
   [1f6ae.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ae.svg
   [1f6af.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6af.png
-  [1f6af.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6af.png
+  [1f6af.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6af.png
   [1f6af.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6af.svg
   [1f6b0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b0.png
-  [1f6b0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b0.png
+  [1f6b0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b0.png
   [1f6b0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b0.svg
   [1f6b1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b1.png
-  [1f6b1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b1.png
+  [1f6b1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b1.png
   [1f6b1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b1.svg
   [1f6b2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b2.png
-  [1f6b2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b2.png
+  [1f6b2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b2.png
   [1f6b2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b2.svg
   [1f6b3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b3.png
-  [1f6b3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b3.png
+  [1f6b3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b3.png
   [1f6b3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b3.svg
   [1f6b4-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4-1f3fb.png
-  [1f6b4-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4-1f3fb.png
+  [1f6b4-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4-1f3fb.png
   [1f6b4-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4-1f3fb.svg
   [1f6b4-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4-1f3fc.png
-  [1f6b4-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4-1f3fc.png
+  [1f6b4-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4-1f3fc.png
   [1f6b4-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4-1f3fc.svg
   [1f6b4-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4-1f3fd.png
-  [1f6b4-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4-1f3fd.png
+  [1f6b4-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4-1f3fd.png
   [1f6b4-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4-1f3fd.svg
   [1f6b4-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4-1f3fe.png
-  [1f6b4-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4-1f3fe.png
+  [1f6b4-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4-1f3fe.png
   [1f6b4-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4-1f3fe.svg
   [1f6b4-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4-1f3ff.png
-  [1f6b4-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4-1f3ff.png
+  [1f6b4-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4-1f3ff.png
   [1f6b4-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4-1f3ff.svg
   [1f6b4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b4.png
-  [1f6b4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b4.png
+  [1f6b4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b4.png
   [1f6b4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b4.svg
   [1f6b5-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5-1f3fb.png
-  [1f6b5-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5-1f3fb.png
+  [1f6b5-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5-1f3fb.png
   [1f6b5-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5-1f3fb.svg
   [1f6b5-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5-1f3fc.png
-  [1f6b5-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5-1f3fc.png
+  [1f6b5-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5-1f3fc.png
   [1f6b5-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5-1f3fc.svg
   [1f6b5-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5-1f3fd.png
-  [1f6b5-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5-1f3fd.png
+  [1f6b5-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5-1f3fd.png
   [1f6b5-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5-1f3fd.svg
   [1f6b5-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5-1f3fe.png
-  [1f6b5-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5-1f3fe.png
+  [1f6b5-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5-1f3fe.png
   [1f6b5-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5-1f3fe.svg
   [1f6b5-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5-1f3ff.png
-  [1f6b5-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5-1f3ff.png
+  [1f6b5-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5-1f3ff.png
   [1f6b5-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5-1f3ff.svg
   [1f6b5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b5.png
-  [1f6b5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b5.png
+  [1f6b5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b5.png
   [1f6b5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b5.svg
   [1f6b6-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6-1f3fb.png
-  [1f6b6-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6-1f3fb.png
+  [1f6b6-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6-1f3fb.png
   [1f6b6-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6-1f3fb.svg
   [1f6b6-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6-1f3fc.png
-  [1f6b6-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6-1f3fc.png
+  [1f6b6-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6-1f3fc.png
   [1f6b6-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6-1f3fc.svg
   [1f6b6-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6-1f3fd.png
-  [1f6b6-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6-1f3fd.png
+  [1f6b6-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6-1f3fd.png
   [1f6b6-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6-1f3fd.svg
   [1f6b6-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6-1f3fe.png
-  [1f6b6-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6-1f3fe.png
+  [1f6b6-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6-1f3fe.png
   [1f6b6-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6-1f3fe.svg
   [1f6b6-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6-1f3ff.png
-  [1f6b6-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6-1f3ff.png
+  [1f6b6-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6-1f3ff.png
   [1f6b6-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6-1f3ff.svg
   [1f6b6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b6.png
-  [1f6b6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b6.png
+  [1f6b6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b6.png
   [1f6b6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b6.svg
   [1f6b7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b7.png
-  [1f6b7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b7.png
+  [1f6b7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b7.png
   [1f6b7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b7.svg
   [1f6b8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b8.png
-  [1f6b8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b8.png
+  [1f6b8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b8.png
   [1f6b8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b8.svg
   [1f6b9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6b9.png
-  [1f6b9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6b9.png
+  [1f6b9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6b9.png
   [1f6b9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6b9.svg
   [1f6ba.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ba.png
-  [1f6ba.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ba.png
+  [1f6ba.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ba.png
   [1f6ba.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ba.svg
   [1f6bb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6bb.png
-  [1f6bb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6bb.png
+  [1f6bb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6bb.png
   [1f6bb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6bb.svg
   [1f6bc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6bc.png
-  [1f6bc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6bc.png
+  [1f6bc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6bc.png
   [1f6bc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6bc.svg
   [1f6bd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6bd.png
-  [1f6bd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6bd.png
+  [1f6bd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6bd.png
   [1f6bd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6bd.svg
   [1f6be.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6be.png
-  [1f6be.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6be.png
+  [1f6be.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6be.png
   [1f6be.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6be.svg
   [1f6bf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6bf.png
-  [1f6bf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6bf.png
+  [1f6bf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6bf.png
   [1f6bf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6bf.svg
   [1f6c0-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0-1f3fb.png
-  [1f6c0-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0-1f3fb.png
+  [1f6c0-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0-1f3fb.png
   [1f6c0-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0-1f3fb.svg
   [1f6c0-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0-1f3fc.png
-  [1f6c0-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0-1f3fc.png
+  [1f6c0-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0-1f3fc.png
   [1f6c0-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0-1f3fc.svg
   [1f6c0-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0-1f3fd.png
-  [1f6c0-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0-1f3fd.png
+  [1f6c0-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0-1f3fd.png
   [1f6c0-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0-1f3fd.svg
   [1f6c0-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0-1f3fe.png
-  [1f6c0-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0-1f3fe.png
+  [1f6c0-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0-1f3fe.png
   [1f6c0-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0-1f3fe.svg
   [1f6c0-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0-1f3ff.png
-  [1f6c0-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0-1f3ff.png
+  [1f6c0-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0-1f3ff.png
   [1f6c0-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0-1f3ff.svg
   [1f6c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c0.png
-  [1f6c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c0.png
+  [1f6c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c0.png
   [1f6c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c0.svg
   [1f6c1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c1.png
-  [1f6c1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c1.png
+  [1f6c1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c1.png
   [1f6c1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c1.svg
   [1f6c2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c2.png
-  [1f6c2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c2.png
+  [1f6c2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c2.png
   [1f6c2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c2.svg
   [1f6c3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c3.png
-  [1f6c3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c3.png
+  [1f6c3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c3.png
   [1f6c3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c3.svg
   [1f6c4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c4.png
-  [1f6c4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c4.png
+  [1f6c4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c4.png
   [1f6c4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c4.svg
   [1f6c5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c5.png
-  [1f6c5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c5.png
+  [1f6c5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c5.png
   [1f6c5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c5.svg
   [1f6c6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c6.png
-  [1f6c6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c6.png
+  [1f6c6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c6.png
   [1f6c6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c6.svg
   [1f6c7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c7.png
-  [1f6c7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c7.png
+  [1f6c7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c7.png
   [1f6c7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c7.svg
   [1f6c8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6c8.png
-  [1f6c8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6c8.png
+  [1f6c8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6c8.png
   [1f6c8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6c8.svg
   [1f6cb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6cb.png
-  [1f6cb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6cb.png
+  [1f6cb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6cb.png
   [1f6cb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cb.svg
   [1f6cc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6cc.png
-  [1f6cc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6cc.png
+  [1f6cc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6cc.png
   [1f6cc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cc.svg
   [1f6cd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6cd.png
-  [1f6cd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6cd.png
+  [1f6cd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6cd.png
   [1f6cd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cd.svg
   [1f6ce.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ce.png
-  [1f6ce.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ce.png
+  [1f6ce.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ce.png
   [1f6ce.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ce.svg
   [1f6cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6cf.png
-  [1f6cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6cf.png
+  [1f6cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6cf.png
   [1f6cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6cf.svg
   [1f6d0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6d0.png
-  [1f6d0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6d0.png
+  [1f6d0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6d0.png
   [1f6d0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6d0.svg
   [1f6d1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6d1.png
-  [1f6d1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6d1.png
+  [1f6d1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6d1.png
   [1f6d1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6d1.svg
   [1f6d2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6d2.png
-  [1f6d2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6d2.png
+  [1f6d2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6d2.png
   [1f6d2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6d2.svg
   [1f6e0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e0.png
-  [1f6e0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e0.png
+  [1f6e0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e0.png
   [1f6e0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e0.svg
   [1f6e1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e1.png
-  [1f6e1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e1.png
+  [1f6e1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e1.png
   [1f6e1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e1.svg
   [1f6e2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e2.png
-  [1f6e2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e2.png
+  [1f6e2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e2.png
   [1f6e2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e2.svg
   [1f6e3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e3.png
-  [1f6e3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e3.png
+  [1f6e3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e3.png
   [1f6e3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e3.svg
   [1f6e4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e4.png
-  [1f6e4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e4.png
+  [1f6e4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e4.png
   [1f6e4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e4.svg
   [1f6e5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e5.png
-  [1f6e5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e5.png
+  [1f6e5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e5.png
   [1f6e5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e5.svg
   [1f6e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6e9.png
-  [1f6e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6e9.png
+  [1f6e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6e9.png
   [1f6e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6e9.svg
   [1f6ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ea.png
-  [1f6ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ea.png
+  [1f6ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ea.png
   [1f6ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ea.svg
   [1f6eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6eb.png
-  [1f6eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6eb.png
+  [1f6eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6eb.png
   [1f6eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6eb.svg
   [1f6ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6ec.png
-  [1f6ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6ec.png
+  [1f6ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6ec.png
   [1f6ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6ec.svg
   [1f6f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6f0.png
-  [1f6f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6f0.png
+  [1f6f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6f0.png
   [1f6f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6f0.svg
   [1f6f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6f3.png
-  [1f6f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6f3.png
+  [1f6f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6f3.png
   [1f6f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6f3.svg
   [1f6f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6f4.png
-  [1f6f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6f4.png
+  [1f6f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6f4.png
   [1f6f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6f4.svg
   [1f6f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6f5.png
-  [1f6f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6f5.png
+  [1f6f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6f5.png
   [1f6f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6f5.svg
   [1f6f6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f6f6.png
-  [1f6f6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f6f6.png
+  [1f6f6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f6f6.png
   [1f6f6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f6f6.svg
   [1f910.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f910.png
-  [1f910.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f910.png
+  [1f910.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f910.png
   [1f910.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f910.svg
   [1f911.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f911.png
-  [1f911.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f911.png
+  [1f911.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f911.png
   [1f911.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f911.svg
   [1f912.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f912.png
-  [1f912.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f912.png
+  [1f912.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f912.png
   [1f912.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f912.svg
   [1f913.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f913.png
-  [1f913.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f913.png
+  [1f913.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f913.png
   [1f913.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f913.svg
   [1f914.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f914.png
-  [1f914.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f914.png
+  [1f914.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f914.png
   [1f914.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f914.svg
   [1f915.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f915.png
-  [1f915.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f915.png
+  [1f915.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f915.png
   [1f915.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f915.svg
   [1f916.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f916.png
-  [1f916.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f916.png
+  [1f916.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f916.png
   [1f916.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f916.svg
   [1f917.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f917.png
-  [1f917.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f917.png
+  [1f917.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f917.png
   [1f917.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f917.svg
   [1f918-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918-1f3fb.png
-  [1f918-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918-1f3fb.png
+  [1f918-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918-1f3fb.png
   [1f918-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918-1f3fb.svg
   [1f918-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918-1f3fc.png
-  [1f918-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918-1f3fc.png
+  [1f918-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918-1f3fc.png
   [1f918-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918-1f3fc.svg
   [1f918-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918-1f3fd.png
-  [1f918-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918-1f3fd.png
+  [1f918-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918-1f3fd.png
   [1f918-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918-1f3fd.svg
   [1f918-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918-1f3fe.png
-  [1f918-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918-1f3fe.png
+  [1f918-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918-1f3fe.png
   [1f918-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918-1f3fe.svg
   [1f918-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918-1f3ff.png
-  [1f918-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918-1f3ff.png
+  [1f918-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918-1f3ff.png
   [1f918-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918-1f3ff.svg
   [1f918.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f918.png
-  [1f918.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f918.png
+  [1f918.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f918.png
   [1f918.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f918.svg
   [1f919-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919-1f3fb.png
-  [1f919-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919-1f3fb.png
+  [1f919-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919-1f3fb.png
   [1f919-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919-1f3fb.svg
   [1f919-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919-1f3fc.png
-  [1f919-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919-1f3fc.png
+  [1f919-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919-1f3fc.png
   [1f919-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919-1f3fc.svg
   [1f919-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919-1f3fd.png
-  [1f919-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919-1f3fd.png
+  [1f919-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919-1f3fd.png
   [1f919-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919-1f3fd.svg
   [1f919-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919-1f3fe.png
-  [1f919-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919-1f3fe.png
+  [1f919-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919-1f3fe.png
   [1f919-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919-1f3fe.svg
   [1f919-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919-1f3ff.png
-  [1f919-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919-1f3ff.png
+  [1f919-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919-1f3ff.png
   [1f919-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919-1f3ff.svg
   [1f919.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f919.png
-  [1f919.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f919.png
+  [1f919.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f919.png
   [1f919.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f919.svg
   [1f91a-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a-1f3fb.png
-  [1f91a-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a-1f3fb.png
+  [1f91a-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a-1f3fb.png
   [1f91a-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a-1f3fb.svg
   [1f91a-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a-1f3fc.png
-  [1f91a-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a-1f3fc.png
+  [1f91a-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a-1f3fc.png
   [1f91a-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a-1f3fc.svg
   [1f91a-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a-1f3fd.png
-  [1f91a-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a-1f3fd.png
+  [1f91a-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a-1f3fd.png
   [1f91a-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a-1f3fd.svg
   [1f91a-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a-1f3fe.png
-  [1f91a-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a-1f3fe.png
+  [1f91a-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a-1f3fe.png
   [1f91a-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a-1f3fe.svg
   [1f91a-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a-1f3ff.png
-  [1f91a-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a-1f3ff.png
+  [1f91a-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a-1f3ff.png
   [1f91a-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a-1f3ff.svg
   [1f91a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91a.png
-  [1f91a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91a.png
+  [1f91a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91a.png
   [1f91a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91a.svg
   [1f91b-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b-1f3fb.png
-  [1f91b-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b-1f3fb.png
+  [1f91b-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b-1f3fb.png
   [1f91b-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b-1f3fb.svg
   [1f91b-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b-1f3fc.png
-  [1f91b-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b-1f3fc.png
+  [1f91b-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b-1f3fc.png
   [1f91b-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b-1f3fc.svg
   [1f91b-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b-1f3fd.png
-  [1f91b-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b-1f3fd.png
+  [1f91b-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b-1f3fd.png
   [1f91b-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b-1f3fd.svg
   [1f91b-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b-1f3fe.png
-  [1f91b-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b-1f3fe.png
+  [1f91b-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b-1f3fe.png
   [1f91b-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b-1f3fe.svg
   [1f91b-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b-1f3ff.png
-  [1f91b-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b-1f3ff.png
+  [1f91b-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b-1f3ff.png
   [1f91b-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b-1f3ff.svg
   [1f91b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91b.png
-  [1f91b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91b.png
+  [1f91b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91b.png
   [1f91b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91b.svg
   [1f91c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c-1f3fb.png
-  [1f91c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c-1f3fb.png
+  [1f91c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c-1f3fb.png
   [1f91c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c-1f3fb.svg
   [1f91c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c-1f3fc.png
-  [1f91c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c-1f3fc.png
+  [1f91c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c-1f3fc.png
   [1f91c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c-1f3fc.svg
   [1f91c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c-1f3fd.png
-  [1f91c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c-1f3fd.png
+  [1f91c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c-1f3fd.png
   [1f91c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c-1f3fd.svg
   [1f91c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c-1f3fe.png
-  [1f91c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c-1f3fe.png
+  [1f91c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c-1f3fe.png
   [1f91c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c-1f3fe.svg
   [1f91c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c-1f3ff.png
-  [1f91c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c-1f3ff.png
+  [1f91c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c-1f3ff.png
   [1f91c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c-1f3ff.svg
   [1f91c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91c.png
-  [1f91c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91c.png
+  [1f91c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91c.png
   [1f91c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91c.svg
   [1f91d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d-1f3fb.png
-  [1f91d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d-1f3fb.png
+  [1f91d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d-1f3fb.png
   [1f91d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d-1f3fb.svg
   [1f91d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d-1f3fc.png
-  [1f91d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d-1f3fc.png
+  [1f91d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d-1f3fc.png
   [1f91d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d-1f3fc.svg
   [1f91d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d-1f3fd.png
-  [1f91d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d-1f3fd.png
+  [1f91d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d-1f3fd.png
   [1f91d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d-1f3fd.svg
   [1f91d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d-1f3fe.png
-  [1f91d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d-1f3fe.png
+  [1f91d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d-1f3fe.png
   [1f91d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d-1f3fe.svg
   [1f91d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d-1f3ff.png
-  [1f91d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d-1f3ff.png
+  [1f91d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d-1f3ff.png
   [1f91d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d-1f3ff.svg
   [1f91d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91d.png
-  [1f91d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91d.png
+  [1f91d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91d.png
   [1f91d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91d.svg
   [1f91e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e-1f3fb.png
-  [1f91e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e-1f3fb.png
+  [1f91e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e-1f3fb.png
   [1f91e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e-1f3fb.svg
   [1f91e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e-1f3fc.png
-  [1f91e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e-1f3fc.png
+  [1f91e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e-1f3fc.png
   [1f91e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e-1f3fc.svg
   [1f91e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e-1f3fd.png
-  [1f91e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e-1f3fd.png
+  [1f91e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e-1f3fd.png
   [1f91e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e-1f3fd.svg
   [1f91e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e-1f3fe.png
-  [1f91e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e-1f3fe.png
+  [1f91e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e-1f3fe.png
   [1f91e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e-1f3fe.svg
   [1f91e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e-1f3ff.png
-  [1f91e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e-1f3ff.png
+  [1f91e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e-1f3ff.png
   [1f91e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e-1f3ff.svg
   [1f91e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f91e.png
-  [1f91e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f91e.png
+  [1f91e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f91e.png
   [1f91e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f91e.svg
   [1f920.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f920.png
-  [1f920.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f920.png
+  [1f920.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f920.png
   [1f920.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f920.svg
   [1f921.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f921.png
-  [1f921.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f921.png
+  [1f921.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f921.png
   [1f921.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f921.svg
   [1f922.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f922.png
-  [1f922.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f922.png
+  [1f922.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f922.png
   [1f922.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f922.svg
   [1f923.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f923.png
-  [1f923.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f923.png
+  [1f923.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f923.png
   [1f923.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f923.svg
   [1f924.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f924.png
-  [1f924.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f924.png
+  [1f924.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f924.png
   [1f924.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f924.svg
   [1f925.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f925.png
-  [1f925.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f925.png
+  [1f925.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f925.png
   [1f925.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f925.svg
   [1f926-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926-1f3fb.png
-  [1f926-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926-1f3fb.png
+  [1f926-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926-1f3fb.png
   [1f926-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926-1f3fb.svg
   [1f926-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926-1f3fc.png
-  [1f926-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926-1f3fc.png
+  [1f926-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926-1f3fc.png
   [1f926-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926-1f3fc.svg
   [1f926-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926-1f3fd.png
-  [1f926-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926-1f3fd.png
+  [1f926-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926-1f3fd.png
   [1f926-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926-1f3fd.svg
   [1f926-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926-1f3fe.png
-  [1f926-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926-1f3fe.png
+  [1f926-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926-1f3fe.png
   [1f926-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926-1f3fe.svg
   [1f926-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926-1f3ff.png
-  [1f926-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926-1f3ff.png
+  [1f926-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926-1f3ff.png
   [1f926-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926-1f3ff.svg
   [1f926.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f926.png
-  [1f926.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f926.png
+  [1f926.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f926.png
   [1f926.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f926.svg
   [1f927.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f927.png
-  [1f927.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f927.png
+  [1f927.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f927.png
   [1f927.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f927.svg
   [1f930-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930-1f3fb.png
-  [1f930-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930-1f3fb.png
+  [1f930-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930-1f3fb.png
   [1f930-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930-1f3fb.svg
   [1f930-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930-1f3fc.png
-  [1f930-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930-1f3fc.png
+  [1f930-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930-1f3fc.png
   [1f930-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930-1f3fc.svg
   [1f930-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930-1f3fd.png
-  [1f930-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930-1f3fd.png
+  [1f930-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930-1f3fd.png
   [1f930-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930-1f3fd.svg
   [1f930-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930-1f3fe.png
-  [1f930-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930-1f3fe.png
+  [1f930-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930-1f3fe.png
   [1f930-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930-1f3fe.svg
   [1f930-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930-1f3ff.png
-  [1f930-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930-1f3ff.png
+  [1f930-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930-1f3ff.png
   [1f930-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930-1f3ff.svg
   [1f930.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f930.png
-  [1f930.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f930.png
+  [1f930.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f930.png
   [1f930.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f930.svg
   [1f933-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933-1f3fb.png
-  [1f933-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933-1f3fb.png
+  [1f933-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933-1f3fb.png
   [1f933-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933-1f3fb.svg
   [1f933-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933-1f3fc.png
-  [1f933-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933-1f3fc.png
+  [1f933-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933-1f3fc.png
   [1f933-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933-1f3fc.svg
   [1f933-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933-1f3fd.png
-  [1f933-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933-1f3fd.png
+  [1f933-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933-1f3fd.png
   [1f933-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933-1f3fd.svg
   [1f933-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933-1f3fe.png
-  [1f933-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933-1f3fe.png
+  [1f933-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933-1f3fe.png
   [1f933-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933-1f3fe.svg
   [1f933-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933-1f3ff.png
-  [1f933-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933-1f3ff.png
+  [1f933-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933-1f3ff.png
   [1f933-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933-1f3ff.svg
   [1f933.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f933.png
-  [1f933.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f933.png
+  [1f933.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f933.png
   [1f933.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f933.svg
   [1f934-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934-1f3fb.png
-  [1f934-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934-1f3fb.png
+  [1f934-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934-1f3fb.png
   [1f934-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934-1f3fb.svg
   [1f934-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934-1f3fc.png
-  [1f934-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934-1f3fc.png
+  [1f934-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934-1f3fc.png
   [1f934-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934-1f3fc.svg
   [1f934-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934-1f3fd.png
-  [1f934-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934-1f3fd.png
+  [1f934-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934-1f3fd.png
   [1f934-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934-1f3fd.svg
   [1f934-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934-1f3fe.png
-  [1f934-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934-1f3fe.png
+  [1f934-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934-1f3fe.png
   [1f934-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934-1f3fe.svg
   [1f934-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934-1f3ff.png
-  [1f934-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934-1f3ff.png
+  [1f934-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934-1f3ff.png
   [1f934-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934-1f3ff.svg
   [1f934.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f934.png
-  [1f934.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f934.png
+  [1f934.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f934.png
   [1f934.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f934.svg
   [1f935-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935-1f3fb.png
-  [1f935-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935-1f3fb.png
+  [1f935-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935-1f3fb.png
   [1f935-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935-1f3fb.svg
   [1f935-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935-1f3fc.png
-  [1f935-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935-1f3fc.png
+  [1f935-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935-1f3fc.png
   [1f935-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935-1f3fc.svg
   [1f935-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935-1f3fd.png
-  [1f935-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935-1f3fd.png
+  [1f935-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935-1f3fd.png
   [1f935-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935-1f3fd.svg
   [1f935-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935-1f3fe.png
-  [1f935-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935-1f3fe.png
+  [1f935-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935-1f3fe.png
   [1f935-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935-1f3fe.svg
   [1f935-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935-1f3ff.png
-  [1f935-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935-1f3ff.png
+  [1f935-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935-1f3ff.png
   [1f935-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935-1f3ff.svg
   [1f935.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f935.png
-  [1f935.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f935.png
+  [1f935.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f935.png
   [1f935.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f935.svg
   [1f936-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936-1f3fb.png
-  [1f936-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936-1f3fb.png
+  [1f936-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936-1f3fb.png
   [1f936-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936-1f3fb.svg
   [1f936-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936-1f3fc.png
-  [1f936-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936-1f3fc.png
+  [1f936-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936-1f3fc.png
   [1f936-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936-1f3fc.svg
   [1f936-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936-1f3fd.png
-  [1f936-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936-1f3fd.png
+  [1f936-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936-1f3fd.png
   [1f936-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936-1f3fd.svg
   [1f936-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936-1f3fe.png
-  [1f936-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936-1f3fe.png
+  [1f936-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936-1f3fe.png
   [1f936-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936-1f3fe.svg
   [1f936-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936-1f3ff.png
-  [1f936-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936-1f3ff.png
+  [1f936-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936-1f3ff.png
   [1f936-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936-1f3ff.svg
   [1f936.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f936.png
-  [1f936.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f936.png
+  [1f936.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f936.png
   [1f936.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f936.svg
   [1f937-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937-1f3fb.png
-  [1f937-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937-1f3fb.png
+  [1f937-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937-1f3fb.png
   [1f937-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937-1f3fb.svg
   [1f937-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937-1f3fc.png
-  [1f937-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937-1f3fc.png
+  [1f937-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937-1f3fc.png
   [1f937-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937-1f3fc.svg
   [1f937-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937-1f3fd.png
-  [1f937-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937-1f3fd.png
+  [1f937-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937-1f3fd.png
   [1f937-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937-1f3fd.svg
   [1f937-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937-1f3fe.png
-  [1f937-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937-1f3fe.png
+  [1f937-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937-1f3fe.png
   [1f937-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937-1f3fe.svg
   [1f937-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937-1f3ff.png
-  [1f937-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937-1f3ff.png
+  [1f937-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937-1f3ff.png
   [1f937-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937-1f3ff.svg
   [1f937.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f937.png
-  [1f937.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f937.png
+  [1f937.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f937.png
   [1f937.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f937.svg
   [1f938-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938-1f3fb.png
-  [1f938-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938-1f3fb.png
+  [1f938-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938-1f3fb.png
   [1f938-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938-1f3fb.svg
   [1f938-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938-1f3fc.png
-  [1f938-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938-1f3fc.png
+  [1f938-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938-1f3fc.png
   [1f938-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938-1f3fc.svg
   [1f938-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938-1f3fd.png
-  [1f938-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938-1f3fd.png
+  [1f938-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938-1f3fd.png
   [1f938-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938-1f3fd.svg
   [1f938-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938-1f3fe.png
-  [1f938-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938-1f3fe.png
+  [1f938-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938-1f3fe.png
   [1f938-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938-1f3fe.svg
   [1f938-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938-1f3ff.png
-  [1f938-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938-1f3ff.png
+  [1f938-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938-1f3ff.png
   [1f938-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938-1f3ff.svg
   [1f938.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f938.png
-  [1f938.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f938.png
+  [1f938.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f938.png
   [1f938.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f938.svg
   [1f939-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939-1f3fb.png
-  [1f939-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939-1f3fb.png
+  [1f939-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939-1f3fb.png
   [1f939-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939-1f3fb.svg
   [1f939-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939-1f3fc.png
-  [1f939-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939-1f3fc.png
+  [1f939-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939-1f3fc.png
   [1f939-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939-1f3fc.svg
   [1f939-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939-1f3fd.png
-  [1f939-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939-1f3fd.png
+  [1f939-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939-1f3fd.png
   [1f939-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939-1f3fd.svg
   [1f939-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939-1f3fe.png
-  [1f939-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939-1f3fe.png
+  [1f939-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939-1f3fe.png
   [1f939-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939-1f3fe.svg
   [1f939-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939-1f3ff.png
-  [1f939-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939-1f3ff.png
+  [1f939-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939-1f3ff.png
   [1f939-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939-1f3ff.svg
   [1f939.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f939.png
-  [1f939.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f939.png
+  [1f939.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f939.png
   [1f939.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f939.svg
   [1f93a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93a.png
-  [1f93a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93a.png
+  [1f93a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93a.png
   [1f93a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93a.svg
   [1f93b-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b-1f3fb.png
-  [1f93b-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b-1f3fb.png
+  [1f93b-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b-1f3fb.png
   [1f93b-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b-1f3fb.svg
   [1f93b-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b-1f3fc.png
-  [1f93b-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b-1f3fc.png
+  [1f93b-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b-1f3fc.png
   [1f93b-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b-1f3fc.svg
   [1f93b-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b-1f3fd.png
-  [1f93b-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b-1f3fd.png
+  [1f93b-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b-1f3fd.png
   [1f93b-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b-1f3fd.svg
   [1f93b-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b-1f3fe.png
-  [1f93b-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b-1f3fe.png
+  [1f93b-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b-1f3fe.png
   [1f93b-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b-1f3fe.svg
   [1f93b-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b-1f3ff.png
-  [1f93b-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b-1f3ff.png
+  [1f93b-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b-1f3ff.png
   [1f93b-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b-1f3ff.svg
   [1f93b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93b.png
-  [1f93b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93b.png
+  [1f93b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93b.png
   [1f93b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93b.svg
   [1f93c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c-1f3fb.png
-  [1f93c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c-1f3fb.png
+  [1f93c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c-1f3fb.png
   [1f93c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c-1f3fb.svg
   [1f93c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c-1f3fc.png
-  [1f93c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c-1f3fc.png
+  [1f93c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c-1f3fc.png
   [1f93c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c-1f3fc.svg
   [1f93c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c-1f3fd.png
-  [1f93c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c-1f3fd.png
+  [1f93c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c-1f3fd.png
   [1f93c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c-1f3fd.svg
   [1f93c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c-1f3fe.png
-  [1f93c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c-1f3fe.png
+  [1f93c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c-1f3fe.png
   [1f93c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c-1f3fe.svg
   [1f93c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c-1f3ff.png
-  [1f93c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c-1f3ff.png
+  [1f93c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c-1f3ff.png
   [1f93c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c-1f3ff.svg
   [1f93c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93c.png
-  [1f93c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93c.png
+  [1f93c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93c.png
   [1f93c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93c.svg
   [1f93d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d-1f3fb.png
-  [1f93d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d-1f3fb.png
+  [1f93d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d-1f3fb.png
   [1f93d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d-1f3fb.svg
   [1f93d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d-1f3fc.png
-  [1f93d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d-1f3fc.png
+  [1f93d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d-1f3fc.png
   [1f93d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d-1f3fc.svg
   [1f93d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d-1f3fd.png
-  [1f93d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d-1f3fd.png
+  [1f93d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d-1f3fd.png
   [1f93d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d-1f3fd.svg
   [1f93d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d-1f3fe.png
-  [1f93d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d-1f3fe.png
+  [1f93d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d-1f3fe.png
   [1f93d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d-1f3fe.svg
   [1f93d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d-1f3ff.png
-  [1f93d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d-1f3ff.png
+  [1f93d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d-1f3ff.png
   [1f93d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d-1f3ff.svg
   [1f93d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93d.png
-  [1f93d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93d.png
+  [1f93d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93d.png
   [1f93d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93d.svg
   [1f93e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e-1f3fb.png
-  [1f93e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e-1f3fb.png
+  [1f93e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e-1f3fb.png
   [1f93e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e-1f3fb.svg
   [1f93e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e-1f3fc.png
-  [1f93e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e-1f3fc.png
+  [1f93e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e-1f3fc.png
   [1f93e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e-1f3fc.svg
   [1f93e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e-1f3fd.png
-  [1f93e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e-1f3fd.png
+  [1f93e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e-1f3fd.png
   [1f93e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e-1f3fd.svg
   [1f93e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e-1f3fe.png
-  [1f93e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e-1f3fe.png
+  [1f93e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e-1f3fe.png
   [1f93e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e-1f3fe.svg
   [1f93e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e-1f3ff.png
-  [1f93e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e-1f3ff.png
+  [1f93e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e-1f3ff.png
   [1f93e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e-1f3ff.svg
   [1f93e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f93e.png
-  [1f93e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f93e.png
+  [1f93e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f93e.png
   [1f93e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f93e.svg
   [1f940.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f940.png
-  [1f940.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f940.png
+  [1f940.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f940.png
   [1f940.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f940.svg
   [1f941.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f941.png
-  [1f941.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f941.png
+  [1f941.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f941.png
   [1f941.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f941.svg
   [1f942.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f942.png
-  [1f942.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f942.png
+  [1f942.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f942.png
   [1f942.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f942.svg
   [1f943.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f943.png
-  [1f943.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f943.png
+  [1f943.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f943.png
   [1f943.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f943.svg
   [1f944.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f944.png
-  [1f944.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f944.png
+  [1f944.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f944.png
   [1f944.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f944.svg
   [1f945.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f945.png
-  [1f945.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f945.png
+  [1f945.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f945.png
   [1f945.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f945.svg
   [1f946.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f946.png
-  [1f946.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f946.png
+  [1f946.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f946.png
   [1f946.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f946.svg
   [1f947.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f947.png
-  [1f947.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f947.png
+  [1f947.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f947.png
   [1f947.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f947.svg
   [1f948.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f948.png
-  [1f948.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f948.png
+  [1f948.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f948.png
   [1f948.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f948.svg
   [1f949.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f949.png
-  [1f949.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f949.png
+  [1f949.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f949.png
   [1f949.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f949.svg
   [1f94a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f94a.png
-  [1f94a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f94a.png
+  [1f94a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f94a.png
   [1f94a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f94a.svg
   [1f94b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f94b.png
-  [1f94b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f94b.png
+  [1f94b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f94b.png
   [1f94b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f94b.svg
   [1f950.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f950.png
-  [1f950.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f950.png
+  [1f950.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f950.png
   [1f950.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f950.svg
   [1f951.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f951.png
-  [1f951.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f951.png
+  [1f951.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f951.png
   [1f951.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f951.svg
   [1f952.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f952.png
-  [1f952.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f952.png
+  [1f952.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f952.png
   [1f952.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f952.svg
   [1f953.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f953.png
-  [1f953.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f953.png
+  [1f953.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f953.png
   [1f953.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f953.svg
   [1f954.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f954.png
-  [1f954.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f954.png
+  [1f954.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f954.png
   [1f954.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f954.svg
   [1f955.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f955.png
-  [1f955.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f955.png
+  [1f955.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f955.png
   [1f955.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f955.svg
   [1f956.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f956.png
-  [1f956.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f956.png
+  [1f956.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f956.png
   [1f956.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f956.svg
   [1f957.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f957.png
-  [1f957.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f957.png
+  [1f957.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f957.png
   [1f957.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f957.svg
   [1f958.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f958.png
-  [1f958.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f958.png
+  [1f958.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f958.png
   [1f958.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f958.svg
   [1f959.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f959.png
-  [1f959.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f959.png
+  [1f959.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f959.png
   [1f959.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f959.svg
   [1f95a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f95a.png
-  [1f95a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f95a.png
+  [1f95a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f95a.png
   [1f95a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f95a.svg
   [1f95b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f95b.png
-  [1f95b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f95b.png
+  [1f95b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f95b.png
   [1f95b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f95b.svg
   [1f95c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f95c.png
-  [1f95c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f95c.png
+  [1f95c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f95c.png
   [1f95c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f95c.svg
   [1f95d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f95d.png
-  [1f95d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f95d.png
+  [1f95d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f95d.png
   [1f95d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f95d.svg
   [1f95e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f95e.png
-  [1f95e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f95e.png
+  [1f95e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f95e.png
   [1f95e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f95e.svg
   [1f980.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f980.png
-  [1f980.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f980.png
+  [1f980.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f980.png
   [1f980.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f980.svg
   [1f981.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f981.png
-  [1f981.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f981.png
+  [1f981.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f981.png
   [1f981.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f981.svg
   [1f982.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f982.png
-  [1f982.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f982.png
+  [1f982.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f982.png
   [1f982.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f982.svg
   [1f983.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f983.png
-  [1f983.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f983.png
+  [1f983.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f983.png
   [1f983.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f983.svg
   [1f984.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f984.png
-  [1f984.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f984.png
+  [1f984.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f984.png
   [1f984.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f984.svg
   [1f985.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f985.png
-  [1f985.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f985.png
+  [1f985.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f985.png
   [1f985.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f985.svg
   [1f986-2640.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f986-2640.png
-  [1f986-2640.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f986-2640.png
+  [1f986-2640.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f986-2640.png
   [1f986-2640.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f986-2640.svg
   [1f986-2642.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f986-2642.png
-  [1f986-2642.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f986-2642.png
+  [1f986-2642.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f986-2642.png
   [1f986-2642.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f986-2642.svg
   [1f986.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f986.png
-  [1f986.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f986.png
+  [1f986.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f986.png
   [1f986.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f986.svg
   [1f987.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f987.png
-  [1f987.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f987.png
+  [1f987.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f987.png
   [1f987.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f987.svg
   [1f988.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f988.png
-  [1f988.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f988.png
+  [1f988.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f988.png
   [1f988.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f988.svg
   [1f989.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f989.png
-  [1f989.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f989.png
+  [1f989.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f989.png
   [1f989.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f989.svg
   [1f98a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98a.png
-  [1f98a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98a.png
+  [1f98a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98a.png
   [1f98a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98a.svg
   [1f98b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98b.png
-  [1f98b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98b.png
+  [1f98b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98b.png
   [1f98b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98b.svg
   [1f98c-1f6a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98c-1f6a8.png
-  [1f98c-1f6a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98c-1f6a8.png
+  [1f98c-1f6a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98c-1f6a8.png
   [1f98c-1f6a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98c-1f6a8.svg
   [1f98c-2640.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98c-2640.png
-  [1f98c-2640.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98c-2640.png
+  [1f98c-2640.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98c-2640.png
   [1f98c-2640.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98c-2640.svg
   [1f98c-2642.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98c-2642.png
-  [1f98c-2642.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98c-2642.png
+  [1f98c-2642.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98c-2642.png
   [1f98c-2642.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98c-2642.svg
   [1f98c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98c.png
-  [1f98c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98c.png
+  [1f98c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98c.png
   [1f98c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98c.svg
   [1f98d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98d.png
-  [1f98d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98d.png
+  [1f98d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98d.png
   [1f98d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98d.svg
   [1f98e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98e.png
-  [1f98e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98e.png
+  [1f98e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98e.png
   [1f98e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98e.svg
   [1f98f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f98f.png
-  [1f98f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f98f.png
+  [1f98f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f98f.png
   [1f98f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f98f.svg
   [1f990.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f990.png
-  [1f990.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f990.png
+  [1f990.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f990.png
   [1f990.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f990.svg
   [1f991.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f991.png
-  [1f991.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f991.png
+  [1f991.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f991.png
   [1f991.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f991.svg
   [1f9c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/1f9c0.png
-  [1f9c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f9c0.png
+  [1f9c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f9c0.png
   [1f9c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f9c0.svg
   [203c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/203c.png
-  [203c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/203c.png
+  [203c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/203c.png
   [203c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/203c.svg
   [2049.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2049.png
-  [2049.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2049.png
+  [2049.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2049.png
   [2049.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2049.svg
   [2122.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2122.png
-  [2122.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2122.png
+  [2122.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2122.png
   [2122.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2122.svg
   [2139.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2139.png
-  [2139.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2139.png
+  [2139.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2139.png
   [2139.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2139.svg
   [2194.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2194.png
-  [2194.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2194.png
+  [2194.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2194.png
   [2194.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2194.svg
   [2195.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2195.png
-  [2195.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2195.png
+  [2195.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2195.png
   [2195.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2195.svg
   [2196.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2196.png
-  [2196.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2196.png
+  [2196.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2196.png
   [2196.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2196.svg
   [2197.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2197.png
-  [2197.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2197.png
+  [2197.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2197.png
   [2197.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2197.svg
   [2198.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2198.png
-  [2198.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2198.png
+  [2198.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2198.png
   [2198.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2198.svg
   [2199.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2199.png
-  [2199.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2199.png
+  [2199.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2199.png
   [2199.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2199.svg
   [21a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/21a9.png
-  [21a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/21a9.png
+  [21a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/21a9.png
   [21a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/21a9.svg
   [21aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/21aa.png
-  [21aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/21aa.png
+  [21aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/21aa.png
   [21aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/21aa.svg
   [231a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/231a.png
-  [231a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/231a.png
+  [231a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/231a.png
   [231a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/231a.svg
   [231b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/231b.png
-  [231b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/231b.png
+  [231b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/231b.png
   [231b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/231b.svg
   [2328.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2328.png
-  [2328.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2328.png
+  [2328.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2328.png
   [2328.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2328.svg
   [23cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23cf.png
-  [23cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23cf.png
+  [23cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23cf.png
   [23cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23cf.svg
   [23e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23e9.png
-  [23e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23e9.png
+  [23e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23e9.png
   [23e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23e9.svg
   [23ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23ea.png
-  [23ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23ea.png
+  [23ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23ea.png
   [23ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23ea.svg
   [23eb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23eb.png
-  [23eb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23eb.png
+  [23eb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23eb.png
   [23eb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23eb.svg
   [23ec.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23ec.png
-  [23ec.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23ec.png
+  [23ec.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23ec.png
   [23ec.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23ec.svg
   [23ed.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23ed.png
-  [23ed.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23ed.png
+  [23ed.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23ed.png
   [23ed.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23ed.svg
   [23ee.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23ee.png
-  [23ee.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23ee.png
+  [23ee.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23ee.png
   [23ee.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23ee.svg
   [23ef.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23ef.png
-  [23ef.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23ef.png
+  [23ef.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23ef.png
   [23ef.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23ef.svg
   [23f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f0.png
-  [23f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f0.png
+  [23f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f0.png
   [23f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f0.svg
   [23f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f1.png
-  [23f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f1.png
+  [23f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f1.png
   [23f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f1.svg
   [23f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f2.png
-  [23f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f2.png
+  [23f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f2.png
   [23f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f2.svg
   [23f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f3.png
-  [23f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f3.png
+  [23f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f3.png
   [23f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f3.svg
   [23f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f8.png
-  [23f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f8.png
+  [23f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f8.png
   [23f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f8.svg
   [23f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23f9.png
-  [23f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23f9.png
+  [23f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23f9.png
   [23f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23f9.svg
   [23fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/23fa.png
-  [23fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/23fa.png
+  [23fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/23fa.png
   [23fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/23fa.svg
   [24c2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/24c2.png
-  [24c2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/24c2.png
+  [24c2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/24c2.png
   [24c2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/24c2.svg
   [25a0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a0.png
-  [25a0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a0.png
+  [25a0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a0.png
   [25a0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a0.svg
   [25a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a1.png
-  [25a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a1.png
+  [25a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a1.png
   [25a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a1.svg
   [25a4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a4.png
-  [25a4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a4.png
+  [25a4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a4.png
   [25a4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a4.svg
   [25a5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a5.png
-  [25a5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a5.png
+  [25a5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a5.png
   [25a5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a5.svg
   [25a6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a6.png
-  [25a6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a6.png
+  [25a6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a6.png
   [25a6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a6.svg
   [25a7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a7.png
-  [25a7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a7.png
+  [25a7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a7.png
   [25a7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a7.svg
   [25a8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a8.png
-  [25a8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a8.png
+  [25a8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a8.png
   [25a8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a8.svg
   [25a9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25a9.png
-  [25a9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25a9.png
+  [25a9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25a9.png
   [25a9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25a9.svg
   [25aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25aa.png
-  [25aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25aa.png
+  [25aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25aa.png
   [25aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25aa.svg
   [25ab.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25ab.png
-  [25ab.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25ab.png
+  [25ab.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25ab.png
   [25ab.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25ab.svg
   [25b6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25b6.png
-  [25b6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25b6.png
+  [25b6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25b6.png
   [25b6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25b6.svg
   [25c0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25c0.png
-  [25c0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25c0.png
+  [25c0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25c0.png
   [25c0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25c0.svg
   [25fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25fb.png
-  [25fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25fb.png
+  [25fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25fb.png
   [25fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25fb.svg
   [25fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25fc.png
-  [25fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25fc.png
+  [25fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25fc.png
   [25fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25fc.svg
   [25fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25fd.png
-  [25fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25fd.png
+  [25fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25fd.png
   [25fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25fd.svg
   [25fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/25fe.png
-  [25fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/25fe.png
+  [25fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/25fe.png
   [25fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/25fe.svg
   [2600.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2600.png
-  [2600.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2600.png
+  [2600.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2600.png
   [2600.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2600.svg
   [2601.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2601.png
-  [2601.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2601.png
+  [2601.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2601.png
   [2601.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2601.svg
   [2602.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2602.png
-  [2602.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2602.png
+  [2602.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2602.png
   [2602.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2602.svg
   [2603.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2603.png
-  [2603.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2603.png
+  [2603.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2603.png
   [2603.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2603.svg
   [2604.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2604.png
-  [2604.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2604.png
+  [2604.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2604.png
   [2604.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2604.svg
   [2605.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2605.png
-  [2605.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2605.png
+  [2605.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2605.png
   [2605.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2605.svg
   [2607.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2607.png
-  [2607.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2607.png
+  [2607.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2607.png
   [2607.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2607.svg
   [2608.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2608.png
-  [2608.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2608.png
+  [2608.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2608.png
   [2608.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2608.svg
   [2609.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2609.png
-  [2609.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2609.png
+  [2609.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2609.png
   [2609.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2609.svg
   [260e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/260e.png
-  [260e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/260e.png
+  [260e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/260e.png
   [260e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/260e.svg
   [260f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/260f.png
-  [260f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/260f.png
+  [260f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/260f.png
   [260f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/260f.svg
   [2610.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2610.png
-  [2610.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2610.png
+  [2610.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2610.png
   [2610.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2610.svg
   [2611.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2611.png
-  [2611.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2611.png
+  [2611.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2611.png
   [2611.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2611.svg
   [2612.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2612.png
-  [2612.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2612.png
+  [2612.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2612.png
   [2612.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2612.svg
   [2614.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2614.png
-  [2614.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2614.png
+  [2614.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2614.png
   [2614.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2614.svg
   [2615.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2615.png
-  [2615.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2615.png
+  [2615.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2615.png
   [2615.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2615.svg
   [2616.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2616.png
-  [2616.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2616.png
+  [2616.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2616.png
   [2616.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2616.svg
   [2617.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2617.png
-  [2617.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2617.png
+  [2617.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2617.png
   [2617.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2617.svg
   [2618.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2618.png
-  [2618.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2618.png
+  [2618.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2618.png
   [2618.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2618.svg
   [261c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c-1f3fb.png
-  [261c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c-1f3fb.png
+  [261c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c-1f3fb.png
   [261c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c-1f3fb.svg
   [261c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c-1f3fc.png
-  [261c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c-1f3fc.png
+  [261c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c-1f3fc.png
   [261c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c-1f3fc.svg
   [261c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c-1f3fd.png
-  [261c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c-1f3fd.png
+  [261c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c-1f3fd.png
   [261c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c-1f3fd.svg
   [261c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c-1f3fe.png
-  [261c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c-1f3fe.png
+  [261c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c-1f3fe.png
   [261c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c-1f3fe.svg
   [261c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c-1f3ff.png
-  [261c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c-1f3ff.png
+  [261c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c-1f3ff.png
   [261c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c-1f3ff.svg
   [261c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261c.png
-  [261c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261c.png
+  [261c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261c.png
   [261c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261c.svg
   [261d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d-1f3fb.png
-  [261d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d-1f3fb.png
+  [261d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d-1f3fb.png
   [261d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d-1f3fb.svg
   [261d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d-1f3fc.png
-  [261d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d-1f3fc.png
+  [261d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d-1f3fc.png
   [261d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d-1f3fc.svg
   [261d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d-1f3fd.png
-  [261d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d-1f3fd.png
+  [261d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d-1f3fd.png
   [261d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d-1f3fd.svg
   [261d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d-1f3fe.png
-  [261d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d-1f3fe.png
+  [261d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d-1f3fe.png
   [261d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d-1f3fe.svg
   [261d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d-1f3ff.png
-  [261d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d-1f3ff.png
+  [261d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d-1f3ff.png
   [261d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d-1f3ff.svg
   [261d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261d.png
-  [261d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261d.png
+  [261d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261d.png
   [261d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261d.svg
   [261e-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e-1f3fb.png
-  [261e-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e-1f3fb.png
+  [261e-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e-1f3fb.png
   [261e-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e-1f3fb.svg
   [261e-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e-1f3fc.png
-  [261e-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e-1f3fc.png
+  [261e-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e-1f3fc.png
   [261e-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e-1f3fc.svg
   [261e-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e-1f3fd.png
-  [261e-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e-1f3fd.png
+  [261e-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e-1f3fd.png
   [261e-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e-1f3fd.svg
   [261e-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e-1f3fe.png
-  [261e-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e-1f3fe.png
+  [261e-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e-1f3fe.png
   [261e-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e-1f3fe.svg
   [261e-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e-1f3ff.png
-  [261e-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e-1f3ff.png
+  [261e-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e-1f3ff.png
   [261e-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e-1f3ff.svg
   [261e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261e.png
-  [261e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261e.png
+  [261e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261e.png
   [261e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261e.svg
   [261f-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f-1f3fb.png
-  [261f-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f-1f3fb.png
+  [261f-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f-1f3fb.png
   [261f-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f-1f3fb.svg
   [261f-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f-1f3fc.png
-  [261f-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f-1f3fc.png
+  [261f-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f-1f3fc.png
   [261f-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f-1f3fc.svg
   [261f-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f-1f3fd.png
-  [261f-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f-1f3fd.png
+  [261f-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f-1f3fd.png
   [261f-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f-1f3fd.svg
   [261f-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f-1f3fe.png
-  [261f-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f-1f3fe.png
+  [261f-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f-1f3fe.png
   [261f-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f-1f3fe.svg
   [261f-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f-1f3ff.png
-  [261f-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f-1f3ff.png
+  [261f-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f-1f3ff.png
   [261f-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f-1f3ff.svg
   [261f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/261f.png
-  [261f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/261f.png
+  [261f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/261f.png
   [261f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/261f.svg
   [2620.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2620.png
-  [2620.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2620.png
+  [2620.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2620.png
   [2620.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2620.svg
   [2621.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2621.png
-  [2621.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2621.png
+  [2621.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2621.png
   [2621.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2621.svg
   [2622.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2622.png
-  [2622.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2622.png
+  [2622.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2622.png
   [2622.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2622.svg
   [2623.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2623.png
-  [2623.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2623.png
+  [2623.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2623.png
   [2623.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2623.svg
   [2624.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2624.png
-  [2624.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2624.png
+  [2624.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2624.png
   [2624.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2624.svg
   [2626.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2626.png
-  [2626.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2626.png
+  [2626.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2626.png
   [2626.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2626.svg
   [2627.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2627.png
-  [2627.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2627.png
+  [2627.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2627.png
   [2627.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2627.svg
   [2628.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2628.png
-  [2628.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2628.png
+  [2628.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2628.png
   [2628.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2628.svg
   [2629.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2629.png
-  [2629.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2629.png
+  [2629.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2629.png
   [2629.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2629.svg
   [262a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/262a.png
-  [262a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/262a.png
+  [262a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/262a.png
   [262a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/262a.svg
   [262d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/262d.png
-  [262d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/262d.png
+  [262d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/262d.png
   [262d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/262d.svg
   [262e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/262e.png
-  [262e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/262e.png
+  [262e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/262e.png
   [262e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/262e.svg
   [262f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/262f.png
-  [262f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/262f.png
+  [262f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/262f.png
   [262f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/262f.svg
   [2630.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2630.png
-  [2630.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2630.png
+  [2630.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2630.png
   [2630.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2630.svg
   [2631.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2631.png
-  [2631.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2631.png
+  [2631.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2631.png
   [2631.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2631.svg
   [2632.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2632.png
-  [2632.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2632.png
+  [2632.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2632.png
   [2632.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2632.svg
   [2633.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2633.png
-  [2633.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2633.png
+  [2633.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2633.png
   [2633.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2633.svg
   [2634.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2634.png
-  [2634.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2634.png
+  [2634.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2634.png
   [2634.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2634.svg
   [2635.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2635.png
-  [2635.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2635.png
+  [2635.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2635.png
   [2635.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2635.svg
   [2636.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2636.png
-  [2636.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2636.png
+  [2636.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2636.png
   [2636.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2636.svg
   [2637.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2637.png
-  [2637.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2637.png
+  [2637.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2637.png
   [2637.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2637.svg
   [2638.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2638.png
-  [2638.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2638.png
+  [2638.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2638.png
   [2638.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2638.svg
   [2639.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2639.png
-  [2639.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2639.png
+  [2639.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2639.png
   [2639.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2639.svg
   [263a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/263a.png
-  [263a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/263a.png
+  [263a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/263a.png
   [263a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/263a.svg
   [263b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/263b.png
-  [263b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/263b.png
+  [263b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/263b.png
   [263b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/263b.svg
   [2648.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2648.png
-  [2648.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2648.png
+  [2648.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2648.png
   [2648.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2648.svg
   [2649.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2649.png
-  [2649.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2649.png
+  [2649.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2649.png
   [2649.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2649.svg
   [264a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264a.png
-  [264a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264a.png
+  [264a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264a.png
   [264a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264a.svg
   [264b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264b.png
-  [264b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264b.png
+  [264b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264b.png
   [264b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264b.svg
   [264c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264c.png
-  [264c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264c.png
+  [264c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264c.png
   [264c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264c.svg
   [264d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264d.png
-  [264d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264d.png
+  [264d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264d.png
   [264d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264d.svg
   [264e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264e.png
-  [264e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264e.png
+  [264e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264e.png
   [264e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264e.svg
   [264f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/264f.png
-  [264f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/264f.png
+  [264f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/264f.png
   [264f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/264f.svg
   [2650.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2650.png
-  [2650.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2650.png
+  [2650.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2650.png
   [2650.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2650.svg
   [2651.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2651.png
-  [2651.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2651.png
+  [2651.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2651.png
   [2651.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2651.svg
   [2652.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2652.png
-  [2652.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2652.png
+  [2652.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2652.png
   [2652.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2652.svg
   [2653.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2653.png
-  [2653.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2653.png
+  [2653.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2653.png
   [2653.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2653.svg
   [2660.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2660.png
-  [2660.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2660.png
+  [2660.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2660.png
   [2660.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2660.svg
   [2661.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2661.png
-  [2661.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2661.png
+  [2661.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2661.png
   [2661.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2661.svg
   [2662.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2662.png
-  [2662.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2662.png
+  [2662.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2662.png
   [2662.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2662.svg
   [2663.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2663.png
-  [2663.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2663.png
+  [2663.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2663.png
   [2663.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2663.svg
   [2664.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2664.png
-  [2664.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2664.png
+  [2664.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2664.png
   [2664.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2664.svg
   [2665.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2665.png
-  [2665.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2665.png
+  [2665.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2665.png
   [2665.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2665.svg
   [2666.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2666.png
-  [2666.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2666.png
+  [2666.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2666.png
   [2666.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2666.svg
   [2667.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2667.png
-  [2667.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2667.png
+  [2667.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2667.png
   [2667.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2667.svg
   [2668.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2668.png
-  [2668.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2668.png
+  [2668.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2668.png
   [2668.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2668.svg
   [2670.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2670.png
-  [2670.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2670.png
+  [2670.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2670.png
   [2670.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2670.svg
   [2671.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2671.png
-  [2671.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2671.png
+  [2671.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2671.png
   [2671.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2671.svg
   [2672.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2672.png
-  [2672.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2672.png
+  [2672.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2672.png
   [2672.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2672.svg
   [267b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/267b.png
-  [267b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/267b.png
+  [267b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/267b.png
   [267b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/267b.svg
   [267c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/267c.png
-  [267c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/267c.png
+  [267c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/267c.png
   [267c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/267c.svg
   [267d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/267d.png
-  [267d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/267d.png
+  [267d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/267d.png
   [267d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/267d.svg
   [267f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/267f.png
-  [267f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/267f.png
+  [267f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/267f.png
   [267f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/267f.svg
   [2680.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2680.png
-  [2680.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2680.png
+  [2680.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2680.png
   [2680.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2680.svg
   [2681.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2681.png
-  [2681.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2681.png
+  [2681.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2681.png
   [2681.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2681.svg
   [2682.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2682.png
-  [2682.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2682.png
+  [2682.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2682.png
   [2682.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2682.svg
   [2683.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2683.png
-  [2683.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2683.png
+  [2683.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2683.png
   [2683.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2683.svg
   [2684.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2684.png
-  [2684.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2684.png
+  [2684.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2684.png
   [2684.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2684.svg
   [2685.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2685.png
-  [2685.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2685.png
+  [2685.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2685.png
   [2685.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2685.svg
   [2686.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2686.png
-  [2686.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2686.png
+  [2686.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2686.png
   [2686.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2686.svg
   [2687.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2687.png
-  [2687.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2687.png
+  [2687.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2687.png
   [2687.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2687.svg
   [2688.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2688.png
-  [2688.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2688.png
+  [2688.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2688.png
   [2688.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2688.svg
   [2689.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2689.png
-  [2689.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2689.png
+  [2689.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2689.png
   [2689.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2689.svg
   [268a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268a.png
-  [268a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268a.png
+  [268a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268a.png
   [268a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268a.svg
   [268b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268b.png
-  [268b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268b.png
+  [268b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268b.png
   [268b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268b.svg
   [268c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268c.png
-  [268c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268c.png
+  [268c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268c.png
   [268c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268c.svg
   [268d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268d.png
-  [268d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268d.png
+  [268d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268d.png
   [268d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268d.svg
   [268e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268e.png
-  [268e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268e.png
+  [268e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268e.png
   [268e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268e.svg
   [268f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/268f.png
-  [268f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/268f.png
+  [268f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/268f.png
   [268f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/268f.svg
   [2690.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2690.png
-  [2690.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2690.png
+  [2690.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2690.png
   [2690.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2690.svg
   [2691.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2691.png
-  [2691.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2691.png
+  [2691.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2691.png
   [2691.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2691.svg
   [2692.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2692.png
-  [2692.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2692.png
+  [2692.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2692.png
   [2692.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2692.svg
   [2693.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2693.png
-  [2693.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2693.png
+  [2693.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2693.png
   [2693.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2693.svg
   [2694.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2694.png
-  [2694.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2694.png
+  [2694.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2694.png
   [2694.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2694.svg
   [2695.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2695.png
-  [2695.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2695.png
+  [2695.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2695.png
   [2695.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2695.svg
   [2696.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2696.png
-  [2696.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2696.png
+  [2696.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2696.png
   [2696.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2696.svg
   [2697.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2697.png
-  [2697.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2697.png
+  [2697.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2697.png
   [2697.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2697.svg
   [2698.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2698.png
-  [2698.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2698.png
+  [2698.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2698.png
   [2698.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2698.svg
   [2699.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2699.png
-  [2699.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2699.png
+  [2699.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2699.png
   [2699.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2699.svg
   [269a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/269a.png
-  [269a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/269a.png
+  [269a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/269a.png
   [269a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/269a.svg
   [269b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/269b.png
-  [269b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/269b.png
+  [269b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/269b.png
   [269b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/269b.svg
   [269c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/269c.png
-  [269c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/269c.png
+  [269c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/269c.png
   [269c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/269c.svg
   [26a0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26a0.png
-  [26a0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26a0.png
+  [26a0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26a0.png
   [26a0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26a0.svg
   [26a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26a1.png
-  [26a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26a1.png
+  [26a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26a1.png
   [26a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26a1.svg
   [26aa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26aa.png
-  [26aa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26aa.png
+  [26aa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26aa.png
   [26aa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26aa.svg
   [26ab.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26ab.png
-  [26ab.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26ab.png
+  [26ab.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26ab.png
   [26ab.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26ab.svg
   [26b0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26b0.png
-  [26b0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26b0.png
+  [26b0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26b0.png
   [26b0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26b0.svg
   [26b1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26b1.png
-  [26b1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26b1.png
+  [26b1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26b1.png
   [26b1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26b1.svg
   [26bd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26bd.png
-  [26bd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26bd.png
+  [26bd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26bd.png
   [26bd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26bd.svg
   [26be.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26be.png
-  [26be.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26be.png
+  [26be.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26be.png
   [26be.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26be.svg
   [26c4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c4.png
-  [26c4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c4.png
+  [26c4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c4.png
   [26c4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c4.svg
   [26c5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c5.png
-  [26c5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c5.png
+  [26c5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c5.png
   [26c5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c5.svg
   [26c6.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c6.png
-  [26c6.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c6.png
+  [26c6.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c6.png
   [26c6.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c6.svg
   [26c7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c7.png
-  [26c7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c7.png
+  [26c7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c7.png
   [26c7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c7.svg
   [26c8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c8.png
-  [26c8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c8.png
+  [26c8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c8.png
   [26c8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c8.svg
   [26c9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26c9.png
-  [26c9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26c9.png
+  [26c9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26c9.png
   [26c9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26c9.svg
   [26ca.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26ca.png
-  [26ca.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26ca.png
+  [26ca.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26ca.png
   [26ca.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26ca.svg
   [26cb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26cb.png
-  [26cb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26cb.png
+  [26cb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26cb.png
   [26cb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26cb.svg
   [26ce.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26ce.png
-  [26ce.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26ce.png
+  [26ce.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26ce.png
   [26ce.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26ce.svg
   [26cf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26cf.png
-  [26cf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26cf.png
+  [26cf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26cf.png
   [26cf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26cf.svg
   [26d1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26d1.png
-  [26d1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26d1.png
+  [26d1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26d1.png
   [26d1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26d1.svg
   [26d3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26d3.png
-  [26d3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26d3.png
+  [26d3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26d3.png
   [26d3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26d3.svg
   [26d4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26d4.png
-  [26d4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26d4.png
+  [26d4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26d4.png
   [26d4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26d4.svg
   [26db.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26db.png
-  [26db.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26db.png
+  [26db.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26db.png
   [26db.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26db.svg
   [26dd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26dd.png
-  [26dd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26dd.png
+  [26dd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26dd.png
   [26dd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26dd.svg
   [26de.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26de.png
-  [26de.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26de.png
+  [26de.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26de.png
   [26de.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26de.svg
   [26e4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26e4.png
-  [26e4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26e4.png
+  [26e4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26e4.png
   [26e4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26e4.svg
   [26e7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26e7.png
-  [26e7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26e7.png
+  [26e7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26e7.png
   [26e7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26e7.svg
   [26e9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26e9.png
-  [26e9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26e9.png
+  [26e9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26e9.png
   [26e9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26e9.svg
   [26ea.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26ea.png
-  [26ea.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26ea.png
+  [26ea.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26ea.png
   [26ea.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26ea.svg
   [26f0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f0.png
-  [26f0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f0.png
+  [26f0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f0.png
   [26f0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f0.svg
   [26f1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f1.png
-  [26f1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f1.png
+  [26f1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f1.png
   [26f1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f1.svg
   [26f2.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f2.png
-  [26f2.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f2.png
+  [26f2.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f2.png
   [26f2.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f2.svg
   [26f3.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f3.png
-  [26f3.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f3.png
+  [26f3.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f3.png
   [26f3.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f3.svg
   [26f4.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f4.png
-  [26f4.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f4.png
+  [26f4.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f4.png
   [26f4.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f4.svg
   [26f5.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f5.png
-  [26f5.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f5.png
+  [26f5.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f5.png
   [26f5.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f5.svg
   [26f7.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f7.png
-  [26f7.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f7.png
+  [26f7.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f7.png
   [26f7.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f7.svg
   [26f8.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f8.png
-  [26f8.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f8.png
+  [26f8.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f8.png
   [26f8.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f8.svg
   [26f9-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9-1f3fb.png
-  [26f9-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9-1f3fb.png
+  [26f9-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9-1f3fb.png
   [26f9-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9-1f3fb.svg
   [26f9-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9-1f3fc.png
-  [26f9-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9-1f3fc.png
+  [26f9-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9-1f3fc.png
   [26f9-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9-1f3fc.svg
   [26f9-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9-1f3fd.png
-  [26f9-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9-1f3fd.png
+  [26f9-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9-1f3fd.png
   [26f9-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9-1f3fd.svg
   [26f9-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9-1f3fe.png
-  [26f9-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9-1f3fe.png
+  [26f9-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9-1f3fe.png
   [26f9-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9-1f3fe.svg
   [26f9-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9-1f3ff.png
-  [26f9-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9-1f3ff.png
+  [26f9-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9-1f3ff.png
   [26f9-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9-1f3ff.svg
   [26f9.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26f9.png
-  [26f9.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26f9.png
+  [26f9.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26f9.png
   [26f9.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26f9.svg
   [26fa.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26fa.png
-  [26fa.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26fa.png
+  [26fa.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26fa.png
   [26fa.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26fa.svg
   [26fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26fd.png
-  [26fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26fd.png
+  [26fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26fd.png
   [26fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26fd.svg
   [26fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/26fe.png
-  [26fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/26fe.png
+  [26fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/26fe.png
   [26fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/26fe.svg
   [2702.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2702.png
-  [2702.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2702.png
+  [2702.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2702.png
   [2702.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2702.svg
   [2705.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2705.png
-  [2705.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2705.png
+  [2705.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2705.png
   [2705.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2705.svg
   [2708.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2708.png
-  [2708.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2708.png
+  [2708.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2708.png
   [2708.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2708.svg
   [2709.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2709.png
-  [2709.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2709.png
+  [2709.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2709.png
   [2709.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2709.svg
   [270a-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a-1f3fb.png
-  [270a-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a-1f3fb.png
+  [270a-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a-1f3fb.png
   [270a-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a-1f3fb.svg
   [270a-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a-1f3fc.png
-  [270a-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a-1f3fc.png
+  [270a-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a-1f3fc.png
   [270a-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a-1f3fc.svg
   [270a-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a-1f3fd.png
-  [270a-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a-1f3fd.png
+  [270a-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a-1f3fd.png
   [270a-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a-1f3fd.svg
   [270a-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a-1f3fe.png
-  [270a-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a-1f3fe.png
+  [270a-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a-1f3fe.png
   [270a-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a-1f3fe.svg
   [270a-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a-1f3ff.png
-  [270a-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a-1f3ff.png
+  [270a-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a-1f3ff.png
   [270a-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a-1f3ff.svg
   [270a.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270a.png
-  [270a.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270a.png
+  [270a.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270a.png
   [270a.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270a.svg
   [270b-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b-1f3fb.png
-  [270b-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b-1f3fb.png
+  [270b-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b-1f3fb.png
   [270b-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b-1f3fb.svg
   [270b-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b-1f3fc.png
-  [270b-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b-1f3fc.png
+  [270b-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b-1f3fc.png
   [270b-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b-1f3fc.svg
   [270b-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b-1f3fd.png
-  [270b-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b-1f3fd.png
+  [270b-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b-1f3fd.png
   [270b-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b-1f3fd.svg
   [270b-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b-1f3fe.png
-  [270b-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b-1f3fe.png
+  [270b-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b-1f3fe.png
   [270b-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b-1f3fe.svg
   [270b-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b-1f3ff.png
-  [270b-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b-1f3ff.png
+  [270b-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b-1f3ff.png
   [270b-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b-1f3ff.svg
   [270b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270b.png
-  [270b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270b.png
+  [270b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270b.png
   [270b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270b.svg
   [270c-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c-1f3fb.png
-  [270c-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c-1f3fb.png
+  [270c-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c-1f3fb.png
   [270c-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c-1f3fb.svg
   [270c-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c-1f3fc.png
-  [270c-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c-1f3fc.png
+  [270c-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c-1f3fc.png
   [270c-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c-1f3fc.svg
   [270c-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c-1f3fd.png
-  [270c-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c-1f3fd.png
+  [270c-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c-1f3fd.png
   [270c-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c-1f3fd.svg
   [270c-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c-1f3fe.png
-  [270c-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c-1f3fe.png
+  [270c-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c-1f3fe.png
   [270c-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c-1f3fe.svg
   [270c-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c-1f3ff.png
-  [270c-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c-1f3ff.png
+  [270c-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c-1f3ff.png
   [270c-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c-1f3ff.svg
   [270c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270c.png
-  [270c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270c.png
+  [270c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270c.png
   [270c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270c.svg
   [270d-1f3fb.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d-1f3fb.png
-  [270d-1f3fb.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d-1f3fb.png
+  [270d-1f3fb.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d-1f3fb.png
   [270d-1f3fb.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d-1f3fb.svg
   [270d-1f3fc.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d-1f3fc.png
-  [270d-1f3fc.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d-1f3fc.png
+  [270d-1f3fc.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d-1f3fc.png
   [270d-1f3fc.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d-1f3fc.svg
   [270d-1f3fd.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d-1f3fd.png
-  [270d-1f3fd.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d-1f3fd.png
+  [270d-1f3fd.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d-1f3fd.png
   [270d-1f3fd.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d-1f3fd.svg
   [270d-1f3fe.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d-1f3fe.png
-  [270d-1f3fe.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d-1f3fe.png
+  [270d-1f3fe.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d-1f3fe.png
   [270d-1f3fe.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d-1f3fe.svg
   [270d-1f3ff.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d-1f3ff.png
-  [270d-1f3ff.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d-1f3ff.png
+  [270d-1f3ff.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d-1f3ff.png
   [270d-1f3ff.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d-1f3ff.svg
   [270d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270d.png
-  [270d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270d.png
+  [270d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270d.png
   [270d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270d.svg
   [270e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270e.png
-  [270e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270e.png
+  [270e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270e.png
   [270e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270e.svg
   [270f.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/270f.png
-  [270f.png]: https://rawgit.com/emojitwo/emojitwo/master/png/270f.png
+  [270f.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/270f.png
   [270f.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/270f.svg
   [2710.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2710.png
-  [2710.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2710.png
+  [2710.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2710.png
   [2710.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2710.svg
   [2712.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2712.png
-  [2712.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2712.png
+  [2712.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2712.png
   [2712.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2712.svg
   [2714.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2714.png
-  [2714.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2714.png
+  [2714.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2714.png
   [2714.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2714.svg
   [2716.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2716.png
-  [2716.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2716.png
+  [2716.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2716.png
   [2716.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2716.svg
   [271d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/271d.png
-  [271d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/271d.png
+  [271d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/271d.png
   [271d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/271d.svg
   [2721.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2721.png
-  [2721.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2721.png
+  [2721.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2721.png
   [2721.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2721.svg
   [2728.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2728.png
-  [2728.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2728.png
+  [2728.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2728.png
   [2728.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2728.svg
   [2733.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2733.png
-  [2733.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2733.png
+  [2733.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2733.png
   [2733.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2733.svg
   [2734.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2734.png
-  [2734.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2734.png
+  [2734.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2734.png
   [2734.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2734.svg
   [2744.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2744.png
-  [2744.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2744.png
+  [2744.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2744.png
   [2744.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2744.svg
   [2747.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2747.png
-  [2747.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2747.png
+  [2747.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2747.png
   [2747.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2747.svg
   [274c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/274c.png
-  [274c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/274c.png
+  [274c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/274c.png
   [274c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/274c.svg
   [274e.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/274e.png
-  [274e.png]: https://rawgit.com/emojitwo/emojitwo/master/png/274e.png
+  [274e.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/274e.png
   [274e.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/274e.svg
   [2753.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2753.png
-  [2753.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2753.png
+  [2753.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2753.png
   [2753.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2753.svg
   [2754.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2754.png
-  [2754.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2754.png
+  [2754.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2754.png
   [2754.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2754.svg
   [2755.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2755.png
-  [2755.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2755.png
+  [2755.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2755.png
   [2755.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2755.svg
   [2757.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2757.png
-  [2757.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2757.png
+  [2757.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2757.png
   [2757.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2757.svg
   [2763.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2763.png
-  [2763.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2763.png
+  [2763.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2763.png
   [2763.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2763.svg
   [2764.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2764.png
-  [2764.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2764.png
+  [2764.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2764.png
   [2764.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2764.svg
   [2765.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2765.png
-  [2765.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2765.png
+  [2765.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2765.png
   [2765.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2765.svg
   [2795.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2795.png
-  [2795.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2795.png
+  [2795.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2795.png
   [2795.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2795.svg
   [2796.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2796.png
-  [2796.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2796.png
+  [2796.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2796.png
   [2796.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2796.svg
   [2797.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2797.png
-  [2797.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2797.png
+  [2797.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2797.png
   [2797.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2797.svg
   [27a1.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/27a1.png
-  [27a1.png]: https://rawgit.com/emojitwo/emojitwo/master/png/27a1.png
+  [27a1.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/27a1.png
   [27a1.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/27a1.svg
   [27b0.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/27b0.png
-  [27b0.png]: https://rawgit.com/emojitwo/emojitwo/master/png/27b0.png
+  [27b0.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/27b0.png
   [27b0.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/27b0.svg
   [27bf.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/27bf.png
-  [27bf.png]: https://rawgit.com/emojitwo/emojitwo/master/png/27bf.png
+  [27bf.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/27bf.png
   [27bf.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/27bf.svg
   [2934.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2934.png
-  [2934.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2934.png
+  [2934.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2934.png
   [2934.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2934.svg
   [2935.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2935.png
-  [2935.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2935.png
+  [2935.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2935.png
   [2935.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2935.svg
   [2b05.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b05.png
-  [2b05.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b05.png
+  [2b05.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b05.png
   [2b05.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b05.svg
   [2b06.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b06.png
-  [2b06.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b06.png
+  [2b06.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b06.png
   [2b06.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b06.svg
   [2b07.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b07.png
-  [2b07.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b07.png
+  [2b07.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b07.png
   [2b07.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b07.svg
   [2b1b.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b1b.png
-  [2b1b.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b1b.png
+  [2b1b.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b1b.png
   [2b1b.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b1b.svg
   [2b1c.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b1c.png
-  [2b1c.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b1c.png
+  [2b1c.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b1c.png
   [2b1c.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b1c.svg
   [2b50.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b50.png
-  [2b50.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b50.png
+  [2b50.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b50.png
   [2b50.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b50.svg
   [2b55.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b55.png
-  [2b55.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b55.png
+  [2b55.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b55.png
   [2b55.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b55.svg
   [2b95.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/2b95.png
-  [2b95.png]: https://rawgit.com/emojitwo/emojitwo/master/png/2b95.png
+  [2b95.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/2b95.png
   [2b95.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/2b95.svg
   [3030.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/3030.png
-  [3030.png]: https://rawgit.com/emojitwo/emojitwo/master/png/3030.png
+  [3030.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/3030.png
   [3030.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/3030.svg
   [303d.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/303d.png
-  [303d.png]: https://rawgit.com/emojitwo/emojitwo/master/png/303d.png
+  [303d.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/303d.png
   [303d.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/303d.svg
   [3297.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/3297.png
-  [3297.png]: https://rawgit.com/emojitwo/emojitwo/master/png/3297.png
+  [3297.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/3297.png
   [3297.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/3297.svg
   [3299.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/3299.png
-  [3299.png]: https://rawgit.com/emojitwo/emojitwo/master/png/3299.png
+  [3299.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/3299.png
   [3299.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/3299.svg
