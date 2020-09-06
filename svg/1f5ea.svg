@@ -1,87 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 64 64"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="1f5ea.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
-  <metadata
-     id="metadata12">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="27.778891"
-     inkscape:cy="17.07996"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <g
-     id="g840-3"
-     transform="matrix(0.66666667,0,0,0.66666667,21.636699,4.6398935)"
-     style="fill:#83bf4f;fill-opacity:1"
-     inkscape:transform-center-x="-20"
-     inkscape:transform-center-y="2.3333334">
-    <path
-       id="path2-6"
-       d="M 48.6,47.8 V 59 L 38.1,47.8 Z"
-       inkscape:connector-curvature="0"
-       style="fill:#83bf4f;fill-opacity:1" />
-    <ellipse
-       id="ellipse4-7"
-       ry="24"
-       rx="30"
-       cy="28"
-       cx="32"
-       style="fill:#83bf4f;fill-opacity:1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g transform="matrix(0.66666667,0,0,0.66666667,21.636699,4.6398935)" fill="#83bf4f">
+    <path d="M 48.6,47.8 V 59 L 38.1,47.8 Z" />
+    <ellipse ry="24" rx="30" cy="28" cx="32" />
   </g>
-  <g
-     id="g836"
-     transform="matrix(0.66666667,0,0,0.66666667,-0.5663023,17.164166)">
-    <path
-       id="path822"
-       d="M 48.6,47.8 V 59 L 38.1,47.8 Z"
-       transform="matrix(-1,0,0,1,64,0)"
-       inkscape:connector-curvature="0"
-       style="fill:#4fd1d9" />
-    <ellipse
-       id="ellipse824"
-       ry="24"
-       rx="30"
-       cy="28"
-       cx="32"
-       style="fill:#4fd1d9" />
+  <g transform="matrix(0.66666667,0,0,0.66666667,-0.5663023,17.164166)">
+    <path  d="M 48.6,47.8 V 59 L 38.1,47.8 Z" transform="matrix(-1,0,0,1,64,0)" fill="#4fd1d9" />
+    <ellipse ry="24" rx="30" cy="28" cx="32" fill="#4fd1d9" />
   </g>
-  <g
-     id="g895"
-     transform="translate(-96.592373,-11.033898)" />
 </svg>
