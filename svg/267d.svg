@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>Partially-Recycled Paper Symbol</title>
 	<circle cx="32" cy="32" r="30" fill="#d0d0d0"/>
 	<g transform="scale(0.8) translate(8,8)">
 		<path fill="#68963b" d="M16.2 58.1h14.2V41.7H10.3s-.7 5.7-.7 7.7c-.3 8.6 6.6 8.7 6.6 8.7"/>

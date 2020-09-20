@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>monorail</title>
     <path fill="#aab5bc" d="M2 34.2h60v5.6H2z"/>
     <path fill="#c5d0d8" d="M2 39.8h60v5.6H2z"/>
     <path fill="#dfecf4" d="M2 43.1h60v.9H2z"/>

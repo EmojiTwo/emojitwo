@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>framed picture</title>
     <path fill="#333" d="M2 4v56l30-28z"/>
     <path fill="#697277" d="M62 4H2l30 28z"/>
     <path fill="#333" d="M2 60h60L32 32z"/>

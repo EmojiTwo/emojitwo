@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>cityscape at dusk</title>
     <path fill="#fbbf67" d="M0 0h64v64H0z"/>
     <path fill="#f15744" d="M0 0h64v64H0z" opacity=".7"/>
     <path fill="#62727a" d="M48 45.7h16V64H44V49.7c0-2.2 1.8-4 4-4"/>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>person raising hand</title>
     <path fill="#ffb300" d="M27 2C12.5 2 4.6 11 4.6 22.9V60h44.8V22.9c0-17.7-12.1-17.4-12.1-17.4S36.4 2 27 2z"/>
     <path fill="#c28fef" d="M59.4 16.7H52s8 32.4-15 32.4V42H17.1v7.1C4.5 49.4 2 51.5 2 62h50c12.4-15 11.1-28 7.4-45.3"/>
     <g fill="#ffdd67">

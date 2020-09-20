@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>package</title>
     <path fill="#89664c" d="M32 64L0 44.8V19.2l32 19.2z"/>
     <path fill="#fed0ac" d="M32 38.4V64l32-19.2V19.2z"/>
     <path fill="#d3976e" d="M0 19.2l32 19.2 32-19.2L32 0z"/>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>sailboat</title>
     <!--path fill="#42ade2" d="M0 48h64v16H0z"/-->
     <g fill="#3e4347">
         <path d="M31.5 2h1v10h-1zM57 59H16l-2-2s16.7-3.2 43 2"/>

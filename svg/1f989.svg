@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>owl</title>
     <g fill="#c7e755">
         <ellipse cx="32" cy="33.5" rx="22.3" ry="25.9"/>
         <path d="M52 43.5H12l20-27.4z"/>

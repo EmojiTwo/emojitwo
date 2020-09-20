@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>foggy</title>
     <path fill="#b4d7ee" d="M0 0h64v64H0z"/>
     <g fill="#dae3ea">
         <path d="M19.7 6.4c0 .8-.7 1.5-1.5 1.5H5.3c-.8 0-1.5-.7-1.5-1.5s.7-1.5 1.5-1.5h12.9c.8 0 1.5.7 1.5 1.5"/>

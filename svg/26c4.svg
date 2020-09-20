@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>snowman without snow</title>
     <circle cx="31.9" cy="45" r="17" fill="#d0d0d0"/>
     <path fill="#fff" d="M31.9 30c-8.3 0-15 6.7-15 15s6.7 15 15 15 15-6.7 15-15-6.7-15-15-15"/>
     <circle cx="31.9" cy="25.5" r="13" fill="#d0d0d0"/>

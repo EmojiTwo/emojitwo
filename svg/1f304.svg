@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>sunrise over mountains</title>
     <path fill="#f2b200" d="M0 0h64v64H0z"/>
     <g fill="#ffdf99">
         <circle cx="32" cy="32" r="10.7"/>

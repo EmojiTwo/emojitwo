@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>milky way</title>
     <path fill="#3f3261" d="M0 0h64v46H0z"/>
     <path fill="#42ade2" d="M0 46h64v10H0z"/>
     <path fill="#296d8f" d="M0 34h64v1H0z"/>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>hugging face</title>
     <circle cx="32" cy="30" r="28" fill="#ffdd67"/>
     <g fill="#ff717f">
         <ellipse cx="49.9" cy="21.5" opacity=".8" rx="6.1" ry="8.4" transform="rotate(-75.001 49.952 21.545)"/>

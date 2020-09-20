@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>passport control</title>
 	<path fill="#0071bc" d="M62 52c0 5.5-4.5 10-10 10H12C6.5 62 2 57.5 2 52V12C2 6.5 6.5 2 12 2h40c5.5 0 10 4.5 10 10v40z"/>
 	<g fill="#fff">
 		<path d="M34.3 23c0 4.8 9.6 4.8 9.6 0v-4.8h-9.6l-3.8 2.9h3.8V23M43.8 17.3v-3.8H33.3l1 3.8zM24.6 25.6l-10.3-2.2v9.9l10.3 2.1zM24.6 19.1l-10.3 2.1 10.3 2.2z"/>

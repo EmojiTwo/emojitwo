@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>envelope with arrow</title>
     <g fill="#b0bdc6">
         <path d="M.6 52.6L19.1 33 4.9 12.3c-.7.9-1.2 2.2-1.3 3.5L0 48.9c-.1 1.4.1 2.7.6 3.7M62.7 8.8L35.9 34 57 62.9c1.2-1 2-2.5 2.2-4.4L64 13.4c.2-1.9-.4-3.5-1.3-4.6"/>
     </g>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>mobile phone off</title>
     <circle cx="32" cy="32" r="30" fill="#eda454"/>
     <g fill="#fff">
         <path d="M32 37c-2.8 0-5-2.2-5-5s2.2-5 5-5 5 2.2 5 5-2.2 5-5 5m0-8.6c-2 0-3.6 1.6-3.6 3.6s1.6 3.6 3.6 3.6 3.6-1.6 3.6-3.6-1.6-3.6-3.6-3.6M39.5 37v-4.3H46v-1.4h-6.5v-2.9H46V27h-8v10zM48.5 37v-4.3H55v-1.4h-6.5v-2.9H55V27h-8v10z"/>

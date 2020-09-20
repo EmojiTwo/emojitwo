@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>bed</title>
 	<g id="frame" fill="#3e4347">
 		<path d="M6 55c0 .5-.4 1-1 1H3c-.5 0-1-.5-1-1V13c0-.6.5-1 1-1h2c.6 0 1 .4 1 1v42"/>
 		<path d="M5 55.3h4V62H5zM55 55.3h4V62h-4z"/>

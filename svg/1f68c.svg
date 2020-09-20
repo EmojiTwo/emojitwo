@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>bus</title>
     <path fill="#c5d0d8" d="M62 37.6l-60 2V23.5c0-2.6 2.1-4.7 4.7-4.7h50.6c2.6 0 4.7 2.1 4.7 4.7v14.1"/>
     <path fill="#3e4347" d="M60.1 39.5H3.9v-14c0-2.6 2.1-4.7 4.7-4.7h46.9c2.6 0 4.7 2.1 4.7 4.7l-.1 14"/>
     <path fill="#c5d0d8" d="M2 38.7v11.5h60V36.6H21.7z"/>

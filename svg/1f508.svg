@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <title>speaker low volume</title>
     <path id="a" fill="#8b979e" d="M11.1 45H3.8C1.7 45 0 43.4 0 41.5v-19c0-2 1.7-3.5 3.8-3.5h7.3v26z"/>
     <use xlink:href="#a"/>
     <path fill="#b0bdc6" d="M29.8 2.2C31.1.9 11.1 19 11.1 19v26s10.3 7.9 18.7 16.8V2.2z"/>

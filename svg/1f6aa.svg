@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>door</title>
     <path fill="#89664c" d="M3 29v32h58V29C61-10 3-9.4 3 29z"/>
     <path fill="#594640" d="M7.2 31.2V61h49.5V31.2C56.8-5 7.2-4.5 7.2 31.2z"/>
     <path fill="#a37d64" d="M8 31.7V61h48V31.7c0-35.8-48-35.2-48 0z"/>

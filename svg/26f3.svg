@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>flag in hole</title>
     <ellipse cx="32" cy="49.7" fill="#97b113" rx="30" ry="12.3"/>
     <path fill="#1e1e1e" d="M28 47s3-6.6 5.6-9.6h-.9S28 43.1 26 46.7l2 .3" opacity=".3"/>
     <ellipse cx="26.6" cy="50.3" fill="#c7c7c7" rx="8.7" ry="3.7"/>

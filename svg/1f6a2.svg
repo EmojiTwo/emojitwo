@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>ship</title>
 	<g transform="scale(-1,1) translate(-64,0)">
 		<path fill="#c94747" d="M21.2 23.8l-4.6 1.5v1.6l4.6-1.3z"/>
 		<path fill="#3e4347" d="M21.2 25.6l-4.6 1.3v1.8l4.6-1.3z"/>

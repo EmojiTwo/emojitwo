@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>control knobs</title>
     <circle cx="30.3" cy="36.7" r="23.1" fill="#7d8993"/>
     <circle cx="30.3" cy="38.3" r="20.2" fill="#5b636b"/>
     <path fill="#fff" d="M31.6 33.7c0 .8-.6 1.4-1.4 1.4-.8 0-1.4-.6-1.4-1.4V18.4c0-.8.6-1.4 1.4-1.4.8 0 1.4.6 1.4 1.4v15.3"/>

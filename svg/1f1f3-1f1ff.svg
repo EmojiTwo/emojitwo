@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>flag: New Zealand</title>
     <path fill="#2a5f9e" d="M32 2v10H12v20H2c0 16.6 13.4 30 30 30s30-13.4 30-30S48.6 2 32 2z"/>
     <g fill="#fff">
         <path d="M14 8C6.7 13.5 2 22.2 2 32h12V8z"/>
