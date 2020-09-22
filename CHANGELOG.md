@@ -38,7 +38,7 @@ Microsoft, LG and Samsung have emoji glyphs for several Unicode characters that 
 
 ### Others
 
-+ Flag for deprecated region code `SU`: [![U+1F1F8+1F1FA &#x1f1f8;&#x1f1fa](https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png)](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg)
++ Flag for deprecated region code `SU`: [![U+1F1F8+1F1FA &#x1f1f8;&#x1f1fa](https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png)](https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg)
 
 Changed emojis
 --------------
@@ -53,8 +53,8 @@ Removed emojis
 ____
 
   [UTS#51]: http://unicode.org/reports/tr51/
-  [1f946.png]:  https://rawgit.com/emojitwo/emojitwo/master/png/1f946.png
+  [1f946.png]:  https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f946.png
   [1f946.svg]:  https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f946.svg
-  [SU.png]: https://rawgit.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png
+  [SU.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/1f1f8-1f1fa.png
   [SU.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/1f1f8-1f1fa.svg
   
