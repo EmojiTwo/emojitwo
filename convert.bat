@@ -15,7 +15,7 @@ if "%1" == "" (
 for %%i in (%~1) do (
 	echo. * [U+%%i ![^&#x%%i;][%%i.png]][%%i.svg] ![][%%i.e1] >> changes.md
 	echo.[%%i.e1]: https://rawgit.com/emojione/emojione/2.2.7/assets/png/%%i.png >> changes.md
-	echo.[%%i.png]: https://rawgit.com/emojitwo/emojitwo/master/png/%%i.png >> changes.md
+	echo.[%%i.png]: https://raw.githubusercontent.com/emojitwo/emojitwo/master/png/%%i.png >> changes.md
 	echo.[%%i.svg]: https://github.com/EmojiTwo/emojitwo/blob/master/svg/%%i.svg >> changes.md
 	if "%2" == "skin" (
 		echo Converting svg\%%~ni.svg and its skin tone variants to optimized PNGs ...
