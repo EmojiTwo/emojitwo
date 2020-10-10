@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>snowman without snow, bust in silhouette</title>
 	<g transform="scale(1.65) translate(-12.55,-1)">
 		<circle id="head-back" cx="31.9" cy="25.5" r="13" fill="#d0d0d0"/>
 		<path id="head" fill="#fff" d="M31.9 14.5c-6.1 0-11 4.9-11 11s4.9 11 11 11 11-4.9 11-11c0-6-4.9-11-11-11"/>

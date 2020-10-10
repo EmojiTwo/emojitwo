@@ -70,7 +70,7 @@ for i in os.listdir("svg"):
                 if name in svgpresattrs:
                     print(i, "attributising", name)
                     changed = True
-                    element.setAttribute(name, val)
+                    element.setAttribute(name.strip(), val.strip())
                 elif "inkscape" in name:
                     print(i, "removing", name)
                     changed = True
