@@ -100,6 +100,10 @@ for i in os.listdir("svg"):
                 print(i, "removing", attr)
                 changed = True
                 element.removeAttribute("version")
+            elif attr == "fill-opacity" and element.getAttribute("fill-opacity") == "1":
+                print(i, "removing", attr)
+                changed = True
+                element.removeAttribute("fill-opacity")
         if element.hasAttribute("stroke"):
             print(i, "has stroke")
         if element.hasAttribute("id"):
