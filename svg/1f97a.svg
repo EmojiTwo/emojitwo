@@ -14,7 +14,7 @@
     <circle r="6" cy="31" cx="19" fill="#664e27"/>
     <g fill="#ffffff">
       <ellipse ry="3.2" rx="2.8" cy="35.5" cx="20.6"/>
-      <ellipse id="ellipse22" ry="1.9" rx="1.6" cy="31" cx="16.799999"/>
+      <ellipse ry="1.9" rx="1.6" cy="31" cx="16.799999"/>
     </g>
   </g>
   <g transform="translate(0,-1.5805903)">
