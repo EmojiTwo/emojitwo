@@ -30,7 +30,10 @@ def get_cldrname(ucs):
     if len(ucs) > 1:
         n = [get_cldrname(i) for i in ucs]
         if None not in n:
-            return ", ".join(n)
+            ret = ", ".join(n)
+            if ret.endswith("skin tone"):
+                ret = ":".join(ret.rsplit(",", 1))
+            return ret
     return None
 
 dat = ast.literal_eval(open("BlendedEmojiData.txt").read())
