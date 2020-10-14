@@ -2,7 +2,7 @@
 # -*- mode: python; coding: utf-8 -*-
 # By HarJIT in 2020. MIT/Expat licence.
 
-import ast, os, xml.dom.minidom, unicodedata, shutil
+import os, xml.dom.minidom, unicodedata, shutil, glob
 
 cldrnames = {}
 _document = xml.dom.minidom.parse("CLDR/annotations/en.xml")
@@ -36,58 +36,13 @@ def get_cldrname(ucs):
             return ret
     return None
 
-dat = ast.literal_eval(open("BlendedEmojiData.txt").read())
-sumps = {
-    # Properties: ([presents…], [absents…])
-    "ID.DoCoMo": ([], []),
-    "ID.au": ([], []),
-    "ID.SoftBank": ([], []),
-    "SBCS.Webdings": ([], []),
-    "SBCS.Wingdings_1": ([], []),
-    "SBCS.Wingdings_2": ([], []),
-    "SBCS.Wingdings_3": ([], []),
-    "SBCS.ZapfDingbats": ([], []),
-    "JIS.ARIB": ([], []),
-    "JIS.2004": ([], []),
-    "MBCS_EUC.Wansung": ([], []),
-    "MBCS_EUC.KPS": ([], []),
-}
-# May be lower than the sum due to overlap between sets
-total_present = []
-total_wanted = []
-
-for i in dat:
-    for key in ("UCS.Standard", "UCS.PUA.SoftBank", "UCS.PUA.Google", "UCS.PUA.au.web", "UCS.PUA.DoCoMo"):
-        if key in dat[i]:
-            j = dat[i][key].replace("\u200d", "").replace("\ufe0f", "")
-            k = "svg/{}.svg".format("-".join("{:04x}".format(ord(m)) for m in j))
-            if os.path.exists(k):
-                for m in sumps:
-                    if m in dat[i]:
-                        sumps[m][0].append(dat[i]) # present
-                total_present.append(dat[i])
-                break
-    else: # i.e. didn't encounter break
-        j = i.replace("\u200d", "").replace("\ufe0f", "")
-        k = "svg/{}.svg".format("-".join("{:04x}".format(ord(m)) for m in j))
-        print(k, i)
-        for m in sumps:
-            if m in dat[i]:
-                sumps[m][1].append(dat[i]) # absent
-        total_wanted.append(dat[i])
-
-print()
-for i in sumps:
-    print("{}: {:d} present, {:d} wanted: ".format(i, len(sumps[i][0]), len(sumps[i][1])),
-            *(j["UCS.Standard"] for j in sumps[i][1] if "UCS.Standard" in j))
-print("Overall: {:d} present, {:d} wanted".format(len(total_present), len(total_wanted)))
-
 print("Sorting out names")
-for i in os.listdir("svg"):
+for pn in glob.glob("**/*.svg", recursive=True):
+    i = os.path.basename(pn)
     if "draft" in i.casefold():
         continue
-    ucs = "".join(chr(int(j, 16)) for j in os.path.splitext(i)[0].split("-"))
-    document = xml.dom.minidom.parse(os.path.join("svg", i))
+    ucs = "".join(chr(int(j, 16)) for j in os.path.splitext(i)[0].replace("-BW", "").split("-"))
+    document = xml.dom.minidom.parse(pn)
     cldrname = get_cldrname(ucs)
     if cldrname:
         if not document.getElementsByTagName("title"):
@@ -111,11 +66,11 @@ for i in os.listdir("svg"):
             print(comment)
             if title.lastChild.nodeName != "#comment": # i.e. if not already added.
                 title.appendChild(document.createComment(comment))
-        shutil.move(os.path.join("svg", i), os.path.join("svg", i) + "~")
-        with open(os.path.join("svg", i), "w") as f:
+        shutil.move(pn, pn + "~")
+        with open(pn, "w") as f:
             x = document.toxml().replace("<?xml version=\"1.0\" ?>", "")
             f.write(x)
-            os.unlink(os.path.join("svg", i) + "~")
+            os.unlink(pn + "~")
 
 
 
