@@ -38,6 +38,8 @@ def get_cldrname(ucs):
 
 print("Sorting out names")
 for pn in glob.glob("**/*.svg", recursive=True):
+    if "node_modules" in pn or "other" in pn or "sprites" in pn:
+        continue
     i = os.path.basename(pn)
     if "draft" in i.casefold():
         continue
