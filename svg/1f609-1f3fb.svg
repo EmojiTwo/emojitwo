@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <title>winking face</title>
+    <title>winking face: light skin tone</title>
 	<circle cx="32" cy="32" r="30" fill="#ffe1bd"/>
 	<g transform="scale(-1,1) translate(-64,0)">
 		<circle cx="22.3" cy="31.6" r="5" fill="#635849"/>
