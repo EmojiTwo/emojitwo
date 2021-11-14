@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>church</title>
     <path fill="#62727a" d="M63 62H1c-.5 0-1 .5-1 1s.5 1 1 1h62c.6 0 1-.5 1-1s-.4-1-1-1"/>
     <path fill="#d0d0d0" d="M60 62H4V44l28-12 28 12z"/>
     <g fill="#89664c">

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>light rail</title>
     <path fill="#94989b" d="M2 56.5h60V62H2z"/>
     <path fill="#62696d" d="M2 56.5h60v1.8H2z"/>
     <path fill="#dfecf4" d="M25.3 14C14.5 14 2 37.4 2 50.6c0 3.2 2.5 5.8 5.7 5.9H62V14H25.3z"/>

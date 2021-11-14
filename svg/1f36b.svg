@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>chocolate bar</title>
     <path fill="#b37b47" d="M15 4h8v8h-8z"/>
     <path fill="#a16745" d="M15 4l-2-2v12l2-2z"/>
     <path fill="#633f2c" d="M23 12l2 2V2l-2 2z"/>

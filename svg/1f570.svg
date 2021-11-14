@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>mantelpiece clock</title>
     <path fill="#594640" d="M60 40c-5 0-9-8-9-13 0-10-9-18-19-18s-19 8-19 18c0 5-4 13-9 13H0v13h64V40h-4z"/>
     <circle cx="32" cy="28" r="15" fill="#fed0ac"/>
     <g fill="#333">

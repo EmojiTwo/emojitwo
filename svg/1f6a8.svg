@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>police car light</title>
     <path fill="#3e4347" d="M9.3 52.5v4.2C9.3 59.1 19.5 61 32 61s22.7-1.9 22.7-4.2v-4.2l-45.4-.1"/>
     <path fill="#62696d" d="M12.8 52.5v4.2c0 2.3 8.6 4.2 19.2 4.2s19.2-1.9 19.2-4.2v-4.2H12.8"/>
     <path fill="#c94747" d="M54.7 52.5H9.3l5-25.1h35.4z"/>

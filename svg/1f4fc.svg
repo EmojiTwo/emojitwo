@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>videocassette</title>
     <path fill="#3e4347" d="M2 14v9c0 .5.5 1 1 1h58c.5 0 1-.5 1-1v-9H2"/>
     <path fill="#62727a" d="M60 24v-6H4v6H2v24c0 1.1.9 2 2 2h56c1.1 0 2-.9 2-2V24h-2"/>
     <path fill="#b2c1c0" d="M53 24H11c-2.2 0-4 4-4 9s1.8 9 4 9h42c2.2 0 4-4 4-9s-1.8-9-4-9"/>

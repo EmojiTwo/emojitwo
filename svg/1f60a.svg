@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>smiling face with smiling eyes</title>
     <circle cx="32" cy="32" r="30" fill="#ffdd67"/>
     <g fill="#ff717f">
         <circle cx="50.8" cy="36" r="8" opacity=".8"/>

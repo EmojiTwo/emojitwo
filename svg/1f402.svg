@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>ox</title>
     <path fill="#896349" d="M41.1 38.8c-.6-.9-1.6-1.5-2.8-1.5-1.9 0-3.4 1.5-3.4 3.4V53c0 1.9 1.5 3.4 3.4 3.4s3.4-1.5 3.4-3.4V40.6c0-.5-.2-1.2-.6-1.8"/>
     <path fill="#3e4347" d="M38.4 56.6c1.9 0 3.4-1.5 3.4-3.4H35c0 1.8 1.5 3.4 3.4 3.4"/>
     <path fill="none" stroke="#a87654" stroke-miterlimit="10" stroke-width="1.5" d="M42.6 30.5s10.3-2.6 15.6-9.6"/>

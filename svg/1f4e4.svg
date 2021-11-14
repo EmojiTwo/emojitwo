@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>outbox tray</title>
     <path fill="#89664c" d="M24.9 39v12.4L0 64V47.5z"/>
     <path fill="#b77e58" d="M24.9 39H64v12.3H24.9z"/>
     <path fill="#f2bc97" d="M24.9 51.4L0 64h53.5L64 51.4z"/>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>clamp</title>
     <path fill="#d0d0d0" d="M39.2 56.8h20.1v2.1H39.2z"/>
     <path fill="#3e4347" d="M46.5 44.8H52v4.5h-5.5z"/>
     <g fill="#94989b">

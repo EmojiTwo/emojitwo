@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>no smoking</title>
     <circle cx="32" cy="32" r="30" fill="#ff5a79"/>
     <circle cx="32" cy="32" r="24" fill="#fff"/>
     <path fill="#eda454" d="M12 32h15.4v8H12z"/>

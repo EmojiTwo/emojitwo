@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>fuel pump</title>
     <circle cx="26.8" cy="9" r="9" fill="#e8e8e8"/>
     <path fill="#b2c1c0" d="M41.8 25h-30c-.6 0-1 .5-1 1v3h32v-3c0-.5-.5-1-1-1"/>
     <path fill="#d33b23" d="M12.8 29h28v31h-28z"/>

@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <title>Right Speaker</title>
 <g transform="scale(-1,1) translate(-64,0)">
     <path id="a" fill="#8b979e" d="M11.1 45H3.8C1.7 45 0 43.4 0 41.5v-19c0-2 1.7-3.5 3.8-3.5h7.3v26z"/>
     <use xlink:href="#a"/>

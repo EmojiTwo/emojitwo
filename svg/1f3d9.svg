@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>cityscape</title>
     <path fill="#fbbf67" d="M49 30H36c-1.8 0-3 .9-3 2.7V64h20V34c0-2.2-1.8-4-4-4"/>
     <g fill="#d3976e">
         <path d="M36.2 35h-.4c-.4 0-.8.4-.8 1v28h2V36c0-.6-.4-1-.8-1M41.2 35h-.4c-.4 0-.8.4-.8 1v28h2V36c0-.6-.4-1-.8-1"/>

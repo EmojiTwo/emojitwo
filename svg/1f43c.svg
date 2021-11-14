@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>panda</title>
     <path fill="#3e4347" d="M62 14c0 6.6-5.4 12-12 12s-12-5.4-12-12S43.4 2 50 2s12 5.4 12 12"/>
     <ellipse cx="50" cy="14" fill="#555e63" rx="7.2" ry="7.2"/>
     <path fill="#3e4347" d="M26 14c0 6.6-5.4 12-12 12S2 20.6 2 14 7.4 2 14 2s12 5.4 12 12"/>

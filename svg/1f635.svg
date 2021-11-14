@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>dizzy face</title>
     <circle cx="32" cy="32" r="30" fill="#ffdd67"/>
     <g fill="#664e27">
         <path d="M28.6 19.8L16.5 32c-.8.8-3.6-2-2.8-2.8L25.9 17c.7-.7 3.5 2.1 2.7 2.8"/>

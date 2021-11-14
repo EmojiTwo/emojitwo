@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>unicorn</title>
     <path fill="#ff9c70" d="M2 2l4.4 5.9c.3-.6.7-1.2 1-1.9L2 2"/>
     <path fill="#ffe76e" d="M9.1 11.5c.7-.9 1.4-1.8 2-2.7L7.5 6.1c-.3.6-.7 1.2-1 1.9l2.6 3.5"/>
     <path fill="#d3ff75" d="M11.6 14.9l3.3-3.3-3.8-2.8c-.7.9-1.4 1.8-2 2.7l2.5 3.4"/>

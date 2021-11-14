@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>wind chime</title>
     <path fill="#6adbc6" d="M29.2 19.3C25.8 8.8 16 9.5 16 9.5s-9.8-.7-13.1 9.8C-.5 29.8 7.2 39.5 7.2 39.5c.1.6 4.2 1.1 9.2 1.1 5 0 9.1-.5 9.2-1.1 0 0 7-9.7 3.6-20.2"/>
     <g fill="#ed4c5c">
         <path d="M15.6 2h1v7.5h-1z"/>

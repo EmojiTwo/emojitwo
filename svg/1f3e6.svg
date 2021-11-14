@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>bank</title>
     <path fill="#4d4d4d" d="M9.5 31.5h45v24.9h-45z"/>
     <g fill="#acb8bf">
         <path d="M2 60.1h60V62H2zM9.5 56.4h45v1.9h-45zM17 52.6h30v1.9H17z"/>

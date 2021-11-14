@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>wastebasket</title>
     <path fill="#b1bcc4" d="M4.9 24.5l3.2 25.7C8.2 57.8 18.3 64 30.7 64c12.5 0 22.6-6.2 22.6-13.8l3.2-25.7H4.9"/>
     <g fill="#cad5dd">
         <path d="M9.1 24.5l2.7 25.7c0 7.6 8.5 13.8 18.9 13.8 10.5 0 18.9-6.2 18.9-13.8l2.7-25.7H9.1"/>

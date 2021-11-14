@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>pizza</title>
 	<g transform="rotate(90 32,32)">
 		<path fill="#f6da77" d="M62.3 47.1C62.2 22.7 41.5 2.1 17.1 2L2.3 62l60-14.9"/>
 		<path fill="#860d16" d="M54.5 49l2.1-.4c-1-19-14.6-38.9-41-40.9l-.3 2C35.5 12.3 52 28.7 54.5 49"/>

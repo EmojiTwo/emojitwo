@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>desert</title>
     <path fill="#b4d7ee" d="M0 0h64v64H0z"/>
     <path fill="#f9f3d9" d="M64 27s-11.9-3-16-3-10.8 3-16 3c-4.3 0-11.7-4-16-4-4.8 0-16 1-16 1v25h64V27"/>
     <path fill="#ffdd7d" d="M0 34.7S16 29 32 29c8 0 32 7.5 32 7.5V64H0V34.7z"/>

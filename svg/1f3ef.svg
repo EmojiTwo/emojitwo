@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>Japanese castle</title>
     <path fill="#b2c1c0" d="M56 48H8L0 64h64z"/>
     <g fill="#f9f3d9">
         <path d="M8 40h48v8H8zM13 24h38v8H13zM18 8h28v8H18z"/>

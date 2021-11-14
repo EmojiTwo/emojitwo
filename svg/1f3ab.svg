@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>ticket</title>
     <path fill="#fbbf67" d="M58 32c0-3.3 1.8-6 4-6v-9H38.3c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5H2v9c2.2 0 4 2.7 4 6s-1.8 6-4 6v9h33.4c0-.8.7-1.5 1.5-1.5s1.5.7 1.5 1.5H62v-9c-2.2 0-4-2.7-4-6"/>
     <path fill="#ed4c5c" d="M7 19h50v26H7z"/>
     <path fill="#fbbf67" d="M8 20h48v24H8z"/>

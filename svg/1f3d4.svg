@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>snow-capped mountain</title>
     <path fill="#b4d7ee" d="M0 0h64v64H0z"/>
     <g fill="#62727a">
         <path d="M64 33.6l-13 2.6-9-4.7-29.8 4.9-12.2-3v30.1h64z" opacity=".33"/>

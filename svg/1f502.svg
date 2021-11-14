@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>repeat single button</title>
     <circle cx="32" cy="32" r="30" fill="#4fd1d9"/>
     <g fill="#fff">
         <path d="M47.3 23.7L36 17v3.8H24.4c-2.8 0-5.4 1.1-7.4 3.1s-3 4.8-3 7.6c0 1.2.2 2.3.5 3.4.2-.3.5-.7.8-1 .7-.8 1.6-1.4 2.6-1.8.6-.2 1.2-.4 1.8-.5v-.1c0-2.7 2.1-4.9 4.7-4.9H36v3.8l11.3-6.7"/>

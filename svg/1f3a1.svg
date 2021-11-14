@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+    <title>ferris wheel</title>
     <path fill="#d0d0d0" d="M32 2C18.2 2 7 13.2 7 27s11.2 25 25 25 25-11.2 25-25S45.8 2 32 2m0 47c-12.1 0-22-9.8-22-22S19.9 5 32 5s22 9.9 22 22-9.8 22-22 22"/>
     <path id="b" fill="#d0d0d0" d="M8 26h48v2H8z"/>
     <path id="a" fill="#d0d0d0" d="M31 3h2v48h-2z"/>
