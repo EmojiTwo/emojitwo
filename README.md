@@ -11,7 +11,7 @@ The artwork of the second generation of the web's first complete open source emo
 **We need help** from graphic designers to make more glyphs! 
 See the [milestones](https://github.com/EmojiTwo/emojitwo/milestones), [projects](https://github.com/EmojiTwo/emojitwo/projects) and especially the issues tagged [`character artwork`](https://github.com/EmojiTwo/emojitwo/labels/character%20artwork) for details. 
 Do not be afraid to ask for assistance, also boldly send pull requests. 
-Every year Uniucode aims to release a couple dozen new emojis. 
+Every year Unicode aims to release a couple dozen new emojis. 
 Some of them come with gender and skin tone variants, but at least the latter can be generated automatically.
 
 ## Differences between Emojitwo and Emojione 2.x
