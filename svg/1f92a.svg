@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="1f92a.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.046875"
+     inkscape:cx="32"
+     inkscape:cy="31.916991"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <title
+     id="title1">zany face</title>
+  <circle
+     cx="32"
+     cy="32"
+     r="30"
+     fill="#ffdd67"
+     id="circle1" />
+  <path
+     fill="#664e27"
+     d="M49.7 34.4c-.4-.5-1.1-.4-1.9-.4H16.2c-.8 0-1.5-.1-1.9.4C10.4 39.4 15 54 32 54s21.6-14.6 17.7-19.6"
+     id="path1" />
+  <path
+     fill="#4c3526"
+     d="M33.8 41.7c-.6 0-1.5.5-1.1 2 .2.7 1.2 1.6 1.2 2.8 0 2.4-3.8 2.4-3.8 0 0-1.2 1-2 1.2-2.8.3-1.4-.6-2-1.1-2-1.6 0-4.1 1.7-4.1 4.6 0 3.2 2.7 5.8 6 5.8s6-2.6 6-5.8c-.1-2.8-2.7-4.5-4.3-4.6"
+     id="path2" />
+  <path
+     fill="#ff717f"
+     d="M24.3 50.7c2.2 1 4.8 1.5 7.7 1.5 2.9 0 5.5-.6 7.7-1.5C37.6 49.6 35 49 32 49s-5.6.6-7.7 1.7"
+     id="path3" />
+  <path
+     fill="#fff"
+     d="M47 36H17.1c-2.1 0-2.1 4-.1 4h30c2 0 2-4 0-4"
+     id="path4" />
+  <g
+     fill="#664e27"
+     id="g5">
+    <circle
+       cx="20.5"
+       cy="23"
+       r="5"
+       id="circle4"
+       style="fill:#ffffff;fill-opacity:1" />
+    <ellipse
+       cx="20.378729"
+       cy="23.044649"
+       id="circle4-7"
+       rx="3.0907912"
+       ry="3.1322956"
+       style="stroke-width:0.622295" />
+    <ellipse
+       cx="43.496761"
+       cy="22.536964"
+       id="circle5-4"
+       rx="9.6900129"
+       ry="10.063554"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.975" />
+    <ellipse
+       cx="43.749027"
+       cy="23"
+       id="circle5"
+       rx="3.920882"
+       ry="3.7548637"
+       style="stroke-width:0.767395" />
+  </g>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>zany face</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
