@@ -161,3 +161,6 @@ We sincerely hope that you choose to use Emojitwo and support our project, but i
 * [Google Noto Emoji (SVG/PNG)](https://github.com/googlei18n/noto-emoji/) (Apache License 2.0)
   * [Blobmoji (SVG/PNG)](https://github.com/c1710/blobmoji) (Apache License 2.0), a maintained fork of the pre-2017 Noto style
 * [Emojidex (SVG)](https://github.com/emojidex/emojidex-vectors)/[(PNG)](https://github.com/emojidex/emojidex-rasters) (custom license)
+
+# U10
+Adds Support For 😷 🤟🏻 🤟🏼 🤟🏽 🤟🏾 🤟🏿 🤟 🤣 🤨 🤪 🤫 🤬 🤭 🤮 🤯 🧐
