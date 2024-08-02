@@ -164,3 +164,5 @@ We sincerely hope that you choose to use Emojitwo and support our project, but i
 
 # U10
 Adds Support For 😷 🤟🏻 🤟🏼 🤟🏽 🤟🏾 🤟🏿 🤟 🤣 🤨 🤪 🤫 🤬 🤭 🤮 🤯 🧐
+# E4
+Adds Support For 👱‍♀️ 🙍‍♂️ 🙎‍♂️ 🙅‍♂️ 🙆‍♂️ 🤨 🥟 🥠 🥡 🥢
