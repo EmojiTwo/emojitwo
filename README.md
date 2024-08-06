@@ -164,4 +164,4 @@ We sincerely hope that you choose to use Emojitwo and support our project, but i
 
 # Unicode 10
 
-Adds Support For 🇺🇳 👿 😈 🤟 🤟🏻 🤟🏼 🤟🏽 🤟🏾 🤟🏿 🤣 🤨 🤩 🤪 🤫 🤬 🤭 🤮 🤯 🤲 🤲🏻 🤲🏼 🤲🏽 🤲🏾 🤲🏿 🧐 🧛 🧟 🧡
+Adds Support For 🇺🇳 👿 😈 🤟 🤟🏻 🤟🏼 🤟🏽 🤟🏾 🤟🏿 🤣 🤨 🤩 🤪 🤫 🤬 🤭 🤮 🤯 🤲 🤲🏻 🤲🏼 🤲🏽 🤲🏾 🤲🏿 🥟 🥠 🥡 🥢 🧐 🧛 🧟 🧡
