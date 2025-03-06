@@ -1,2 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" enable-background="new 0 0 64 64">
-    <path d="m32 2c-16.568 0-30 13.432-30 30s13.432 30 30 30 30-13.432 30-30-13.432-30-30-30m17.998 32h-14.553c-.349.601-.845 1.096-1.445 1.445v2.555h-4v-2.555c-.601-.35-1.096-.846-1.445-1.445h-2.553l-.002-4h2.555c.35-.6.845-1.096 1.445-1.445v-22.555h4v22.555c.601.35 1.097.845 1.445 1.445h14.555l-.002 4"/><circle cx="32" cy="32" r="3"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xml:space="preserve"
+   enable-background="new 0 0 24 24"
+   viewBox="0 0 24 24"
+   height="24px"
+   width="24px"
+   y="0px"
+   x="0px"
+   id="Слой_1"
+   version="1.1"><metadata
+     id="metadata8433"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs8431" /><g
+     id="g8421"><path
+       id="polygon8423"
+       d="M 13,4 11,4 10.999,11 9,11 l 0,2 2,0 0,2 2,0 0,-2 4,0 0,-2 -4,0 z"
+       style="fill:#000000;fill-opacity:1" /><g
+       id="g8425"><path
+         style="fill:#000000;fill-opacity:1"
+         id="path8427"
+         d="M12,0C5.373,0,0,5.373,0,12s5.373,12,12,12s12-5.373,12-12S18.627,0,12,0 M12,22C6.486,22,2,17.514,2,12    S6.486,2,12,2s10,4.486,10,10S17.514,22,12,22"
+         fill="#010202" /></g></g></svg>

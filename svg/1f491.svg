@@ -1,85 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 64 64"
-   version="1.1"
-   id="svg9"
-   sodipodi:docname="1f491.svg"
-   xml:space="preserve"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs9" /><sodipodi:namedview
-     id="namedview9"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="12.046875"
-     inkscape:cx="31.958495"
-     inkscape:cy="32"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg9" /><title
-     id="title1">couple with heart</title><path
-     fill="#ff5a79"
-     d="M46.5 7.1C43.3-1.4 33 2.4 32 6.6c-1.3-4.5-11.4-7.9-14.5.4C14 16.3 30.8 24.6 32 26c1.2-1.1 18-9.8 14.5-18.9"
-     id="path9" /><g
-     id="g9"
-     transform="matrix(0.50332901,0,0,0.47980977,1.1178556,23.784868)"
-     style="display:inline"><circle
-       cx="32"
-       cy="32"
-       r="30"
-       fill="#ffdd67"
-       id="circle1" /><g
-       fill="#664e27"
-       id="g3"><circle
-         cx="20.5"
-         cy="24.5"
-         r="5"
-         id="circle2" /><circle
-         cx="43.5"
-         cy="24.5"
-         r="5"
-         id="circle3" /><path
-         d="m 49,38 c 0,-0.8 -0.5,-1.8 -1.8,-2.1 -3.5,-0.7 -8.6,-1.3 -15.2,-1.3 -6.6,0 -11.7,0.7 -15.2,1.3 -1.3,0.3 -1.8,1.3 -1.8,2.1 0,7.3 5.6,14.6 17,14.6 11.4,0 17,-7.3 17,-14.6"
-         id="path3-2" /></g><path
-       fill="#ffffff"
-       d="m 44.7,38.3 c -2.2,-0.4 -6.8,-1 -12.7,-1 -5.9,0 -10.5,0.6 -12.7,1 -1.3,0.2 -1.4,0.7 -1.3,1.5 0.1,0.4 0.1,1 0.3,1.6 0.1,0.6 0.3,0.9 1.3,0.8 1.9,-0.2 23,-0.2 24.9,0 1,0.1 1.1,-0.2 1.3,-0.8 0.1,-0.6 0.2,-1.1 0.3,-1.6 0,-0.8 -0.1,-1.3 -1.4,-1.5"
-       id="path4-7" /></g><g
-     id="g10"
-     transform="matrix(0.48811068,0,0,0.47427583,31.363597,24.958063)"
-     style="display:inline"><circle
-       cx="32"
-       cy="32"
-       r="30"
-       fill="#ffdd67"
-       id="circle1-4" /><g
-       fill="#ff717f"
-       id="g3-0"><circle
-         cx="50.799999"
-         cy="36"
-         r="8"
-         opacity="0.8"
-         id="circle2-1" /><circle
-         cx="13.2"
-         cy="36"
-         r="8"
-         opacity="0.8"
-         id="circle3-0" /></g><g
-       fill="#664e27"
-       id="g5-6"><path
-         d="m 44.6,40.3 c -8.1,5.7 -17.1,5.6 -25.2,0 -1,-0.7 -1.8,0.5 -1.2,1.6 2.5,4 7.4,7.7 13.8,7.7 6.4,0 11.3,-3.6 13.8,-7.7 0.6,-1.1 -0.2,-2.3 -1.2,-1.6"
-         id="path3-3" /><path
-         d="m 28.5,26.9 c -1.9,-5.1 -4.7,-7.7 -7.5,-7.7 -2.8,0 -5.6,2.6 -7.5,7.7 -0.2,0.5 0.8,1.4 1.3,0.9 1.8,-1.9 4,-2.7 6.2,-2.7 2.2,0 4.4,0.8 6.2,2.7 0.6,0.5 1.5,-0.4 1.3,-0.9"
-         id="path4-71" /><path
-         d="m 50.4,26.9 c -1.9,-5.1 -4.7,-7.7 -7.5,-7.7 -2.8,0 -5.6,2.6 -7.5,7.7 -0.2,0.5 0.8,1.4 1.3,0.9 1.8,-1.9 4,-2.7 6.2,-2.7 2.2,0 4.4,0.8 6.2,2.7 0.5,0.5 1.5,-0.4 1.3,-0.9"
-         id="path5-7" /></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <title>couple with heart</title>
+    <path fill="#ffb300" d="M17 22C7.3 22 2 28.3 2 36.7v18.5h30V36.7c0-12.4-8.1-12.2-8.1-12.2S23.3 22 17 22z"/>
+    <path fill="#01579b" d="M32 54.8V62h30v-7.2c0-5.8-30-5.8-30 0"/>
+    <path fill="#c2185b" d="M2 54.8V62h30v-7.2c0-5.8-30-5.8-30 0"/>
+    <path fill="#ffdd67" d="M6.4 43.6s-2.2-.6-2.2-3.9c0-2.6 1.7-3.1 1.7-3.1 6 0 15.8-7.8 15.8-7.8s3.7 6.9 7.3 7.8c0 0 1.7.3 1.7 3.1 0 3.3-2.3 3.9-2.3 3.9 0 5-6.8 10-11 10-4 0-11-5-11-10"/>
+    <g fill="#937237">
+        <circle cx="12.1" cy="40.3" r="2.2"/>
+        <circle cx="22.9" cy="40.3" r="2.2"/>
+        <path d="M21.1 47.2c-2.3 1.8-4.9 1.8-7.2 0-.3-.2-.5.2-.3.5.7 1.3 2.1 2.4 3.9 2.4s3.2-1.1 3.9-2.4c.2-.4 0-.8-.3-.5"/>
+    </g>
+    <path fill="#ffb300" d="M31.9 37.3l1.5 2.8h26.2l1.1-2.9c0-10.6-2.5-15-14.1-15.1-11.8-.2-14.7 4.5-14.7 15.2"/>
+    <path fill="#ffdd67" d="M59.7 37.1c-.1.6-.2 1.2-.4 1.5-.3.6-.9.9-.9.9s.2-1.2.1-2.8c-.7-9.7-1.2-5.1-11.9-5.1-10.7 0-11.3-4.7-11.9 5-.1 1.7.1 2.8.1 2.8s-.6-.3-.9-.9c-.2-.3-.3-.9-.4-1.5-1-.3-2.3 0-2.3 2.9 0 1.8.7 3.3 2.9 3.5.8 6.1 8.9 10.1 12.6 10.1 3.6 0 11.8-4.1 12.6-10.1 2.2-.2 2.9-1.7 2.9-3.5-.2-2.8-1.5-3-2.5-2.8"/>
+    <g fill="#937237">
+        <circle cx="41" cy="40.3" r="2.2"/>
+        <circle cx="52" cy="40.3" r="2.2"/>
+        <path d="M50.1 47.2c-2.3 1.8-4.9 1.8-7.2 0-.3-.2-.5.2-.3.5.7 1.3 2.1 2.4 3.9 2.4s3.2-1.1 3.9-2.4c.2-.4 0-.8-.3-.5"/>
+    </g>
+    <path fill="#ff5a79" d="M46.5 7.1C43.3-1.4 33 2.4 32 6.6c-1.3-4.5-11.4-7.9-14.5.4C14 16.3 30.8 24.6 32 26c1.2-1.1 18-9.8 14.5-18.9"/>
+</svg>
